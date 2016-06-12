@@ -1,0 +1,803 @@
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+Collegian (2015) xxx, xxx—xxx
+
+Available online at www.sciencedirect.com
+
+ScienceDirect
+journal homepage: www.elsevier.com/locate/coll
+
+Nothing without vision! The views of
+consumers and mental health nurses about
+consumer involvement in mental health
+nursing education
+Brenda Happell, RN, RPN, BA (Hons), Dip Ed, B Ed, M Ed, PhD,
+FACMHN a,∗, Wanda Bennetts, Dip teaching (primary), B Ed.,
+Grad Dip Children’s Lit, Grad Dip TESOL, M Ed. b,1,
+Jenny Tohotoa, PhD, MSc (Mental Health) Grad Dip (Public
+Health/Sexology) BSc (Human Biology) c,2,
+Chris Platania-Phung, BA (Hons), Phd a, Dianne Wynaden, RN,
+BAppSc, Grad Dip HSc, MSc (HSc), PhD, FACMHN, CMHN c,3
+a
+
+Research Centre for Nursing and Midwifery Practice, University of Canberra, Faculty of Health, and ACT
+Health, Building 6, Level 3, Canberra Hospital, PO Box 11 WODEN, Australian Capital Territory 2606,
+Australia
+b
+Consumer, Carer and National Relations, Mental Health Branch, Mental Health, Wellbeing & Ageing
+Division, Department of Health, 50 Lonsdale Street, Melbourne, Victoria 3000, Australia
+c
+School of Nursing and Midwifery, School of Public Health and Curtin Health, Innovation Research Institute,
+Faculty of Health Sciences, Curtin University, GPO Box U1987, Perth, Western Australia 6845, Australia
+Received 13 November 2014; received in revised form 16 April 2015; accepted 18 April 2015
+
+KEYWORDS
+Capacity building;
+Consumer
+participation;
+Coproduction;
+
+Summary The active involvement of consumers in the education of nurses and other health
+professionals has been acknowledged as essential if Australian mental health policy goals to
+enhance consumer participation in all aspects of mental health services are to be realised.
+However, consumer participation has not become embedded in nurse education. A qualitative
+exploratory study was undertaken to gain perspectives from mental health nurse academics
+and consumer educators and academics. Telephone interviews were conducted with 34 nurse
+
+∗
+
+Corresponding author. Tel.: +61 02 62442333.
+E-mail addresses: brenda.happell@canberra.edu.au (B. Happell), wanda.bennetts@health.vic.gov.au (W. Bennetts),
+j.tohotoa@curtin.edu.au (J. Tohotoa), Chris.Platania-Phung@canberra.edu.au (C. Platania-Phung), d.wynaden@curtin.edu.au (D. Wynaden).
+1 Tel.: +61 03 9096 1395; fax: +61 03 9096 8726.
+2 Tel.: +61 0437037471; fax: +61 8 9266 2958.
+3 Tel.: +61 8 9266 2203; fax: +61 8 9266 2959; mobile: +61 0401103414.
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+1322-7696/© 2015 Australian College of Nursing Ltd. Published by Elsevier Ltd.
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+2
+
+B. Happell et al.
+academics and 12 consumer academics or educators. Data were analysed thematically. Two important themes to emerge from this work were: vision for the future; and building capacity. Most
+participants highly valued the contribution consumers made to the education process and had
+a desire to see this strengthen. A stronger vision was evident from consumer participants who
+sought expansion into all health professions and a more deﬁned process for communication and
+collegiality between consumer academics and educators. Closely tied to vision, was the issue
+of capacity building, and the need to provide supports to consumers as these are currently not
+readily available. Closer collaboration between nurses and consumers is necessary to ensure consumer participation is genuine and effective and promotes the development and articulation of
+their expertise and contribution to education.
+© 2015 Australian College of Nursing Ltd. Published by Elsevier Ltd.
+
+1. Introduction
+Involving consumers as genuine and active participants in
+the education of health professionals is not a new concept. In Australia, in the late 1990s Deakin University
+led the development of ‘‘Learning Together’’ including a
+framework for future discussion and debate on how to
+increase and sustain consumer involvement in the education
+of health professionals (Deakin University Human Services,
+1999). Consumer participation was found to be ad hoc,
+infrequent, and limited in scope (Deakin University Human
+Services, 1999). In the absence of a clear framework or
+guidelines for future consumer involvement in curriculum
+design, the intended beneﬁts of consumer focused care and
+cultural change in mental health services were unlikely to
+be achieved.
+The need for consumers to play a central role in
+the education of health professionals is emphasised in
+the ﬁrst version of the National Practice Standards for
+the Mental Health Workforce (Commonwealth of Australia,
+2002):
+Of key importance is the premise that any health
+professional entering the mental health workforce, or
+completing undergraduate or postgraduate mental health
+courses, should have the opportunity to be educated by
+mental health consumers, their family members and carers about their:
+• ‘Lived’ experiences of mental illness.
+• Requirements for adequate services and support.
+• Ability to work in partnership with mental health professionals (p. viii).
+Involving consumers in the education of health professionals has been recognised with the potential to positively
+inﬂuence the attitudes of health professionals to people
+with mental illness (Babu, Law-Win, Adlam, & Banks, 2008;
+Linden & Kavanagh, 2012; Repper & Breeze, 2007; Ross
+& Goldner, 2009; Terry, 2012). This inﬂuence is crucial
+in addressing the stigmatising and discriminatory attitudes frequently displayed by health professionals (Hansson,
+Jormfeldt, Svedberg, & Svensson, 2013; Linden & Kavanagh,
+2012; Mårtensson, Jacobsson, & Engström, 2014; Ross &
+Goldner, 2009). Meeting the aspirations for recovery-focused
+mental health services requires a movement away from the
+dominance of psychiatry and the medical model approach to
+
+treatment towards the focus on subjective well-being and
+recovery that developed from the consumer movement and
+the belief that mental illness was not necessarily life-long
+and persistent (Anthony, 1993; Davidson & Roe, 2007; Slade,
+2009).
+An audit of consumer involvement in nursing programs undertaken by the mental health nurse education
+taskforce (MHNET) identiﬁed increase in participation
+since the Deakin project. However, the inclusion of consumers remained limited, variable and ad hoc. (McCann,
+Moxham, Usher, Crookes, & Farrell, 2009). A more signiﬁcant increase in consumer participation was reported
+in a recent survey. Approximately 75% of undergraduate
+nursing and postgraduate mental health nursing programs
+were found to include consumer participation in some
+capacity (Happell, Platania-Phung et al., 2015). However,
+in the majority of cases this involved one or a small
+number of consumers involved in face to face teaching of between 1 and 4 h duration. There were few
+exemplars of consumers having active and genuine involvement in curriculum development, assessment and program
+evaluation. Two full time and one part time consumer academic positions have been implemented at two Australian
+universities.
+The ﬁrst known consumer academic position commenced
+in 2000 (Happell & Roper, 2002), with a positive evaluation (Happell, Pinikahana, & Roper, 2003; Happell & Roper,
+2003). Similar positions were subsequently developed in New
+Zealand (Schneebeli, O’Brien, Lampshire, & Hamer, 2010)
+and the United Kingdom (Simons et al., 2007) and were evaluated positively by academic staff and nursing students.
+However, positions of this kind have failed to proliferate.
+With limited consumer involvement in most instances, the
+impact is unlikely to reach the visionary goals that underpin
+this approach to education.
+A systematic review of the literature supports the view
+that consumer participation remains minimal and ad hoc
+internationally and across the disciplines (Happell et al.,
+2014; Perry, Watkins, Gilbert, & Rawlinson, 2013; Terry,
+2012; Townend, Tew, Grant, & Repper, 2008). Tokenism has
+been an unfortunate consequence (Forrest, Risk, Masters,
+& Brown, 2000; Hossack & Wall, 2005; Meehan & Glover,
+2007), with consumers frequently asked to tell their story
+of diagnosis and mental health service use, regardless of
+whether they feel this is the most appropriate way to
+educate students. Their capacity to inﬂuence the broader
+curriculum and mental health service culture and to
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+Consumer involvement in nursing education
+teach their speciﬁc content and expertise often remains
+limited.
+To enhance understanding of consumer participation
+in the education of nurses in Australia, an exploratory
+research study was undertaken with nurses and consumers
+involved in mental health nursing, to enable this ﬁrsthand experience to contribute to the future agenda. Vision
+for the future and capacity building are two themes to
+emerge from this work, and are the primary focus of this
+paper.
+
+2. Methods
+2.1. Approach
+This research was conducted in 2013 using a qualitative
+exploratory approach based on the work of Stebbens (2001).
+This approach is recognised as particularly relevant and
+appropriate where there is a paucity of research evident, necessary to underpin and guide other methodological
+approaches. A qualitative exploratory approach provides
+the environment for participants who have knowledge and
+expertise speciﬁcally related to the topic in question and are
+able to inform the research by sharing their perceptions and
+experiences.
+
+2.2. Setting and sample
+This was a national based Australian study of nurse academics at universities teaching nursing at pre-registration
+and/or post-registration level. Thirty-four of the 38
+Australian universities educating nurses participated
+in the study. There were two participants from some
+universities running both pre-registration and postregistration programs. Currently postgraduate specialist
+mental health nursing qualiﬁcations are not mandatory
+for practice in these settings, however for those nurses
+seeking formal recognition as a Mental Health Nurse
+(though credentialing by the Australian College of Mental
+Health Nurses), the postgraduate diploma is the minimum requirement to be recognised by the Australian
+College of Mental Health Nursing (Deacon & Cleary,
+2013).
+Participants included nurses and consumers with
+expertise in delivering or supporting the use of consumer perspectives within the teaching of nursing.
+Consumer participants had a range of different levels
+and types of involvement in the education of nurses
+within the university system. A total of 12 consumers
+participated, including those employed casually (n = 9)
+and those holding a designated academic position
+(n = 3).
+
+2.3. Recruitment
+2.3.1. Nurses
+An email was sent to Heads of Schools of Nursing in Australia
+informing them of the study and inviting them to participate. Those schools who agreed to participate were asked
+to provide the names and contact details for the coordinator of mental health nursing studies at undergraduate and
+postgraduate level. The mental health nursing staff were
+sent a copy of the plain language statement and consent
+form by email, once their details were received. Telephone
+
+3
+interviews were subsequently arranged with those willing
+to be involved.
+2.3.2. Consumers
+The process for identifying consumer participants was more
+difﬁcult and mental health nurse participants were asked to
+inform consumers who worked with them about the study
+and invite them to participate. The names and contact
+details of those who consented to being involved were then
+sent to the research team. Contact was then made, with
+consumers and they were sent an information sheet and
+given time to answer any questions they had. Telephone
+interviews were then arranged at a mutually convenient
+time.
+
+2.4. Procedure
+Interviews were conducted by telephone with participants
+in all states and territories of Australia as face to face
+interviews were physically and ﬁnancially impossible. With
+consent of participants interviews were audio-recorded.
+Two research assistants conducted the interviews. A mental health nurse with signiﬁcant experience in research
+roles conducted the nurse interviews. A very experienced
+researcher who identiﬁed as and has worked extensively
+from a consumer perspective, conducted the interviews with
+consumer participants.
+
+2.5. Ethical issues
+Prior to commencement of the research, ethics approval
+was granted from the university committees representing
+the research team. Participants were advised that participation was voluntary and they retained the right not to
+participate or to withdraw consent at any stage. Conﬁdentiality was guaranteed and participant numbers were used
+in place of names: NP (nurse participant) and CP (Consumer
+participant).
+
+2.6. Data analysis
+The verbatim transcripts of interviews were analysed thematically. This commenced with all transcripts being read
+and re-read to enable the team to become familiar with the
+data, leading to the development of themes and subthemes.
+A conceptual map of the identiﬁed themes was drawn and
+selected quotes representing main ideas were recorded. At
+this stage the data were analysed in detail for comprehension, synthesis, theorising and contextualising. A draft of
+themes and sub-themes was extensively examined by the
+team and negotiations were undertaken until agreement
+was obtained. Vision for the future and capacity building
+were two main themes and are the primary focus of this
+paper.
+
+3. Findings
+3.1. Vision for the future
+3.1.1. Consumers
+Participants contributed a plethora of ideas about how
+consumer involvement in the education ofnurses could be
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+4
+
+B. Happell et al.
+
+strengthened. Validation for consumer knowledge to be
+regarded as legitimate and essential in its own right, rather
+than as an adjunct to conventional course content was one
+participant’s vision:
+
+The vision for the future was not limited to teaching mental health nurses. Participants were keen to see a stronger
+vision of including consumers into all health professional
+education:
+
+My vision is where the mental health nurses and the
+consumer advocate, or the consumer educators have an
+equal standing. So the consumer educator advice and
+knowledge is just as valid as what it says in DSM-4, or
+I think it’s the DSM-5 now (CP 10).
+
+I’d like to see this across all disciplines at all the universities, and all the courses. I think it’s really, really
+important. . . (CP 8)
+
+Similarly, another participant described a vision of having
+consumers and nurses working together in education settings
+with consumers describing the lived experience of various
+mental illness diagnoses, for example:
+. . . some joint sessions with a clinician and a consumer,
+talking about how the partnership works . . . about how
+they work well together in that clinical relationship. . .
+it’s not really talked about anywhere else . . . if they’re
+going to talk about the different mental health problems,
+to have somebody living with each of the mental health
+problems to come in and talk about that lived experience
+(CP 8).
+Some participants described their desire to have a
+greater understanding of the curriculum as a whole, to
+enhance understanding of how the consumer component
+contributes to the bigger picture:
+I’d like to know a bit more about what . . . else they do
+in their course because I feel as if I — I’m just . . . an
+interruption to their course — — — (CP 3)
+Likewise, a full time consumer academic reﬂecting on
+her own experience of commencing in the role believed it
+would be beneﬁcial to have a greater understanding of the
+broader curriculum and other characteristics of the university environment in the early stages:
+. . . an orientation to the mental health team and where
+the [university’s] goals . . . and visions are . . . So a real orientation into the culture and vision that’s existing, rather
+than picking it up bit by bit. Just having that opportunity
+for someone to sit with you for half a day . . . and say, this
+is what we do here, this is who the players are, this is the
+type of research we focus on, these are areas we’d like to
+break into, these are our key opportunities and strengths,
+these are our areas of weakness that we probably need
+to grow in (CP 9).
+Participants also sought an expansion of roles in education extending beyond telling their story and other forms of
+teaching, to a more active involvement in the design and
+assessment of courses:
+I want them [consumers] involved in the curriculum
+design, in designing the assessment. I want to see consumers leading research around what works and showing
+the differences . . . We have research that comes from
+drug companies’ money that says that the medications
+that people are taking are effective. I’d like to see
+research that would either support or refute that . . .
+come and driven from consumers . . . And I’d like to see,
+as is happening in your work [work of the consumer interviewer] that recovery is really taught by people who have
+that lived experience, who are the people who really
+know that stuff, and not by others . . . (CP 4)
+
+3.1.2. Nurses
+The majority of participants did not have consumer academics on staff and when questioned about their vision for
+the future of consumers in mental health nursing education
+they were very positive about the concept.
+That’s part of social justice, introducing mental health
+nursing with a consumer perspective (NP12);
+We really need to be having more consumer
+involvement—from the ground up, in terms of both
+research and education (NP34).
+In keeping with consumers’ views of expanding the consumer role within the university, the following participant
+added:
+I would like to see is a more formalised input of consumers
+into curriculum delivery and key learnings and to teaching
+and assessments (NP15).
+The proposed scope for consumer involvement in the
+future was highlighted by another participant:
+We hope to have consumers involved in writing up the
+labs, involved in labs and debrieﬁng, so enriching every
+part of the curriculum (NP18).
+Enthusiasm for a consumer academic role to enhance
+teaching and learning was obvious from the following conversation:
+It’s how we [could] get messages across, how we [would]
+choose resources, how we [would] choose to evaluate,
+and then [be] teaching alongside; discussing in a very
+robust, dynamic way how we might use the skills of the
+academic and the consumer together (NP21).
+
+3.2. Building capacity
+3.2.1. Consumers
+The vision consumer participants held for future roles in the
+education of nurses and other health professionals was discussed in the broader issue of capacity building. There was
+a strong desire for capacity building in the future with the
+opportunity for collegiality and peer learning, rather than
+consumers working in solo roles as tends to be the case
+currently:
+. . . every single discipline ought to have access to a consumer teacher. Not a consumer teacher either but two or
+more consumer educators able to be known to each other
+as a group who can sustain each other . . .. Just having
+come from the service users academic conference . . . it
+was a real strong sense that there was a real energising
+of what was possible and that happens so easily just with
+that contact (CP 6)
+The experience of most participants had been in isolated
+roles with little if any opportunity for collegial exchange and
+peer support and interaction, for example one participant
+advocated:
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+Consumer involvement in nursing education
+Linking consumers to each other to do this type of work,
+‘cause it can be very isolating and you don’t know what
+other people have done . . . if you’re not linked into others
+. . . you’ve got to start from scratch . . . I’d like to see
+strategies where consumers could be linked together, or
+at least have a sense of what others are doing in the work
+. . . not ﬁnd out just by chance that somebody else is doing
+something (CP 4).
+Through networking, participants identiﬁed the opportunity to increase their access to resources, learn from
+others experience and the potential to produce materials
+that would enable the consumer content to be supported
+by relevant and appropriate materials, rather than trying to
+work around the health professional literature:
+Communication strategies would be good, so that there’s
+consistent people walking the talk. The reason we have
+people with lived experience is to have that integrity of
+recovery, yet we’re still drawing on a lot of texts and
+everything which come completely from a clinical perspective (CP 9)
+The limited number of people able to undertake consumer participation combined with the lack of investment
+in them and the resources to support them was identiﬁed as
+a problem in enabling genuine and meaningful contribution
+as partners rather than contributors:
+. . .there’s not enough of us but no one’s actually prepared
+to put the resources in and stop extracting our grey matter for their stuff . . . we’re in more demand . . . but I still
+believe that the resources haven’t been put into developing — giving us paid time so that our thinking is respected
+and we’ve got time to develop it with each other and to
+be brought in at that point where things are being thought
+about, not at the end when bits of our grey matter have
+been extracted (CP 6).
+
+3.3. Nurses
+Nurse participants did not speciﬁcally describe the need for
+capacity building, however they did refer to the limited
+availability of experienced consumer educators or academics with both the skills and the availability required to
+contribute to the education of nurses:
+Our experience is that the consumers that are conﬁdent
+and capable of contributing at this particular level are
+spread pretty thinly (NP22).
+The resulting tendency to overuse the limited number of
+consumers available was noted:
+One of the biggest concerns that I had is that we have a
+relatively small number of consumers who are willing and
+able to do the job, and those people tend to get called
+on a lot (NP3).
+Isolation for a consumer educator was recognised and the
+need for more than one consumer academic or representative emphasised by several participants:
+If we could have more people involved and a group of
+people making decisions rather than one person, I think
+that would be a real beneﬁt (NP3).
+As a desire to commence or increase the inclusion of consumer perspective in the education of nurses increased, this
+shortage was becoming more apparent:
+
+5
+there just seems to be less consumers on the ground that
+are able to participate (NP13).
+Similarly:
+trying to get a range of consumers and building a pool in
+which to draw from can be quite difﬁcult (NP28).
+
+4. Discussion
+The National Practice Standards of the Mental Health Workforce published in 2002 (Commonwealth of Australia, 2002)
+articulated a clear goal that consumers should be actively
+involved in the education of health professionals. This goal
+was shared by the Mental Health Nursing Education Taskforce
+(Mental Health Nurse Education Taskforce, 2008) and should
+therefore be an integral component of best practice in
+undergraduate mental health nursing education or at a minimum be showing positive movement in that direction. The
+literature suggests consumer involvement is not yet embedded in mental health nursing education at the undergraduate
+level in Australia (Deakin University Human Services, 1999;
+McCann et al., 2009) and the current project suggests a
+similar picture is applicable to postgraduate curricula.
+Given the ﬁrst consumer academic position was implemented in 2000 (Happell & Roper, 2009) and there have
+only been two similar appointments in nursing programs in
+Australia since, in 2010 and 2013 (these two academics work
+at the same university), it is apparent that these positions
+are currently not a high priority and are therefore unlikely
+to proliferate without a strong commitment and strategic
+approach to implementation. Such an approach requires
+vision. Without vision there is a tendency to make decisions
+based on constraints and limitations rather than identifying
+the desired outcome and working towards making it a reality
+(Happell, 2010).
+The responses for nurse participants suggest that most
+have a strong commitment to including or increasing consumer involvement in mental health nurse education. The
+attitudes of mental health nurse academics to consumer
+involvement in education remain relatively unexplored. One
+source suggests they are generally favourable but describe
+signiﬁcant barriers impeding their capacity to implement
+consumer participation or increase what currently exists
+(Happell, Wynaden et al., 2015). Reports and literature
+show the amount of consumer participation in education
+has gradually increased, albeit not substantially (Happell,
+Platania-Phung et al., 2015; McCann et al., 2009; Mental
+Health Nurse Education Taskforce, 2008), which would suggest at least a degree of commitment is evident. The current
+project’s ﬁndings suggest the views of nurses tend to be
+speciﬁcally focused on component parts of an academic
+role such as teaching, laboratories and assessment. Few
+participants described the role in a broader sense that
+might facilitate strong consumer inﬂuence into the content,
+design and pedagogical approach of mental health nursing
+curricula.
+The responses from consumer academics and educators
+was in stark contrast, with clear visionary statements. Many
+participants described their role being in relative isolation
+from the broader curriculum, with little or no knowledge
+of the broader picture. Where consumer involvement is
+limited and isolated, the involvement is by deﬁnition essentially tokenistic (Anghel & Ramon, 2009; Forrest et al.,
+2000; Meehan & Glover, 2007; Perry et al., 2013; Terry,
+2012; Townend et al., 2008), thereby limiting the extent
+that they can inﬂuence the attitudes of nursing students
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+6
+
+B. Happell et al.
+
+and facilitate the achievement of mental health policy
+goals.
+Participants employed in designated consumer academic
+roles described a much greater level of autonomy. Despite
+this, they were all aware of the limits of their current roles.
+Isolation was a particular consideration they raised. This is
+not a topic commonly discussed in the literature in relation to these positions. In one Australian article (Happell
+& Roper, 2006), the inequality experienced by people in
+consumer roles in comparison to their colleagues from the
+professions is raised as a fundamental concern. Not only are
+consumers not readily able to work closely with and interact and exchange ideas with colleagues, they do not have
+access to activities that encourage collegiality and networking, such as professional organisations, scholarly journals
+and conferences. Both the formal and informal networks
+academics enjoy are extremely important to their career
+development (Adcroft & Taylor, 2013). Their absence for
+consumers likely contributes to the strong sense of isolation
+the participants describe in this research, and it also denies
+the important opportunity for collaboration, networking and
+the sharing of knowledge.
+Maximising the contribution consumers can make to the
+education of health professionals and the subsequently
+positive inﬂuence on their attitudes, arguably requires a
+collective body of knowledge and the ability to inﬂuence
+what students are taught. Currently however, as described
+by Felton and Stickley (2004) it is the nurse academics
+who have power to determine whether consumers are
+involved, to what degree and in what capacity. If organisations employ only one or two consumers, as is likely within
+the current economic environment of universities, the subsequent ad hoc approach will not be sufﬁcient if meaningful
+change is the desired outcome, and tokenism is to be
+avoided.
+The design and implementation of academic/educator
+positions for consumers of mental health services must
+move from the current thinking around involving consumers
+to a partnership approach based on co-production. The
+term co-production describes a fundamental shift in the
+scientiﬁc paradigm approach to research, to a truly cooperative relationship between researchers representing the
+health professions and those most affected by research
+knowledge and outcomes, the consumers (Clifton, Repper,
+Banks, & Remnant, 2013; Gillard et al., 2010; Gillard,
+Simons, Turner, Lucock, & Edwards, 2012). Research teams
+are not uni-disciplinary, they encompass a broad range
+of expertise including experts by experience. The principles of co-production could be readily transferred into the
+academic realm through education and research (Russo &
+Beresford, 2014). Rather than nurses looking to involve consumers, the two perspectives would contribute to creating
+a shared vision for quality mental health nursing education (Simpson, Reynolds, Light, & Attenborough, 2007) and
+assist in preparing the mental health workforce for recoveryoriented practice (Walker, Perkins, & Repper, 2014).
+Academic positions for mental health consumers has been
+one strategy that has promoted consumer involvement at
+a more autonomous level (Byrne, Happell, Platania-Phung,
+Harris, & Bradshaw, 2014; Happell & Roper, 2009). It is likely
+the failure of these positions to proliferate, represents at
+least in part the complexity of the contemporary university
+and in particular the implications of funding shortages
+on the quality and quantity of academic staff (Williams,
+2012). Financial constraints may encourage universities
+and schools of nursing to focus on the delivery of what
+is considered to be core business and therefore limit the
+capacity for increased involvement of consumers, and
+
+particularly for the introduction of dedicated academic
+positions for consumers of mental health services.
+
+4.1. Limitations
+This study utilised a qualitative, exploratory approach.
+Given the limited number of participants it cannot be conﬁdently asserted that similar ﬁndings would be realised were
+the research conducted in different settings. The underrepresentation of the consumer voice in relation to the nurses
+also presents a limitation. While mental health nurse academics are readily located via the Head of School or other
+senior academic, consumers could only be contacted indirectly via the mental health nurse academic participants.
+As the researchers were not privy to the communications
+between them we are not clear whether the low response
+is the result of lack of interest on the part of the consumers, or the information not being passed on by the
+nurses. Further research would beneﬁt from alternative
+approaches to the recruitment of consumers to enhance
+the opportunity for their voice to be heard on these crucial
+issues.
+
+5. Conclusions
+The importance of consumer involvement in the education
+of nurses and other health professionals has been identiﬁed in mental health policy, reports regarding the education
+of professional groups and in the broader literature. While
+the limited evidence suggests consumer involvement in educating nurses is increasing, it remains for the most part,
+ad hoc, minimal and frequently tokenistic. The need for
+a visionary approach is essential if more promising results
+are to be realised in the future. This vision would best be
+realised through the principles of co-production, drawing
+together the views, opinions and experiences of consumers
+and nurses and working towards a shared approach. For
+consumer knowledge to ﬂourish and develop in its own
+right, resources must be devoted to providing opportunities
+for consumer academics and educators to communicate, share knowledge and seek information and support
+from their peers. Something most academics take for
+granted.
+
+References
+Adcroft, A., & Taylor, D. (2013). Support for new career academics:
+An integrated model for research intensive university business
+and management schools. Studies in Higher Education, 38(6),
+827—840.
+Anghel, R., & Ramon, S. (2009). Service users and carers’
+involvement in social work education: Lessons from an English
+case study. European Journal of Social Work, 12, 185—199.
+http://dx.doi.org/10.1080/13691450802567416
+Anthony, W. A. (1993). Recovery from mental illness: The guiding
+vision of the mental health service system in the 1990. Psychiatric Rehabilitation Journal, 16(4), 11—23.
+Babu, K. S., Law-Win, R., Adlam, T., & Banks, V. (2008).
+Involving service users and carers in psychiatric education:
+What do trainees think? Psychiatric Bulletin, 32, 28—31.
+http://dx.doi.org/10.1192/pb.bp.107.015354
+Byrne, L., Happell, B., Platania-Phung, C., Harris, S., & Bradshaw,
+J. (2014). Changing nursing students’ attitudes to consumer participation in mental health services: A survey study of traditional
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+Consumer involvement in nursing education
+and lived experience-led education. Issues in Mental Health
+Nursing, 35(9), 704—712.
+Clifton, A., Repper, J., Banks, D., & Remnant, J. (2013). Coproducing social inclusion: The structure/agency conundrum.
+Journal of Psychiatric and Mental Health Nursing, 20(6),
+514—524.
+Commonwealth of Australia. (2002). National practice standards for
+the mental health workforce. Canberra: Australian Government.
+Davidson, L., & Roe, D. (2007). Recovery from versus recovery
+in serious mental illness: One strategy for lessening confusion plaguing recovery. Journal of Mental Health, 16(4),
+459—470.
+Deacon, M., & Cleary, M. (2013). The reality of teamwork in an acute
+mental health ward. Perspectives in Psychiatric Care, 49(1),
+50—57. http://dx.doi.org/10.1111/j.1744-6163.2012.00340.x
+Deakin University Human Services. (1999). Education and training
+partnerships in mental health: Learning together. Canberra:
+Commonwealth of Australia.
+Felton, A., & Stickley, T. (2004). Pedagogy, power and service
+user involvement. Journal of Psychiatric and Mental Health
+Nursing, 11, 89—98. http://dx.doi.org/10.1111/j.13652850.2004.00693.x
+Forrest, S., Risk, I., Masters, H., & Brown, N. (2000). Mental
+health service user involvement in nurse education: Exploring
+the issues. Journal of Psychiatric and Mental Health Nursing, 7,
+51—57. http://dx.doi.org/10.1046/j.1365-2850.2000.00262.x
+Gillard, S., Simons, L., Turner, K., Lucock, M., & Edwards, C. (2012).
+Patient and public involvement in the coproduction of knowledge: Reﬂection on the analysis of qualitative data in a mental
+health study. Qualitative Health Research, 22(8), 1126—1137.
+http://dx.doi.org/10.1177/1049732312448541
+Gillard, S., Turner, K., Lovell, K., Norton, K., Clarke, T., Addicott,
+R., et al. (2010). Staying native: Coproduction in mental health
+services research. International Journal of Public Sector Management, 23(6), 567—577.
+Hansson, L., Jormfeldt, H., Svedberg, P., & Svensson, B. (2013).
+Mental health professionals’ attitudes towards people with mental illness: Do they differ from attitudes held by people with
+mental illness? International Journal of Social Psychiatry, 59(1),
+48—54.
+Happell, B. (2010). Lead by vision, not by limitations: Recovery
+and the mental health nursing profession. International Journal of Mental Health Nursing, 19(1), 1—2. http://dx.doi.org/
+10.1111/j.1447-0349.2009.00661.x
+Happell, B., Byrne, L., McAllister, M., Lampshire, D., Roper,
+C., Gaskin, C. J., et al. (2014). Consumer involvement in
+the tertiary-level education of mental health professionals: A systematic review. International Journal of Mental
+Health Nursing, 23(1), 3—16. http://dx.doi.org/10.1111/inm.
+12021
+Happell, B., Pinikahana, J., & Roper, C. (2003). Changing attitudes:
+The role of a consumer academic in the education of postgraduate psychiatric nursing students. Archives of Psychiatric
+Nursing, 17, 67—76. http://dx.doi.org/10.1053/apnu.2003.
+00008
+Happell, B., Platania-Phung, C., Byrne, L., Wynaden, D., Martin, G.,
+& Harris, S. (2015). Consumer participation in nurse education: A
+national survey of Australian Universities. International Journal
+of Mental Health Nursing, 24(2), 95—103.
+Happell, B., & Roper, C. (2002). Promoting consumer participation
+through the implementation of a consumer academic position. Nurse Education In Practice, 2, 73—79. http://dx.doi.org/
+10.1054/nepr.2002.0068
+Happell, B., & Roper, C. (2003). The role of a mental health
+consumer in the education of postgraduate psychiatric nursing students: The students’ evaluation. Journal of Psychiatric
+and Mental Health Nursing, 10, 343—350. http://dx.doi.org/
+10.1046/j.1365-2850.2003.00599.x
+
+7
+Happell, B., & Roper, C. (2006). When equality is not really equal:
+Afﬁrmative action and consumer participation. Journal of Public
+Mental Health, 5(3), 6—11.
+Happell, B., & Roper, C. (2009). Promoting genuine consumer participation in mental health education: A consumer academic role.
+Nurse Education Today, 29(6), 575—579.
+Happell, B., Wynaden, D., Tohotoa, J., Platania-Phung, C., Byrne,
+L., Martin, G., et al. (2015). Mental health lived experience academics in tertiary education: The views of nurse academics.
+Nurse Education Today, 35, 113—117. http://dx.doi.org/
+10.1016/j.nedt.2014.07.006
+Hossack, A., & Wall, G. (2005). Service users: Undervalued and
+underused? The Psychologist, 18(3), 134—136.
+Linden, M., & Kavanagh, R. (2012). Attitudes of qualiﬁed vs. student mental health nurses towards an individual diagnosed with
+schizophrenia. Journal of Advanced Nursing, 68(6), 1359—1368.
+http://dx.doi.org/10.1111/j.1365-2648.2011.05848.x
+Mårtensson, G., Jacobsson, J. W., & Engström, M. (2014). Mental
+health nursing staff’s attitudes towards mental illness: An analysis of related factors. Journal of Psychiatric & Mental Health
+Nursing, 21(9), 782—788. http://dx.doi.org/10.1111/jpm.12145
+McCann, T. V., Moxham, L., Usher, K., Crookes, P. A., & Farrell, G.
+(2009). Mental health content of comprehensive pre-registration
+nursing curricula in Australia. Journal of Research in Nursing, 14,
+519—530. http://dx.doi.org/10.1177/1744987109347041
+Meehan, T., & Glover, H. (2007). Telling our story: Consumer perceptions of their role in mental health education. Psychiatric Rehabilitation Journal, 31, 152—154.
+http://dx.doi.org/10.2975/31.2.2007.152.154
+Mental Health Nurse Education Taskforce. (2008). Final report: Mental health in pre-registration nursing courses, Melbourne.
+Perry, J., Watkins, M., Gilbert, A., & Rawlinson, J. (2013). A
+systematic review of the evidence on service user involvement in interpersonal skills training of mental health students.
+Journal of Psychiatric and Mental Health Nursing, 20(6),
+525—540.
+Repper, J., & Breeze, J. (2007). User and carer involvement in
+the training and education of health professionals: A review of
+the literature. International Journal of Nursing Studies, 44(3),
+511—519.
+Ross, C. A., & Goldner, E. M. (2009). Stigma, negative attitudes and
+discrimination towards mental illness within the nursing profession: A review of the literature. Journal of Psychiatric & Mental
+Health Nursing, 16(6), 558—567.
+Russo, J., & Beresford, P. (2014). Between exclusion and colonisation: Seeking a place for mad people’s knowledge in academia.
+Disability & Society, 1—5.
+Schneebeli, C., O’Brien, A., Lampshire, D., & Hamer, H. P.
+(2010). Service user involvement in undergraduate mental
+health nursing in New Zealand. International Journal of Mental Health Nursing, 19, 30—35. http://dx.doi.org/10.1111/
+j.1447-0349.2009.00642.x
+Simons, L., Tee, S., Lathlean, J., Burgess, A., Herbert, L., & Gibson,
+C. (2007). A socially inclusive approach to user participation in
+higher education. Journal of Advanced Nursing, 58, 246—255.
+http://dx.doi.org/10.1111/j.1365-2648.2007.04216.x
+Simpson, A., Reynolds, L., Light, I., & Attenborough, J. (2007). Talking with the experts: Evaluation of an online discussion forum
+involving mental health service users in the education of mental
+health nursing students. Nurse Education Today, 28(5), 633—640.
+http://dx.doi.org/10.1016/j.nedt.2007.09.009
+Slade, M. (2009). 100 ways to support recovery: A guide for mental
+health professionals. Rethink London.
+Stebbens, R. (2001). . Exploratory research in the social sciences:
+Qualitative research methods (Vol. 48) London: Sage Publications.
+Terry, J. (2012). Service user involvement in pre-registration
+mental health nurse education classroom settings: A review
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
++Model
+COLEGN-323; No. of Pages 8
+
+ARTICLE IN PRESS
+
+8
+
+B. Happell et al.
+
+of the literature. Journal of Psychiatric and Mental Health
+Nursing, 19, 816—829. http://dx.doi.org/10.1111/j.1365-2850.
+2011.01858.x
+Townend, M., Tew, J., Grant, A., & Repper, J. (2008). Involvement
+of service users in education and training: A review of the literature and exploration of the implications for the education and
+training of psychological therapists. Journal of Mental Health,
+17(1), 65—78.
+
+Walker, L., Perkins, R., & Repper, J. (2014). Creating a recovery
+focused workforce: Supporting staff well-being and valuing the
+expertise of lived experience. Mental Health & Social Inclusion, 18(3), 133—141. http://dx.doi.org/10.1108/MHSI-07-20140022
+Williams, R. (2012). The academy in decay. Agenda: A Journal of
+Policy Analysis and Reform, 19(2), 123.
+
+Please cite this article in press as: Happell, B., et al. Nothing without vision! The views of consumers
+and mental health nurses about consumer involvement in mental health nursing education. Collegian (2015),
+http://dx.doi.org/10.1016/j.colegn.2015.04.004
+
+

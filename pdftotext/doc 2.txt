@@ -1,0 +1,1746 @@
+Original Investigation
+Kidney Function and Cardiovascular Events in Postmenopausal
+Women: The Impact of Race and Ethnicity in the Women’s
+Health Initiative
+Cristina M. Arce, MD, MSc,1,2,* Jinnie J. Rhee, MSc, ScD,1,*
+Katharine L. Cheung, MD, MSc, FRCPC,1,3 Haley Hedlin, PhD,1
+Kristopher Kapphahn, MSc,1 Nora Franceschini, MD,4 Roberto S. Kalil, MD,5
+Lisa W. Martin, MD,6 Lihong Qi, PhD,7 Nawar M. Shara, PhD,8 Manisha Desai, PhD,1
+Marcia L. Stefanick, PhD,1 and Wolfgang C. Winkelmayer, MD, MPH, ScD,1,9 on behalf
+of the Women’s Health Initiative Investigatorsy
+Background: Kidney disease disproportionately affects minority populations, including African Americans
+and Hispanics; therefore, understanding the relationship of kidney function to cardiovascular (CV) outcomes
+within different racial/ethnic groups is of considerable interest. We investigated the relationship between kidney
+function and CV events and assessed effect modification by race/ethnicity in the Women’s Health Initiative.
+Study Design: Prospective cohort study.
+Setting & Participants: Baseline serum creatinine concentrations (assay traceable to isotope-dilution mass
+spectrometry standard) of 19,411 postmenopausal women aged 50 to 79 years who self-identified as either
+non-Hispanic white (n 5 8,921), African American (n 5 7,436), or Hispanic (n 5 3,054) were used to
+calculate estimated glomerular filtration rates (eGFRs).
+Predictors: Categories of eGFR (exposure); race/ethnicity (effect modifier).
+Outcomes: The primary outcome was the composite of 3 physician-adjudicated CV events: myocardial
+infarction, stroke, or CV-related death.
+Measurements: We evaluated the multivariable-adjusted associations between categories of eGFR and CV
+events using proportional hazards regression and formally tested for effect modification by race/ethnicity.
+Results: During a mean follow-up of 7.6 years, 1,424 CV events (653 myocardial infarctions, 627 strokes,
+and 297 CV-related deaths) were observed. The association between eGFR and CV events was curvilinear;
+however, the association of eGFR with CV outcomes differed by race (P 5 0.006). In stratified analyses, we
+observed that the U-shaped association was present in non-Hispanic whites, whereas African American
+participants had a rather curvilinear relationship, with lower eGFR being associated with higher CV risk,
+and higher eGFR, with reduced CV risk. Analyses among Hispanic women were inconclusive owing to few
+Hispanic women having very low or high eGFRs and very few events occurring in these categories.
+Limitations: Lack of urinary albumin measurements; residual confounding by unmeasured or imprecisely
+measured characteristics.
+Conclusions: In postmenopausal women, the patterns of association between eGFR and CV risk differed
+between non-Hispanic whites and African American women.
+Am J Kidney Dis. -(-):---. ª 2015 by the National Kidney Foundation, Inc.
+INDEX WORDS: Cardiovascular disease (CVD); CV risk; CV events; myocardial infarction (MI); stroke; CV
+death; renal function; estimated glomerular filtration rate (eGFR); serum creatinine; race/ethnicity; Hispanic;
+African American; kidney disease; Women’s Health Initiative (WHI).
+
+C
+
+hronic kidney disease (CKD), deﬁned as glomerular ﬁltration rate (GFR) , 60 mL/min/
+1.73 m2 or albumin-creatinine ratio (ACR) $ 30 mg/g,
+affects more than 25 million Americans, and its
+
+prevalence is increasing.1,2 Both markers of kidney
+function are directly and independently associated with
+all-cause and cardiovascular (CV) mortality.3,4 Furthermore, evidence is accumulating that minority
+
+From the 1Stanford University School of Medicine, Palo Alto,
+CA; 2Ohio State University, Columbus, OH; 3University of Vermont, Burlington, VT; 4University of North Carolina Gillings
+School of Global Public Health, Chapel Hill, NC; 5University of
+Iowa Carver College of Medicine, Iowa City, IA; 6George Washington University, Washington, DC; 7University of California,
+Davis, Davis, CA; 8MedStar Health Research Institute, Hyattsville,
+MD; and 9Baylor College of Medicine, Houston, TX.
+*
+C.M.A. and J.J.R. contributed equally to this work.
+y
+Information about the WHI Investigators and centers appears
+in the Acknowledgements.
+Received January 20, 2015. Accepted in revised form July 7,
+2015.
+
+Because an author of this article is an editor for AJKD, the peerreview and decision-making processes were handled entirely by an
+Associate Editor (Luxia Xhang, MD, MPH) who served as Acting
+Editor-in-Chief. Details of the journal’s procedures for potential
+editor conﬂicts are given in the Information for Authors & Journal
+Policies.
+Address correspondence to Wolfgang C. Winkelmayer, MD,
+MPH, ScD, Section of Nephrology, Baylor College of Medicine,
+One Baylor Plaza, Houston, TX 77030. E-mail: winkelma@bcm.
+edu
+ 2015 by the National Kidney Foundation, Inc.
+0272-6386
+http://dx.doi.org/10.1053/j.ajkd.2015.07.020
+
+Am J Kidney Dis. 2015;-(-):---
+
+1
+
+Arce et al
+
+populations are disproportionately affected by kidney
+disease, with African Americans having a higher risk of
+CKD that is more likely to progress to end-stage renal
+disease compared with whites.5 Faster kidney function
+decline and increased risk of end-stage renal disease
+also exist in Hispanics compared with non-Hispanics.6,7
+Recent evidence suggests that the association between CKD and CV outcomes may differ by race.4,8
+Although previous studies have reported sex differences in the associations of estimated GFR (eGFR)
+and albuminuria with CV and all-cause mortality,
+relatively little is known about the association between
+decreased kidney function and CV risk and its potential modiﬁcation by race or ethnicity among postmenopausal women in the United States.9-13 Because
+most existing studies have predominantly examined
+white women, more information is needed on women
+of other racial/ethnic groups.
+The multiethnic Women’s Health Initiative (WHI)
+prospective cohort study of postmenopausal women,
+for whom creatinine concentrations were measured in
+a large subset at baseline, provides an opportunity to
+assess the associations of GFR with myocardial
+infarction (MI), stroke, and CV death. We hypothesized that these associations would differ among racial
+and ethnic groups.
+
+METHODS
+
+After excluding participants whose serum creatinine measurements were not available (n 5 197) and/or those with missing
+data on covariates of interest (n 5 2,700), the ﬁnal cohort
+included 19,411 participants. There were no clear patterns of
+missingness in our covariates and none of the variables we
+excluded had missing rates . 5%.
+
+Primary Exposure of Interest
+The exposure of interest was eGFR at baseline. Stored frozen
+serum specimens were sent to the University of Minnesota2Fairview
+laboratory for measurement of baseline creatinine concentrations
+and other CV risk markers (discussed next). Serum creatinine was
+measured by the Roche enzymatic method on a Roche Modular P
+Chemistry Analyzer (Roche Diagnostic Corp) and calibrated against
+an isotope-dilution mass spectrometry standard.18 Each patient’s
+GFR was then estimated using the CKD-EPI (CKD Epidemiology
+Collaboration) equation from serum creatinine concentration, age,
+sex, and African American versus non–African American race. The
+CKD-EPI creatinine equation has been shown to provide a more accurate estimation of measured GFR compared with previously
+established creatinine-based equations.19,20 eGFR was the exposure
+of interest in this study and due to a small number of participants with
+eGFRs , 30 mL/min/1.73 m2 (n 5 46; 0.24%), participants were
+divided into the following 6 eGFR strata: ,45, 45 to ,60, 60 to ,75,
+75 to ,90, 90 to ,105, and $105 mL/min/1.73 m2.
+
+SHARe GWAS Cohort
+(African American and Hispanic
+Participants)
+N = 12,008
+
+WHIMS and GARNET Cohort
+(European American Participants)
+N = 10,300
+
+Study Design and Population
+The WHI is a large prospective multicenter cohort study that
+focuses on strategies for preventing heart disease, breast and
+colorectal cancer, and osteoporotic fractures in postmenopausal
+women aged 50 to 79 years recruited from September 1993
+through December 1998. Participants were postmenopausal if they
+had had some combination of the following: hysterectomy, double
+oophorectomy, conclusion of menstrual bleeding, vasomotor
+symptoms, or prescribed hormone therapy. The WHI Study consists of an observational study cohort and 3 clinical trial components (a hormone therapy component, a dietary modiﬁcation
+component, and a calcium/vitamin D component). Details of
+eligibility criteria, data collection, and ascertainment of health
+outcomes have been reported previously (see Item S1, available as
+online supplementary material, for WHI clinical trial and observational study design).14,15
+Our analysis was restricted to a subset of WHI participants who
+participated in the WHI Core Biomarker Studies, including 8,505
+African American and 3,503 Hispanic participants who constituted the WHI Single Nucleotide Polymorphism (SNP) Health
+Association Resource (SHARe) cohort and 10,300 participants of
+European ancestry who had participated in the WHI Memory
+Study,16 an ancillary study of the WHI hormone trials, or whose
+samples were analyzed in another WHI ancillary study, the
+Genomic and Randomized Trials Network (GARNET) Study
+(Fig 1).17 African American and Hispanic participants in the
+SHARe cohort were drawn from the observational study and the
+clinical trial components. Participants of European ancestry were
+drawn from the hormone therapy components. Participants in
+these trials provided baseline data on various CV disease biomarkers, including creatinine, cholesterol, high-density lipoprotein (HDL) cholesterol, low-density lipoprotein (LDL)
+cholesterol, triglycerides, insulin, glucose, and C-reactive protein.
+2
+
+CVD Biomarker Cohort
+N = 22,308
+Excluded
+Missing Creatinine Values
+N = 197
+Eligible Sample
+N = 22,111
+Excluded
+Missing Covariate Data
+n = 2,700
+Analytic Cohort
+n = 19,411
+
+Figure 1. Flow diagram of Women’s Health Initiative (WHI)
+cardiovascular disease (CVD) biomarker study cohort. Our analysis was restricted to a subset of WHI participants who participated in the WHI Core Biomarker Studies, including 8,505
+African American and 3,503 Hispanic participants who
+constituted the WHI Single Nucleotide Polymorphism (SNP)
+Health Association Resource (SHARe) cohort and 10,300 participants of European ancestry who had participated in the WHI
+Memory Study (WHIMS) or whose samples were analyzed in
+another WHI ancillary study, the Genomic and Randomized Trials Network (GARNET) Study.17 African American and Hispanic
+participants in the SHARe cohort were drawn from the observational study and the clinical trial components. Participants of European ancestry were drawn from the hormone therapy
+components. Participants in these trials provided baseline data
+on various CVD biomarkers, including creatinine. After excluding
+participants whose serum creatinine measurements were not
+available (n 5 197) and/or those with missing data for covariates
+of interest (n 5 2,700), the final cohort included 19,411 participants. Abbreviation: GWAS, genome-wide association study.
+Am J Kidney Dis. 2015;-(-):---
+
+Race/Ethnicity, eGFR, and CVD
+
+Ascertainment of Outcomes
+
+Statistical Analyses
+
+The primary outcome of interest was the composite of 3 CV
+events: MI, stroke, or death related to a CV event. Secondary
+outcomes of interest were the individual events that constituted the
+composite CV outcome. The diagnosis and adjudication of these
+outcomes have been previously described and outlined in established protocols (see Item S1 for CV adjudication information).14
+
+The goal of our analysis was to determine the relationships between
+baseline eGFR and composite and individual CV events in this
+multiethnic cohort of postmenopausal women, with particular focus
+on examining racial/ethnic heterogeneity in all analyses. Relationships among eGFR categories and CV events were modeled using
+Cox proportional hazard regression, overall as well as stratiﬁed by
+racial/ethnic group. Participants who did not have a CV event or who
+died of non-CV causes were censored at the time of death or end of
+study period, whichever occurred ﬁrst. The eGFR category with the
+lowest rate of CV events was chosen to be the referent group. We ﬁt 4
+models to estimate hazard ratios (HRs) for the individual and composite CV outcomes: model 1 estimated unadjusted HRs; model 2
+adjusted for age (categorical); model 3 additionally adjusted for
+presence of diabetes, history of stroke, and history of MI; model 4
+additionally adjusted for BMI, lifestyle factors (physical activity,
+history of smoking, and antihypertensive and alcohol use), laboratory
+measurements (blood pressure, C-reactive protein, and LDL and HDL
+cholesterol), and SF-36 physical function score. All models were
+stratiﬁed by cohort (ie, observational study or clinical trial) to allow
+different baseline hazards for each cohort. Analyses were explored for
+violation of proportional hazards by stratiﬁcation and inspection of the
+Kaplan-Meier plots for all outcomes, and no apparent violations were
+observed. We examined log-log plots and calculated Schoenfeld residual P values and found no signiﬁcant evidence of departure from
+the proportional hazards assumption. In the multivariable-adjusted
+Cox proportional hazards model 4, we formally tested for effect
+modiﬁcation between race/ethnicity and eGFR category by using a
+Wald test to obtain an omnibus P value for interaction between eGFR
+categories and the 3 categories of race/ethnicity. Within the interaction model, we also examined the individual contrasts between African Americans versus non-Hispanic whites and between Hispanics
+versus non-Hispanic whites. P values for these interaction tests were
+assessed at the a , 0.05 level of signiﬁcance.
+In order to assess the robustness of our results from a complete
+case analytic approach, missing data were imputed using SAS
+PROC IMPUTE (SAS Institute Inc) and ﬁt using the primary
+analysis models in a sensitivity analysis.
+Participants provided written informed consent, and study procedures and protocols were approved by the institutional review
+boards at the National Institutes of Health and all 40 participating
+institutions. Analyses were performed with SAS software, version
+9.4, and R, version 3.1.0, software (The R Foundation for Statistical Computing).
+
+Covariate of Interest: Effect Modiﬁer
+We sought to test for effect modiﬁcation of the association between eGFR and CV events by self-identiﬁed race/ethnicity;
+participating women had the opportunity to select one of the
+following categories: non-Hispanic white, African American, Asian
+or Paciﬁc Islander, Hispanic/Latino, American Indian or Alaskan
+Native, and other. It was not recorded in the WHI of what race selfidentiﬁed Hispanic participants considered themselves. For the
+purpose of this report, we refer to the categories as non-Hispanic
+white, African American, and Hispanic with the understanding
+that most African American women were likely non-Hispanic and
+most Hispanic women were white. Analyses were restricted to
+participants who reported 1 of these 3 categories because participants from the SHARe, WHI Memory Study, and GARNET cohorts
+with data for CV disease (CVD) biomarkers only include women
+from these 3 categories.
+
+Other Covariates: Demographic and Health Characteristics
+Details of baseline self- or interview-administered study questionnaires, physical measurements, and blood measurement have
+been previously described.14,15 Standardized questionnaires
+administered at study entry ascertained sociodemographic characteristics, including age, presence of diabetes, history of MI or stroke,
+drinking status (none, past, or current), and smoking status (current,
+past, or nonsmoker). Medical history was updated annually for
+women in the observational study or semiannually for women in the
+clinical trials by mail and/or telephone questionnaires.
+Trained clinical center staff obtained anthropometric measurements at the baseline clinic visit. Height was measured with a
+calibrated stadiometer, and weight, with a calibrated scale, with
+participants in light clothing, without shoes. Body mass index
+(BMI) was calculated as weight in kilograms divided by height in
+square meters. Based on BMI, individuals were classiﬁed as being
+underweight (BMI , 18.5 kg/m2), normal weight (BMI, 18.524.9 kg/m2), overweight (BMI, 25.0-29.9 kg/m2), or obese
+(BMI $ 30 kg/m2). Waist circumference was measured at the
+narrowest part of the torso, and hip circumference, at the maximal
+circumference. Seated systolic blood pressure was measured in the
+right arm using a conventional mercury sphygmomanometer after
+5 minutes of rest, with an appropriate cuff size based on arm
+circumference measurement. Two blood pressure measurements
+were taken at least 30 seconds apart and were averaged for the
+current analyses.
+Physical activity at baseline was assessed using a validated
+9-item measure of physical activity from the Personal Habits
+Questionnaire and was expressed in metabolic equivalent task
+minutes per week.21 Participants were categorized as sedentary,
+low, moderate, or high (0, 0.1-,5, 5-,12, or $12 metabolic
+equivalent task hours per week).
+A quality-of-life measure characterizing physical function was
+taken from results of the 36-Item Short Form Health Survey (SF36), which was administered at baseline. This construct ranges
+from 0 to 100, with higher values corresponding to better health.22
+In addition to creatinine concentrations, C-reactive protein, total
+and HDL cholesterol, and triglycerides were also measured from
+stored biospecimens. The Friedewald equation23 was used to
+calculate LDL concentration from total cholesterol, HDL cholesterol, and triglyceride concentrations.
+Am J Kidney Dis. 2015;-(-):---
+
+RESULTS
+Baseline Characteristics
+From the WHI biomarker cohort, we identiﬁed
+22,111 women aged 50 to 79 years who enrolled in the
+WHI study between 1993 and 1998 and had a valid
+serum creatinine concentration measured. Participants
+with missing covariates were excluded (n 5 2,700).
+Excluded participants were similar in age to those
+included (mean age, 63.5 6 7.4 [standard deviation] vs
+63.9 6 7.3 years) but more likely to be non-Hispanic
+white (46.4% vs 45.8%). eGFRs were similar for
+excluded and included participants (86.9 6 17.3 vs
+87.6 616.6 mL/min/1.73 m2). Excluded participants
+had a higher rate of CV events (9.5 vs 7.1 per 1,000
+years of follow-up).
+The ﬁnal analytic cohort of 19,411 women included 8,921 (46.0%) non-Hispanic white, 7,436
+3
+
+4
+
+Table 1. Baseline Characteristics of 19,411 Participants Stratified by eGFR Category and Racial/Ethnic Group
+eGFR $ 105
+(n 5 2,702 [13.9%])
+
+eGFR 90-,105
+(n 5 6,529 [33.6%])
+
+eGFR 75-,90
+(n 5 5,953 [30.7%])
+
+eGFR 60-,75
+(n 5 3,127 [16.1%])
+
+eGFR , 45
+(n 5 196 [1.0%])
+
+eGFR 45-,60
+(n 5 904 [4.7%])
+
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+No. of
+participants
+Age category
+50-59 y
+60-69 y
+70-79 y
+
+2,241
+
+313
+
+148
+
+1,962
+
+1,569
+
+2,998
+
+1,800
+
+687
+
+3,466
+
+999
+
+361
+
+1,767
+
+335
+
+106
+
+463
+
+99
+
+18
+
+79
+
+59.9
+37.8
+2.3
+
+94.6
+5.4
+0.0
+
+77.7
+20.9
+1.4
+
+41.0
+44.3
+14.7
+
+56.0
+40.0
+4.0
+
+24.2
+60.5
+15.3
+
+35.8
+46.3
+17.9
+
+34.9
+47.3
+17.8
+
+8.7
+43.3
+48.0
+
+24.6
+47.8
+27.5
+
+30.5
+47.4
+22.2
+
+5.4
+41.9
+52.6
+
+18.5
+45.7
+35.8
+
+19.8
+51.9
+28.3
+
+1.9
+34.1
+63.9
+
+18
+35
+47
+
+39
+33
+28
+
+5
+30
+65
+
+Diabetes
+History of MI
+History of
+stroke
+BMI
+Underweight
+Normal
+Overweight
+Obese
+
+15.7
+2.2
+1.6
+
+14.7
+0.6
+0.6
+
+17.6
+2.7
+0.0
+
+11.5
+2.4
+1.9
+
+7.6
+1.1
+1.2
+
+7.3
+2.5
+0.8
+
+10.3
+3.6
+2.2
+
+5.7
+1.9
+1.5
+
+5.9
+2.9
+1.3
+
+13.0
+4.8
+3.0
+
+5.5
+2.5
+2.5
+
+5.6
+3.8
+1.7
+
+20.3
+8.4
+3.9
+
+15.1
+3.8
+4.7
+
+6.7
+4.8
+1.3
+
+42
+11
+17
+
+11
+6
+6
+
+18
+10
+10
+
+0.6
+16.7
+32.3
+50.4
+
+0.3
+22.4
+33.5
+43.8
+
+0.0
+19.6
+25.0
+55.4
+
+0.3
+16.1
+33.5
+50.2
+
+0.6
+25.3
+38.8
+35.3
+
+0.8
+27.1
+32.9
+39.3
+
+0.4
+15.6
+34.4
+49.6
+
+0.3
+26.1
+41.6
+32.0
+
+0.6
+29.4
+35.8
+34.5
+
+0.8
+16.2
+33.6
+49.3
+
+0.8
+24.9
+41.0
+33.2
+
+0.5
+28.1
+36.7
+34.6
+
+0.6
+14.0
+34.6
+50.7
+
+0.0
+22.6
+29.2
+48.1
+
+0.4
+23.3
+39.1
+37.1
+
+1
+10
+36
+53
+
+0
+6
+44
+50
+
+0
+17
+29
+54
+
+15.3
+31.5
+53.2
+
+19.5
+20.4
+60.1
+
+8.8
+21.6
+69.6
+
+14.6
+33.5
+51.9
+
+16.3
+20.7
+63.0
+
+10.3
+18.9
+70.9
+
+15.4
+31.3
+53.3
+
+16.3
+21.8
+61.9
+
+11.5
+16.6
+71.9
+
+18.4
+33.1
+48.4
+
+18.3
+21.1
+60.7
+
+10.1
+17.8
+72.1
+
+21.8
+39.4
+38.8
+
+20.8
+26.4
+52.8
+
+13.0
+20.5
+66.5
+
+23
+47
+30
+
+33
+22
+44
+
+15
+30
+54
+
+44.8
+
+60.4
+
+39.9
+
+48.4
+
+62.7
+
+46.2
+
+49.5
+
+61.1
+
+52.5
+
+51.2
+
+68.4
+
+56.1
+
+55.2
+
+63.2
+
+55.1
+
+48
+
+56
+
+46
+
+40.8
+14.3
+
+30.0
+9.6
+
+46.6
+13.5
+
+40.8
+10.8
+
+30.0
+7.4
+
+41.1
+12.8
+
+39.5
+11.0
+
+33.2
+5.7
+
+40.5
+7.0
+
+40.1
+8.7
+
+28.0
+3.6
+
+38.0
+5.9
+
+64.9
+9.9
+
+32.1
+4.7
+
+37.8
+7.1
+
+39
+13
+
+33
+11
+
+43
+11
+
+25.4
+
+25.9
+
+28.4
+
+21.6
+
+19.4
+
+18.5
+
+21.2
+
+19.5
+
+17.5
+
+22.9
+
+22.7
+
+16.0
+
+23.3
+
+20.8
+
+27.0
+
+29
+
+33
+
+27
+
+24.9
+
+26.2
+
+28.4
+
+24.3
+
+24.7
+
+23.7
+
+25.8
+
+22.9
+
+22.6
+
+24.0
+
+21.9
+
+23.1
+
+29.6
+
+24.5
+
+22.9
+
+25
+
+33
+
+30
+
+22.8
+
+24.6
+
+27.7
+
+23.2
+
+24.0
+
+23.8
+
+23.3
+
+22.6
+
+24.2
+
+24.4
+
+22.4
+
+25.0
+
+20.3
+
+17.9
+
+18.8
+
+22
+
+11
+
+20
+
+26.9
+
+23.3
+
+15.5
+
+30.9
+
+32.0
+
+34.0
+
+29.7
+
+35.1
+
+35.7
+
+28.6
+
+33.0
+
+35.9
+
+26.9
+
+36.8
+
+31.3
+
+23
+
+22
+
+23
+
+Alcohol use
+Nondrinker
+Past drinker
+Current
+drinker
+
+Am J Kidney Dis. 2015;-(-):---
+
+Smoking status
+Never
+smoked
+Past smoker
+Current
+smoker
+Physical activity
+Sedentary: 0
+MET-h/wk
+Low: 0.1-,5
+MET-h/wk
+Moderate:
+5-11.9
+MET-h/wk
+High: $12
+MET-h/wk
+
+(Continued)
+
+Arce et al
+
+Characteristic
+
+Am J Kidney Dis. 2015;-(-):---
+
+Note: eGFR categories expressed in mL/min/1.73 m2. Values for categorical variables are given as percentage; for continuous variables, as median [interquartile range]. Conversion factor for
+cholesterol in mg/dL to mmol/L, 30.02586.
+Abbreviations: AA, African American; BMI, body mass index; CRP, C-reactive protein; eGFR, estimated glomerular filtration rate; H, Hispanic; HDL, high-density lipoprotein; LDL, low-density
+lipoprotein; MET, metabolic equivalent task; MI, myocardial infarction; SBP, systolic blood pressure; TG, triglycerides; W, non-Hispanic white.
+
+94 [60] 133 [83] 130 [105] 95 [61] 135 [89] 126 [91] 96 [59] 129 [88] 127 [84] 102 [59] 135 [70] 130 [79] 109 [78] 140 [91] 141 [96] 130 [77] 199 [108] 155 [121]
+3.8 [6.6] 4.0 [5.4] 4.1 [7.4] 3.5 [6.0] 3.1 [4.7] 2.4 [3.9] 3.5 [6.0] 2.7 [4.4] 2.1 [3.3] 3.6 [6.0] 2.8 [4.0] 2.2 [3.1] 4.0 [7.1] 3.9 [4.6] 2.6 [3.9] 6.3 [7.7] 4.5 [10.7] 4.3 [6.4]
+85 [30] 90 [20] 80 [35] 85 [34] 90 [20] 85 [20] 85 [35] 85 [25] 85 [25] 80 [40] 85 [30] 85 [25] 70 [40] 75 [40] 80 [30] 60 [35] 78 [43]
+70 [50]
+TG, mg/dL
+CRP, mg/L
+Physical
+function
+
+222 [51] 230 [51] 222 [52] 222 [52] 233 [51] 230 [57] 226 [59] 234 [50] 237 [63] 237 [69] 236 [54] 254 [69] 230 [122] 243 [63]
+51 [17] 51 [15] 54 [19] 52 [16] 51 [16] 54 [19] 51 [17] 51 [15] 57 [24] 51 [17] 50 [16] 56 [20] 47 [18]
+48 [15]
+139 [46] 148 [47] 145 [50] 140 [49] 152 [46] 152 [53] 144 [50] 152 [46] 154 [61] 159 [57] 153 [51] 165 [53] 140 [90] 157 [59]
+
+134 [24]
+122 [23] 128 [23] 130 [22] 124 [25] 130 [22] 131 [25] 124 [23] 129 [22] 135 [29] 131 [24] 133 [23] 142 [30] 132 [22]
+
+W
+AA
+W
+H
+AA
+W
+H
+AA
+W
+H
+AA
+Characteristic
+
+SBP, mm Hg
+130 [21] 122 [24] 126 [20] 130 [21]
+Cholesterol
+Total, mg/dL 218 [53] 218 [53] 234 [56] 220 [49]
+HDL, mg/dL 55 [19] 49 [16] 47 [17] 56 [18]
+LDL, mg/dL 139 [51] 137 [46] 150 [49] 143 [49]
+
+H
+W
+H
+H
+
+AA
+
+eGFR 45-,60
+(n 5 904 [4.7%])
+eGFR 60-,75
+(n 5 3,127 [16.1%])
+eGFR 75-,90
+(n 5 5,953 [30.7%])
+eGFR 90-,105
+(n 5 6,529 [33.6%])
+eGFR $ 105
+(n 5 2,702 [13.9%])
+
+Table 1 (Cont’d). Baseline Characteristics of 19,411 Participants Stratified by eGFR Category and Racial/Ethnic Group
+
+AA
+
+eGFR , 45
+(n 5 196 [1.0%])
+
+W
+
+Race/Ethnicity, eGFR, and CVD
+
+(38.3%) African American, and 3,054 (15.7%) Hispanic women (Fig 1). Baseline characteristics of study
+participants stratiﬁed by eGFR categories and race/
+ethnicity are shown in Table 1. Given the large
+cohort, statistically signiﬁcant differences were
+observed across racial/ethnic groups for all variables
+(all P , 0.05). In general, participants with lower
+eGFRs were more likely to be older, have diabetes,
+and have a history of MI and stroke, and participants
+with lower eGFRs were more likely to have dyslipidemia and higher C-reactive protein levels, irrespective of race and Hispanic ethnicity.
+The distribution of eGFRs, stratiﬁed by selfreported race/ethnicity, is shown in Fig 2. Women
+self-identifying as Hispanic had a higher median
+eGFR (93.9 [interquartile range (IQR), 82.5-100.5]
+mL/min/1.73 m2) than that of non-Hispanic whites
+(85.7 [IQR, 74.4-92.6] mL/min/1.73 m2) and eGFR
+comparable to that of African Americans (93.7 [IQR,
+79.3-107.5] mL/min/1.73 m2). The range for eGFRs
+was widest for African American participants and
+narrowest for non-Hispanic white participants.
+Study Outcomes
+During a mean follow-up of 7.6 6 1.8 years, 1,392
+women had one or more CV events of interest,
+including 622 MIs, 597 strokes, and 286 CV deaths
+(Table 2). For the composite outcome, we observed
+1,360 events across 147,744 person-years of followup. Of note, within the highest eGFR category
+($105 mL/min/1.73 m2), no CV events were observed among self-reported Hispanic participants.
+In Fig 3, we show adjusted HRs of the composite
+CV event across categories of eGFR stratiﬁed by race
+and ethnicity. After adjustment for sociodemographic
+characteristics, comorbid conditions, lifestyle factors,
+and biometric/laboratory data, the association between
+eGFR and the composite CV end point was curvilinear
+in the overall cohort, but modiﬁed by race/ethnicity
+(P for interaction [omnibus test] 5 0.003). Stratumspeciﬁc effect modiﬁcation was found for race (African Americans vs non-Hispanic whites, P 5 0.001),
+but not for ethnicity (Hispanics vs non-Hispanic
+whites, P 5 0.4). Compared to the referent group
+with eGFRs of 75 to ,90 mL/min/1.73 m2, non-Hispanic white participants had a U-shaped relationship
+between eGFR and CV events: both higher ($105 mL/
+min/1.73 m2) and lower (,45 mL/min/1.73 m2)
+eGFRs were associated with higher event rates (HRs of
+2.00 [95% conﬁdence interval (CI), 1.24-3.24] and
+1.60 [95% CI, 1.01-2.94], respectively; Table S1).
+However, among African American participants, a
+curvilinear relationship was observed; for the composite CV outcome, compared with participants with
+eGFRs in the 75 to ,90 mL/min/1.73 m2 reference
+group, eGFRs of 90 to ,105 mL/min/1.73 m2 were
+5
+
+Arce et al
+
+Figure 2. Distribution of estimated glomerular filtration rates (eGFRs; in mL/min/1.73 m2) stratified by self-reported racial/ethnic
+group. Racial and ethnic groups were in mutually exclusive categories: African American, Hispanic, and non-Hispanic white. Women
+self-identifying as Hispanic had a higher median eGFR (93.9 [interquartile range (IQR), 82.5-100.5] mL/min/1.73 m2) compared with
+non-Hispanic whites (85.7 [IQR, 74.4-92.6] mL/min/1.73 m2) and eGFR comparable to African American (93.7 [IQR, 79.3-107.5] mL/
+min/1.73 m2) participants. The range for eGFRs was widest for African American participants and narrowest for the non-Hispanic white
+participants.
+
+associated with a lower event rate (HR, 0.62; 95% CI,
+0.47-0.83), and eGFRs $ 105 mL/min/1.73 m2 were
+associated with an even lower event rate (HR, 0.45;
+95% CI, 0.33-0.62). On the other end of the eGFR
+spectrum, in the eGFR , 45 mL/min/1.73 m2 category, African American women had similar rates of
+composite CV events (HR, 1.46; 95% CI, 0.94-2.26) as
+those of non-Hispanic white women, but the association was not signiﬁcant. For Hispanic participants,
+relative rates of CV events could not be determined in
+the highest eGFR category (no events) and were not
+signiﬁcantly different from the referent for eGFR
+categories # 60 mL/min/1.73 m2. However, Hispanic
+women had lower rates of composite CV events in the
+category of eGFR of 90 to ,105 mL/min/1.73 m2
+(HR, 0.40; 95% CI, 0.27-0.59).
+Analyses of individual CV events were naturally
+limited by fewer events and reduced power. The
+association between eGFR and MI in the full study
+sample was J-shaped, and the omnibus test for
+6
+
+interaction by race/ethnicity was of borderline signiﬁcance (P 5 0.09). Stratum-speciﬁc interaction was
+present for African American race versus nonHispanic whites (P 5 0.03), but not for self-reported
+Hispanic women versus non-Hispanic whites
+(P 5 0.4). In a multivariable model adjusted for patient characteristics and CV risk factors, non-Hispanic
+whites with high eGFRs ($105 mL/min/1.73 m2) had
+increased rates of MI (HR, 2.04; 95% CI, 1.07-3.87),
+whereas both African Americans and Hispanics had
+reduced MI rates with more preserved eGFRs
+compared to the reference group. No associations
+were found among eGFR categories , 60 mL/min/
+1.73 m2 for any of the racial and ethnic groups
+(Table S2).
+Non-Hispanic whites had higher adjusted rates of
+stroke at eGFRs , 45 mL/min/1.73 m2 compared
+with those in the referent eGFR category (HR, 2.09;
+95% CI, 1.05-4.18; Table S3). No signiﬁcant associations were found in any of the other eGFR categories
+Am J Kidney Dis. 2015;-(-):---
+
+Am J Kidney Dis. 2015;-(-):---
+
+Note: eGFR categories expressed in mL/min/1.73 m2. Unless otherwise indicated, values are given as number (percentage). The composite CV event may not equal the total number of
+individual CV events because participants could have had more than 1 CV event.
+Abbreviations: AA, African American; CV, cardiovascular; eGFR, estimated glomerular filtration rate; H, Hispanic; MI, myocardial infarction; W, non-Hispanic white.
+
+5 (6)
+9 (11)
+8 (10)
+10 (10)
+11 (11)
+14 (14)
+99 (6)
+70 (4)
+36 (2)
+9 (3)
+6 (2)
+3 (1)
+25 (3)
+36 (4)
+13 (1)
+149 (4)
+143 (4)
+53 (2)
+8 (1)
+11 (2)
+6 (1)
+43 (2)
+51 (3)
+26 (1)
+129 (4)
+113 (4)
+31 (1)
+15 (1)
+17 (1)
+6 (0)
+38 (2)
+41 (2)
+38 (2)
+0 (0)
+0 (0)
+0 (0)
+30 (1)
+37 (2)
+19 (1)
+
+11 (7)
+5 (3)
+3 (2)
+
+99
+28 (28)
+1,767
+183 (10)
+361
+16 (4)
+999
+68 (7)
+3,466
+313 (9)
+687
+24 (4)
+1,800
+107 (6)
+2,998
+260 (9)
+1,569
+35 (2)
+1,962
+101 (5)
+313
+0 (0)
+
+No. of participants
+Composite CV end
+point
+MI
+Stroke
+Death
+
+2,241
+79 (4)
+
+148
+19 (13)
+
+2 (11)
+0 (0)
+0 (0)
+32 (7)
+25 (5)
+11 (2)
+4 (4)
+5 (5)
+2 (2)
+13 (4)
+17 (5)
+17 (5)
+
+79
+18 (23)
+463
+59 (13)
+106
+8 (8)
+335
+41 (12)
+
+18
+2 (11)
+
+H
+W
+H
+AA
+W
+H
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+AA
+
+H
+
+W
+
+AA
+
+eGFR 60-,75
+eGFR 75-,90
+eGFR 90-,105
+eGFR $ 105
+
+Table 2. CV Event Counts in 19,411 Participants Stratified by eGFR Category and Racial/Ethnic Group
+
+AA
+
+eGFR , 45
+eGFR 45-,60
+
+W
+
+Race/Ethnicity, eGFR, and CVD
+
+for whites. Stroke rates were lower for African
+Americans and Hispanics at eGFRs $ 90 mL/min/
+1.73 m2.
+For the outcome of CV death, increased risk was
+observed at eGFRs , 45 mL/min/1.73 m2 among nonHispanic whites and ,60 mL/min/1.73 m2 among
+African Americans. Hispanic participants had very few
+events (n 5 17), leading to rather unstable estimates
+(Table S4).
+Results of sensitivity analyses using imputation
+methods did not differ meaningfully from results of
+our main complete case analyses.
+
+DISCUSSION
+In this large multiethnic study of postmenopausal
+women, we conﬁrmed associations between eGFR,
+a kidney disease marker, and CV risk. However, patterns
+of association between eGFR and the composite CV
+outcome varied signiﬁcantly between non-Hispanic
+whites and African Americans, with a U-shaped association for non-Hispanic whites and a rather curvilinear
+association for African Americans. The association between eGFR and CV events among Hispanics could not
+be evaluated in sufﬁcient detail because there were only
+few Hispanic participants and even fewer CV events in
+the extreme eGFR categories. Analyses of individual
+CV events were naturally limited by reduced precision
+due to their small number, but found to be broadly
+compatible with the ﬁndings of the composite CV end
+point.
+The strong relationship between CKD and CV risk
+is well established. In a landmark study using data
+from Kaiser Permanente of Northern California, Go
+et al3 described the detailed trajectory of CV risk
+across the spectrum of kidney function in adults 20
+years or older. Compared with individuals with normal
+kidney function (eGFRs $ 60 mL/min/1.73 m2 using
+the 4-variable MDRD [Modiﬁcation of Diet in Renal
+Disease] Study equation), an independent monotonic
+increase in risk of CV events was observed for each
+successive stratum of GFR decline.3 Moreover, recent
+studies have shown that the association between eGFR
+and CV risk is even stronger when using the more
+accurate CKD-EPI equation or using equations based
+on cystatin C measurements instead of or additional to
+serum creatinine concentrations.19,20,24
+Racial and ethnic disparities in CV risk among individuals with CKD have previously been described.7,25 Peralta et al7 found that among patients with
+eGFRs , 60 mL/min/1.73 m2, Hispanic individuals
+had 18% lower rates of CV events compared with
+otherwise similar non-Hispanic whites. In a pooled
+analysis of community-based cohorts, Weiner et al8
+found effect modiﬁcation by African American versus
+white race of the association between eGFR , 60 mL/
+min/1.73 m2 and a composite outcome of nonfatal
+7
+
+Arce et al
+
+2.000
+
+1.000
+
+0.500
+
+0.250
+
+0.125
+
+Hazard
+Ratio
+
+2.000
+
+1.000
+
+0.500
+
+0.250
+
+0.125
+
+>=105 90−<105 75−<90 60−<75 45−<60
+
+<45
+
+>=105 90−<105 75−<90 60−<75 45−<60
+
+<45
+
+Figure 3. Associations between estimated glomerular filtration rate (eGFR) and time to cardiovascular (CV) events (myocardial
+infarction [MI], stroke, and CV death); overall and by racial/ethnic group. In the overall cohort, the association between eGFR and
+CV events was curvilinear; effect modification by race and ethnicity was present in an omnibus test (P 5 0.006) and in a stratumspecific test for interaction by non-Hispanic white versus African American racial/ethnic group membership (P 5 0.001). Stratumspecific interaction was not found between Hispanic versus non-Hispanic white racial/ethnic group membership (P 5 0.4). In stratified
+analyses, we observed that the U-shaped association was present in non-Hispanic whites, whereas black participants had a curvilinear
+relationship, with lower eGFR being associated with reduced CV risk, and higher eGFR, with increased CV risk. Analyses among Hispanic women were inconclusive owing to few Hispanic women having very low or high eGFRs and very few events occurring in these
+categories. Multivariable adjustment for hazard rates included age, presence of diabetes, history of stroke, history of MI, body mass
+index, physical activity, physical function, history of smoking, history of alcohol use, C-reactive protein level, blood pressure, use of
+antihypertensives, and low- and high-density lipoprotein cholesterol levels. Reference group was defined as eGFR of 75-90 mL/
+min/1.73 m2.
+
+CV events and all-cause mortality. However, the
+reference group included all individuals with
+eGFRs $ 60 mL/min/1.73 m2 and did not use any ﬁner
+categorization of eGFR, especially within the relatively
+normal range of eGFRs, in which we have found signiﬁcant racial differences.
+8
+
+The largest study on the subject to date was a recent
+investigation by the CKD Prognosis Consortium, in
+which effect modiﬁcation by race (white, African
+American, and Asian) of the associations between
+kidney markers (eGFR and ACR) with mortality, CV
+mortality, and end-stage renal disease was evaluated.26
+Am J Kidney Dis. 2015;-(-):---
+
+Race/Ethnicity, eGFR, and CVD
+
+African Americans constituted a small minority of the
+1.1 million study participants, but still numbered
+almost 50,000 individuals. Despite the large sample
+size, the only CV event studied (CV mortality) was
+relatively rare and led to wide conﬁdence limits for
+African Americans, especially in the extreme ranges of
+eGFR. No effect modiﬁcation was found between
+whites and African Americans; however, due to the
+imprecise estimates in the higher eGFR range, their
+conﬁdence bands appear compatible with our ﬁnding
+of a curvilinear rather than U-shaped association between eGFR and CV events.
+More recently, Gutierrez et al4 identiﬁed racial differences in the association between ACR, the other
+marker of kidney disease, and CV events in the Reasons for Geographic and Racial Differences in Stroke
+(REGARDS) Study. Ultimately, higher urinary albumin excretion was more strongly associated with
+incident coronary heart disease risk among African
+American individuals as compared with whites.4 A
+similar analysis using data from the Atherosclerosis
+Risk in Communities (ARIC) Study did not identify
+racial differences in the association of ACR with CV
+risk. Interestingly, among study participants with
+ACRs . 30 mg/g, women had increased CV risk
+compared with men (1.3- to 1.8-fold higher HRs).12
+This sex-albuminuria interaction on CV risk had previously been described in other cohorts.13,27
+In the general population, the risk for CVD among
+women increases after menopause, which is believed to
+result from loss of the protective effect of estrogen on
+lipids and vascular function or a consequence of older
+age.28-30 Previous studies using the WHI cohort have
+investigated racial/ethnic differences in CVD risk and
+mortality—interestingly, no racial/ethnic disparities
+were observed in the context of diabetes31 and severe
+obesity.32 Few studies have described the relationship
+of CVD among women burdened with CKD in the
+United States. In 2001, Shlipak et al33 identiﬁed 2,763
+postmenopausal women with established CV heart
+disease using data from HERS (Heart and Estrogen/
+Progestin Replacement Study). After multivariable
+adjustment, both mild (1.2-1.4 mg/dL) and moderate
+(.1.4 mg/dL) elevations in serum creatinine levels
+were independently associated with a 60% to 80%
+increased risk for CV events compared with women
+with normal kidney function.33 However, potential
+effect modiﬁcation by race and ethnicity on the relationship between kidney and CV risk was not explored.
+The paradoxically increased CV risk in patients
+with higher eGFRs has been previously reported and
+attributed to frailty or muscle wasting secondary to
+illness, leading to decreased creatinine generation
+rather than high level of kidney function.34 Our
+observation that this elevated CV risk with high
+eGFRs is found in non-Hispanic whites, but not
+Am J Kidney Dis. 2015;-(-):---
+
+African Americans, is novel. Although it is possible
+that African American WHI participants were less frail
+and had more preserved muscle mass, we adjusted for
+other markers of frailty or poor health and nutritional
+status, including BMI, waist circumference, physical
+activity level, and SF-36 Physical Function score.
+Although cystatin C has not been proved to be a superior biomarker compared to creatinine, it has a more
+linear relationship with CV outcomes in older adults
+compared with creatinine, which may have a J- or Ushaped relationship.35,36 Future studies should
+examine whether the accuracy of creatinine-based (or
+cystatin C–based) estimation equations among individuals with seemingly preserved kidney function
+differs among racial and ethnic groups.
+This study had several limitations. First, urinary
+albumin measurements were not available in WHI to
+better discriminate kidney disease burden. This could
+introduce probable confounding; however, eGFR and
+ACR have been shown to be independent risk factors
+for CV events.3 In addition, only single measurements
+of creatinine were available and so we were unable to
+account for error associated with random intraindividual variability or to analyze kidney and CVD
+progression over time. Although race and ethnicity
+were collected prospectively, misclassiﬁcation may
+have occurred. Furthermore, as with other studies
+using interval monitoring of participants’ health
+events, under-reporting of CV events may have
+occurred. However, recall bias was limited because
+CV outcomes were adjudicated by physicians
+following participant report.37,38 In addition, although
+the CKD-EPI creatinine equation is more accurate
+compared to the MDRD Study equation in estimating
+GFR and predicting CV risk, a lack of precision in
+GFR estimates . 90 mL/min/1.73 m2 has been reported among the black population.39 Moreover,
+although we adjusted for various covariates at baseline, we cannot rule out the possibility of residual
+confounding by unmeasured confounders. In order to
+account for covariates, the analytic cohort differed
+from eligible participants in that participants excluded
+from the analysis were more likely to be non-Hispanic
+white, thus introducing potential selection bias.
+Moreover, generalizability of our ﬁndings may be
+limited because the study only consisted of relatively
+healthy postmenopausal women. Finally, lack of
+recruitment of Hispanics with eGFRs in the lower and
+higher spectrum of kidney disease and small numbers
+of cases in several eGFR categories limited the power
+to detect effect modiﬁcation for this ethnic group.
+This narrow eGFR range observed among Hispanic
+participants may have been the result of selection bias
+during recruitment and/or differential participant
+nonresponse (in particular, a potentially lower
+response among sicker Hispanic women).
+9
+
+Arce et al
+
+In conclusion, using a large, national, and prospectively assembled cohort of diverse postmenopausal women, we found that the patterns of
+association between eGFR and CV outcomes varied
+by race/ethnicity; the association was U-shaped for
+non-Hispanic white women and more curvilinear for
+African American women. These ﬁndings add to the
+growing body of evidence on the racial differences
+in CV risk with reduced kidney function. Future
+studies, including ones using cystatin C–based estimations of GFR, need to conﬁrm our ﬁndings of
+racially distinct patterns of CV risk from decreased
+kidney function.
+
+ACKNOWLEDGEMENTS
+A short list of the WHI Investigators follows. Program Ofﬁce,
+National Heart, Lung and Blood Institute, Bethesda, MD: Jacques
+Rossouw, Shari Ludlam, Dale Burwen, Joan McGowan, Leslie
+Ford, and Nancy Geller; Clinical Coordinating Center, Fred
+Hutchinson Cancer Research Center, Seattle, WA: Garnet
+Anderson, Ross Prentice, Andrea LaCroix, and Charles Kooperberg; Investigators and Academic Centers: JoAnn E. Manson
+(Brigham and Women’s Hospital, Harvard Medical School, Boston, MA), Barbara V. Howard (MedStar Health Research Institute/
+Howard University, Washington, DC), Marcia L. Stefanick
+(Stanford Prevention Research Center, CA), Rebecca Jackson (The
+Ohio State University, Columbus), Cynthia A. Thomson (University of Arizona, Tucson/Phoenix), Jean Wactawski-Wende
+(University at Buffalo, NY), Marian Limacher (University of
+Florida, Gainesville/Jacksonville), Robert Wallace (University of
+Iowa, Iowa City/Davenport), Lewis Kuller (University of Pittsburgh, PA), and Sally Shumaker (Wake Forest University School
+of Medicine, Winston-Salem, NC). WHI Memory Study: Sally
+Shumaker (Wake Forest University School of Medicine, WinstonSalem, NC). A list of all the investigators who have contributed to
+WHI science is available at https://www.whi.org/researchers/
+Documents%20%20Write%20a%20Paper/WHI%20Investigator%
+20Long%20List.pdf.
+Support: Dr Arce was supported by an under-represented
+minority supplement to T32DK007357. Dr Rhee was supported by T32DK007357 and F32DK103473. Dr Winkelmayer
+receives salary and research support through the endowed
+Gordon A. Cain Chair in Nephrology at Baylor College of
+Medicine. The WHI program is funded by the National Heart,
+Lung and Blood Institute, National Institutes of Health, US
+Department of Health and Human Services, through contracts
+HHSN268201100046C, HHSN268201100001C, HHSN26820
+1100002C, HHSN268201100003C, HHSN268201100004C,
+and HHSN271201100004C.
+Financial Disclosure: The authors declare that they have no
+other relevant ﬁnancial interests.
+Contributions: Research idea and study design: CMA, JJR,
+WCW; data acquisition: MLS; data analysis/interpretation: all
+authors; statistical analysis: HH, KK, MD; supervision or
+mentorship: WCW. Each author contributed important intellectual
+content during manuscript drafting or revision and accepts
+accountability for the overall work by ensuring that questions
+pertaining to the accuracy or integrity of any portion of the work
+are appropriately investigated and resolved. WCW takes responsibility that this study has been reported honestly, accurately,
+and transparently; that no important aspects of the study have been
+omitted; and that any discrepancies from the study as planned and
+registered have been explained.
+
+10
+
+SUPPLEMENTARY MATERIAL
+Table S1: HRs for composite CV outcome by eGFR category
+and race/ethnicity.
+Table S2: HRs for MI by eGFR category and race/ethnicity.
+Table S3: HRs for stroke events by eGFR category and race/
+ethnicity.
+Table S4: HRs for CV deaths by eGFR category and race/
+ethnicity.
+Item S1: WHI clinical trial and observational study design and
+adjudication of CV events.
+Note: The supplementary material accompanying this article
+(http://dx.doi.org/10.1053/j.ajkd.2015.07.020) is available at www.
+ajkd.org
+
+REFERENCES
+1. Coresh J, Selvin E, Stevens LA, et al. Prevalence of
+chronic kidney disease in the United States. JAMA. 2007;298:
+2038-2047.
+2. Grams ME, Juraschek SP, Selvin E, et al. Trends in the
+prevalence of reduced GFR in the United States: a comparison of
+creatinine- and cystatin C-based estimates. Am J Kidney Dis.
+2013;62:253-260.
+3. Go AS, Chertow GM, Fan D, McCulloch CE, Hsu CY.
+Chronic kidney disease and the risks of death, cardiovascular
+events, and hospitalization. N Engl J Med. 2004;351:1296-1305.
+4. Gutierrez OM, Khodneva YA, Muntner P, et al. Association
+between urinary albumin excretion and coronary heart disease in
+black vs white adults. JAMA. 2013;310:706-714.
+5. Peralta CA, Vittinghoff E, Bansal N, et al. Trajectories of
+kidney function decline in young black and white adults with
+preserved GFR: results from the Coronary Artery Risk Development in Young Adults (CARDIA) Study. Am J Kidney Dis.
+2013;62:261-266.
+6. Collins AJ, Foley RN, Herzog C, et al. US Renal
+Data System 2012 annual data report. Am J Kidney Dis. 2013;61
+(suppl 1):e1-e480.
+7. Peralta CA, Shlipak MG, Fan D, et al. Risks for end-stage
+renal disease, cardiovascular events, and death in Hispanic
+versus non-Hispanic white adults with chronic kidney disease.
+J Am Soc Nephrol. 2006;17:2892-2899.
+8. Weiner DE, Tabatabai S, Tighiouart H, et al. Cardiovascular
+outcomes and all-cause mortality: exploring the interaction between CKD and cardiovascular disease. Am J Kidney Dis.
+2006;48:392-401.
+9. Roderick PJ, Atkins RJ, Smeeth L, et al. CKD and mortality
+risk in older people: a community-based population study in the
+United Kingdom. Am J Kidney Dis. 2009;53:950-960.
+10. Muntner P, He J, Hamm L, Loria C, Whelton PK. Renal
+insufﬁciency and subsequent death resulting from cardiovascular disease in the United States. J Am Soc Nephrol. 2002;13:
+745-753.
+11. Nitsch D, Grams M, Sang Y, et al. Associations of estimated glomerular ﬁltration rate and albuminuria with mortality
+and renal failure by sex: a meta-analysis. BMJ. 2013;346:f324.
+12. Hui X, Matsushita K, Sang Y, Ballew SH, Fulop T,
+Coresh J. CKD and cardiovascular disease in the Atherosclerosis
+Risk in Communities (ARIC) Study: interactions with age, sex,
+and race. Am J Kidney Dis. 2013;62:691-702.
+13. Jassal SK, Langenberg C, von Muhlen D, Bergstrom J,
+Barrett-Connor E. Usefulness of microalbuminuria versus the
+metabolic syndrome as a predictor of cardiovascular disease in
+women and men . 40 years of age (from the Rancho Bernardo
+Study). Am J Cardiol. 2008;101:1275-1280.
+
+Am J Kidney Dis. 2015;-(-):---
+
+Race/Ethnicity, eGFR, and CVD
+14. Curb JD, McTiernan A, Heckbert SR, et al. Outcomes
+ascertainment and adjudication methods in the Women’s Health
+Initiative. Ann Epidemiol. 2003;13(suppl 9):S122-S128.
+15. No authors listed. Design of the Women’s Health Initiative
+clinical trial and observational study. The Women’s Health
+Initiative Study Group. Control Clin Trials. 1998;19:61-109.
+16. Vaughan L, Espeland MA, Snively B, et al. The rationale,
+design, and baseline characteristics of the Women’s Health
+Initiative Memory Study of Younger Women (WHIMS-Y). Brain
+Res. 2013;1514:3-11.
+17. National Human Genome Research Institute. Genomics and
+Randomized Trials Network (GARNET). https://www.genome.
+gov/27541119. Accessed August 24, 2015.
+18. Levey AS, Coresh J, Greene T, et al. Expressing the
+Modiﬁcation of Diet in Renal Disease Study equation for estimating glomerular ﬁltration rate with standardized serum creatinine values. Clin Chem. 2007;53:766-772.
+19. Matsushita K, Mahmoodi BK, Woodward M, et al. Comparison of risk prediction using the CKD-EPI equation and the
+MDRD Study equation for estimated glomerular ﬁltration rate.
+JAMA. 2012;307:1941-1951.
+20. Levey AS, Stevens LA, Schmid CH, et al. A new equation
+to estimate glomerular ﬁltration rate. Ann Intern Med. 2009;150:
+604-612.
+21. Anderson GL, Manson J, Wallace R, et al. Implementation
+of the Women’s Health Initiative study design. Ann Epidemiol.
+2003;13(suppl 9):S5-S17.
+22. Bohannon RW, DePasquale L. Physical Functioning Scale
+of the Short-Form (SF) 36: internal consistency and validity with
+older adults. J Geriatr Phys Ther. 2010;33:16-18.
+23. Friedewald WT, Levy RI, Fredrickson DS. Estimation of the
+concentration of low-density lipoprotein cholesterol in plasma,
+without use of the preparative ultracentrifuge. Clin Chem. 1972;18:
+499-502.
+24. Shlipak MG, Matsushita K, Arnlov J, et al. Cystatin C
+versus creatinine in determining risk based on kidney function.
+N Engl J Med. 2013;369:932-943.
+25. Jolly SE, Burrows NR, Chen SC, et al. Racial and ethnic
+differences in mortality among individuals with chronic kidney
+disease: results from the Kidney Early Evaluation Program
+(KEEP). Clin J Am Soc Nephrol. 2011;6:1858-1865.
+26. Wen CP, Matsushita K, Coresh J, et al. Relative risks of
+chronic kidney disease for mortality and end-stage renal disease
+across races are similar. Kidney Int. 2014.
+27. Muntner P, Garrett E, Klag MJ, Coresh J. Trends in stroke
+prevalence between 1973 and 1991 in the US population 25 to 74
+years of age. Stroke. 2002;33:1209-1213.
+
+Am J Kidney Dis. 2015;-(-):---
+
+28. Kaushik M, Sontineni SP, Hunter C. Cardiovascular disease and androgens: a review. Int J Cardiol. 2010;142:8-14.
+29. Leuzzi C, Marzullo R, Modena MG. [Is menopause a risk
+factor for ischemic heart disease in women?]. G Ital Cardiol.
+2012;13:401-406.
+30. Smulyan H, Asmar RG, Rudnicki A, London GM,
+Safar ME. Comparative effects of aging in men and women on
+the properties of the arterial tree. J Am Coll Cardiol. 2001;37:
+1374-1380.
+31. Ma Y, Hebert JR, Balasubramanian R, et al. All-cause,
+cardiovascular, and cancer mortality rates in postmenopausal
+white, black, Hispanic, and Asian women with and without diabetes in the United States: the Women’s Health Initiative, 19932009. Am J Epidemiol. 2013;178:1533-1541.
+32. McTigue KM, Chang YF, Eaton C, et al. Severe obesity,
+heart disease, and death among white, African American, and
+Hispanic postmenopausal women. Obesity. 2014;22:801-810.
+33. Shlipak MG, Simon JA, Grady D, Lin F, Wenger NK,
+Furberg CD. Renal insufﬁciency and cardiovascular events in
+postmenopausal women with coronary heart disease. J Am Coll
+Cardiol. 2001;38:705-711.
+34. Matsushita K, van der Velde M, Astor BC, et al. Association of estimated glomerular ﬁltration rate and albuminuria
+with all-cause and cardiovascular mortality in general population cohorts: a collaborative meta-analysis. Lancet. 2010;375:
+2073-2081.
+35. Waheed S, Matsushita K, Astor BC, Hoogeveen RC,
+Ballantyne C, Coresh J. Combined association of creatinine,
+albuminuria, and cystatin C with all-cause mortality and cardiovascular and kidney outcomes. Clin J Am Soc Nephrol. 2013;8:
+434-442.
+36. Shlipak MG, Sarnak MJ, Katz R, et al. Cystatin C and the
+risk of death and cardiovascular events among elderly persons.
+N Engl J Med. 2005;352:2049-2060.
+37. Hlatky MA, Ray RM, Burwen DR, et al. Use of Medicare
+data to identify coronary heart disease outcomes in the Women’s
+Health Initiative. Circ Cardiovasc Qual Outcomes. 2014;7:
+157-162.
+38. Lakshminarayan K, Larson JC, Virnig B, et al. Comparison
+of Medicare claims versus physician adjudication for identifying
+stroke outcomes in the Women’s Health Initiative. Stroke.
+2014;45:815-821.
+39. Stevens LA, Schmid CH, Greene T, et al. Comparative
+performance of the CKD Epidemiology Collaboration (CKD-EPI)
+and the Modiﬁcation of Diet in Renal Disease (MDRD) Study
+equations for estimating GFR levels above 60 mL/min/1.73 m2.
+Am J Kidney Dis. 2010;56:486-495.
+
+11
+
+

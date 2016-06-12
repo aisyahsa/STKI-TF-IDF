@@ -1,0 +1,820 @@
+American Journal of Infection Control 41 (2013) 1017-23
+
+Contents lists available at ScienceDirect
+
+American Journal of Infection Control
+
+American Journal of
+Infection Control
+
+journal homepage: www.ajicjournal.org
+
+Major article
+
+Immunizing health care workers against inﬂuenza: A glimpse into the challenges
+with voluntary programs and considerations for mandatory policies
+Susan Quach MSc a, Jennifer A. Pereira PhD a, Jeffrey C. Kwong MD, MSc a, b, c, d, e, Sherman Quan MSc a, e,
+Lois Crowe BA f, Maryse Guay MD g, h, i, Julie A. Bettinger PhD, MPH j, *, and for the Public Health Agency of
+Canada/Canadian Institutes of Health Research Inﬂuenza Research Network (PCIRN) Program Delivery
+and Evaluation Theme Group
+a
+
+Surveillance and Epidemiology, Public Health Ontario, Toronto, Canada
+Dalla Lana School of Public Health, University of Toronto, Toronto, Canada
+c
+Institute for Clinical Evaluative Sciences, Toronto, Canada
+d
+Department of Family Medicine and Community Medicine, Toronto, Canada
+e
+University Health Network, Toronto, Canada
+f
+Bruyère Research Institute, Ottawa, Canada
+g
+Départment des sciences de la santé communautaire, Université de Sherbrooke, Longueuil, Canada
+h
+Institut national de santé publique du Québec, Longueuil, Canada
+i
+Direction de santé publique, Agence de la santé et des services sociaux de la Montérégie, Longueuil, Canada
+j
+Vaccine Evaluation Center, University of British Columbia, Vancouver, Canada
+b
+
+Key Words:
+Vaccine coverage
+Inﬂuenza vaccination
+Health care personnel
+
+Background: Vaccination of health care workers (HCWs) is an important patient safety initiative. It
+prevents inﬂuenza infection among patients and reduces staff illness and absenteeism. Despite these
+beneﬁts, HCW inﬂuenza immunization uptake is low. Therefore, strategies to achieve high immunization
+coverage in HCWs, barriers to uptake, and perceptions of mandatory inﬂuenza immunization policies
+were discussed in key informant interviews with inﬂuenza immunization program planners.
+Methods: We conducted telephone interviews with 23 inﬂuenza immunization program planners from
+21 organizations (7 acute care hospitals, 6 continuing care facilities, and 8 public health organizations)
+across Canada. We used content analysis to identify themes from the interviews.
+Results: Participants used a variety of promotional and educational activities, and many vaccine delivery
+approaches, to support HCW immunization programs. Barriers to achieving high coverage in HCWs
+included misconceptions about the safety and effectiveness of the inﬂuenza vaccine, negative personal
+experiences associated with the vaccine, and antivaccine sentiments. Participants mentioned mandatory
+inﬂuenza immunizations as a solution to low coverage. However, they identiﬁed challenges with this
+approach such as obtaining support from stakeholders, enforcement, and limiting personal autonomy.
+Conclusion: Participants believed immunization coverage in health care organizations will continue to be
+suboptimal using existing program strategies. Although participants discussed mandatory immunization
+as a way to improve uptake, potential obstacles will need to be addressed for this to be implemented
+successfully.
+Copyright Ó 2013 by the Association for Professionals in Infection Control and Epidemiology, Inc.
+Published by Elsevier Inc. All rights reserved.
+
+* Address correspondence to Julie A. Bettinger, PhD, MPH, Associate Professor,
+Vaccine Evaluation Center, University of British Columbia, 950 West 28th Avenue,
+Room A-5, Vancouver, BC V5Z4H4, Canada.
+E-mail address: jbettinger@cfri.ca (J.A. Bettinger).
+PCIRN Program Delivery and Evaluation Theme Group members: Stephanie
+Brien, David Buckeridge, Jemila Hamid, Natasha Crowcroft, Shelley Deeks, Michael
+Finkelstein, Julie Bettinger, Maryse Guay, Lois Crowe, Faron Kolbe, Jeff Kwong,
+Allison McGeer, Jennifer Pereira, Susan Quach, Sherman Quan, Margaret Russell,
+Beate Sander, Chris Sikora, and Anne-Luise Winter.
+
+Supported by an operating grant from the Public Health Agency of Canada
+and the Canadian Institutes of Health Research (IRR- 96974); by a University of
+Toronto Department of Family and Community Medicine Clinician Scientist Award
+(to J.C.K.); by a Career Investigator Award from the Michael Smith Foundation for
+Health Research (J.A.B.); by The Canadian Association for Immunization Research
+and Evaluation, which provided networking assistance; and The Canadian Health
+Inﬂuenza Immunization Network (CHIIN), which provided support in identifying
+the survey sample.
+Conﬂicts of interest: None to report.
+
+0196-6553/$36.00 - Copyright Ó 2013 by the Association for Professionals in Infection Control and Epidemiology, Inc. Published by Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.ajic.2013.05.016
+
+1018
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 1017-23
+
+Vaccinating health care workers (HCWs) against inﬂuenza is the
+most effective strategy to prevent spread in health care settings.1
+Canada’s National Advisory Committee on Immunization recommends HCW inﬂuenza immunization to protect them from infection and to prevent transmission to patients at high risk for
+inﬂuenza and its complications,2 and inﬂuenza immunizations are
+provided for free to HCWs. Despite the evidence supporting the
+beneﬁts of inﬂuenza immunization, vaccine coverage in Canadian
+health care organizations is low (40%-60%),3,4 and health care
+organizations have identiﬁed this as a signiﬁcant occupational
+health and safety issue.
+To address this issue in the United States, policies and laws
+making HCW inﬂuenza immunization mandatory have been
+implemented. These measures have dramatically improved
+immunization uptake (>90%).5-9 In Canada, mandatory immunization policies of any kind are rare; only 3 provinces (Ontario, New
+Brunswick [NB], and Manitoba) have compulsory immunization
+legislation for vaccine-preventable diseases at school entry with
+exemptions allowed only for medical or religious reasons.10,11 In
+contrast, all 50 US states have laws requiring immunization but
+allow exemptions for medical, religious, or philosophical
+reasons.12 Some Canadian health care organizations require proof
+of HCW inﬂuenza immunization only during outbreaks. To date,
+only 1 province (Ontario) has attempted to legislate mandatory
+immunization for HCWs; in 2000, Ontario’s Ministry of Health and
+Long-Term Care required inﬂuenza immunizations for paramedics. Rather than legislate mandatory immunization, British
+Columbia’s (BC) Ministry of Health required HCWs to be immunized or wear a mask during the 2012/2013 inﬂuenza season as
+a condition of service.13 The Ontario attempt at mandatory
+immunization and the BC attempt at mandatory protection (ie,
+immunization or masking) have been challenged as being violations of personal autonomy. Because of HCW opposition, the
+mandate for Ontario paramedics was repealed, and implementation of the enforcement and disciplinary components of the BC
+policy was delayed.14-16
+We conducted semistructured interviews with HCW inﬂuenza
+immunization planners from across Canada to understand their
+strategies for program implementation. In this paper, we
+describe themes associated with barriers to achieving high
+immunization coverage and mandatory inﬂuenza immunization
+policies.
+METHODS
+In-depth interviews were conducted in January 2012 to learn
+about immunization program strategies and processes for collecting immunization data, including barriers and facilitating factors
+for measuring and reporting inﬂuenza immunization rates.
+Sampling and recruitment
+The key informants selected for this study were identiﬁed from
+a 2011 online survey of Canadian health care organizations.17
+Individuals responsible for HCW inﬂuenza immunization at acute
+care hospitals or continuing care organizations across Canada were
+identiﬁed through multiple methods, including consultation with
+provincial/regional public health authorities and regional infection
+control networks, postings in infection control and occupational
+health and safety bulletins, e-mail lists, Web site advertisements,
+and cold calls to organizations. Sixty-six percent (n ¼ 478) of the
+online survey respondents agreed to future contact for research.
+From this group, we selected individuals from 30 organizations
+to follow-up with in-depth interviews. The organizations were
+selected based on the type of care provided (acute, long-term care,
+
+both), number of HCWs employed, and province, with the aim of
+having representation from a variety of organizations and provinces. Provinces and territories without HCW inﬂuenza immunization programs (Nunavut, Northwest Territories, Yukon) or with
+incomplete responses to the immunization rate measurement
+questions on the online survey (BC and Newfoundland) were
+excluded. Ethics approval was obtained from the University of
+Toronto’s Health Sciences Research Ethics Board. All participants
+provided informed consent.
+Data collection
+The semistructured interview guide included questions about
+inﬂuenza immunization programs, data collection processes and
+systems, methods for measuring immunization coverage rates, and
+policies and procedures to support immunization coverage
+measurement and reporting. The questions were based on the study
+objectives and the results of the online survey.17 Themes emerged
+describing barriers to achieving high immunization coverage and
+mandatory inﬂuenza immunizations. These topics were not
+included in the interview guide and were entirely initiated by the
+participants; no probing was done to facilitate discussion.
+Most interviews lasted approximately 1 hour (range, 45-90
+minutes). Each interview was conducted with a single participant
+from each organization, with the exception of 2 interviews where
+2 participants from the same organization were interviewed
+simultaneously. Eighteen interviews were conducted in English and
+3 in French. The English interview guide was translated into French
+and reviewed for accuracy. We recorded all interviews with an
+electronic recorder and transcribed the interviews verbatim
+(interviews in French were translated after transcription).
+Data analysis
+We used content analysis to interpret the interview data. Two
+researchers (S.Q. and J.A.P.) co-coded 25% of transcripts, documented key phrases and developed individual codes to create
+a coding dictionary. Next, 3 researchers (S.Q., J.A.P, and J.A.B.)
+reviewed and discussed the transcripts and revised the coding
+dictionary to ensure codes were consistently deﬁned and applied to
+the same concepts. QSR NVivo (version 9.0; Melbourne, Victoria,
+Australia) was used to organize coded data; codes were categorized
+and sorted to allow dominant themes to emerge. Key themes that
+arose from the data were further examined by organization type.
+RESULTS
+In total, 23 participants representing 21 health care organizations (6 continuing care organizations, 7 acute care hospitals, and 8
+regional public health organizations [Public health organizations
+had both continuing care and acute care beds. These could
+also represent regional health authorities or, in Quebec, Centres
+de Sante et de Services Sociaux (CSSS) (Health and Social Services
+Centers]) participated in the interviews. Of those, 15 participants
+representing 13 health care organizations (3 continuing care
+organizations, 6 acute care hospitals, and 4 public health organizations) described barriers to achieving high immunization
+coverage and mandatory inﬂuenza immunization policies. The 13
+organizations represented 7 provinces: Alberta (1), Saskatchewan
+(1), Manitoba (1), Ontario (5), Quebec (1), NB (1), and Nova Scotia
+(3). Participants had 2 to 10 years of experience with HCW inﬂuenza immunization programs (median, 5 years) and were the lead
+organizer for their organization; this was similar for those who
+did and did not discuss barriers and mandatory immunization.
+The 15 participants included 6 occupational health and safety
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 1017-23
+
+nurses, 4 occupational health and safety managers, 3 infection
+control nurses, 1 workplace health and safety advisor, and 1 director.
+Most participants (n ¼ 9/15) worked in large health care organizations (500 employees).
+
+Table 1
+Strategies used to promote and deliver inﬂuenza vaccine
+
+Strategies
+On-site immunization clinic (routine hours)y
+On-site immunization clinic (extended hours)y
+Mobile cartsy
+Peer to peer immunizations (allowing colleagues
+to vaccinate each other)y
+Reporting immunization rates to managers
+Poster or pamphlets
+Incentives (eg, food, stickers, prizes)y
+Group educational sessions
+Strategies to promote program progress (eg,
+thermometer with percent vaccinated,
+announcements)y
+Role models/ﬂu champions to encourage
+immunizationsy
+Using a declination formy
+Other (eg, e-mail reminders, Internet/Intranet
+notices)y
+
+Current strategies to support immunization programs
+All participants used a variety of vaccine delivery methods and
+strategies to support voluntary uptake of inﬂuenza immunizations
+(Table 1) and numerous educational and promotional activities to
+enhance their programs. These activities were designed to increase
+knowledge about inﬂuenza vaccines, address common concerns
+about vaccine safety and effectiveness, and raise awareness of the
+program. More acute care hospitals used strategies to promote and
+deliver inﬂuenza vaccine compared with other types of organizations.
+Barriers to achieving high inﬂuenza immunization coverage in
+HCWs
+Despite promotional activities and accessible delivery methods,
+participants expressed frustration about being unable to achieve
+what they perceived as a high immunization uptake among their
+HCWs. They identiﬁed several barriers to vaccine uptake.
+
+1019
+
+Subsample
+n ¼ 13 (%)*
+
+Total sample,
+N [ 21 (%)
+
+10
+8
+8
+7
+
+(77)
+(62)
+(62)
+(54)
+
+17
+13
+12
+10
+
+(81)
+(67)
+(57)
+(48)
+
+7
+13
+8
+6
+6
+
+(54)
+(100)
+(62)
+(46)
+(46)
+
+12
+21
+13
+8
+10
+
+(57)
+(100)
+(62)
+(38)
+(48)
+
+6 (46)
+
+8 (38)
+
+1 (8)
+4 (31)
+
+4 (19)
+6 (29)
+
+*Subsample is the number of organizations that discussed the themes on mandatory
+immunizations and barriers to achieving high coverage.
+More acute care hospitals utilized strategies to promote and deliver inﬂuenza
+vaccine.
+
+y
+
+1. Antivaccination/vaccine-hesitant HCWs
+Ten participants described the difﬁculties they had convincing
+HCWs who expressed antivaccine sentiments to be immunized.
+Moreover, participants stated that traditional strategies for
+promoting the vaccine were insufﬁcient to reach antivaccine or
+vaccine-hesitant HCWs because more time and effort were
+required to address their concerns and change their perceptions of
+inﬂuenza immunization. More participants from large acute care
+hospitals discussed experiences dealing with highly vaccinehesitant groups in their facility compared with other types of
+organizations. The types of HCWs (eg, laundry staff, nurses, paramedics, physicians) and department groups (eg, intensive care,
+emergency department, pre-hospital care, laboratory) with these
+opinions varied across organizations. Participants noted that individuals working closely together held similar attitudes about
+inﬂuenza vaccines and described instances where HCWs with
+strong antivaccine views may have inﬂuenced their peers’ decisions:
+“I have whole departments that’ll refuse to [get vaccinated]. And
+the lab people, I’m really having a hard time getting them
+onboard because they have a couple of people that are sort of
+anti-vaccine and have pulled up all sorts of stuff from the
+Internet . . .”
+“And then if we get anybody [HCW] that really doesn’t care for
+the ﬂu vaccine and if they’re talking in front of people [HCWs]
+who might be sitting on the fence one way or the other, I
+personally feel that they can sway those individuals against
+having the vaccine.”
+One participant noted a shift in attitudes about professional
+responsibility among younger nurses, observing resistance to
+inﬂuenza immunization because they did not perceive it as part of
+their professional obligation and they prioritized their own interests over their patients’ health.
+
+“[Emergency staff] are the ﬁrst point of contact when people
+come in or they get admitted through ambulance bay. So they’ve
+seen GBS cases, and the patients have verbalized they felt it was
+related to the ﬂu shot. What I try to explain with the Emerg staff
+is that you see them at point of contact when they believe that’s
+what their illness or symptoms are related to. You don’t see the
+end case where they actually tell you what caused it. . . . Maybe
+it’s department speciﬁc, like I said, ER. I ﬁnd it difﬁcult [to
+convince them to get vaccinated]. ICU can be as well because
+they actually care for the GBS patients. We had a patient in ICU
+that received the H1N1 vaccine and at ﬁrst, for the ﬁrst couple of
+weeks that they were here, it was believed that the inﬂuenza
+vaccine could have caused that. And so that caused a lot of fear
+and trepidation in the staff, especially when I came around with
+my cart. . . .”
+Such episodes promoted fear and concerns about the vaccine in
+vaccine-hesitant HCWs and provided additional evidence to
+support antivaccine sentiments.
+3. Misconceptions of inﬂuenza immunizations
+Several common misconceptions about inﬂuenza immunizations were used to justify not being immunized:
+ Inﬂuenza vaccine is ineffective at preventing inﬂuenza
+“There’s a portion of people who are against getting the vaccine
+and those people you aren’t going to change their minds
+because they don’t believe the vaccine works.”
+ Inﬂuenza vaccine is unnecessary for healthy individuals
+
+2. Negative personal experiences perceived to be associated with
+inﬂuenza immunizations
+
+“A lot of people don’t get the ﬂu shot, they’ll say, ‘I’m healthy,’ ‘I
+don’t need it.’ So that’s their rationale for not getting the ﬂu shot.
+. . . what people get from the advertisements is you really only
+need it if you’re sick or in the nursing home or you have a lot of
+health issues.”
+
+In some acute care hospitals, immunization uptake was inﬂuenced by negative events experienced by HCWs as a result of their
+occupation.
+
+ Vaccine should not be given to pregnant women or those with
+contraindication concerns (eg, egg allergies) because it is not
+safe
+
+1020
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 1017-23
+
+“There were a couple of women who were pregnant and their
+friends told them never to get the ﬂu shot ‘cause, you know,
+‘your baby will die,’ things like that, you know.”
+ Vaccine is not safe because it can cause neurological disorders
+“A lot of people last year were really scared of GBS. So they felt
+that the ingredients or preservatives were causing the neurological disorder and that actually some people went as far as
+saying that I was injecting them with diseases.”
+Inﬂuenza vaccine causes inﬂuenza
+“And there’s people that hear gossip that somebody got sick
+because they had the ﬂu needle. And all you can do is continue
+to educate the staff and put posters up and explain to them that
+no, you cannot get sick from getting a ﬂu needle. It doesn’t give
+you the ﬂu. . . .”
+4. Inﬂuence of H1N1 pandemic on subsequent immunization
+programs
+Seven participants representing 5 organizations mentioned that
+immunization rates were high during the 2009 A/H1N1 pandemic
+but had dropped signiﬁcantly in subsequent years. Increased fear
+about disease severity and vaccine rationing were mentioned as
+reasons to explain the high pandemic vaccine coverage rates.
+Because vaccine was initially provided only to speciﬁc groups of
+HCWs, this stimulated demand and motivated HCWs to be immunized. Three participants attributed low coverage in the following
+season to negative media coverage and conﬂicting messages from
+health ofﬁcials during the pandemic and confusion about ingredients of the 2010-2011 seasonal vaccine.
+“And something happened in 2010, with regard to the number
+of staff that wanted to accept the [seasonal] vaccine. . . . We’ve
+seen a big drop since they put the H1N1 in there. Also we tried to
+do a lot of education this year for staff around the fact that the
+vaccine always has three strains and that the H1N1 is just one of
+those strains. But it doesn’t seem to be catching on.”
+“And then with H1N1, people were kind of scared so more
+people got it [the vaccine] that year. So I got a better turnout. I
+think it was from fear. . . .”
+“I was an immunizer here and it was very upsetting because one
+day they [health ofﬁcials] said, ‘Oh, you have to separate the
+shots two weeks apart.’ Then a little while later, they said, ‘No,
+you don’t separate the shots. You can give one in each arm.’ Then
+came, ‘No, you can give both in the same arm.’ And that was only
+one example of misinformation that went on with H1N1. We
+lost a lot of credibility there.”
+“Our rates were quite high until [after the pandemic]dthey
+were the highest in 2009. The following year they went back
+down probably ten to twenty percent. . . . I guess all the negative
+media coverage caused a lot of doubt in people’s minds. So now
+it feels like we’re kind of starting over in the education process.”
+
+Mandatory inﬂuenza immunization policies
+All participants mentioned that their organization had policies
+or procedures recommending inﬂuenza vaccinations for HCWs and
+provided this to employees free of charge; most made it a requirement during inﬂuenza outbreaks. However, none of the organizations had a mandatory policy requiring seasonal inﬂuenza
+vaccination for HCWs outside of an outbreak scenario. Three
+
+organizations required inﬂuenza immunization for external groups
+(eg, students, contractors).
+Participants expressed frustration that a voluntary program was
+inadequate for obtaining high coverage. Several stated that
+a mandatory program was the only solution for reaching and
+sustaining high coverage in HCWs, although they recognized
+potential concerns and challenges. Nine participants shared their
+thoughts about the positive attributes and anticipated challenges of
+a mandatory policy.
+
+Reasons to support a mandatory inﬂuenza immunization policy
+Participants believed that, in addition to existing program
+strategies, a mandatory policy was needed to improve coverage.
+Without a mandatory program, organizations would continue to
+struggle with inﬂuenza immunization.
+“Until it’s mandatory, organizations ﬂounder and we do the best
+we can with intimidation and prizes. It’s like measles, mumps,
+rubella. I can run you off the stats for measles, mumps, rubella
+and I will tell you every employee in this hospital is immunized
+and they’ve had [immunization] done. For hepatitis B, everybody who has a potential to bedhave contact with bloodd
+they’re immunized against hep B, because it’s mandated. . . .
+Until they do that for inﬂuenza immunization, organizations are
+just going to ﬂounder. With measles, mumps, rubella, it’s
+mandatory that you’re immunized.”
+Others cited how mandatory policies in the United States have
+improved coverage. Mandating the vaccine would reinforce HCWs’
+professional responsibilities to protect their patients while also
+increasing conﬁdence and support for the vaccine.
+“If the inﬂuenza vaccination was mandated, I think the staff
+would see it not so much as their right to choose [but] as
+a responsibility part of it as being a health care worker, being
+willing to get the vaccine. I don’t like to see mandates, but I don’t
+see any other option with the current negative publicity
+regarding immunizations. . . . They would believe that the
+vaccine is safe if it was mandatory. . . .”
+A few participants mentioned that having a mandatory policy
+would make their jobs easier.
+
+Challenges associated with a mandatory policy
+Although participants recognized positive aspects of mandatory
+policies, many also had concerns about implementation challenges.
+1. Loss of personal autonomy
+Participants were concerned that a mandatory policy would
+curtail personal autonomy by eliminating an individual’s right to
+choose whether to be immunized. This concern was consistent
+across different types of organizations. Participants suspected this
+could increase resistance to immunization and discontent among
+HCWs. Mandatory immunizations would be a violation of human
+rights, as demonstrated by the repeal of the Ontario mandatory
+legislation for paramedics. A few mentioned that vaccination was
+a personal choice that required informed consent. Although some
+participants mentioned that they would support a mandatory
+policy as it related to their occupational role, they had difﬁculties
+accepting the limits on personal autonomy that would be imposed
+by such a policy and mentioned it would be uncomfortable to
+enforce.
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 1017-23
+
+“We talked about trying to make it [inﬂuenza immunization]
+mandatory here this year. This was brought on by a new
+administrator. But our understanding is that that’s against
+human rights or something. So we didn’t do that [this year].”
+“I have a real ethical problem with that [mandatory immunizations]. The nurse in me says it should be mandatory. But
+then the citizen in me says what happened to free choice?
+It’s a conﬂict. And why should it be mandatory for health
+care workers and not mandatory for the person who works
+in my bank who can cough on me and infect me or other
+people?”
+“We [senior management] thought that some of them [HCWs]
+would really get their backs up. People don’t like to be told what
+to do and some who might actually take it [the vaccine]
+wouldn’t take it just because we were trying to force them into
+it. . . . I don’t believe you can force somebody to do something
+just because they’re a health care worker. Is it best practice?
+Sure. Should people do it? Sure. But everybody has their own
+choice. . . .”
+2. Support from all external and internal stakeholders
+Many participants mentioned that they needed support and
+direction from internal and external stakeholders to implement
+and enforce a mandatory policy. Internal stakeholders included
+HCWs and senior management. External stakeholders included
+governments, academic institutions, union groups, the general
+public, and health care professional bodies. Obtaining support from
+internal and external stakeholders was more commonly mentioned
+by participants representing acute care hospitals than continuing
+care organizations. For example, 2 of the organizations that
+required students to be immunized encountered resistance from
+academic institutions and parents, making it challenging to
+enforce.
+“We get pushback [about requiring inﬂuenza immunization]
+from the academic institutions ‘cause they say you don’t
+mandate it for your own staff.”
+“Our requirement for students coming into the workplace is
+they must have the ﬂu shot. Like, they cannot start their
+placement here if they do not have it. And I’ve had mothers call
+me and say that I’m harassing their child. . . . I’m not harassing
+your child. Your child just doesn’t have to come here for
+a placement; it’s as simple as that.”
+“I think one of the things with inﬂuenza immunization is we all
+have looked towards the government and the health units and
+the ministries to make it mandatory.”
+3. Implementation and enforcement
+A few participants had concerns about who would enforce
+a mandatory policy and how it would be enforced since substantial
+resources would be required to support implementation.
+“We were talking about it being mandatory for all staff. And
+we’re like, ‘Well, the physicians work very closely with the
+residents, so who’s going to make sure they have ﬂu shots?’ And
+I’m like, ‘I’m not doing that.’ Not that I wouldn’t. . . . But I just
+assume that they take it. But I’m not going to be polling them
+[physicians] and trying to make them take them if they don’t
+want to.”
+“Yeah, it’s hard to actually be the one to go on the frontlines and
+[enforce it]. And then you get into all of the [documentation].
+
+1021
+
+Well, you know, if you’re not going to take it, do you need
+a doctor’s note?”
+4. Union groups
+Union support was described as being important by participants
+in all types of organizations. Participants provided examples from
+the Ontario paramedics’ union experience. Because of this experience, some participants perceived that a mandatory approach
+would never work in Canada.
+“I know this will never happen, but, I think if there’s something
+that could come from the unions that represent our staff, the
+nurses union and the union that represents housekeeping and
+the kitchen, just saying, ‘we’re also interested in the health of
+our union members’. . . . They should support this initiative, too.
+But I don’t think that will ever happen”
+“It’s basically a human rights and arbitration decision. So that’s
+mainly union-driven that cause a problem. ‘Cause I know they
+tried to mandate the ambulance workers in Ontario, but they
+obviously won the grievance that they could still decline and
+they wouldn’t lose their jobs.”
+“They (senior management) have talked about it [mandatory
+immunizations], but nothing’s in the works yet ‘cause it’s such
+a grey area, especially where everybody’s unionized.”
+
+DISCUSSION
+We found that voluntary inﬂuenza immunization programs
+struggle to achieve high coverage among HCWs despite myriad
+educational and promotional activities. Participants expressed
+frustration with the current state and thought their efforts were
+inadequate. Although mandatory inﬂuenza immunization is
+a potential solution, many participants were concerned about
+implementation and acceptability.
+Low HCW inﬂuenza immunization coverage has been an
+ongoing challenge for most health care organizations, yet not all
+evidence-based strategies (eg, declination forms, reporting of rates,
+immunization champions, peer immunizers) are universally
+employed. For example, although declination forms are associated
+with improving coverage, only 32% of Canadian health care organizations use them.17 Some study participants report coverage rates
+to staff and public health, but none report rates to the public
+because this is not a requirement and may generate negative
+repercussions.
+Despite extensive education about the vaccine, common
+misconceptions persist. Similar to other studies, participants
+mentioned that HCWs perceived the vaccine to be ineffective,
+unsafe, and unnecessary for healthy individuals.18 HCW groups and
+departments often exhibit similar immunization behaviors,
+consistent with the normative belief concept in the Theory of
+Planned Behavior, which suggests that perceived social pressure
+from signiﬁcant others can inﬂuence one’s behavior.19 Other studies
+have also demonstrated that HCWs take into consideration peer
+opinions about vaccinations.20,21 To overcome this, immunization
+champions can be used to better promote and expand the
+campaign to the frontlines by inﬂuencing attitudes about inﬂuenza
+immunizations and fostering a patient safety culture. In BC and
+Nova Scotia, immunization champions encourage fellow HCWs to
+accept inﬂuenza vaccination, and they also help administer
+vaccines.22,23 Addressing common misconceptions and developing
+a culture that fosters social acceptance of inﬂuenza immunization
+can increase coverage.
+
+1022
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 1017-23
+
+Although not all evidence-based strategies are used, participants thought that a saturation point has been reached for voluntary strategies, and several mentioned mandatory inﬂuenza
+immunization policies as a potential solution. Participants elucidated factors necessary to implement mandatory policies in
+Canada.
+Mandatory policies require support and guidance from multiple
+stakeholders, including senior management. Strong commitment of
+senior leadership was a key factor identiﬁed by US health care organizations with successful mandatory policies.5,7 Other factors that
+support mandatory policies include early delivery of information and
+education to staff, extensive communication, reliable and extensive
+vaccine distribution plan including multiple delivery methods, ability
+to track employees to ensure compliance, and accountability from
+frontline managers.5,7 Whereas some of these are already routine,
+additional time and resources may be required to expand their scope
+when implementing a mandatory policy.
+Obtaining support from unions was also mentioned as
+a prerequisite to mandatory policies in Canada. Approximately 61%
+of HCWs are unionized, with nurses having the highest percentage
+of unionization at 79%.24 In contrast, only 13% of HCWs in the
+United States are unionized.25 Thus, because the majority of
+Canadian HCWs are represented by unions, working with union
+leadership to develop mandatory policies is critical. Without their
+support, grievances can compromise policy implementation, as
+mentioned by several participants. For example, condition of
+service policies requiring HCWs to either be immunized or wear
+a mask throughout inﬂuenza season were introduced in both BC
+and in 1 of the health authorities in NB in 2012 (M. Babineau,
+personal communication; April 29, 2013). Those who did not follow
+the policy would face disciplinary procedures. The BC Nurses’
+Union launched a grievance over the policy, stating vaccination
+should remain a voluntary choice and that nurses should retain the
+right to exercise their professional judgement.26 In contrast, the
+nurses’ union in NB supported the policy based on improved
+patient care and safety (M. Quinn, personal communication; April
+29, 2013). Although conditions of the 2 policies were fairly similar,
+successful implementation depended on support from unions and
+government stakeholders. Ideally, health care leaders should
+involve union leaders and other important stakeholders early in the
+policy development stages and in the collective bargaining agreement to ensure the process stays centered on balancing patient
+safety needs with workers’ rights.
+Participants had concerns about the limits that mandatory
+policies would place on personal autonomy and the tension
+between individuals’ right to choose versus the greater societal
+good. This ideology can be traced to the Canadian Charter of Rights
+and Freedom, which broadly describes the rights of individuals as
+part of the Constitution of Canada.27 In the interviews, half of the
+respondents who mentioned this tension were from Ontario where
+the Charter of Rights and Freedom was applied to the 2002 paramedic’s case. In that case, the labor union argued that the
+requirement was a violation of individual rights and freedoms.
+However, in a 2009 review of the legislation and rulings
+surrounding this issue, Rodal et al found that, in some circumstances, condition of service requirements for HCW inﬂuenza
+immunization could be justiﬁable under the Charter.28 Proponents
+for mandating inﬂuenza immunizations argue that HCWs who care
+for patients accept an ethical obligation governed by the Hippocratic Oath: ﬁrst, do no harm.29 This is consistent with National
+Advisory Committee on Immunization’s argument that “HCWs who
+have direct patient contact should consider it their responsibility to
+provide the highest standard of care, which includes annual inﬂuenza vaccination. In the absence of contraindications, refusal of
+HCWs who have direct patient contact to be immunized against
+
+inﬂuenza implies failure in their duty of care to patients.” Similarly,
+the Canadian Nurses Association considers mandatory immunization policies by employers to be in agreement with the Code of
+Ethics for Registered Nurses in Canada and the obligation to act in
+the public interest.30 The Association of Medical Microbiology and
+Infectious Disease Canada issued a recent position paper stating
+that immunization as a condition of employment was ethically
+justiﬁed because HCWs have speciﬁc obligations to do no harm and
+to take all reasonable action to protect patients, over HCWs’
+personal preferences.31 Offering an alternative to vaccination such
+as wearing a mask or being reassigned to another work setting
+where patient contact is limited may provide the balance needed to
+protect both personal autonomy and professional obligations.
+Strengths and limitations
+Participation was voluntary, and, at the start of each interview,
+privacy was assured; therefore, we are conﬁdent that individuals
+thought they could be open and honest in their responses. The
+themes explored in this study were not preidentiﬁed and emerged
+at the data analysis stage, after the interviews had been completed.
+Therefore, in-depth probing of these topics did not occur. The
+results reﬂect the spontaneous thoughts of the participants rather
+than any guidance from the interviewer. Our study did not include
+representation from all the provinces and territories. Finally, the
+participants reﬂect a small sample of individuals who manage
+immunization programs; therefore, these results cannot be generalized to all inﬂuenza immunization program planners in Canada.
+CONCLUSION
+In summary, this study provides a glimpse into the challenges of
+implementing voluntary inﬂuenza immunization programs in health
+care settings. Based on the interviews, the majority of participants
+was frustrated at the current status and perceived that existing
+promotional and educational activities had minimal impact on
+coverage. Similarly, many Canadian health care organizations and
+governments have also realized this, leading to increased advocacy
+for mandatory approaches or condition of service policies.14,29,32
+Whereas many recognized the potential beneﬁts of mandatory
+inﬂuenza immunization policies on coverage, more work is needed
+to understand how to best implement such a strategy in the current
+Canadian environment. Moving forward, health care and public
+health leaders must engage HCWs and other stakeholders to determine how to balance personal autonomy against the need to
+immunize HCWs as part of an effective inﬂuenza prevention strategy.
+Acknowledgment
+The authors thank the study participants for their involvement.
+References
+1. Centers for Disease Control and Prevention. Options for controlling inﬂuenza.
+November 30, 2012. Available from: http://www.cdc.gov/ﬂu/professionals/
+acip/options.htm. Accessed April 14, 2013.
+2. National Advisory Committee on Immunization (NACI). Recommendations on
+the use of live, attenuated inﬂuenza vaccine (FluMist). Supplemental statement
+on seasonal inﬂuenza vaccine for 2011-2012. 37 ed. Ottawa [Canada]: Public
+Health Agency of Canada; 2011. p. 1-77.
+3. Toronto Public Health. Inﬂuenza immunization rates of healthcare workers in
+Toronto healthcare facilities (2011). Toronto: City of Toronto; 2011.
+4. Wellington-Dufferin-Guelph Public Health Unit. Inﬂuenza immunization rates
+for healthcare workers in long-term care homes, retirement homes, and
+hospitals, in Wellinton-Dufferin-Guelph for the 2010-2011 season. March 9,
+2011. Available from: http://www.wdgpublichealth.ca/sites/default/ﬁles/
+wdgphﬁles/BH_01_03_02_0311%20inﬂuenza%20immunization%20rates(2).pdf.
+Accessed April 14, 2013.
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 1017-23
+5. Robert M, Rakita MD, Beverly A, Hagar BC, Patricia Crome MN, Joyce K, et al.
+Mandatory inﬂuenza vaccination of healthcare workers: a 5-year study. Infect
+Control Hosp Epidemiol 2010;31:881-8.
+6. Poland GA, Tosh P, Jacobson RM. Requiring inﬂuenza vaccination for health
+care workers: seven truths we must accept. Vaccine 2005;23:2251-5.
+7. Huynh S, Poduska P, Mallozzi T, Culler F. Mandatory inﬂuenza vaccination of
+health care workers: a ﬁrst-year success implementation by a community
+health care system. Am J Infect Control 2012;40:771-3.
+8. Miller BL, Ahmed F, Lindley MC, Wortley PM. Increases in vaccination coverage
+of healthcare personnel following institutional requirements for inﬂuenza
+vaccination: a national survey of US hospitals. Vaccine 2011;29:9398-403.
+9. Babcock HM, Gemeinhart N, Jones M, Dunagan WC, Woeltje KF. Mandatory
+inﬂuenza vaccination of health care workers: translating policy to practice. Clin
+Infect Dis 2010;50:459-64.
+10. Walkinshaw E. Mandatory vaccinations: the Canadian picture. Can Med Assoc J
+2011;183:E1165-6.
+11. Mah CL, Guttman A, McGeer A, Krahn M, Deber RB. Compulsory school-entry
+vaccination laws and exemptions: who is opting out in Ontario and why
+does it matter? Health Policy 2010;5:37-46.
+12. Swendiman KS. Mandatory vaccinations: precedent and current laws. Washington [DC]: Congressional Research Service; 2011. p. 1-9. Available from:
+http://www.fas.org/sgp/crs/misc/RS21414.pdf. Accessed April 13, 2013.
+13. BC Centre for Disease Control. Immunize BC: Inﬂuenza control policy–wearing
+masks. Available from: http://immunizebc.ca/healthcare-professionals/inﬂuenzacontrol-policy-wearing-masks. Accessed April 14, 2013.
+14. British Columbia Ministry of Health. Clariﬁcation on the health care worker ﬂu
+policy. December 4, 2012. Available from: http://www2.news.gov.bc.ca/news_
+releases_2009-2013/2012HLTH0143-001960.htm. Accessed April 14, 2013.
+15. Rod Mickleburgh. Flu shot policy for health-care workers sparks backlash. The
+Globe and Mail. 2013 Nov 21;Sect Health. Available from: http://www
+.theglobeandmail.com/news/british-columbia/ﬂu-shot-policy-for-health-careworkers-sparks-backlash/article5547136/. Accessed April 13, 2013.
+16. CUPE Ontario. Controversial mandatory ﬂu shot scrapped, paramedics elated
+over health ministry policy reversal. October 3, 2002. Available from: http://
+archive.ontario.cupe.ca/news/nr021003-1.html. Accessed April 14, 2013.
+17. Quach S, Pereira JA, Hamid JS, Crowe L, Heidebrecht CL, Kwong JC, et al.
+Measuring inﬂuenza immunization coverage among health care workers in
+acute care hospitals and continuing care organizations in Canada. Am J Infect
+Control 2013;41:340-4.
+18. Steiner MP, Vermeulen LCRMS, Mullahy JP, Hayney MSSP. Factors inﬂuencing
+decisions regarding inﬂuenza vaccination and treatment: a survey of healthcare workers. Infect Control Hosp Epidemiol 2002;23:625-7.
+
+1023
+
+19. Ajzen I. The theory of planned behavior. Organ Behav Hum Dec 1991;50:179-211.
+20. Baron G, De Wals P, Milord F. Vaccination practices of Quebec family physicians: inﬂuenza vaccination status and professional practices for inﬂuenza
+vaccination. Can Fam Physician 2001;47:2261-6.
+21. Gaston Godin P, Lydi-Anne Vézina-Im MS, Herminé Naccache MS. Determinants of inﬂuenza vaccination among healthcare workers. Infect Control Hosp
+Epidemiol 2010;31:689-93.
+22. Slaunwhite JM, Smith SM, Fleming MT, Strang R, Lockhart C. Increasing
+vaccination rates among health care workers using unit “champions” as
+a motivator. Can J Infect Control 2009;24:159-64.
+23. Vancouver Island Health Authority. Inﬂuenza Protection Policy. November 15,
+2012. Available from: http://www.viha.ca/NR/rdonlyres/9898A5FA-6994-4A53AED2-6144A066D70C/0/924_viha_inﬂuenza_protection_policy.pdf.
+Accessed
+April 25, 2013.
+24. Uppal S. Unionization 2011. Ottawa [Canada]: Statistics Canada; 2011. p. 8.
+Available from: http://www.statcan.gc.ca/pub/75-001-x/2011004/article/11579eng.pdf. Accessed April 12, 2013.
+25. Bureau of Labor Statistics. US Department of Labor. Union Members-2012.
+January 23, 2013. Available from: http://www.bls.gov/news.release/pdf/
+union2.pdf. Accessed April 25, 2013.
+26. BC Nurses' Union. Inﬂuenza policy enforcement provisions suspended.
+December 5, 2012. Available from: https://www.bcnu.org/News/news.aspx?
+page¼Bulletins_December%205_1,%202012. Accessed April 14, 2013.
+27. Justice Laws Website, Government of Canada. Constitution act, 1982 c. 11
+schedule B. Part 1: Canada charter of rights and freedoms. Available from: http://
+laws-lois.justice.gc.ca/eng/Const/page-15.html#h-44. Accessed January 30, 2013.
+28. Rodal RN, Wilson K. Inﬂuenza vaccination for health care workers: towards
+a workable and effective standard. Health Law J 2009;17:297-337.
+29. Flegel K. Health care workers must protect patients from inﬂuenza by taking
+the annual vaccine. Can Med Assoc J 2012;184:1873.
+30. Canadian Nurses Association. Position statement: Inﬂuenza immunization of
+Registered Nurses. Available from: http://www2.cna-aiic.ca/cna/documents/
+pdf/publications/PS_Inﬂuenza_Immunization_for_RNs_e.pdf. Accessed April
+14, 2013.
+31. Bryce E, Embree J, Evans G, Johnston L, Katz K, McGeer A, et al. 2012 Mandatory
+inﬂuenza immunization of healthcare workers (AMMI Canada Position Paper).
+Can J Infect Dis Med Microbiol 2012;24:12.
+32. Provincial Infectious Diseases Advisory Committee (PIDAC). Best practices
+for infection prevention and control programs in Ontario: in all health care settings.
+3rd ed. Ontario: Public Health Ontario; 2012. p. 30-2. Available from: http://www
+.healthunit.biz/WhatNowLTCH/BP%20for%20Infection%20PRevention%20&%20
+Control%20Programs%20May%202012.pdf. Accessed April 14, 2013.
+
+

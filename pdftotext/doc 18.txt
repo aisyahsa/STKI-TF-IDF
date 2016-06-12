@@ -1,0 +1,780 @@
+SSM -Population Health 2 (2016) 244–248
+
+Contents lists available at ScienceDirect
+
+SSM -Population Health
+journal homepage: www.elsevier.com/locate/ssmph
+
+Article
+
+Food and housing insecurity and health status among U.S. adults
+with and without prior military service
+Marc B. Schure a,n, Jodie G. Katon b,c,d, Edwin Wong b,d, Chuan-Fen Liu b,d
+a
+
+Montana State University, Department of Health & Human Development, Bozeman, MT, United States
+Health Services Research and Development (HSR&D), VA Puget Sound Health Care System, Seattle, WA, United States
+c
+VA Ofﬁce of Patient Care Services, Ofﬁce of Women’s Health Services, Department of Veterans Affairs, Washington, DC, United States
+d
+University of Washington, School of Public Health, Department of Health Services, Seattle, WA, United States
+b
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 23 October 2015
+Received in revised form
+11 April 2016
+Accepted 11 April 2016
+
+Food and housing insecurity may contribute to poorer mental and physical health. It is unclear as to
+whether those with prior military service, compared to those without, are more vulnerable to these
+current stressors. The objective of this study was to use U.S. population-based data to determine whether
+prior military service moderates the association of food and housing insecurity with poor mental and
+physical health.
+We analyzed data from nine states administering the Social Context module from the 2011 and 2012
+Behavioral Risk Factor Surveillance System. Multivariable logistic regression was used to examine the associations of housing and food insecurity with poor mental and physical health and potential modiﬁcation by
+military service. Compared with those with a history of military service, those without had higher prevalence
+of food insecurity (23.1% versus 13.7%) and housing insecurity (36.0% versus 22.5%). Food insecurity was
+associated with poor mental and physical health (mental health: odds ratio (OR)¼3.47, 95% conﬁdence interval
+(CI)¼[3.18–3.77]; physical health: OR¼3.21, 95% CI¼[2.92–3.53]). Similar associations were observed between
+housing insecurity and poor mental and physical health. Prior military service was signiﬁcantly associated with
+poor physical health. Interaction terms of prior military service with food and housing were not statistically
+signiﬁcant. Food and housing insecurity does not appear to differentially impact mental and physical health
+among those with and without military service.
+& 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Food and housing insecurity
+Mental and physical health
+Military service
+
+Introduction
+Individuals with prior military experience are a unique population and may provide insights regarding the effects of social
+stressors on vulnerability and resilience (King, King, Foy, Keane,
+& Fairbank, 1999). Competing hypotheses exist as to whether this
+population is psychologically and physically more vulnerable or
+resilient to current stressors (Aldwin & Stokols, 1988; Elder &
+Clipp, 1989). Many individuals may join the military to escape
+dysfunctional and chaotic situations, suggesting that despite
+exposure to early adversity, this population may have an increased
+capacity for resilience (Blosnich, Dichter, Cerulli, Batten, & Bossarte, 2014; Katon et al., 2015). Nevertheless, compared with those
+without military service, those with such a history consistently
+report poorer physical and mental health (Hoerster et al., 2012;
+Lehavot, Hoerster, Nelson, Jakupcak, & Simpson, 2012). Thus, it is
+possible that early adverse experiences, coupled with militaryn
+Correspondence to: Montana State University, PO Box 173540, Bozeman, MT
+59717, United States.
+
+related trauma may increase vulnerability to long-term social
+stressors (Aldwin, Levenson, & Spiro, 1994). Yet, it remains unclear
+whether social stressors may differentially contribute to observed
+health disparities among those with a history of military service.
+Food and housing insecurity are two types of social stressors
+that can have a profound impact on health (Braveman, Egerter,
+& Williams, 2011; Commision on Social Determinants of Health
+(CSDH), 2008; Ofﬁce of Disease Prevention and Health Promotion,
+2015). In 2013, approximately 14% of U.S. households were food
+insecure, deﬁned as having restricted access to safe and healthy
+foods (Coleman-Jensen, Gergory, & Singh, 2014). Adverse living
+conditions, such as crowded living and high housing cost to
+income ratio, represent housing insecurity (Johnson & Meckstroth,
+1998); In 2014, 40% of adults reported that mortgage or rent were
+signiﬁcant sources of stress (American Psychological Association,
+2015).
+A growing body of evidence demonstrates the link between
+food and housing insecurity and poor health behaviors and
+healthcare access. For example, 43% of US adults reported that
+they have eaten too much or have eaten unhealthy foods because
+
+http://dx.doi.org/10.1016/j.ssmph.2016.04.003
+2352-8273/& 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+M.B. Schure et al. / SSM -Population Health 2 (2016) 244–248
+
+of stress (American Psychological Association, 2015). Twenty percent of US adults reported having or considered skipping an
+annual doctor visit due to ﬁnancial concerns (American Psychological Association, 2015). Food and housing insecurity may also
+contribute to unhealthy weight status among youth and adults
+(Casey et al., 2006; Cutts et al., 2011; Pan, Sherry, Njai, & Blanck,
+2012; Rose & Bodor, 2006), and are associated with increased
+emergency room use, hospitalization, and poor mental health
+(Heﬂin, Siefert, & Williams, 2005; Kushel, Gupta, Gee, & Haas,
+2006; Whitaker, Phillips, & Orzol, 2006).
+Identifying population segments more vulnerable to poor
+health is crucial to direct funding for appropriate evidence-based
+programs and services and to address existing health disparities.
+Little knowledge exists as to whether social stressors differentially
+impact the health of those with and without prior military service.
+Therefore, the objective of this study was to use U.S. populationbased data to determine whether prior military service moderates
+the association of food and housing insecurity with poor mental
+and physical health.
+
+245
+
+the cutoff value of 4 6 days to indicate poor mental health (Bossarte, He, Claassen, Knox, & Tu, 2011) and 4 14 days to indicate
+poor physical health (Centers for Disease Control and Prevention,
+2000).
+The two independent variables of interest were dichotomous
+measures of housing and food insecurity. Housing insecurity was
+based on responses to the question “How often in the past 12
+months would you say you were worried or stressed about having
+enough money to pay your rent/mortgage?” Food insecurity was
+derived from the question “How often in the past 12 months
+would you say you were worried or stressed about having enough
+money to buy nutritious meals?” Response options included
+“never,” “rarely,” “sometimes,” “usually,” and “always.” Consistent
+with other studies (Liu, Njai, Greenlund, Chapman, & Croft, 2014;
+Pan et al., 2012), we classiﬁed those as having food and housing
+insecurity if their responses included “sometimes,” “usually,” or
+“always.”
+Demographics included sex, age (18–44, 45–65, and Z 65
+years), race/ethnicity (Non-Hispanic White, Non-Hispanic Black,
+Hispanic, and other/mixed race), education (o12, 12, and 4 12
+years), and current marital/partnership status.
+
+Methods
+Data were derived from respondents in nine states (Hawaii,
+Illinois, Massachusetts, Michigan, Nebraska, New Jersey, North
+Carolina, Oklahoma, and Wyoming) administering the Social
+Context module as part of the 2011 or 2012 Behavioral Risk Factor
+Surveillance System (BRFSS). BRFSS is an annual cross-sectional
+telephone survey coordinated between state health departments
+and the Centers for Disease Control and Prevention (Centers for
+Disease Control and Prevention, 2013c). BRFSS is administered via
+random-digit dialing of landline and cell phones of noninstitutionalized adults agedZ18 years using a cluster stratiﬁed random sampling design. Details on methodology used in
+the collection of BRFSS data have been previously documented
+(Centers for Disease Control and Prevention, 2013c). State-level
+BRFSS datasets were appended after accounting for each state's
+independent sampling methodology. Response rates for the four
+states in 2011 ranged from 43.1% to 60.9% and for the seven states
+in 2012 ranged from 38.0% to 47.8% (Centers for Disease Control
+and Prevention, 2013a, 2013b). The analytic sample included
+81,405 (71.4%) of 113,983 respondents to the Social Context
+module, after excluding those with missing (i.e., ‘not applicable,’
+‘refused,’ and ‘don’t know/not sure’ responses) responses to
+questions about military service status (n ¼184), food insecurity
+(n ¼22,009), housing insecurity (n ¼29,929), mental health
+(n ¼1937), and physical health (n ¼2445). To assess the potential
+non-respondent bias to the independent variables, we compared
+those with and without missing values on the independent
+variables.
+Measures
+Prior military service status (yes/no) was obtained from selfreported responses to the question “Have you ever served on
+active duty in the United States Armed Forces, either in the regular
+military or in a National Guard or military reserve unit?”
+Dependent variables were measures of poor mental and physical health. The mental health measure was derived from the
+question “Now thinking about your mental health, which includes
+stress, depression, and problems with emotions, for how many
+days during the past 30 days was your mental health not good?”
+The physical health measure was derived from the survey question
+“Now thinking about your physical health, which includes physical
+illness and injury, for how many days during the past 30 days was
+your physical health not good?” Based on prior literature, we used
+
+Statistical analysis
+First, we calculated observed distributions and weighted percentages of selected demographic characteristics by prior military
+Table 1
+Population characteristics of U.S. adults by prior military service, 2011–2012
+Behavioral Risk Factor Surveillance Systema (n ¼ 81,405).
+Characteristic
+
+Prior military service status
+Without
+
+Total
+Sex
+Male
+Female
+Age, yr
+18-44
+45-64
+Z65
+Race/ethnicity
+Non-Hispanic White
+Non-Hispanic Black
+Hispanic
+Other/mixed race
+Married/living together
+Education, yr
+o12
+12
+412
+Food Insecurityd
+Housing Insecuritye
+Poor mental healthf
+Poor physical healthg
+
+With
+
+Nb
+
+% (95% CI)c
+
+Nb
+
+% (95% CI)c
+
+71,290
+
+100.0
+
+10,115
+
+100.0
+
+23,065
+48,225
+
+42.8 (42.0–43.5)
+57.2 (56.5–58.0)
+
+9310
+805
+
+92.7 (91.8–93.6)
+7.3 (6.4–8.2)
+
+20,901
+30,003
+19,924
+
+47.2 (46.5–48.0)
+37.3 (36.6–38.0)
+15.5 (15.1–15.9)
+
+1296
+3350
+5416
+
+21.8 (20.1–23.6)
+35.7 (34.0–37.5)
+42.5 (40.8–44.2)
+
+54,534
+6063
+1949
+8343
+40,682
+
+69.2 (68.4–69.9)
+13.0 (12.5–13.5)
+6.1 (5.6–6.6)
+11.7 11.2–12.3)
+54.1 (53.5–54.8)
+
+8185
+725
+172
+952
+6518
+
+77.8 (76.1–79.4)
+12.8 (11.4–14.3)
+2.2 (1.7–2.9)
+7.2 (6.3–8.2)
+66.5 (65.0–67.9)
+
+5595
+20,896
+44,690
+14,137
+21,928
+10,675
+12,180
+
+13.4 (12.7–14.0)
+28.1 (27.4–28.8)
+58.5 (57.8–59.3)
+23.1 (22.4–23.7)
+36.0 (35.2–36.7)
+16.9 (16.3–17.5)
+16.1 (15.5–16.7)
+
+545
+3007
+6554
+1091
+1839
+1081
+1962
+
+8.4 (6.9–9.2)
+31.1 (28.6–32.0)
+60.5 (60.0–63.5)
+13.7 (12.3–15.1)
+22.5 (20.8–24.1)
+12.6 (11.3–13.9)
+19.9 (18.5–21.3)
+
+a
+Sample is drawn from respondents in nine states that responded to the social
+context optional module in either 2011 or 2012.
+b
+Unweighted sample size.
+c
+Weighted percentage and 95% Conﬁdence Interval (CI).
+d
+Food insecurity was deﬁned as response of "sometimes," "usually,", or
+"always" to the question of feeling worried or stressed about having enough money
+to buy nutritious meals.
+e
+Housing insecurity was deﬁned as response of "sometimes," "usually,", or
+"always" to the question of feeling worried or stressed about having enough money
+to pay rent or mortgage.
+f
+Poor mental health was deﬁned using the cutoff of Z 6 days in the past
+30 days.
+g
+Poor physical health was deﬁned using the cutoff of Z14 days in the past
+30 days.
+
+246
+
+M.B. Schure et al. / SSM -Population Health 2 (2016) 244–248
+
+Table 2
+Population prevalence of poor mental and physical health among U.S. adults by population characteristics, 2011–2012 Behavioral Risk Factor Surveillance Systema
+Characteristic
+
+Poor mental healthb
+% (95% CI)d
+
+Sex
+Male
+Female
+Age, yr
+18–44
+45–64
+Z 65
+Race/ethnicity
+Non-Hispanic White
+Non-Hispanic Black
+Hispanic
+Other/mixed race
+Married/living together
+Yes
+No
+Education, yr
+o 12
+12
+412
+Prior military service
+No
+Yes
+Food insecuritye
+No
+Yes
+Housing insecurityf
+No
+Yes
+Poor mental health
+No
+Yes
+Poor physical health
+No
+Yes
+
+Poor physical healthc
+P -value
+
+% (95% CI)d
+
+o .001
+13.8 (13.0–14.6)
+18.9 (18.1–19.6)
+
+o .001
+14.7 (13.9–15.4)
+18.1 (17.4–18.8)
+
+o .001
+18.7 (17.7–19.7)
+16.9 (16.2–17.7)
+10.0 (9.3–10.7)
+
+o .001
+12.4 (11.5–13.2)
+18.7 (17.9–19.5)
+22.1 (21.3–23.1)
+
+.005
+13.6 (13.4–13.9)
+17.7 (16.8–18.6)
+16.7 (15.2–18.3)
+16.9 (16.2–17.7)
+13.0 (12.5–13.5)
+21.6 (20.8–22.5)
+
+.160
+15.9 (14.8–16.3)
+18.9 (18.2–19.6)
+17.2 (16.6–17.9)
+16.4 (15.6–16.8)
+
+o 0.001
+
+14.6 (14.0–15.1)
+19.3 (18.6–20.1)
+
+o .001
+22.4 (22.0–23.2)
+17.8 (16.8–18.8)
+14.5 (13.8–15.1)
+
+o .001
+
+o .001
+
+o .001
+16.1 (15.5-16.6)
+19.9 (18.8-20.9)
+
+o .001
+11.2 (10.7–11.7)
+34.9 (33.3–36.4)
+
+o .001
+12.1 (11.5-12.6)
+29.7 (28.2-31.2)
+
+o .001
+9.7 (9.1–10.2)
+29.2 (28.0–30.4)
+
+11.8 (11.3–12.4)
+39.7 (38.4–42.1)
+
+o 0.001
+
+27.7 (26.8–28.5)
+18.8 (17.8–19.8)
+12.9 (12.4–13.4)
+
+16.9 (16.3–17.5)
+12.6 (11.3–13.6)
+
+–
+–
+
+P-value
+
+o .001
+12.2 (11.7-12.8)
+24.5 (23.4-25.6)
+
+–
+–
+o .001
+
+11.9 (11.4-12.4)
+39.8 (38.7-40.5)
+
+o .001
+
+–
+–
+
+–
+–
+
+Note: P-values derived from omnibus Wald signiﬁcance tests.
+a
+
+Sample is drawn from respondents in nine states that responded to the social context optional module in either 2011 or 2012.
+Poor mental health was deﬁned using the cutoff of Z 6 days in the past 30 days.
+c
+Poor physical health was deﬁned using the cutoff of Z 14 days in the past 30 days.
+d
+Weighted percentage and 95% Conﬁdence Interval (CI).
+e
+Food insecurity was deﬁned as a response of "sometimes," "usually,", or "always" to the question of feeling worried or stressed about having enough money to buy
+nutritious meals.
+f
+Housing insecurity deﬁned as a response of "sometimes," "usually,", or "always" to the question of feeling worried or stressed about having enough money to pay rent
+or mortgage.
+b
+
+service. Second, we generated the weighted prevalence of poor
+physical and mental health by the selected demographic characteristics and reported food or housing insecurity. The Wald
+signiﬁcance test was used to determine signiﬁcant differences by
+each characteristic. Last, we used multivariable logistic regression
+with military service status as a moderator (military status  food
+insecurity; military status  housing insecurity) using the Wald
+signiﬁcance test to determine statistically signiﬁcant interaction.
+All signiﬁcance levels are denoted at Po .05. Multiple imputation
+was used to impute missing data on the covariates, all of which
+had less than 1% missing in the ﬁnal analytic sample (Little &
+Rubin, 2014). All reported results, other than observed Ns, are from
+the multiple imputation. We used StataCorp Statistical Software
+version 13 for all of the analyses (StataCorp, 2013).
+
+Results
+Among the analytic sample, 71,290 reported no prior military
+service and 10,115 reported some prior military service. The distribution of demographic characteristics by prior military service is
+presented in Table 1. Compared to those with prior military
+
+service, a greater percentage of those without prior military
+experience had food insecurity (23.1% versus 13.7%) and housing
+insecurity (36.0% versus 22.5%). A greater percentage of those
+without prior military service reported poor mental health (16.9%
+versus 12.6%) whereas a greater percentage of those with prior
+military service reported poor physical health (19.9% versus 16.1%).
+Table 2 indicates the sample prevalence of poor mental health
+and poor physical health by demographic characteristics. Poor
+mental health was most common among those who were female
+(P o.001), younger and middle-aged (Po .001), of racial/ethnic
+minority status (P ¼.005), had less years of education (P o.001),
+had no prior military service (P o.001), reported food and housing
+insecurity (P o.001), and had poor physical health (P o.001). Poor
+physical health was most common among those who were female
+(P o.001), older aged (Po .001), had less years of education
+(P o.001), had prior military service (P o.001), reported food
+and housing insecurity (Po .001), and had poor mental health
+(P o.001).
+Table 3 shows the adjusted associations of food and housing
+insecurity with poor physical and mental health with prior military service as a moderator of these associations. In regards to
+mental health, both food and housing insecurity were signiﬁcantly
+
+M.B. Schure et al. / SSM -Population Health 2 (2016) 244–248
+
+Table 3
+Adjusteda logistic regression of food and housing insecurity with poor mental and
+physical health with prior military status as moderator.
+Main predictors
+
+Food Insecurity model
+Food Insecurity
+Prior Military Service (PMS)
+PMS  food insecurity
+Housing Insecurity model
+Housing Insecurity
+Prior Military Service (PMS)
+PMS x Housing Insecurity
+
+Poor mental health
+
+Poor physical health
+
+OR
+
+95% CI
+
+OR
+
+95% CI
+
+3.47
+1.06
+1.19
+
+[3.18–3.77]
+[0.92–1.22]
+[0.92–1.23]
+
+3.21
+1.52
+0.95
+
+[2.92–3.53]
+[1.34–1.73]
+[0.74–1.22]
+
+3.23
+1.10
+1.11
+
+[2.97–3.52]
+[0.94–1.29]
+[0.88–1.40]
+
+2.60
+1.50
+1.08
+
+[2.37–2.84]
+[1.31–1.72]
+[0.86–1.36]
+
+OR ¼ odds ratio; CI ¼ conﬁdence interval.
+a
+
+Adjusted for sex, age, race/ethnicity, education, and marital/partnered status.
+
+associated with poor mental health (OR ¼3.47, 95% CI ¼[3.18–3.77]
+and OR ¼3.23, 95% CI ¼ [2.97–3.52], respectively). Neither prior
+military service or its’ interaction with the insecurity measures
+were signiﬁcantly associated with poor mental health. In regards
+to physical health, both food and housing insecurity were signiﬁcantly associated with poor physical health (OR¼ 3.21, 95% CI ¼
+[2.92–3.53] and OR¼ 2.60, 95% CI ¼ [2.37–2.84], respectively). Prior
+military service was signiﬁcantly associated with poor physical
+health (Food Insecurity: OR¼ 1.52, 95% CI ¼[1.34–1.73]; Housing
+Insecurity: OR¼ 1.50, 95% CI ¼ [1.32–1.72]). However, the interaction of prior military service with the insecurity measures was not
+signiﬁcantly associated with poor physical health. Findings were
+consistent when stratifying by age and minority status.
+
+247
+
+are cross-sectional. Thus, the ability to establish causality is not
+possible. All data are self-reported and thereby prone to misclassiﬁcation bias, which may lead to greater error in estimated
+odds ratios and respective conﬁdence intervals. Finally, limitations
+in variables available in BRFSS did not allow for more detailed
+analyses disentangling environmental and social factors underlying veteran status.
+To conclude, our study adds to current literature by identifying
+a robust relationship between measures of food and housing
+insecurity and poor mental and physical health. We further
+examined whether these relationships differed by prior military
+service status and did not identify signiﬁcant differences. Future
+research aimed at clarifying stress-health mechanisms and
+potential vulnerability and protective factors are warranted.
+Results from this study can help inform social service policy
+makers about the added value of and need for a robust safety net
+for economically at-risk populations. Minimizing current economic insecurities may help save the public from present and
+future costs associated with poor mental and physical health.
+
+Acknowledgments
+This material is the product of work supported by the VA Puget
+Sound Health Care System, Seattle, WA. Dr. Schure is supported by
+VA Postdoctoral Fellowship TPP 61-028. Dr. Wong is supported by
+VA Career Development Award CDA 13-024. The views expressed
+are those of the authors and do not necessarily reﬂect the position
+or policy of the University of Washington, the Department of
+Veterans Affairs or the U.S. Government.
+
+Discussion
+
+Appendix A. Supporting information
+
+Our study shows that both food and housing insecurity are
+associated with poor mental and physical health regardless of
+prior service in the U.S. military. These ﬁndings support other
+similar ﬁnding demonstrating associations of food and housing
+insecurity with frequent mental distress (Liu et al., 2014). Our
+analyses indicated that prior military service was only associated
+with poor physical health. However, food and housing insecurity
+did not appear to differentially impact mental or physical health of
+those with military service.
+Prior research has suggested that those with military service
+may have increased vulnerability or resilience to social stressors
+relative to civilians (Aldwin & Stokols, 1988; Elder & Clipp, 1989).
+These theories are not supported by our failure to detect an
+interaction between military service and food and housing insecurity. However, it is possible that any differential impact of food
+and housing insecurity on physical and mental health may be
+attenuated as a result of current programs and policies. Many of
+those with military service may have increased access to resources
+that may mitigate the health impacts of food and housing insecurity. For example, 42% of all veterans in the U.S. were enrolled in
+the Veterans Health Administration (VHA) (2014), which provides
+access to subsidized health care whereas civilians have experienced an estimated 80% rise in health insurance premiums since
+2003 (Kaiser/HRET, 2013; U.S. Department of Veterans Affairs,
+2014).
+The advantage of the BRFSS data is the large population-based
+sample, which can allow for more precise population-level comparisons. That said, we acknowledge some inherent limitations in
+this analysis. We cannot generalize our ﬁndings to the entire
+country as our data are derived from states that selected to
+administer the social context module. Further data for this analysis
+
+Supplementary data associated with this article can be found in the
+online version at http://dx.doi.org/10.1016/j.ssmph.2016.04.003.
+
+References
+Aldwin, C., & Stokols, D. (1988). The effects of environmental change on individuals
+and groups: Some neglected issues in stress research. Journal of Environmental
+Psychology, 8(1), 57–75. http://dx.doi.org/10.1016/S0272-4944(88)80023-9.
+Aldwin, C. M., Levenson, M. R., & Spiro, A. (1994). Vulnerability and resilience to
+combat exposure: Can stress have lifelong effects? Psychology and Aging, 9(1),
+34–44.
+American Psychological Association (2015). Stress in America: Paying with our
+health; Retrieved 19.02.15 from 〈http://www.apa.org/news/press/releases/
+stress/2014/stress-report.pdf〉.
+Blosnich, J. R., Dichter, M. E., Cerulli, C., Batten, S. V., & Bossarte, R. M. (2014).
+Disparities in adverse childhood experiences among individuals with a history
+of military service. JAMA Psychiatry, 71(9), 1041–1048. http://dx.doi.org/
+10.1001/jamapsych iatry.2014.724.
+Bossarte, R. M., He, H., Claassen, C. A., Knox, K., & Tu, X. (2011). Development and
+validation of a 6-day standard for the identiﬁcation of frequent mental distress.
+Social Psychiatry and Psychiatric Epidemiology, 46(5), 403–411 10.1007 /s00127010-0204-4.
+Braveman, P., Egerter, S., & Williams, D. R. (2011). The social determinants of health:
+Coming of age. Annual Review of Public Health, 32, 381–398. http://dx.doi.org/
+10.1146/ annurev-publhealth-031210-101218.
+Casey, P. H., Simpson, P. M., Gossett, J. M., Bogle, M. L., Champagne, C. M., Connell, C.,
+& Stuff, J. E. (2006). The association of child and household food insecurity with
+childhood overweight status. Pediatrics, 118(5), e1406–e1413. http://dx.doi.org/
+10.1542/peds.2006-0097.
+Centers for Disease Control and Prevention (2013a). Behavioral Risk Factor Surveillance System 2011 summary data quality report (version #5).
+Centers for Disease Control and Prevention (2013b). Behavioral Risk Factor Surveillance System 2012 summary data quality report.
+Centers for Disease Control and Prevention (2013c). Behavioral Risk Factor Surveillance System: Data and documentation.
+Centers for Disease Control and Prevention (2000). Measuring healthy days: Population assessment of health-related quality of life.
+
+248
+
+M.B. Schure et al. / SSM -Population Health 2 (2016) 244–248
+
+Coleman-Jensen, A., Gergory, C., & Singh, A. (2014). Household Food Security in the
+United States in 2013 (Vol. ERR-173). Washington, DC: US Department of Agriculture, Economic Research Service.
+Commision on Social Determinants of Health (CSDH) (2008). Closing the gap in a
+generation: Health equity through action on the social determinants of health.
+Final Report on the Commission on Social Determinants of Health. Geneva:
+World Health Organization.
+Cutts, D. B., Meyers, A. F., Black, M. M., Casey, P. H., Chilton, M., Cook, J. T., & Coleman, S. (2011). U.S. housing insecurity and the health of very young children.
+American Journal of Public Health, 101(8), 1508–1514. http://dx.doi.org/10.2105/
+AJPH.2011.300139.
+Elder, G. H., & Clipp, E. C. (1989). Combat experience and emotional health:
+Impairment and resilience in later life. Journal of Personality, 57(2), 311–341.
+http://dx.doi.org/10.1111/j.1467-6494.1989.tb00485.x.
+Heﬂin, C. M., Siefert, K., & Williams, D. R. (2005). Food insufﬁciency and women's
+mental health: Findings from a 3-year panel of welfare recipients. Social Science
+Medicine, 61(9), 1971–1982. http://dx.doi.org/10.1016/j.socscimed.2005.04.014.
+Hoerster, K. D., Lehavot, K., Simpson, T., McFall, M., Reiber, G., & Nelson, K. M.
+(2012). Health and health behavior differences: US military, Veteran, and civilian men. American Journal of Preventive Medicine, 43(5), 483–489. http://dx.doi.
+org/10.1016/ j.amepre.2012.07.029.
+Johnson, A., & Meckstroth, A. (1998). Ancillary services to support welfare-to-work.
+Washington, DC: US Department of Health and Human Services.
+Kaiser/HRET (2013). Employer Health Beneﬁts: 2013 summary of ﬁndings. Menlo Park,
+CA: Kaiser Family Foundation/Health Research & Educational Trust.
+Katon, J. G., Lehavot, K., Simpson, T., Williams, E., Barnett, S., Grossbard, J., Schure,
+M., Gray, K., & Reiber, G. (2015). Adverse childhood experiences in those with
+and without military service: Prevalence and association with adult health
+factors. American Journal of Preventive Medicine. http://dx.doi.org/10.1016/j.
+amepre.2015.03.020.
+King, D. W., King, L. A., Foy, D. W., Keane, T. M., & Fairbank, J. A. (1999). Posttraumatic stress disorder in a national sample of female and male Vietnam Veterans: Risk factors, war-zone stressors, and resilience-recovery variables. Journal
+of Abnormal Psychology, 108(1), 164–170.
+
+Kushel, M. B., Gupta, R., Gee, L., & Haas, J. S. (2006). Housing instability and food
+insecurity as barriers to health care among low-income Americans. Journal of
+General
+Internal
+Medicine,
+21(1),
+71–77.
+http://dx.doi.org/10.1111/
+j.1525-1497.2005.00278.x.
+Lehavot, K., Hoerster, K. D., Nelson, K. M., Jakupcak, M., & Simpson, T. L. (2012). Health
+indicators for military, Veteran, and civilian women. American Journal of Preventive Medicine, 42(5), 473–480. http://dx.doi.org/10.1016/j.amepre.2012.01.006.
+Little, R. J. A., & Rubin, D. B. (2014). Statistical analysis with missing data ((2nd ed).
+Hoboken, NJ: John Wiley & Sons.
+Liu, Y., Njai, R. D., Greenlund, K. J., Chapman, D. P., & Croft, J. B. (2014). Relationships
+between housing and food insecurity, frequent mental distress, and insufﬁcient
+sleep among adults in 12 U.S. states, 2009. Preventing Chronic Disease, 11, 1–9.
+http://dx.doi.org/10.5888/pcd11.130334.
+Ofﬁce of Disease Prevention and Health Promotion (2015). Healthy People.gov: Social
+determinants of health; Retrieved 12.02.15.
+Pan, L., Sherry, B., Njai, R., & Blanck, H. M. (2012). Food insecurity is associated with
+obesity among US adults in 12 states. Journal of the Academy of Nutrition and
+Dietetics, 112(9), 1403–1409. http://dx.doi.org/10.1016/j.jand.2012.06.011.
+Rose, D., & Bodor, J. N. (2006). Household food insecurity and overweight status in
+young school children: Results from the Early Childhood Longitudinal Study.
+Pediatrics, 117(2), 464–473. http://dx.doi.org/10.1542/peds.2005-0582.
+StataCorp (2013). Stata statistical software: Release 13. College Station, TX: StataCorp
+LP.
+U.S. Department of Veterans Affairs (2014). Health beneﬁts. from 〈http://www.va.
+gov/healthbeneﬁts/cost/〉.
+Veterans Health Administration (2014). The number of veterans that use VA health
+services: A fact sheet. From: 〈https://www.fas.org/sgp/crs/misc/R43579.pdf〉.
+Whitaker, R. C., Phillips, S. M., & Orzol, S. M. (2006). Food insecurity and the risks of
+depression and anxiety in mothers and behavior problems in their preschoolaged children. Pediatrics, 118(3), e859–e868. http://dx.doi.org/10.1542/
+peds.2006-0239.
+
+

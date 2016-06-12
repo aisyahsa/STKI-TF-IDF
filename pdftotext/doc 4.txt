@@ -1,0 +1,660 @@
+Research in Social and
+Administrative Pharmacy j (2013) j–j
+
+Research Briefs
+
+Can pharmacy assistants play a greater role in public
+health programs in community pharmacies? Lessons
+from a chlamydia screening study in Canberra,
+Australia
+Louise S. Deeks, B.Sc. (Hons.), M.R.Pharm.S. (I.Presc.),
+P.G.Dip.Pharm.Prac.a,b,*, Gabrielle M. Cooper, B.Pharm., M.P.S.,
+D.H.P., Ph.D.a, Marian J. Currie, R.N., R.M., B.App.Sci., G.D.P.H.,
+Ph.D.b, Sarah J. Martin, B.Med. (Hons.), D.C.H., F.A.Ch.S.H.M.b,c,
+Rhian M. Parker, B.Sc. (Econ.) Hons., M.Sc., M.P.E.T., Ph.D.d,
+Rendry Del Rosario, R.N., G.D.Man., Cert.S.R.H.c,
+Jane S. Hocking, B.App.Sci., Grad.Cert.Health.Stats, M.P.H., Master
+Health Sciences, Ph.D.e, Francis J. Bowden, M.B.B.S., M.D., F.R.A.C.P.,
+F.A.C.S.H.P., Grad.Dip.Epi.b,c
+a
+Discipline of Pharmacy, Faculty of Health, University of Canberra, Bruce, ACT 2601, Australia
+Academic Unit of Internal Medicine, The Australian National University Medical School, Building 4, Level 2, Canberra
+Hospital, P.O. Box 11, Woden, ACT 2606, Australia
+c
+Canberra Sexual Health Centre, Canberra Hospital, P.O. Box 11, Woden, ACT 2606, Australia
+d
+Centre for Research and Action in Public Health, Faculty of Health, University of Canberra, Bruce, ACT 2601 Australia
+e
+Centre for Women’s Health, Gender and Society, Melbourne School of Population Health, University of Melbourne, Level
+3/207 Bouverie Street, Carlton, VIC 3053, Australia
+b
+
+Abstract
+Background: Little is known about the engagement of pharmacy assistants (PA) in public health service
+provision.
+Objective: To explore the experiences of PA participating in a study to determine whether a cash reward,
+oﬀered to consumers and pharmacy businesses, increased participation in community pharmacy-based
+chlamydia screening.
+Methods: PA experience of the study education and training package, participant recruitment and
+conducting screening (providing information about chlamydia, specimen collection and handling urine
+samples) were evaluated using knowledge assessment, a questionnaire and focus groups.
+Results: Twenty PA participated in the study: 15 (75%) completed all education and training components,
+20 (100%) completed the questionnaire and 10 (50%) attended a focus group. PA rated all education and
+
+* Corresponding author. Discipline of Pharmacy, Faculty of Health, University of Canberra, Bruce, ACT 2601,
+Australia. Tel.: þ61 2 6201 2254; fax: þ61 2 6201 5727.
+E-mail address: louise.deeks@canberra.edu.au, louise.deeks@hotmail.com (L.S. Deeks).
+1551-7411/$ - see front matter Ó 2013 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.sapharm.2013.11.006
+
+2
+
+Deeks et al. / Research in Social and Administrative Pharmacy j (2013) 1–6
+
+training components as eﬀective (mean visual analog scale scores O8.5). Most PA (13/18, 72.2%) did not
+support/were unsure about continuing the program, citing the 25% repeat testing rate (presumed to relate
+to the cash reward) and privacy/conﬁdentiality issues as reasons. Qualitative analysis suggested that
+minimizing repeat testing, improved workload management and recognition of, and remuneration for,
+education and training would make this model more acceptable to PA.
+Conclusion: Findings from this study support the assertion that PA can play a signiﬁcant role in public
+health initiatives.
+Ó 2013 Elsevier Inc. All rights reserved.
+Keywords: Chlamydia infection; Mass screening; Pharmacy; Public health; Pharmacy assistants
+
+Introduction
+Factors such as location, convenience, anonymity, extended opening hours and immediate
+access to a qualiﬁed health professional contribute
+to the increasing role community pharmacies are
+playing in public health.1–4 Growth in this area is
+constrained because service delivery usually relies
+on the availability of pharmacists.5–7 Expanding
+the role of paraprofessional staﬀ to deliver public
+health services oﬀers one solution.8,9 Pharmacy
+assistants (PA) are staﬀ trained to appropriately
+sell pharmacy medicines, some are technicians or
+dispensers. PA are the ‘public face’ of community
+pharmacy. They are ideally placed to fulﬁll this
+role as they constitute the majority of the pharmacy workforce, are generally the initial contact
+for consumers and conduct the majority of health
+triage interactions, but not all PA feel adequately
+trained to expand their role.10
+Studies show that pharmacy staﬀ can provide
+public health services such as smoking cessation,6
+weight management,11 sexual health,12 and drug
+use,13,14 but few studies have determined PA attitudes toward this development.15 One New Zealand study found not all staﬀ wish to expand
+their current roles,16 while in England, counter
+staﬀ in 10 community pharmacies were receptive
+to providing public health advice.17 During a study
+designed to determine if a AUD10 cash reward
+increased participation of males and females in
+chlamydia screening in community pharmacies,
+we explored the experiences of the PA involved.
+
+Methods
+This mixed methods study was approved by
+research ethics committees of the Australian Capital
+Territory Government Health Directorate, the
+University of Canberra and the Australian National
+University. Pharmacists and PA were asked to oﬀer
+
+chlamydia screening to people aged 16–30 years
+attending their pharmacy for any reason. Participants who returned a urine sample were rewarded
+with AUD10. The study was advertised through
+radio, television and print media. The uptake of
+screening, and the views of the people screened for
+chlamydia have been published elsewhere.18,19
+The aim of this analysis was to explore the
+experiences of PA exposed to a chlamydia education and training package, and determine their
+involvement in recruiting and processing of study
+participants.
+The education and training package was undertaken during the three weeks before urine sample
+collection began. It comprised two manuals written
+by the research team speciﬁcally for the study and
+practical training (including role play) in recruitment of young people. This was provided in each
+study pharmacy by the research team. Manual 1
+included chlamydia biology, transmission dynamics and treatment; manual 2 outlined the study
+processes. The manuals were piloted on a convenience sample of ten PA and pharmacists and
+modiﬁed according to feedback. Study pharmacists
+oﬀered practical training to staﬀ working unsocial
+hours. Knowledge uptake was assessed on completion of the package using a written quiz. Those
+scoring 80% or more were eligible to recruit young
+people to the study and were awarded an achievement certiﬁcate. At the end of the urine sample
+collection phase of the study, all PA were asked to
+anonymously complete a questionnaire concerning
+their experiences. The research team conducted
+three focus groups with pharmacists and PA to
+further explore experiences. These were audiorecorded, transcribed verbatim and pharmacist
+data were excluded from this analysis.
+Quantitative outcome measures included the
+number of PA receiving and completing the education and training package, the number of urine
+
+Deeks et al. / Research in Social and Administrative Pharmacy j (2013) 1–6
+Table 1
+Questions used in questionnaire and the focus group
+Questionnaire qualitative questions
+In preparing for involvement in this study you were
+provided with education (manuals) and training (role
+plays). Comment.
+Before the CSiP studya began, when providing
+contraception or thrush treatment, how frequently did
+you discuss with your clients the risks associated with,
+and treatment of, sexually transmissible infections
+(STIs) such as chlamydia?
+Do you think your participation in this study made you
+more conﬁdent to discuss chlamydia and other STIs
+with your clients?
+How comfortable do you now feel discussing chlamydia
+with clients?
+What (if any) are the barriers to discussing chlamydia
+with your clients?
+How did you feel about handling clinical samples (i.e.
+urine) in a community pharmacy?
+Would you like your pharmacy to continue to oﬀer
+chlamydia urine tests?
+What do you believe are the beneﬁts of chlamydia
+testing for your clients?
+Is there anything else that you would like to tell us about
+the chlamydia screening in pharmacies study?
+Focus group questions
+Have you told your friends or family that you were part
+of the chlamydia program? What did you tell them?
+What do you think are the beneﬁts of health testing in
+community pharmacies for:
+Patients?
+Staﬀ?
+Business?
+Health of community?
+Thinking from the point of view of a person who might
+not know they should get tested for chlamydia, what
+would encourage you to get tested?
+What other things did patients ask about/talk about/buy
+when they did the test?
+How would you set up a health testing program in your
+pharmacy? Who does it? After hours? Where? How
+would you advertise it?
+Anything else?
+CSiP study ¼ chlamydia screening in pharmacies
+study.
+a
+
+samples collected and quantiﬁable responses to
+questionnaire items. The suﬃciency of each component of the education and training package was
+assessed in the questionnaire using a 10 cm visual
+analog scale (0 ¼ insuﬃcient and 10 ¼ suﬃcient).
+Qualitative data were collected from the free text
+comments elicited by the questionnaire and from
+focus group transcripts (see Table 1). These data
+were independently coded by two researchers to
+identify key themes.
+
+3
+
+Results
+Thirty-six PA from six pharmacies enrolled to
+take part in the study. Of these, 20 (55%)
+completed all components of the education and
+training package and the post study questionnaire; 10 attended a focus group (Table 2). PA
+enrolled the majority of young people into the
+study. Most (95%) PA completing the questionnaire were female; 50% were aged 16–30 years.
+All 20 PA scored O80% in the knowledge
+assessment. The questionnaire mean suﬃciency
+scores regarding manual 1 (chlamydia), manual 2
+(study processes) and the training were 9.0 (range
+7.9–10.0), 8.5 (range 5.5–10.0) and 8.8 (range 2.3–
+10.0) respectively. See Table 3 for other quantitative questionnaire responses.
+Themes derived from questionnaire free text and
+focus groups
+Qualitative analysis identiﬁed ﬁve themes:
+These are listed with comments italicized and
+separated by colons in the following text.
+Value of education and training
+Generally, PA were satisﬁed with the education and training: Very happy with the training: .
+manuals very helpful and informative: made me
+more conﬁdent that I could answer questions asked
+by customers: (I suggest) longer training for pharmacy assistants with reduced conﬁdence.
+Job satisfaction
+Respondents reported satisfaction in oﬀering a
+service beyond the existing service: Staﬀ feel like
+they are involved in a real health issue, not just taking in scripts: (It was the) ﬁrst time some people
+had been in a pharmacy. able to give them other
+health messages: (I felt I was) helping the doctor:
+a great experience: Some patients were really
+appreciative of the information and help.
+Feelings about taking on a new role
+Some PA expressed discomfort with the sexual
+health aspect of chlamydia screening: It (chlamydia
+screening) should be oﬀered by a pharmacist not a
+pharmacy assistant due to the knowledge required.
+They suggested that transition to a new role be
+facilitated by a staﬀ member who would take
+overall responsibility: (You need a) hero member
+of staﬀ with interest in subject: (A) dedicated staﬀ
+member, a chlamydia champion. PA identiﬁed that
+if they were going to extend their scope of practice, they would require (preferably ﬁnancial)
+recognition of this: If we get paid for training
+and (the) added workload.
+
+Deeks et al. / Research in Social and Administrative Pharmacy j (2013) 1–6
+
+4
+
+Table 2
+Number of pharmacies, duration of trial, number of samples collected and PA participation
+City
+
+Number of pharmacies
+Duration of study
+Number of PA:
+Enrolling In the study
+Recruiting study participants
+Completed training including roleplay
+Completed assessment 1 (manual 1)
+Completed assessment 2 (manual 2)
+Completed the questionnaire
+Attended a focus group
+Number of urine samples collected by
+pharmacy staﬀ
+a
+
+Suburban
+
+Total
+
+No. (%)
+
+No. (%)
+
+No. (%)
+
+4
+15 days
+
+2
+12 and 15 days
+
+6
+28 daysa
+
+18
+8 (40)
+7 (35)
+
+18
+12 (60)
+9 (45)
+
+36
+20 (100)
+16 (80)
+
+8
+8
+8
+3
+915
+
+12
+12
+12
+7
+55
+
+20
+20
+20
+10
+970
+
+(40)
+(40)
+(40)
+(30)
+(94)
+
+(60)
+(60)
+(60)
+(70)
+(6)
+
+(100)
+(100)
+(100)
+(from 671 individuals)
+
+Screening was oﬀered over a total of 28 days, staggered in each pharmacy.
+
+Ethical concerns
+Cash reward. Some PA expressed concern about
+the cash reward oﬀered to study participants.
+They were especially concerned about the repeat
+screeners who received the reward more than once.
+It is very beneﬁcial in promoting awareness, but in my
+experience 99% of the people testing were doing it
+because of the money and hence a high volume of
+repeated testers. It would be an idea if there was a
+way that they could get tested by asking for ID
+or recording on a database. This aspect of the
+study aﬀected PA willingness to continue to oﬀer
+screening. (Yes) but without the $10 because of the
+repeat oﬀenders and people doing the wrong thing:
+Participant privacy, anonymity and embarrassment. PA were concerned about privacy. A few
+people were a little hesitant: they’d walk in and
+sheepishly look around. There were conﬂicting
+opinions on the need for privacy with some respondents noting that this did not appear to be
+an issue for young people: . lack of privacy,
+from my point of view, but a lot of clients did not
+seem to be concerned: If anyone’s embarrassed
+it’s us. PA suggested that city based pharmacies
+oﬀered greater anonymity: It’s the anonymity in
+the city. That’s why we get higher amounts of
+EHC (emergency hormonal contraception). That’s
+where I’d go.
+Eﬀect on workload
+The inﬂux of clients experienced during the
+study exceeded expectations and no additional staﬀ
+had been rostered to work. Staﬀ were anxious that
+
+both study participant and pharmacy clients had to
+wait for service. Often young people would arrive
+en masse with PA ﬁnding it challenging to supervise these groups: When a group walked in I sensed
+concern in staﬀ – lots noise and will they steal?: If one
+person comes in – we are able to have a better relaxed
+conversation; Staﬀ felt that presenting in groups
+was normal behavior for this age group: Even girls
+come in packs for the morning after pill.
+Discussion
+PA played a signiﬁcant role in this sexual
+health study. We suggest that to maximize their
+eﬀectiveness in public health roles, attention must
+be paid to: identifying and meeting education and
+training needs, exploring PA attitudes toward the
+target population/s and the public health issue
+being addressed, exploring options for appropriate
+remuneration and including PA at every stage of
+the change processes required to expand their role.
+Staﬀ education and training contribute to the
+delivery of safe, eﬀective, consistent and high
+quality public health services in pharmacies20
+and mechanisms to train all staﬀ are important
+for compliance with standards and in facilitating
+practice change.12,14–16 Providing the education
+and training package for this study was labor
+intensive, requiring multiple visits to pharmacies.
+Extended opening hours, skill mix and the volume
+of casual workers are all challenges to be overcome in presenting eﬀective education and
+training in this setting. Strategies proposed by
+participants in this and other studies include
+
+Deeks et al. / Research in Social and Administrative Pharmacy j (2013) 1–6
+Table 3
+Questionnaire item responses (N ¼ 20)
+Question and possible
+responses
+
+Responses
+No.
+
+%
+
+Did you recruit any participants to the CSiP study?
+Yes
+16
+80
+No
+4
+20
+Before the CSiP studya began, when providing
+contraception or thrush treatment, how frequently did
+you discuss with your clients the risks associated with,
+and treatment of, sexually transmissible infections
+(STIs) such as chlamydia?
+Never
+15
+75
+Sometimes
+5
+25
+Most of the time
+0
+0
+Always
+0
+0
+Not sure
+0
+0
+How comfortable do you now feel discussing chlamydia
+with clients?
+Comfortable
+9
+45
+Neither comfortable or
+7
+35
+uncomfortable
+Uncomfortable
+4
+20
+What (if any) are the barriers to discussing chlamydia
+with your clients? Please tick all that apply.
+None
+3
+15
+My workload
+14
+70
+Lack of privacy
+16
+80
+Lack of knowledge
+3
+15
+My Embarrassment
+3
+15
+Client’s embarrassment
+18
+90
+My personal beliefs
+0
+0
+Other
+1
+5
+During the CSiP study, who were you most likely to oﬀer
+a chlamydia test to?
+Did not need to oﬀer
+9
+45
+Clients in the target age
+8
+40
+range (16–30 years)
+1
+5
+Clients who asked for a
+linked service such as
+contraception, urinary
+tract medications
+No response
+2
+10
+Would you like your pharmacy to continue to oﬀer
+chlamydia urine tests?
+Yes
+7
+35
+No
+3
+15
+Not sure
+8
+40
+Did not respond
+2
+10
+CSiP study ¼ chlamydia screening in pharmacies
+study.
+a
+
+identifying and training a ‘champion’ worker,4,21
+increasing recognition of skills through remuneration or career development opportunities17 and
+exploring alternate training models such as
+internet based packages.
+
+5
+
+Some PA were uncomfortable with the sexual
+health nature of this study, but staﬀ embarrassment
+was mitigated by the fact that most consumers
+requested chlamydia screening rather than staﬀ
+having to oﬀer it. This was the result of a very
+successful multi-media advertising campaign and
+word of mouth communication. While it is logical
+that any public health services oﬀered in community
+pharmacies are tailored to consumers, consideration needs to be given to the feelings and attitudes
+and the demographic characteristics of pharmacy
+staﬀ. While many PA expressed concern about
+consumer privacy and embarrassment, they were
+mindful that most participants were unconcerned.
+The nature of this intervention challenged the
+health beliefs of some of the PAs due to the
+ﬁnancial reward. PAs have limited regular remuneration and this may have led to resentment
+toward handing cash to their consumers in exchange for a urine sample. The lack of understanding by PAs of the impact of poor public
+health on the whole population and its costs in
+context of the small cash rewards oﬀered, may
+have needed to be emphasized more in the education. A more tangible recognition of each PA
+role in the service, in addition to the certiﬁcate
+and post participation morning tea, should be
+considered in future service development.
+Involving staﬀ in designing a program to
+remove or mitigate barriers improves the likelihood of the service succeeding22 and previous
+research has identiﬁed the lack of engagement of
+pharmacy staﬀ as a limiting factor in providing
+public health services.10,12,15–17,21 In our study,
+PA expressed mixed feelings about continuing
+chlamydia screening with some reporting increased
+job satisfaction, while others reported barriers to
+continuation. PA suggested mechanisms to overcome the volume of inappropriate repeat screeners
+including using an electronic database to record
+participants’ details (similar to that used to
+monitor amphetamine purchases) and checking
+photo ID. This, and concerns about the rapid
+and unpredicted increase in workload, could be addressed by specifying a screening time (e.g. Chlamydia Week) when extra staﬀ are rostered on
+and dedicated to the screening program.
+Our results may not be generalizable to all
+pharmacies given our study was conducted in only
+one Australian city (population 350,000) and did
+not include pharmacies in rural or remote areas.
+However, it is hoped that the experiences of PA
+reported here provide useful insights into the
+participation of this workforce in chlamydia
+
+6
+
+Deeks et al. / Research in Social and Administrative Pharmacy j (2013) 1–6
+
+education and screening which may be translated
+to other pharmacy-based public health initiatives.
+Conclusion
+PA experiences in this study support the assertion that this workforce can play a signiﬁcant role in
+delivering public health services. PAs were satisﬁed
+with their education and training and were receptive
+to expanding their public health role. They rapidly
+recruited a large number of young people of both
+sexes to be screened for chlamydia, but expressed
+some concerns. Implementation of strategies to
+minimize the number of repeat testers, better
+manage the pharmacy workload and promote and
+recognize PA training with appropriate remuneration would make this model more acceptable to PA.
+To maximize the eﬀectiveness of this workforce,
+training and service design should be responsive to
+their needs and PA should be involved in the
+changes required in their pharmacy to introduce
+public health services to maximum beneﬁt.
+References
+1. Walker R. Pharmaceutical public health: the end of
+pharmaceutical care? Pharm J 2000;264:340–341.
+2. Bush J, Langley CA, Wilson KA. The corporatization of community pharmacy: implications for service
+provision, the public health function, and pharmacy’s
+claims to professional status in the United Kingdom.
+Res Soc Adm Pharm 2009;5:305–318.
+3. Watson MC, Sheridan J. Drugs, sex. and alcohol?
+Extending the community pharmacist’s public health
+role. Int J Pharm Pract 2011;19:217–218.
+4. Pharmaceutical Services Negotiating Committee.
+Community Pharmacy: At the Heart of Public Health,
+2010. Available at: http://psnc.org.uk/wp-content/
+uploads/2013/08/Public-health-Introduction.pdf. Accessed 04.12.12.
+5. Eades CE, Ferguson JS, O’Carroll RE. Public health
+in community pharmacy: a systematic review of
+pharmacist and consumer views. BMC Public Health
+2011;11. Art. No.582.
+6. Laliberté MC, Perreault S, Damestoy N, Lalonde L.
+Ideal and actual involvement of community pharmacists in health promotion and prevention: a crosssectional study in Quebec, Canada. BMC Public
+Health 2012;12. Art. No.192.
+7. Brabin L, Thomas G, Hopkins M, O’Brien K,
+Roberts SA. Delivery of chlamydia screening to young
+women requesting emergency hormonal contraception
+at pharmacies in Manchester, UK: a prospective study.
+BMC Womens Health 2009;9. Art. No. 7.
+8. Stone M, Wilcock M, Harding G. Pharmacy assistants have great potential to champion public health.
+Pharm J 2011;287:194.
+
+9. Zillich AJ, Aquilino ML, Farris KB. Knowledge and
+attitudes about smoking cessation among pharmacy
+technicians. J Am Pharm Assoc 2004;44:578–582.
+10. Kapadia MZ, Warner P, Fairhurst K, Muir A,
+Glasier A. Assessing competencies and training needs
+of pharmacy staﬀ to deliver chlamydia screening in
+community pharmacies. J Pharm Health Serv Res
+2012;3:221–228.
+11. Newlands RS, Watson MC, Lee AJ. The provision of
+current and future healthy weight management
+(HWM) services from community pharmacies: a survey of community pharmacists’ attitudes, practice
+and future possibilities. Int J Pharm Pract 2011;19:
+106–114.
+12. Dabrera G, Pinson D, Whiteman S. Chlamydia
+screening by community pharmacists: a qualitative
+study. J Fam Plann Reprod Health Care 2010;37:
+17–21.
+13. Scott J, Mackridge AJ. Pharmacy support staﬀ
+involvement in, and attitudes towards, pharmacybased services for drug misusers. Int J Pharm Pract
+2009;17:325–332.
+14. MacKridge AJ, Scott J. Experiences, attitudes and
+training needs of pharmacy support staﬀ providing
+services to drug users in Great Britain: a qualitative
+study experiences and training needs of UK pharmacy support staﬀ. J Subst Use 2009;14:375–384.
+15. Sheridan J, Kelly F, Basheer M, Jan R, Lee A. Can I
+help you? A qualitative study of pharmacist and
+pharmacy assistant views on the role of pharmacy assistants in New Zealand. Int J Pharm Pract 2012;19:
+228–235.
+16. Braund R, Chesney KM, Keast EP, et al. Are all
+pharmacy staﬀ interested in potential future roles?
+Int J Pharm Pract 2012;20:417–421.
+17. Harding G, Stone M, Wilcock M. A public health
+role for counter staﬀ. Pharm J 2012;289:609.
+18. Currie MJ, Deeks LS, Cooper GM, et al. Community
+pharmacy and cash reward: a winning combination
+for chlamydia screening? Sex Transm Infect 2013;
+89:212–216.
+19. Parker RM, Bell A, Currie MJ, et al. ‘Catching Chlamydia’: combining cash incentives and community
+pharmacy access for increased chlamydia screening,
+the view of young people. Aust J Prim Health;
+2013. http://dx.doi.org/10.1071/PY12135. published
+early online; Accessed 11.11.13.
+20. Pharmaceutical Society of Australia. Professional
+Practice Standards – Version 4, 2010. Available at:
+http://www.psa.org.au/supporting-practice/profession
+al-practice-standards. Accessed 04.12.12.
+21. Emmerton L, Skinner MB, Gardiner E, Nissen L,
+Debattista J. A trial of the distribution of chlamydia
+self-collection postal specimen kits from Australian
+community pharmacies. Sex Health 2011;8:130–132.
+22. Roberts AS, Benrimoj SI, Chen TF, Williams KA,
+Aslani P. Practice change in community pharmacy:
+quantiﬁcation of facilitators. Ann Pharmacother
+2008;42:861–868.
+
+

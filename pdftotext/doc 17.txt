@@ -1,0 +1,2695 @@
+Economics and Human Biology 22 (2016) 177–189
+
+Contents lists available at ScienceDirect
+
+Economics and Human Biology
+journal homepage: www.elsevier.com/locate/ehb
+
+How does social capital matter to the health status of older adults?
+Evidence from the China Health and Retirement Longitudinal Survey
+Gordon G. Liua , Xindong Xueb,* , Chenxi Yuc , Yafeng Wangd
+a
+
+National School of Development, Peking University, China
+School of Public Administration, Zhongnan University of Economics and Law, China
+Woodrow Wilson School of Public and International Affairs, Princeton University, United States
+d
+Institute of Social Science Survey, Peking University, China
+b
+c
+
+A R T I C L E I N F O
+
+Article history:
+Received 7 November 2015
+Received in revised form 8 April 2016
+Accepted 11 April 2016
+Available online 17 May 2016
+JEL classiﬁcations:
+I14
+I18
+Z1
+Keywords:
+Social capital
+Health
+Fixed effects
+Instrumental variable
+Heterogeneity
+China
+
+A B S T R A C T
+
+This paper uses longitudinal data from China to examine the causal relationship between structural social
+capital and health among Chinese older adults. We employ various econometric strategies to control for
+the potential endogeneity of social capital and account for the possible contextual confounding effects by
+including community-level social capital. We use three indicators to measure individuals’ general,
+physical, and mental health. Results indicate that social capital has a signiﬁcant and positive effect on
+general and physical health. Based on our primary IV ﬁndings, a one standard-deviation increase in social
+capital leads to a 4.9 standard-deviation decrease in the probability of having bad health and a
+2.2 standard-deviation decrease in physical activity limitations. Our results are robust to a series of
+sensitivity checks. Further analysis suggests heterogeneous effects by age but not by gender or area of
+residence.
+ã 2016 Elsevier B.V. All rights reserved.
+
+1. Introduction
+With increasing life expectancy and decreasing fertility rate,
+population aging has become a global challenge in the 21st
+century. The process of population aging is usually accompanied by
+a higher prevalence of chronic diseases and disabilities among the
+elderly, which may consequently reduce economic performance
+and increase public health care expenditures (Sirven and Debrand,
+2008). Among the various social policies instituted to cope with
+the health challenges associated with aging, social capital has been
+proposed as an important policy instrument (Oxley, 2009). The
+positive relationship between social capital and health is observed
+in many countries, for different measurements of social capital and
+various indicators of health (Folland and Rocco, 2014). However,
+there is no consensus on whether this relationship is causal and
+how large it is. This discussion is of particular signiﬁcance to China
+because China has the largest aging population and one of the
+
+* Correspondence to: No.182, Nanhu Avenue, East Lake Hi-tech Development
+Zone, Wuhan 430073, China. Tel.: +86 27 8838 7901; fax: +86 27 8838 6936.
+E-mail address: xuexindong@zuel.edu.cn (X. Xue).
+http://dx.doi.org/10.1016/j.ehb.2016.04.003
+1570-677X/ã 2016 Elsevier B.V. All rights reserved.
+
+highest aging rates in the world today (Zhao et al., 2013). If social
+capital does have a causal effect on the health of older adults in
+China, then providing them with easier access to social interactions
+and organizations will – in the long run – be a more effective health
+promotion strategy than merely increasing public health care
+expenditures.
+Three possible mechanisms of why social capital may causally
+lead to better health have been identiﬁed in the literature
+(Schefﬂer and Brown, 2008; Folland, 2008). First, social capital
+helps to buffer individuals’ mental stress by forming an environment that facilitates social interaction and builds mutual trust.
+Second, social capital helps individuals obtain information on
+health care and health, thus improving health production
+efﬁciency. Third, social capital can generate a sense of shared
+responsibility within families and communities and consequently
+reduces the likelihood of risky behaviors such as drinking and
+smoking.
+The association between social capital and health has been
+examined in a number of countries, including the US (Schultz et al.,
+2008; Schefﬂer and Brown, 2008; Schefﬂer et al., 2007; Folland,
+2007), Canada (Nakhaie and Arnold, 2010; Veenstra, 2000), the UK
+
+178
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+
+(Rocco, 2014; Borgonovi, 2010; Snelgrove et al., 2009; Petrou and
+Kupek, 2008; Poortinga, 2006b), Italy (Fiorillo and Sabatini, 2015),
+the Nordic countries (Lindstrom, 2009; Lindstrom and Mohseni,
+2009; Islam et al., 2008; Iversen, 2008), Europe as a whole (Rocco
+et al., 2014; Ljunge, 2014; Sirven and Debrand, 2008, 2012; Rostila,
+2007; Poortinga, 2006a), Japan (Murayama et al., 2013, 2015;
+Yamamura, 2011a,b; Ichida et al., 2009; Fujisawa et al., 2009),
+former Soviet Union countries (Goryakin et al., 2014; Habibov and
+Afandi, 2011; D’Hombres et al., 2010; Ferlander and Mäkinen,
+2009; Rose, 2000) and Latin American countries (Ronconi et al.,
+2012; Hurtado et al., 2011). Despite many empirical arguments for
+the positive association between social capital and health,
+concerns over interpreting correlation as causation remain. First,
+spurious correlation may be caused by omitted variables.
+Unobserved heterogeneities such as time preference and personal
+traits could drive both social capital and health to move in the same
+direction. For example, people with low discount rates place high
+value on future beneﬁts. These people are more likely to increase
+investments in social capital and health concurrently. Second,
+there may be reverse causality bias. On the one hand, people with
+better health are both physically and ﬁnancially capable of
+engaging in more social activities and thus have greater social
+capital. On the other hand, people with relatively worse health may
+have increased incentive to invest in social capital because their
+opportunity cost of time is lower. Third, there may be measurement errors related to the subjective nature of self-reported health.
+Although self-reported health is commonly used in the current
+literature, misreporting bias still remains in the estimation. Fourth,
+it is difﬁcult to distinguish social capital effects from other local
+contextual effects that potentially inﬂuence health. Social capital
+may vary between locations depending on the social and economic
+characteristics of a community, which may confound the effect of
+individual-level social capital on health (D’Hombres et al., 2010).
+A number of studies have attempted to disentangle the causal
+relationship between social capital and health by employing
+several identiﬁcation strategies. These strategies include the use
+of lagged values in longitudinal data to control for reverse
+causality bias (Sirven and Debrand, 2012; Nakhaie and Arnold,
+2010) and the instrumental variable (IV) approach (Fiorillo and
+Sabatini, 2015; Ljunge, 2014; Rocco et al., 2014; Goryakin et al.,
+2014; Yamamura, 2011b; D’Hombres et al., 2010; Schultz et al.,
+2008). The most frequently used instrument is community-level
+social capital. However, this instrument may not satisfy the
+exclusion restriction condition because there may be possible
+contextual effects of social capital on health at the community
+level. Higher community-level social capital usually indicates a
+better living environment, which could have a positive effect on
+individuals’ health.
+Our study aims to contribute to the literature in several
+ways. First, this is the ﬁrst empirical study in the Chinese
+context to examine the causal relationship between social
+capital and health using national longitudinal data. Second, we
+take into account the potential endogeneity resulting from
+unobserved heterogeneity and reverse causality by using ﬁxed
+effects (FE) and IV estimators. Third, we account for the
+possible contextual effects by including community-level social
+capital. Fourth, we explore the heterogeneous effects of social
+capital on health by gender, age, and area of residence. Our
+study shows that structural social capital has a signiﬁcant and
+positive effect on general and physical health but not on mental
+health. The effect of social capital on physical health tends to be
+stronger for older-old adults (aged 60 or above).
+This paper proceeds as follows. Section 2 reviews the relevant
+literature. Section 3 describes the data and variables. Section 4
+presents the empirical methodology. Section 5 reports results,
+robustness checks, and heterogeneity. Section 6 concludes.
+
+2. Literature review
+2.1. The deﬁnition and measurement of social capital
+The concept of social capital was ﬁrst put forward by Bourdieu
+(1986) and further popularized by Coleman (1990) and Putnam
+(2000). Despite some disputes on its deﬁnition, social capital is
+commonly understood to encompass social networks, norms, and
+trust that facilitate cooperation between individuals in a community (Putnam, 1993). Some researchers suggest that social capital
+has cognitive and structural dimensions (Harpham et al., 2002).
+Cognitive social capital relates to people’s perceptions of
+interpersonal trust, solidarity and reciprocity, whereas structural
+social capital refers to the extent and intensity of participation in
+associations and other forms of social activity (Rostila, 2007).
+Structural social capital is particularly conducive to generating the
+beneﬁcial effects of social capital because participation in social
+groups may facilitate the transmission of knowledge and increase
+trust between members of society (Alesina and La Ferrara, 2000;
+Putnam, 1993). Therefore, social participation is one of the most
+frequently employed measures of social capital in the empirical
+literature (Sirven and Debrand, 2008, 2012; Borgonovi, 2010; Berry
+and Welsh, 2010; Ronconi et al., 2012).
+2.2. Empirical studies on social capital and health
+Although numerous studies have linked social capital to
+positive health outcomes, the empirical relationship between
+different forms of social capital and health is mixed at best. For
+instance, with regard to the relationship between structural social
+capital and health, some studies show a positive association
+between social participation and health (Borgonovi, 2010; Berry
+and Welsh, 2010; Petrou and Kupek, 2008), whereas others do not
+ﬁnd such a relationship (Meng and Chen, 2014; Hurtado et al.,
+2011; D’Hombres et al., 2010; Snelgrove et al., 2009; Yip et al.,
+2007; Norstrand and Xu, 2012). Furthermore, some studies observe
+that cognitive social capital is positively related to self-reported
+health and that structural social capital is positively related to
+somatic symptoms (Goryakin et al., 2014; Yamaoka, 2008).
+As noted above, several studies use longitudinal data and an IV
+approach to address the potential endogeneity of social capital.
+Based on respective longitudinal data for Europe and Canada,
+Sirven and Debrand (2012) and Nakhaie and Arnold (2010) use
+lagged social capital instead of current social capital to control for
+reverse causality bias. They both observe that social capital
+contributes to better health. Using an IV approach, most studies
+obtain larger coefﬁcient estimates on social capital than in the OLS
+estimation. Folland (2007) uses state-level characteristics such as
+employment per capita, geographic latitude, and state government
+contributions to colleges per capita as IVs and ﬁnds social capital to
+be highly correlated with a number of health measures in the US. In
+their study on the US population, Schultz et al. (2008) use
+residence years and religiosity variables as IVs. Their results
+suggest that individual-level social capital is a signiﬁcant predictor
+of self-rated health. A similar approach is followed by Yamamura
+(2011b), who ﬁnds social capital to have a signiﬁcant and positive
+inﬂuence on health for people without a job in Japan. Ronconi et al.
+(2012) use transportation conditions as IVs and note a signiﬁcant
+and positive relationship between social capital and health in
+Argentina. Rocco et al. (2014) instrument social capital with crime
+victimization and physician density in the community and obtain a
+causal and positive relationship between social capital and health
+in European countries. These ﬁndings are further conﬁrmed by
+Fiorillo and Sabatini (2015),Goryakin et al. (2014) and D’Hombres
+et al. (2010), who address the endogeneity issue by employing
+community-level social capital as IVs. Ljunge (2014) uses ancestral
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+
+179
+
+Fig. 1. Two provinces in CHARLS pilot survey.
+
+trust as an IV and detects a causal effect of trust on health in
+Europe.
+Only a few studies investigate the association between social
+capital and health among older adults. Muckenhuber et al. (2013)
+observe social capital to be signiﬁcantly more important for the
+health of older people than for younger people in Austria. Sirven
+and Debrand (2008, 2012) and Leone and Hessel (2015) report that
+social capital improves health of older people in Europe.
+Murayama et al. (2013) ﬁnd that social capital has beneﬁcial
+effects on health of the older Japanese. Koutsogeorgou et al. (2014)
+arrive at the conclusion that the association between social capital
+and self-rated health among older adults differs in Poland, Finland,
+and Spain.
+In the Chinese context, Yip et al. (2007) are the ﬁrst to examine
+the association between social capital and health. Their results
+suggest that cognitive social capital (trust) is positively associated
+with health, whereas structural social capital (organizational
+membership) is not. Wang et al. (2009) use household survey data
+from 22 villages in rural China and note that trust is positively
+associated with general and mental health. Norstrand and Xu
+(2012) observe no signiﬁcant relationship between social participation and physical and emotional health among older Chinese.
+Meng and Chen (2014) document similar ﬁndings. The abovementioned studies on China suffer from three limitations. First,
+these studies do not account for the potential biases caused by
+unobserved heterogeneity and reverse causality. Second, selfreported health is commonly used, and possible misreporting bias
+may exist. Third, they fail to examine the heterogeneity underlying
+the relationship between social capital and health in China.
+3. Data, variables and descriptive statistics
+3.1. Source of data
+We use data from the 2008 and 2010 waves of the China Health
+and Retirement Longitudinal Survey (CHARLS).1 CHARLS is a
+comprehensive biennial survey aiming to collect detailed information about demographics, family, health, work, retirement and
+pension from a nationally representative sample of Chinese
+
+1
+
+Further details about the survey can be accessed at http://charls.ccer.edu.cn/en.
+
+residents aged 45 and older. The survey was conducted by the
+National School of Development at Peking University. Considering
+the enormous complexity involved in a national survey, the
+CHARLS team administered a pilot survey in Gansu and Zhejiang
+Provinces (see Fig. 1) in 2008 and 2012. Wave 2008 was the ﬁrst
+survey, and Wave 2012 was the follow-up survey. Gansu is a poor
+inland province located in the less developed northwestern region,
+and Zhejiang is a rich coastal province located in the developed
+eastern region. In 2007, Gansu had a population of 26 million and
+GDP per capita of 10,346 RMB (about 1642 USD), whereas Zhejiang
+had a population of 50 million and GDP per capita of 37,411 RMB
+(about 5398 USD) (National Statistical Bureau, 2008). The sharp
+contrast between these two pilot provinces reﬂects the unbalanced
+development and enormous diversity of China. The survey
+followed a strict, multi-stage sampling process involving for four
+levels: county, community, household, and respondent. The survey
+collected data from 95 communities (villages) in 32 counties
+(districts), covering 2685 individuals living in 1570 households. In
+our analysis, the sample was restricted to respondents with nonmissing values.
+3.2. Variables
+3.2.1. Measuring health
+Because health is a multi-dimensional and general concept, we
+take a holistic approach and examine three health indicators:
+general, physical and mental health. We ﬁrst use self-reported
+health because it can provide a more complete picture of one’s
+overall well-being and signiﬁcantly predict mortality and disability, even after controlling for many objective measures of health. In
+CHARLS, respondents are asked to assess their own health on a
+ﬁve-point scale: very good, good, fair, poor, and very poor. We then
+condense these responses into a binary variable: bad health
+(=1, poor and very poor) and good health (=0, very good, good and
+fair).2
+Self-reported health may suffer from misreporting bias.
+Differences in individuals’ personal traits and threshold points
+
+2
+Unlike previous studies on China (Yip et al., 2007; Meng and Chen, 2014), we
+code “fair” as good health. In the Chinese context, “fair” is a conservative expression
+of “just so-so” or “ok”. So when a person rates his/her health as “fair”, it by no means
+implies his/her health is bad.
+
+180
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+Table 1
+Variable deﬁnitions.
+Variable
+
+Deﬁnition
+
+Dependent variables
+Bad health
+ADL index
+CES-D scale
+
+=1 if self-reported health is poor or very poor, 0 otherwise
+From 0 to 1. Higher values indicate worse physical health
+From 0 to 30. Higher values indicate worse mental health
+
+Independent variables
+SC
+
+From 0 to 1; social capital index
+
+Individual characteristics
+Age
+Female
+Urban
+Illiterate (reference)
+Primary
+Secondary
+University
+Married
+Insured
+Smoke
+Drink
+
+Age in complete years
+=1 if female, 0 if male
+=1 if having urban household registration, 0 otherwise
+=1 if illiterate, 0 otherwise
+=1 if primary education, 0 otherwise
+=1 if secondary education, 0 otherwise
+=1 if university education, 0 otherwise
+=1 if married, 0 otherwise
+=1 if having health insurance, 0 otherwise
+=1 if ever smoke, 0 otherwise
+=1 if ever drink, 0 otherwise
+
+Household characteristics
+Family size
+Log income
+Water
+Sewage
+
+Total number of household members
+Log of per capita income in the household
+=1 if connected to tap water, 0 otherwise
+=1 if connected to sewage, 0 otherwise
+
+Community characteristics
+CSC
+Hospital
+Activity center
+Bus distance
+Road
+
+Community social capital
+Average number of hospitals per 1000 population
+Average number of activity centers per 1000 population
+Distance to the nearest bus station
+=1 if having a road passing through, 0 otherwise
+
+may cause measurement errors. More optimistic individuals may
+systematically overstate their health, or vice versa. To address the
+potential misreporting bias, we use two other objective indicators
+to measure individuals’ physical and mental health: the Limitations in Activities of Daily Living (ADL) Index and the Center of
+Epidemiological Studies Depression (CES-D) Scale, respectively.
+In contrast to self-reported health, ADL indicators are considered to be more objective and less likely to be affected by
+differences in individual response scales (Bratti and Mendola,
+2014). In particular, ADL indicators have the advantage of recording
+speciﬁc facts related to an individual’s daily living rather than his/
+her opinions on his/her physical well-being. In CHARLS, respondents are asked nine questions on ADL.3 For each question, there are
+three choices: “No, I don’t have any difﬁculty” (=0); “I have difﬁculty”
+(=1), and “I cannot do it” (=2).4 We sum these nine items and create
+an ADL index according to the following formula proposed by
+Gertler and Gruber (2002):
+
+
+score  Minscore
+ADL ¼
+Maxscore  Minscore
+The ADL index ranges from 0 to 1, with higher values indicating
+more limitations in activities of daily living and worse physical
+health.
+
+3
+ADL measures difﬁculties in the following nine activities: running or jogging
+approximately 1 km; walking 1 km; walking 100 m; getting up from a chair after
+sitting for a long period; climbing several ﬂights of stairs without resting; stooping/
+kneeling/crouching; reaching or extending your arms above shoulder level; lifting
+or carrying weights over 10 jin (=0.5 kg); and picking up a small coin from a table.
+4
+It should be noted that in wave 2012 there are four choices for the ADL question:
+“No, I don’t have any difﬁculty”; “I have difﬁculty but can still do it”; “Yes, I have
+difﬁculty and need help”; and “I cannot do it”. To be consistent with wave 2008, we
+recode “I have difﬁculty but can still do it” and “Yes, I have difﬁculty and need help”
+into one scale: “I have difﬁculty”.
+
+CES-D was originally developed by Radloff (1977) and is widely
+used as a measure of mental health. Respondents are asked to
+indicate the frequency of experiencing ten feelings or emotions
+during the past week.5 The four responses are “rarely or none of the
+time” (=0); “some or a little of the time” (=1); “occasionally or a
+moderate amount of the time” (=2); and “most or all of the time” (=3).
+The responses to questions about feeling hopeful about the future
+and being happy are reversely recoded such that higher values of
+the CES-D scale represent more depressive symptoms and worse
+mental health. Following Duncan and Rees (2005), we sum the
+responses to the ten questions to produce a scale between 0 and 30.
+Moreover, because the CES-D scale is heavily skewed to the right,
+we use the log-transformed CES-D scale as the dependent variable
+in the following regressions.6
+3.2.2. Measuring social capital
+Social capital is measured using the CHARLS social participation
+question: “Have you done any of these activities in the last month?”
+There are ten activities from which the respondents can choose.7
+We exclude two activities (“stock investment” and “using the
+Internet”) because they are not participatory in nature. For the
+
+5
+The ten items are as follows: I was bothered by things that don’t usually bother
+me; I had trouble keeping my mind on what I was doing; I felt depressed; I felt
+everything I did was an effort; I felt hopeful about the future; I felt fearful; My sleep
+was restless; I was happy; I felt lonely; and I could not get “going”.
+6
+The skewness value of the CES-D scale is 0.934.
+7
+The ten activities are as follows: volunteering or philanthropy activities; taking
+care of the elderly or disabled that you don’t live with free of charge; offering help to
+relatives, friends or neighbors that you don’t live with free of charge; going to school
+or attending training courses; visiting friends; playing mahjoon, chess, poker and
+going to a community activity center; participating in tai chi, dancing and other
+group activities; participating in activities organized by community organizations;
+investing in stocks and using the Internet.
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+Table 2
+Descriptive statistics.
+All
+
+181
+
+higher levels of education and higher income than their rural
+counterparts.
+By gender
+
+By age cohort
+
+By area of
+residence
+
+Female Male
+
+45–60
+
+Urban
+
+0.289
+0.331
+Bad health
+ADL index
+0.145
+0.171
+CES-D scale
+8.023
+8.719
+SC
+0.081
+0.077
+Age
+60.573 59.490
+0.517
+1.000
+Female
+Urban
+0.221
+0.218
+Illiterate
+0.428
+0.591
+0.361
+0.266
+Primary
+Secondary
+0.197
+0.135
+University
+0.013
+0.006
+Married
+0.832
+0.804
+Insured
+0.897
+0.889
+Smoke
+0.351
+0.029
+Drink
+0.397
+0.163
+3.206
+3.201
+Family size
+Log income
+7.851
+7.774
+Water
+0.785
+0.789
+Sewage
+0.449
+0.458
+CSC
+0.085
+0.082
+Hospital
+1.351
+1.335
+Activity center
+5.181
+5.128
+Bus distance
+2.117
+2.088
+Road
+0.943
+0.946
+
+60+
+
+0.245
+0.238
+0.357
+0.192
+0.117
+0.093
+0.211
+0.123
+7.317
+7.646
+8.546
+6.718
+0.087
+0.096
+0.064
+0.127
+61.735 52.633 69.953 61.029
+0.000
+0.554
+0.475
+0.510
+0.225
+0.211
+0.234
+1.000
+0.254
+0.362
+0.506
+0.226
+0.461
+0.350
+0.372
+0.360
+0.263
+0.273
+0.106
+0.366
+0.021
+0.013
+0.013
+0.048
+0.863
+0.929
+0.718
+0.842
+0.905
+0.915
+0.876
+0.853
+0.696
+0.329
+0.376
+0.337
+0.652
+0.399
+0.395
+0.402
+3.213
+3.229
+3.179
+2.684
+7.935
+8.148
+7.501
+8.433
+0.780
+0.801
+0.765
+0.945
+0.439
+0.458
+0.438
+0.879
+0.081
+0.089
+0.079
+0.121
+1.369
+1.364
+1.335
+1.034
+5.238
+5.572
+4.693
+3.781
+2.149
+2.117
+2.118
+1.063
+0.940
+0.948
+0.938
+0.994
+
+4. Empirical strategy
+
+Rural
+0.321
+0.152
+8.472
+0.068
+60.438
+0.519
+0.000
+0.486
+0.361
+0.149
+0.003
+0.830
+0.909
+0.355
+0.396
+3.355
+7.692
+0.739
+0.317
+0.073
+1.454
+5.635
+2.433
+0.928
+
+remaining eight activities, if the respondents answer “yes”, the
+index is coded as 1 and 0 otherwise. We then standardize the total
+score from these eight questions and construct the social capital
+index.
+3.2.3. Other control variables
+We also control for individual-, household-, and communitylevel variables. Individual-level variables are age, gender, area of
+residence, education, marital status, insurance status, and health
+behaviors. Household-level variables are family size, log of per
+capita income, availability of water, and whether the house is
+connected to sewage. Community-level variables are community
+social capital, hospital density, and activity center density.8 The
+deﬁnitions of all variables are presented in Table 1.
+3.3. Descriptive statistics
+Table 2 presents descriptive statistics for all variables. The
+results show that 28.9% of the total sample report bad health. The
+average values of the ADL index and the CES-D scale are 0.145 and
+8.023, respectively. The mean social capital index is 0.081,
+suggesting a relatively low level of social capital among Chinese
+older adults. In the sub-sample statistics, females on average are
+more likely to report bad health, a higher ADL index (worse
+physical health) and a higher CES-D scale (worse mental health)
+than males. Females tend to have lower social capital than
+males. Compared with younger-old adults (aged 45 to below 60),
+older-old adults (aged 60 or above) have worse general health, a
+higher ADL index, a higher CES-D scale, and lower social capital.
+Furthermore, urban older adults are more likely to report better
+health and have higher social capital than their rural counterparts.
+In terms of other explanatory variables, females tend to have lower
+levels of education and fewer unhealthy behaviors than males.
+Older-old adults have lower levels of education and income than
+younger-old adults. We also note that urban older adults enjoy
+
+8
+In line with the current literature, we calculate community social capital by
+averaging individual social capital index at the community level.
+
+We ﬁrst pool the observations from the 2008 and 2012 waves of
+the CHARLS and estimate the following standard Pooled Ordinary
+Least Squares (POLS) model:
+Hit ¼ a þ bSCit þ X it d þ Di þ Dt þ eit
+
+ð1Þ
+
+where Hit measures health outcomes of individual i in year t. SCit
+denotes the social capital index of individual i at year t; X it a vector
+of individual-, household-, and community-level variables that are
+either time-variant or time-invariant; Di a province dummy; Dt a
+year dummy; and eit the error term. b is the coefﬁcient of interest.
+The POLS estimate of b is inconsistent if social capital SCit is
+correlated with the error term eit . As previously discussed,
+endogeneity may arise from several sources. Omitted variables,
+such as time preference and personal traits, may affect both social
+capital and health. In addition, reverse causality may be a concern
+because healthier people are more likely to participate in social
+activities and have higher social capital.
+To address bias caused by time-invariant unobservables, we
+estimate a model with individual ﬁxed effects as follows:
+Hit ¼ a þ bSCit þ K it d þ Dt þ ai þ mit
+
+ð2Þ
+
+where Hit denotes health outcomes; SCit the individual social
+capital index; K it a vector of time-varying individual-, household-,
+and community variables; Dt a year dummy; ai an individual ﬁxed
+effect; and mit the error term.
+Although FE estimation can correct for the bias caused by timeinvariant unobservables, the biases derived from time-variant
+unobservables and reverse causality are still a concern. One
+common solution to this problem is the IV approach. A proper IV
+identiﬁcation strategy requires the instrument to be correlated
+with the endogenous social capital variable (relevance condition)
+and at the same time not have a direct, independent effect on
+individual health (exclusion restriction condition). The ﬁrst stage
+can be formularized as follows:
+SCi ¼ a þ X i g þ ’Z i þ ni
+
+ð3Þ
+
+In the second stage, we use the predicted value of social capital
+in an equation similar to Eq. (1). The credibility of the IV approach
+depends on the validity of instrumental variable Z i , which is
+excluded in the second stage.
+Our IV is whether a respondent’s surname belongs to the
+common surnames in the village.9 In CHARLS, village leaders are
+asked whether the village has common surnames, and if they
+answer “yes,” they are further asked to list the three most common
+surnames.10 We combine the information on the respondent’s
+surname and the three most common surnames in the village to
+construct the IV. If a respondent’s surname belongs to one of the
+three most common surnames in the village, the IV is denoted as
+1 and 0 otherwise. The surname of a female respondent is coded
+the same as her husband’s because they tend to share the same
+social and family networks. Because having common surnames is
+only a phenomenon in rural villages, this question is only asked for
+rural respondents. In addition, for reasons of data conﬁdentiality,
+
+9
+In rural China, although households with the same surname belong to the same
+ancestry, they live independently under different roofs in the village. For
+households with many sons, when the sons become adults and get married, they
+usually move out and form a new household within the village.
+10
+The criterion for a common surname is that the percentage of local persons who
+have the same surname is above 20%.
+
+182
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+
+Table 3
+Characteristics of respondents by the IV.
+
+SC
+Age
+Female
+Illiterate
+Primary
+Secondary
+University
+Married
+Insured
+Smoke
+Drink
+Family size
+Log income
+Water
+Sewage
+CSC
+Hospital
+Activity center
+Bus distance
+Road
+N
+*
+**
+
+All
+
+Without CS
+
+With CS
+
+Differencea
+
+0.069
+58.808
+0.503
+0.496
+0.338
+0.163
+0.004
+0.844
+0.937
+0.415
+0.419
+3.370
+7.696
+0.635
+0.189
+0.071
+1.741
+6.056
+3.581
+0.907
+1124
+
+0.076
+58.487
+0.504
+0.493
+0.327
+0.178
+0.001
+0.848
+0.946
+0.418
+0.429
+3.383
+7.733
+0.641
+0.196
+0.070
+1.910
+5.133
+3.762
+0.912
+679
+
+0.086
+59.299
+0.501
+0.499
+0.355
+0.139
+0.007
+0.838
+0.924
+0.409
+0.404
+3.298
+7.638
+0.627
+0.178
+0.073
+1.483
+7.464
+3.304
+0.899
+445
+
+0.010*
+0.812
+0.003
+0.006
+0.028
+0.039*
+0.006
+0.010
+0.022
+0.009
+0.025
+0.085
+0.095
+0.014
+0.018
+0.003
+0.427***
+2.331***
+0.458
+0.013
+
+p < 0.01.
+p < 0.05.
+
+***
+a
+
+p < 0.01.
+Two-sided t-test.
+
+we only have access to the rural samples of wave 2008 for the IV
+analysis.11 Therefore, the IV results represent a local average
+treatment effect and are a complement to FE estimation.
+The validity of the relevance condition of our IV rests on the
+hypothesis that having a common surname is correlated with a
+higher social capital index. Surnames in China are usually based on
+the same lineage identity and act as “glue” to hold family members
+together. A common surname usually embodies strong trust and
+solidarity among its members. The surname could provide more
+opportunities for rural residents to communicate with each other
+and participate more in community affairs (Lei et al., 2014).
+Therefore, if a respondent has a common surname, we can
+naturally hypothesize that he/she could have higher social capital
+than those who do not.
+However, if the common surname is endogenous to health, the
+exclusion restriction condition will fail and estimation bias will
+ensue. There are three arguments regarding why we expect our
+instrument to satisfy the exclusion restriction condition. First, the
+surnames in China have been stable and well preserved through
+the male lineage for generations due to the prevalence of Confucian
+culture, in which people do not change their surnames (Du et al.,
+1992). No surname or lineage has an inherent superiority or
+inferiority (Baker, 1979). Second, the composition of surnames in
+rural villages is relatively stable because the household mobility is
+restricted by the household registration (hukou) system.12 Rural
+residents are tied to the land where they were born and unlikely to
+move between different places (Pan, 2011). For the older adults in
+the rural village in particular, the cultural tradition of “fallen leaves
+return to root (Luo Ye Gui Gen)” makes them even more reluctant to
+
+move out of their home villages. Therefore, the composition of
+surnames in a village is a pre-determined condition rather than a
+result of personal choices.13 Third, a self-selection effect exists in
+marriage markets. For example, if males with common surnames
+have higher social status, it is more likely for them to get married
+with “healthy” females, which will lead to an upward bias of our
+estimates. We argue that the self-selection effect in marriage
+markets tends to diminish because the mean marriage age of older
+adults in our sample is 22.44, whereas the mean value of their
+current age is 60.57.
+To further assess whether our instrument is as good as random,
+we tested for differences in characteristics among respondents
+(Table 3). The comparison of average characteristics between
+individuals with or without common surnames (CS) does not
+suggest any consistent differences. An exception is the percentage
+of secondary education, which is signiﬁcantly (at the 10% level)
+lower in individuals with common surnames than in individuals
+without common surnames. The difference is, however, only 0.039,
+thus economically not very signiﬁcant. Moreover, we control for
+education in our regressions. At the bottom of Table 3, there are
+two other signiﬁcantly different community variables: hospital
+and activity center. However, the hospital and activity center do
+not explain health effects because the variables are insigniﬁcant
+throughout our main regression results reported below. For other
+community-level variables, two-sided t-tests do not reveal any
+signiﬁcant, systematic differences.
+One of our dependent variables (bad health) is expressed as a
+binary value, either 1 (bad health) or 0 (good health). The use of a two
+stage least squares (2SLS) model that works with continuous
+dependent variables will yield inconsistent results. It has been
+suggested that the two-stage residual inclusion (2SRI) approach is
+best suited for IV estimation with a non-linear second-stage
+regression (Blundell and Powell, 2004; Terza et al., 2008).
+Bhattacharya et al. (2006) show that in a test on simulated data
+for binary outcome variables, the 2SLS estimator exhibits greater bias
+than the 2SRI estimator. Based on the Health and Retirement data in
+the US, Basu and Coe (2015) also observe that, compared with the
+2SRI estimator, the 2SLS estimator produces substantially different
+and potentially biased results for binary outcome variables.
+Therefore, we believe the 2SRI estimator to be a better choice for
+the analysis of the “bad health” model. For the other two continuous
+outcome variables (the ADL index and the CES-D scale), we will still
+use the 2SLS estimator. The main difference between 2SRI and 2SLS is
+that in 2SRI, the actual endogenous variable (rather than the
+predicted value of the endogenous variable) and the residuals from
+the ﬁrst-stage estimation are included as additional regressors in the
+second-stage equation. Because residuals are correlated with the
+unobservable characteristics that affect both the endogenous
+variable (social capital) and the dependent variable in the secondstage regression (bad health), their inclusion ensures that the social
+capital coefﬁcient in the second-stage regression only reﬂects the
+causal effect of social capital on health.
+5. Results, robustness checks, and heterogeneity
+5.1. Main results
+
+11
+
+The sample size was further reduced after deleting the observations with
+missing values. Nonetheless, the mean value of the variables in the IV sample
+(Table 3) and the rural sample (Table 2) is very similar, indicating that the missing
+value is random in the IV sample.
+12
+It should be noted that the hukou system has been partially relaxed in recent
+years. Many rural surplus young laborers go to cities to ﬁnd jobs, but the rural older
+adults are unlikely to perform these jobs in cities because of their old age. Moreover,
+for the rural young labors working in the city, it is extremely difﬁcult for them to get
+the urban hukou and settle in the city. Therefore, the number of registered people in
+rural village remains relatively unchanged.
+
+5.1.1. OLS regressions
+Table 4 reports the OLS estimates of the effect of social capital
+on three health measures. Controlling for all observable variables,
+
+13
+More importantly, villages in rural China were established administratively and
+arbitrarily in 1949 to meet the needs of collective farming rather than because of the
+blood connections among people (Pan, 2011). Thus, there is no self-selection effect
+in the surname composition of the village.
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+Table 4
+OLS estimates of effect of social capital on health.
+
+SC
+Age
+Female
+Urban
+Primary
+Secondary
+University
+Married
+Insured
+Smoke
+Drink
+Family size
+Log income
+Water
+Sewage
+CSC
+Hospital
+Activity center
+Bus distance
+Road
+Year 2012
+Zhejiang
+Constant
+
+R2
+N
+
+183
+
+FE estimation to address the bias caused by time-invariant
+unobservables.
+
+Bad healtha
+
+ADL index
+
+CES-D scaleb
+
+0.230***
+(0.051)
+0.005***
+(0.001)
+0.071***
+(0.018)
+0.001
+(0.023)
+0.026
+(0.017)
+0.066***
+(0.022)
+0.057
+(0.044)
+0.048*
+(0.024)
+0.032
+(0.024)
+0.020
+(0.019)
+0.048***
+(0.015)
+0.004
+(0.005)
+0.012***
+(0.003)
+0.069***
+(0.023)
+0.062**
+(0.024)
+0.145
+(0.223)
+0.003
+(0.003)
+0.001
+(0.001)
+0.002
+(0.001)
+0.113**
+(0.056)
+0.002
+(0.014)
+0.126***
+(0.022)
+0.373***
+(0.092)
+
+0.142***
+(0.021)
+0.006***
+(0.000)
+0.055***
+(0.009)
+0.008
+(0.009)
+0.017**
+(0.007)
+0.026***
+(0.008)
+0.034*
+(0.020)
+0.022**
+(0.009)
+0.002
+(0.011)
+0.003
+(0.009)
+0.004
+(0.006)
+0.006***
+(0.002)
+0.003**
+(0.001)
+0.035***
+(0.012)
+0.022***
+(0.008)
+0.079
+(0.086)
+0.001
+(0.001)
+0.000
+(0.001)
+0.000
+(0.001)
+0.023
+(0.020)
+0.049***
+(0.007)
+0.078***
+(0.008)
+0.108***
+(0.037)
+
+0.295**
+(0.116)
+0.002
+(0.002)
+0.146***
+(0.043)
+0.011
+(0.048)
+0.069**
+(0.031)
+0.202***
+(0.055)
+0.244**
+(0.119)
+0.255***
+(0.040)
+0.028
+(0.050)
+0.072*
+(0.043)
+0.041
+(0.034)
+0.010
+(0.011)
+0.018***
+(0.007)
+0.163***
+(0.056)
+0.028
+(0.047)
+0.866**
+(0.419)
+0.007
+(0.007)
+0.001
+(0.003)
+0.007**
+(0.003)
+0.142
+(0.121)
+0.073**
+(0.032)
+0.338***
+(0.042)
+2.360***
+(0.213)
+
+0.133
+3920
+
+0.294
+3920
+
+0.143
+3215
+
+Robust standard errors corrected for clustering on community are in parentheses.
+*
+p < 0.1.
+**
+p < 0.05.
+***
+p < 0.01.
+a
+Bad health is estimated by a linear probability model. The results do not change
+substantially using a logit model.
+b
+CES-D scale is log transformed.
+
+the year dummy and province dummy, social capital is signiﬁcantly
+associated with health. A one standard-deviation increase in
+social capital is associated with a 0.23 standard-deviation decrease
+in reporting bad health, a 0.142 standard-deviation decrease in the
+ADL index and a 0.295 standard-deviation decrease in the
+CES-D scale.14 However, we must cautiously interpret this
+association as the inability of OLS to control for the possible
+unobserved heterogeneity and reverse causality bias. Next, we use
+
+14
+We also estimate the untransformed ADL and CES-D using Poisson regression
+(which takes into account that untransformed ADL and CES-D can only be zero or a
+positive number) as a sensitivity check and ﬁnd that our conclusions remain
+unaffected. The results are available upon request.
+
+5.1.2. Individual ﬁxed effects
+Table 5 presents the individual FE estimation. We start with a
+parsimonious model in which we only examine the impact of social
+capital on health. Then, we add a set of control variables. Our
+results show that social capital has a signiﬁcant effect on having
+bad health and the ADL index. A one standard-deviation increase in
+social capital is associated with a 0.186 standard-deviation
+decrease in reporting bad health and a 0.075 standard-deviation
+decrease in the ADL index. However, there appears to be no effect
+of social capital on the CES-D scale. There are two possible
+explanations. First, the relationship between social capital and the
+CES-D scale may be driven by a common, time-invariant
+unobserved heterogeneity such as personal traits. More optimistic
+and extroverted people are more likely to participate in social
+activities and at the same time less likely to have depressive
+feelings. Second, participation in volunteer organizations in China
+could often be simply a practice in which the “young old” take care
+of the “very old” (Norstrand and Xu, 2012), which is likely to reduce
+the beneﬁcial effects of social capital on mental health.
+5.1.3. Instrumental variable
+Table 6 reports the results of IV estimates. As expected, the
+ﬁrst-stage results show that having a common surname increases
+respondents’ social capital index by 0.013 percentage points, which
+is statistically signiﬁcant at the 5% level. The under-identiﬁcation
+test (Anderson canon. corr. LM statistic) rejects the null hypothesis
+that the IV is under-identiﬁed. Thus, our instrument is a signiﬁcant
+predictor of respondents’ social capital.
+The second-stage results indicate that social capital has a
+signiﬁcant effect on general and physical health but not on mental
+health. A one standard-deviation increase in social capital leads to
+a 4.863 standard-deviation decrease in reporting bad health and a
+2.226 standard-deviation decrease in physical activity limitations.
+It is interesting to note that the coefﬁcients on the social capital are
+larger in the IV regressions than in the OLS and FE estimates,
+suggesting that OLS and FE estimates may underestimate the effect
+of social capital on health. Suppose that those individuals who are
+healthy are also more likely to participate in social activities; this
+situation would cause an upward bias (in absolute value) in the
+estimated coefﬁcients of social capital. An alternative argument is
+that, because investment in social capital is driven in part by the
+opportunity cost of time (Glaeser et al., 2002; Putnam, 2000),
+individuals with relatively worse health have a greater incentive to
+participate in social activities because their opportunity cost of
+time is lower. This would imply a downward bias of the coefﬁcients
+of social capital. The patterns of the coefﬁcients in our IV
+estimation appear to support the latter interpretation.
+One of the most common concerns about the IV analysis is the
+weak instrument problem. The Cragg-Donald Wald F-statistics in
+our regression is 4.268, much lower than the critical value of 10
+proposed by Stock et al. (2002).15 The weak instrument indicates
+that the standard test statistics used for inference may be
+unreliable and point estimates can be imprecise. To dispel this
+concern, we use the conditional likelihood ratio (CLR) test to
+ascertain whether our instrument is weak. The CLR test is proposed
+by Moreira (2003), Mikusheva and Poi (2006) and Moreira (2009),
+which has a correct coverage probability in conﬁdence regions
+under weak instruments. If the CLR test has ﬁnite conﬁdence
+intervals, our data contain sufﬁcient information on the social
+
+15
+It is noteworthy that the low value of the F-statistics might simply be a small
+sample problem, i.e., in a larger sample the F-statistic might look more convincing.
+
+184
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+
+Table 5
+FE estimates of effect of social capital on health.
+Bad healtha
+**
+
+0.197
+(0.097)
+
+***
+
+0.127
+(0.036)
+
+Sargen–Hansen test [p-value]c
+
+0.308***
+(0.009)
+18.825 [0.000]
+
+0.186
+(0.104)
+0.004
+(0.008)
+0.148**
+(0.068)
+0.055**
+(0.027)
+0.068*
+(0.041)
+0.112*
+(0.058)
+0.136*
+(0.076)
+0.068
+(0.066)
+0.001
+(0.042)
+0.017
+(0.063)
+0.083**
+(0.037)
+0.004
+(0.011)
+0.001
+(0.004)
+0.008
+(0.039)
+0.014
+(0.063)
+0.616*
+(0.362)
+0.004
+(0.007)
+0.008*
+(0.004)
+0.002
+(0.002)
+0.352***
+(0.057)
+0.017
+(0.037)
+0.383
+(0.476)
+64.961 [0.000]
+
+N
+
+3920
+
+3920
+
+SC
+Age
+Female
+Urban
+Primary
+Secondary
+University
+Married
+Insured
+Smoke
+Drink
+Family size
+Log income
+Water
+Sewage
+CSC
+Hospital
+Activity center
+Bus station
+Road
+Year 2012
+Constant
+
+CES-D scaleb
+
+ADL index
+*
+
+**
+
+0.017
+(0.165)
+
+0.157***
+(0.003)
+31.963 [0.000]
+
+0.075
+(0.036)
+0.003
+(0.006)
+0.222***
+(0.035)
+0.033**
+(0.016)
+0.010
+(0.014)
+0.021
+(0.023)
+0.009
+(0.037)
+0.033
+(0.032)
+0.006
+(0.017)
+0.019
+(0.021)
+0.007
+(0.013)
+0.004
+(0.004)
+0.002
+(0.002)
+0.008
+(0.013)
+0.009
+(0.017)
+0.130
+(0.165)
+0.001
+(0.003)
+0.001
+(0.002)
+0.001
+(0.001)
+0.034
+(0.047)
+0.060**
+(0.023)
+0.131
+(0.342)
+170.147 [0.000]
+
+1.911***
+(0.015)
+23.048 [0.000]
+
+0.081
+(0.210)
+0.009
+(0.016)
+0.242
+(0.170)
+0.016
+(0.081)
+0.274**
+(0.115)
+0.303*
+(0.168)
+0.032
+(0.403)
+0.295*
+(0.152)
+0.043
+(0.078)
+0.017
+(0.103)
+0.006
+(0.068)
+0.036*
+(0.019)
+0.007
+(0.009)
+0.073
+(0.093)
+0.020
+(0.183)
+0.703
+(1.015)
+0.006
+(0.019)
+0.001
+(0.013)
+0.005
+(0.007)
+0.075
+(0.305)
+0.084
+(0.084)
+1.781*
+(0.986)
+58.892 [0.000]
+
+3920
+
+3920
+
+3215
+
+3215
+
+Robust standard errors corrected for clustering on community are in parentheses.
+*
+p < 0.1.
+**
+p < 0.05.
+***
+p < 0.01.
+a
+Bad health is estimated by a linear probability model. The results do no change substantially using an xtlogit model.
+b
+CES-D scale is log transformed.
+c
+Sargen–Hansen test is a kind of Hausman test that can accommodate robust and cluster options.The ﬁxed effects model is consistent under H0 and Ha, and the random
+effect model is inconsistent under Ha.
+
+capital effect. Otherwise, if the CLR test has an inﬁnite interval, i.e.,
+two intervals (1, x1) and (x2, +1), where x1 < x1 or a single
+interval (1, +1), there is a weak instrument problem. The CLR
+test shows that the effects of social capital on the ADL index and
+the CES-D scale have ﬁnite conﬁdence intervals.16 Furthermore,
+because our model has one endogenous variable and one IV, it is a
+just-identiﬁed model. According to Angrist and Pischke (2009, p.
+209), “even with weak instruments, just-identiﬁed 2SLS is
+approximately centered where it should be. We therefore say
+
+16
+The conﬁdence regions of the two models are [193.013, 0.696] and
+[753.651, 59.501].
+
+that just-identiﬁed 2SLS is median-unbiased.” Thus, we argue that
+our IV estimates are reliable despite the low Wald F-statistics.
+5.2. Robustness checks
+We also carry out a series of robustness checks on the FE
+estimation.17 One of the concerns about the social capital index is
+
+17
+We use the ﬁxed effects model to carry out the robustness checks for two
+reasons. First, compared with the IV model, the ﬁxed effects model represents lower
+bound estimates. Second, the sample size of IV analysis is small and may suffer from
+low explanatory power.
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+
+185
+
+Table 6
+IV estimates of effect of social capital on health.
+Bad health (2SRI)
+1st stage
+SC
+Age
+Female
+Primary
+Secondary
+University
+Married
+Insured
+Smoke
+Drink
+Family size
+Log income
+Water
+Sewage
+CSC
+Hospital
+Activity center
+Bus station
+Road
+Zhejiang
+IV
+Constant
+
+Anderson canon. corr. LM statistic
+Cragg–Donald Wald F-statistics
+Endogeneity test
+N
+
+***
+
+0.002
+(0.000)
+0.006
+(0.011)
+0.006
+(0.007)
+0.031**
+(0.014)
+0.084
+(0.091)
+0.008
+(0.009)
+0.005
+(0.014)
+0.002
+(0.010)
+0.013*
+(0.007)
+0.001
+(0.002)
+0.003*
+(0.001)
+0.012*
+(0.007)
+0.005
+(0.005)
+0.825***
+(0.070)
+0.002*
+(0.001)
+0.000
+(0.000)
+0.000
+(0.000)
+0.005
+(0.006)
+0.006
+(0.007)
+0.013**
+(0.006)
+0.071**
+(0.033)
+—
+—
+—
+1124
+
+CES-D scale (2SLS)b
+
+ADL index (2SLS)
+a
+
+2nd stage
+4.863***
+(1.65)
+0.003
+(0.003)
+0.035
+(0.047)
+0.06*
+(0.034)
+0.05
+(0.082)
+0.585***
+(0.132)
+0.130***
+(0.047)
+0.039
+(0.065)
+0.0003
+(0.05)
+0.009
+(0.041)
+0.007
+(0.009)
+0.002
+(0.008)
+0.073*
+(0.04)
+0.012
+(0.075)
+1.418*
+(0.777)
+0.006
+(0.007)
+0.003
+(0.004)
+0.006*
+(0.003)
+0.05
+(0.117)
+0.165**
+(0.075)
+
+1.548**
+(0.705)
+—
+—
+—
+
+1st stage
+
+***
+
+0.002
+(0.0004)
+0.006
+(0.01)
+0.006
+(0.007)
+0.03**
+(0.014)
+0.087
+(0.091)
+0.009
+(0.009)
+0.004
+(0.013)
+0.003
+(0.009)
+0.011
+(0.007)
+0.0007
+(0.002)
+0.003*
+(0.001)
+0.012**
+(0.006)
+0.009**
+(0.004)
+0.824***
+(0.056)
+0.001**
+(0.0004)
+0.002***
+(0.0007)
+0.0001
+(0.0002)
+0.009**
+(0.004)
+0.007
+(0.006)
+0.013**
+(0.006)
+0.074**
+(0.031)
+4.33 [0.037]
+4.268
+11.836 [0.0006]
+1124
+
+2nd stage
+2.226*
+(1.219)
+0.002
+(0.002)
+0.007
+(0.030)
+0.016
+(0.019)
+0.054
+(0.045)
+0.219
+(0.229)
+0.046**
+(0.021)
+0.007
+(0.033)
+0.040*
+(0.022)
+0.033
+(0.023)
+0.005
+(0.005)
+0.003
+(0.005)
+0.010
+(0.024)
+0.015
+(0.021)
+1.991*
+(1.016)
+0.001
+(0.003)
+0.000
+(0.004)
+0.000
+(0.001)
+0.025
+(0.034)
+0.092***
+(0.017)
+
+0.090
+(0.138)
+
+1st stage
+
+***
+
+0.002
+(0.0004)
+0.004
+(0.011)
+0.007
+(0.008)
+0.033**
+(0.014)
+0.085
+(0.094)
+0.007
+(0.011)
+0.005
+(0.011)
+0.005
+(0.011)
+0.015*
+(0.008)
+0.001
+(0.002)
+0.003*
+(0.002)
+0.009
+(0.007)
+0.019**
+(0.008)
+0.864***
+(0.061)
+0.001**
+(0.0006)
+0.003***
+(0.0001)
+0.0005
+(0.0004)
+0.009
+(0.007)
+0.004
+(0.008)
+0.013**
+(0.006)
+0.088**
+(0.042)
+
+2nd stage
+1.014
+(4.464)
+0.002
+(0.008)
+0.117
+(0.077)
+0.041
+(0.055)
+0.198
+(0.164)
+0.059
+(0.545)
+0.301***
+(0.066)
+0.149
+(0.105)
+0.029
+(0.077)
+0.022
+(0.082)
+0.004
+(0.021)
+0.015
+(0.017)
+0.131*
+(0.074)
+0.095
+(0.118)
+1.664
+(3.979)
+0.022*
+(0.013)
+0.019
+(0.020)
+0.002
+(0.006)
+0.069
+(0.135)
+0.343***
+(0.079)
+
+2.674***
+(0.513)
+
+4.35 [0.037]
+4.268
+0.221 [0.638]
+948
+
+— means STATA cannot report such statistics in 2SRI.
+Robust standard errors corrected for clustering on community are in parentheses.
+*
+p < 0.1.
+**
+p < 0.05.
+***
+p < 0.01.
+a
+The coefﬁcient of the second stage is the marginal effect.
+b
+CES-D scale is log transformed.
+
+the potential measurement error. If individuals misreport their
+social activities in a systematic manner, our estimations would be
+biased. For example, an individual with cognitive impairment and
+bad health may have difﬁculties in recalling past events and thus
+may underreport social activities. Our estimations would therefore
+be biased downward. To test for measurement error, we recode the
+social capital index into a dummy variable. If an individual
+participated in one of the eight activities in the past month, the
+social capital index is recoded as 1 and 0 otherwise. In this manner,
+we can signiﬁcantly reduce the likelihood of misreporting errors
+and check the robustness of the FE estimates. Table 7 presents the
+results with a dichotomous indicator of social capital. Compared
+with those shown in Table 5, the effects of social capital on bad
+
+health and the ADL index are slightly reduced but still statistically
+signiﬁcant. Therefore, our main ﬁndings that social capital has a
+positive effect on general and physical health remain intact.
+Additionally, as noted in previous sections, one source of
+endogeneity unaddressed by the FE model might be derived from
+the unobservable, time-varying shocks that may simultaneously
+affect both social capital and health. These shocks can occur at the
+individual, family, and community levels. For individuals, the
+shocks might be serious accidents that cause a reduction in social
+capital and deterioration of health. For families, they might be
+serious accidents to other family members, which may crowd out
+respondents’ time for social participation and incur a negative
+impact on their own health. For communities, they might be
+
+186
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+Table 7
+FE estimates obtained by using an alternate deﬁnition of social capital.
+
+SC dummy
+Age
+Female
+Urban
+Primary
+Secondary
+University
+Married
+Insured
+Smoke
+Drink
+Family size
+Log income
+Water
+Sewage
+CSC
+Hospital
+Activity center
+Bus station
+Road
+Year 2012
+Constant
+
+Sargen–Hansen test [p-value]c
+N
+
+Bad healtha
+
+ADL index
+
+CES-D scaleb
+
+0.060**
+(0.027)
+0.003
+(0.008)
+0.120*
+(0.068)
+0.056**
+(0.026)
+0.067
+(0.041)
+0.112*
+(0.058)
+0.135*
+(0.081)
+0.062
+(0.066)
+0.001
+(0.041)
+0.016
+(0.062)
+0.082**
+(0.037)
+0.005
+(0.011)
+0.001
+(0.004)
+0.008
+(0.040)
+0.012
+(0.064)
+0.671*
+(0.353)
+0.004
+(0.007)
+0.007
+(0.004)
+0.002
+(0.002)
+0.356***
+(0.057)
+0.015
+(0.037)
+0.417
+(0.475)
+
+0.027***
+(0.008)
+0.003
+(0.006)
+0.211***
+(0.034)
+0.033**
+(0.016)
+0.010
+(0.015)
+0.021
+(0.024)
+0.009
+(0.040)
+0.031
+(0.032)
+0.005
+(0.017)
+0.018
+(0.021)
+0.007
+(0.013)
+0.003
+(0.004)
+0.002
+(0.002)
+0.008
+(0.013)
+0.010
+(0.017)
+0.161
+(0.165)
+0.001
+(0.003)
+0.001
+(0.002)
+0.001
+(0.001)
+0.036
+(0.047)
+0.059**
+(0.023)
+0.117
+(0.342)
+
+0.019
+(0.046)
+0.009
+(0.016)
+0.231
+(0.157)
+0.016
+(0.081)
+0.273**
+(0.115)
+0.302*
+(0.168)
+0.031
+(0.401)
+0.297*
+(0.152)
+0.043
+(0.078)
+0.017
+(0.103)
+0.006
+(0.068)
+0.036*
+(0.019)
+0.007
+(0.009)
+0.073
+(0.093)
+0.020
+(0.183)
+0.711
+(1.009)
+0.006
+(0.019)
+0.001
+(0.013)
+0.005
+(0.007)
+0.072
+(0.305)
+0.084
+(0.084)
+1.764*
+(0.992)
+
+64.321 [0.000]
+3920
+
+147.696 [0.000]
+3920
+
+70.055 [0.000]
+3215
+
+Robust standard errors corrected for clustering on community are in parentheses.
+*
+p < 0.1.
+**
+p < 0.05.
+***
+p < 0.01.
+a
+Bad health is estimated by a linear probability model. The results do no change substantially using an xtlogit model.
+b
+CES-D scale is log transformed.
+c
+Sargen–Hansen test is a kind of Hausman test that can accommodate robust and cluster options.The ﬁxed effects model is consistent under H0 and Ha, and
+the random effect model is inconsistent under Ha.
+
+natural disasters that may affect respondents’ social participation
+and health simultaneously.18
+To avoid these confounding cases, we checked the sensitivity of
+our estimates by adding the individual, family, and communitylevel shocks into our empirical speciﬁcations. If time-varying
+unobservable shocks represent the main cause for the correlation
+
+18
+Regarding the relationship between social capital and natural disasters, Toya
+and Skidmore (2014) and Yamamura (2015) observe that natural disasters help
+social capital formation. However, according to Aida et al. (2013), natural disasters
+destroy not only physical environments but social networks and relationships in
+communities as well. Thus, they have a negative effect on social capital. Our data
+show that natural disasters and social participation are negatively correlated
+(0.097, p = 0.000), suggesting that they tend to have a negative effect on social
+capital among older adults in China.
+
+between social capital and health, we would expect the social
+capital coefﬁcients to decline signiﬁcantly after including those
+exogenous shocks. We use the detailed information on individual
+and community-level shocks in CHARLS and carry out separate
+estimations on shocks at each level.19 Table 8 presents the separate
+estimations with the inclusion of these time-varying shocks. The
+magnitude of the coefﬁcients of social capital remains relatively
+unchanged and statistically signiﬁcant, suggesting time-varying,
+
+19
+CHARLS collects individual- and family-level shock information by asking “Have
+you ever been in a trafﬁc accident or any other kind of major accidental injury and
+received medical treatment?” If respondents answer “yes”, we recode it as 1 and
+0 otherwise. For community-level shock information, it asks “Has your village/
+community experienced serious natural disasters in the past ﬁve years?” If village
+heads answer “yes”, we recode it as 1 and 0 otherwise.
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+
+187
+
+Table 8
+Robustness checks by including individual, family and community-level shocks.
+Bad healtha
+
+ADL index
+
+CES-D scaleb
+
+0.059**
+(0.026)
+0.074*
+(0.037)
+YES
+66.203
+[0.000]
+
+0.018**
+(0.008)
+0.053**
+(0.022)
+YES
+146.13
+[0.000]
+
+0.019
+(0.046)
+0.088
+(0.084)
+YES
+72.149
+[0.000]
+
+0.061**
+(0.027)
+0.081*
+(0.047)
+YES
+62.79
+[0.000]
+
+0.027***
+(0.008)
+0.042**
+(0.02)
+YES
+153.747
+[0.000]
+
+0.016
+(0.047)
+0.281***
+(0.090)
+YES
+81.324
+[0.000]
+
+Control variables
+Sargen–Hansen test [p-value]c
+
+0.067**
+(0.028)
+0.043
+(0.028)
+YES
+64.321 [0.000]
+
+0.025***
+(0.008)
+0.002
+(0.017)
+YES
+139.892 [0.000]
+
+0.024
+(0.049)
+0.045
+(0.061)
+YES
+75.052 [0.000]
+
+N
+
+3920
+
+3920
+
+3215
+
+Panel A: individual-level injury
+SC dummy
+Individual injury
+Control variables
+Sargen–Hansen test [p-value]c
+
+Panel B: family-level injury
+SC dummy
+Family member’s injury
+Control variables
+Sargen–Hansen test [p-value]c
+
+Panel C: community-level disaster
+SC dummy
+Community disaster
+
+All control variables in Table 5 are included.
+Robust standard errors corrected for clustering on community are in parentheses.
+*
+p < 0.1.
+**
+p < 0.05.
+***
+p < 0.01.
+a
+Bad health is estimated by a linear probability model. The results do no change substantially using an xtlogit model.
+b
+CES-D scale is log transformed.
+c
+Sargen–Hansen test is a kind of Hausman test that can accommodate robust and cluster options.The ﬁxed effects model is consistent under H0 and Ha, and
+the random effect model is inconsistent under Ha.
+
+unobserved heterogeneity should not pose considerable threat to
+our FE results.
+5.3. Heterogeneity by gender, age, and area of residence
+To explore whether social capital has differential effects by
+gender, age, and area of residence, we incorporate the
+interaction terms into the FE model. Table 9 shows that none
+of gender differences were statistically signiﬁcant when tested
+in a fully interacted model. This ﬁnding is in contrast to results
+reported in the literature on gender differences in other
+countries, which indicate that women tend to derive fewer
+health beneﬁts from social capital compared to men (e.g., Berry
+and Welsh, 2010; Ferlander and Mäkinen, 2009). One of the
+arguments for gender differences is that women usually play a
+supportive and subordinate role in social interactions, which
+may decrease their sense of control and enhance feelings of
+being burdened and emotional stress. However, some studies
+report that with increased marketization and economic
+development in China, the role of women and men in society
+is becoming equally divided (Yu and Xie, 2012; Matthews and
+Nee, 2000). This may explain why we detect no differential
+effect by gender on health.
+Table 9 also reveals that the effect of social capital on the ADL
+index is signiﬁcantly stronger for older-old adults. The negative
+sign of the interaction term indicates that social capital leads to a
+greater decrease in the ADL index (thus better physical health) for
+older-old adults than for younger-old adults. This ﬁnding is
+consistent with the results of Muckenhuber et al. (2013), who also
+note that social capital affects the health of older people more
+strongly than that of younger people. One possible explanation is
+
+that, compared with younger-old adults, older-old adults lack
+better coping and compensatory opportunities to make up for their
+lower social capital. Thus, social capital plays a greater role in
+health production for older-old adults.
+Our estimates further show that the effect of social capital on
+health is not heterogeneous across area of residence. This ﬁnding
+stands in contrast to an earlier study on China (Norstrand and Xu,
+2012) that indicates that urban people beneﬁt more from social
+capital than rural people do. The authors argue that limited
+resources in rural areas make it difﬁcult for rural people to access
+certain material resources that are essential to their health.
+Therefore, rural people might not be able to beneﬁt as much from
+their family members, friends, and people around them because
+they are also resource constrained. However, our results are not
+surprising because China has initiated a new round of health care
+reform in recent years, which has invested heavily in health care
+infrastructure in rural areas and hence narrowed the resources
+distribution gap between urban and rural areas. This narrowing
+gap could have ameliorated the contributing role of social capital in
+the urban-rural health divide.
+6. Conclusion
+Employing detailed longitudinal data from the China Health
+and Retirement Survey, this paper examines the causal effect of
+structural social capital on health among Chinese older adults.
+Although many studies have shown the positive relationship
+between social capital and health, this is the ﬁrst longitudinal
+study using FE and IV estimations to examine their potential causal
+relationship in a nationally representative Chinese population
+setting. Additionally, our study contributes to the literature by
+
+188
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+Table 9
+FE estimates of heterogeneous effects by gender, age and area of residence.
+
+Panel A: female-male difference
+SC
+SC  female
+Control variables
+Sargen–Hansen test [p-value]c
+Panel B: age difference
+SC
+SC  age60
+Control variables
+Sargen–Hansen test [p-value]c
+Panel C: urban–rural difference
+SC
+SC  urban
+Control variables
+Sargen–Hansen test [p-value]c
+N
+
+Bad healtha
+
+ADL index
+
+CES-D scaleb
+
+0.189
+(0.127)
+0.007
+(0.19)
+YES
+61.671 [0.000]
+
+0.104**
+(0.045)
+0.067
+(0.052)
+YES
+57.606 [0.000]
+
+0.098
+(1.512)
+0.413
+(0.335)
+YES
+55.174 [0.000]
+
+0.102
+(0.122)
+0.250
+(0.155)
+YES
+58.691 [0.000]
+
+0.003
+(0.038)
+0.232***
+(0.058)
+YES
+60.01 [0.000]
+
+0.176
+(0.255)
+0.306
+(0.401)
+YES
+68.712 [0.000]
+
+0.197
+(0.132)
+0.035
+(0.168)
+YES
+61.682 [0.000]
+3920
+
+0.04
+(0.042)
+0.098
+(0.069)
+YES
+59.751 [0.000]
+3920
+
+0.089
+(0.226)
+0.474
+(0.408)
+YES
+59.172 [0.000]
+3215
+
+All control variables in Table 5 are included.
+Robust standard errors corrected for clustering on community are in parentheses.
+*p < 0.1.
+**
+p < 0.05.
+***
+p < 0.01.
+a
+Bad health is estimated by a linear probability model. The results do no change substantially using an xtlogit model.
+b
+CES-D scale is log transformed.
+c
+Sargen–Hansen test is a kind of Hausman test that can accommodate robust and cluster options.The ﬁxed effects model is consistent under H0 and Ha, and
+the random effect model is inconsistent under Ha.
+
+exploring the heterogeneous effects of social capital on health by
+gender, age, and area of residence.
+We obtain evidence indicating that structural social capital has
+a signiﬁcant and positive effect on general and physical health but
+not on mental health. Our estimates pass a series of robustness
+checks. We also ﬁnd evidence of the heterogeneous effects of social
+capital on health. Our results indicate that the social capital effect
+on physical health tends to be stronger for older-old adults.
+However, we ﬁnd no differential effects by gender or area of
+residence.
+A central message gathered from our study is that,
+confronted with health challenges caused by population aging,
+social capital does serve as a key instrument for health
+promotion among older adults in China. The implication of
+our study is that government can improve the health of the
+older population by investing in social capital. This can be
+achieved through the following approaches. First, government
+can directly provide funding or subsidies to promote individuals’ social capital formation, for example, organizing community
+events to facilitate social interaction and community participation. Second, government can create favorable policies for the
+establishment of a variety of voluntary organizations and
+community groups to stimulate community participation and
+develop individuals’ social capital. Third, government should
+pay attention to the heterogeneous effects of social capital on
+health. More efforts must be exerted in strengthening social
+capital formation for younger–older adults.
+Our study is subject to several limitations. First, we focus only
+on the structural component of social capital. Social capital is
+multi-dimensional; therefore our measurement is not comprehensive and cannot reﬂect the complex relationship between
+social capital and health. Future research can explore the complex
+relationship between different forms of social capital and different
+health outcomes. Second, the subjects in our dataset are limited to
+
+urban and rural residents aged 45 or older, and our IV analysis is
+restricted to rural samples. Thus, our conclusion cannot be
+generalized to the entire population. Third, our study only
+empirically examines the causal relationship between social
+capital and health. The mechanisms underlying this relationship
+were not explored. We leave them for future research.
+Acknowledgements
+This research is supported by the National Social Science Fund
+of China (Grant No. 14BRK013). We would like to thank the three
+anonymous reviewers and editor Jörg Baten for their insightful
+comments, which have resulted in a much improved manuscript.
+We are also grateful to Sherman Folland, Peter Eibich, Lorenzo
+Rocco, and participants at the Health Economics Seminar (Peking
+University) and the ﬁfth workshop of Global Network on Social
+Capital and Health (University of Toronto) for their helpful
+comments and suggestions. All errors are our own.
+References
+Aida, J., Kawachi, I., Subbramanian, S.V., Kondo, K., 2013. Disaster, social capital, and
+health. In: Kawachi, I., Takao, S., Subramanian, S.V. (Eds.), Global Perspectives on
+Social Capital and Health. Springer.
+Alesina, A., La Ferrara, E., 2000. Participation in heterogeneous communities. Q. J.
+Econ. 115, 847–904.
+Angrist, J., Pischeke, J., 2009. Mostly Harmless Econometrics: An Empiricist’s
+Companion. Princeton University Press, Princeton, NJ.
+Baker, H., 1979. Chinese Family and Kinship. Columbia University Press, New York,
+NY.
+Basu, A., Coe, N., 2015. 2SLS vs. 2SRI: Appropriate methods for rare outcome and/or
+rare exposure, Available at https://bﬁ.uchicago.edu/sites/default/ﬁles/research/
+RareOutcomes%202SLS%20vs%202SRIv3BFI.pdf.
+Berry, H.L., Welsh, J.A., 2010. Social capital and health in Australia: an overview from
+the household, income and labour dynamics in Australia survey. Soc. Sci. Med.
+70, 588–596.
+Bhattacharya, J., Goldman, D., McCaffrey, D., 2006. Estimating probit models with
+self-selected treatments. Stat. Med. 25, 389–413.
+
+G.G. Liu et al. / Economics and Human Biology 22 (2016) 177–189
+Blundell, R.W., Powell, J.L., 2004. Endogeneity in semiparametric binary response
+models. Rev. Econ. Stud. 71, 655–679.
+Borgonovi, F., 2010. A lifecycle approach to the analysis of the relationship between
+social capital and health in Britain. Soc. Sci. Med. 71, 1927–1934.
+Bourdieu, P., 1986. The forms of capital. In: Richardson, J.G. (Ed.), Handbook of
+Theory and Research for the Sociology of Education. Greenwood Press,
+Westport, CT.
+Bratti, M., Mendola, M., 2014. Parental health and child schooling. J. Health Econ. 35,
+94–108.
+Coleman, J., 1990. Foundations of Social Theory. Harvard University Press,
+Cambridge, MA.
+D’Hombres, B., Rocco, L., Suhrcke, M., McKee, M., 2010. Does social capital determine
+health? Evidence from eight transition countries. Health Econ. 19, 56–74.
+Du, R., Yuan, Y., Juliana, H., Joanna, M., Cavalli-Sforza, L.L., 1992. Chinese surnames
+and the genetic differences between North and South China. J. Chin. Linguist.
+Monogr. Ser. 5, 1–66 68–93.
+Duncan, B., Rees, D.I., 2005. The effect of smoking on depressive symptomatology: a
+reexamination of the data from the National Longitudinal Study of Adolescent
+Health. Am. J. Epidemiol. 162, 461–470.
+Ferlander, S., Mäkinen, I.H., 2009. Social capital, gender and self-rated health:
+evidence from the Moscow health survey 2004. Soc. Sci. Med. 69, 1323–1332.
+Fiorillo, D., Sabatini, F., 2015. Structural social capital and health in Italy. Econ. Hum.
+Biol. 17, 129–142.
+Folland, S., 2007. Does community social capital contribute to population health?
+Soc. Sci. Med. 64, 2342–2354.
+Folland, S., 2008. An economic model of social capital and health. Health Econ.
+Policy Law 3, 333–348.
+Folland, S., Rocco, L., 2014. The Economics of Social Capital and Health. World
+Scientiﬁc, Singapore.
+Fujisawa, Y., Hamano, T., Takegawa, S., 2009. Social capital and perceived health in
+Japan: an ecological and multilevel analysis. Soc. Sci. Med. 69, 500–505.
+Gertler, P., Gruber, J., 2002. Insuring consumption against illness. Am. Econ. Rev. 92,
+51–76.
+Glaeser, E.L., Laibson, D., Sacerdote, B., 2002. An economic approach to social capital.
+Econ. J. 112, 437–458.
+Goryakin, Y., Suhrcke, M., Rocco, L., 2014. Social capital and self-reported general
+and mental health in nine Former Soviet Union countries. Health Econ. Policy
+Law 9, 1–24.
+Habibov, N.N., Afandi, E.N., 2011. Self-rated health and social capital in transitional
+countries: multilevel analysis of comparative surveys in Armenia, Azerbaijan,
+and Georgia. Soc. Sci. Med. 72, 1193–1204.
+Harpham, T., Grant, E., Thomas, E., 2002. Measuring social capital within health
+surveys: key issues. Health Policy Plann. 17, 106–111.
+Hurtado, D., Kawachi, I., Sudarsky, J., 2011. Social capital and self-rated health in
+Colombia: the good, the bad and the ugly. Soc. Sci. Med. 72, 584–590.
+Ichida, Y., Kondo, K., Hirai, H., Hanibuchi, T., Yoshikawa, G., Murata, C., 2009. Social
+capital, income inequality and self-rated health in Chita peninsula, Japan: a
+multilevel analysis of older people in 25 communities. Soc. Sci. Med. 69, 489–
+499.
+Islam, M.K., Gerdtham, U., Gullberg, B., Lindstrom, M., Merlo, J., 2008. Social capital
+externalities and mortality in Sweden. Econ. Hum. Biol. 6, 19–42.
+Iversen, T., 2008. An exploratory study of associations between social capital and
+self-assessed health in Norway. Health Econ. Policy Law 3, 349–364.
+Lei, X., Smith, J.P., Sun, X., Zhao, Y., 2014. Gender differences in cognition in China
+and reasons for change over time: evidence from CHARLS. J. Econ. Aging 4, 46–
+55.
+Leone, T., Hessel, P., 2015. The effect of social participation on the subjective and
+objective health status of the over-ﬁfties: evidence from SHARE. Aging Soc..
+http://dx.doi.org/10.1017/S0144686X15000148.
+Lindstrom, M., 2009. Marital status, social capital, material conditions and selfrated health: a population-based study. Health Policy 93, 172–179.
+Lindstrom, M., Mohseni, M., 2009. Social capital, political trust and self-reported
+psychological health: a population-based study. Soc. Sci. Med. 68, 436–443.
+Ljunge, M., 2014. Social capital and health: evidence that ancestral trust promotes
+health among children of immigrants. Econ. Hum. Biol. 15, 165–186.
+Koutsogeorgou, E., Nyqvist, F., Nygard, M., Cerniauskaite, M., Quintas, R., Raggi, A.,
+Leonardi, M., 2014. Social capital and self-rated health among older adults: a
+comparative analysis of Finland, Poland and Spain. Aging Soc. doi:http://dx.doi.
+org/10.1017/S0144686X13001025.
+Matthews, R., Nee, V., 2000. Gender inequality and economic growth in rural China.
+Soc. Sci. Res. 29, 606–632.
+Meng, T., Chen, H., 2014. A multilevel analysis of social capital and self-rated health:
+evidence from China. Health Place 27, 38–44.
+Mikusheva, A., Poi, B.P., 2006. Tests and conﬁdence sets with correct size when
+instruments are potentially weak. Stata J. 6, 335–347.
+Moreira, M.J., 2003. A conditional likelihood ratio test for structural models.
+Econometrica 71, 1027–1048.
+Moreira, M.J., 2009. Tests with correct size when instruments can be arbitrarily
+weak. J. Econom. 152, 131–140.
+Muckenhuber, J., Stronegger, W.J., Freidl, W., 2013. Social capital affects the health of
+older people more strongly than that of younger people. Aging Soc. 33, 853–870.
+Murayama, H., Nishi, M., Matsuo, E., Nofuji, Y., Shimizu, Y., Taniguchi, Y., Fujiwara, Y.,
+Shinkai, S., 2013. Do bonding and bridging social capital affect self-rated health,
+
+189
+
+depressive mood and cognitive decline in older Japanese? A prospective cohort
+study. Soc. Sci. Med. 98, 247–252.
+Murayama, H., Nofuji, Y., Matsuo, E., Nishi, M., Taniguchi, Y., Fujiwara, Y., Shinkai, S.,
+2015. Are neighborhood bonding and bridging social capital protective against
+depressive mood in old age? A multilevel analysis in Japan. Soc. Sci. Med. 124,
+171–179.
+Nakhaie, R., Arnold, R., 2010. A four year (1996–2000) analysis of social capital and
+health status of Canadians: the difference that love makes. Soc. Sci. Med. 71,
+1033–1044.
+National Statistical Bureau of China, 2008. China Statistics Yearbook 2008. China
+Statistics Publishing House.
+Norstrand, J., Xu, Q., 2012. Social capital and health outcomes among older adults in
+China: the urban–rural dimension. Gerontology 52, 325–334.
+Oxley, H., 2009. Policies for healthy aging: an overview. In: OECD Health Working
+Papers No. 42.
+Pan, Y., 2011. Born with the Right Surname? Lineage Networks and Political and
+Economic Opportunities in Rural China, Available at http://bus.lsu.edu/
+McMillin/Working_Papers/pap11_15.pdf.
+Petrou, S., Kupek, E., 2008. Social capital and its relationship with measures of
+health status: evidence from the health survey for England 2003. Health Econ.
+17, 127–143.
+Poortinga, W., 2006a. Social capital: an individual or collective resource for health?
+Soc. Sci. Med. 62, 292–302.
+Poortinga, W., 2006b. Social relations or social capital? Individual and community
+health effects of bonding social capital. Soc. Sci. Med. 63, 255–270.
+Putnam, R., 1993. Making Democracy Work-Civic Traditions in Modern Italy.
+Princeton University Press, Princeton, NJ.
+Putnam, R., 2000. Bowling Alone: The Collapse and Revival of American Community.
+Simon and Schuster, New York, NY.
+Radloff, L., 1977. The CES-D scale: a self-report depression scale for research in the
+general population. Appl. Psychol. Meas. 1, 386–401.
+Rocco, L., Fumagalli, E., Suhrcke, M., 2014. From social capital to health—and back.
+Health Econ. 23, 586–605.
+Rocco, L., 2014. Trust me, you will be in better health. Health Policy 116, 123–132.
+Ronconi, L., Brown, T., Schefﬂer, R.M., 2012. Social capital and self-rated health in
+Argentina. Health Econ. 21, 201–208.
+Rose, R., 2000. How much does social capital add to individual health? A survey
+study of Russians. Soc. Sci. Med. 51, 1421–1435.
+Rostila, M., 2007. Social capital and health in European welfare regimes: a multilevel
+approach. J. Eur. Soc. Policy 17, 223–239.
+Schefﬂer, R., Brown, T., 2008. Social capital, economics, and health: new evidence.
+Health Econ. Policy Law 3, 321–331.
+Schefﬂer, R., Brown, T., Rice, J., 2007. The role of social capital in reducing nonspeciﬁc mental distress: the importance of controlling for omitted variable bias.
+Soc. Sci. Med. 65, 842–854.
+Schultz, J., O’Brein, A.M., Tadesse, B., 2008. Social capital and self-rated health:
+results from the US 2006 social capital survey of one community. Soc. Sci. Med.
+67, 606–617.
+Sirven, N., Debrand, T., 2008. Social participation and healthy aging: an international
+comparison using SHARE data. Soc. Sci. Med. 67, 2017–2026.
+Sirven, N., Debrand, T., 2012. Social capital and health of older Europeans: causal
+pathways and health inequalities. Soc. Sci. Med. 75, 1288–1295.
+Snelgrove, J.W., Pikhart, H., Stafford, M., 2009. A multilevel analysis of social capital
+and self-rated health: evidence from the British household panel survey. Soc.
+Sci. Med. 68, 1993–2001.
+Stock, J.H., Wright, J.H., Yogo, M., 2002. A survey of weak instruments and weak
+identiﬁcation in generalized method of moments. J. Bus. Econ. Stat. 20, 518–529.
+Terza, J., Basu, A., Rathouz, P., 2008. Two-stage residual inclusion estimation:
+addressing endogeneity in health econometric modeling. J. Health Econ. 27,
+531–543.
+Toya, H., Skidmore, M., 2014. Do natural disasters enhance societal trust? Kyklos 67,
+255–279.
+Veenstra, G., 2000. Social capital, SES and health: an individual-level analysis. Soc.
+Sci. Med. 50, 619–629.
+Wang, H., Schlesinger, M., Wang, H., William, C., 2009. The ﬂip-side of social capital:
+the distinctive inﬂuences of trust and mistrust on health in rural China. Soc. Sci.
+Med. 68, 133–142.
+Yamamura, E., 2011a. Different effects of social capital on health status among
+residents: evidence from modern Japan. J. Socio Econ. 40, 475–479.
+Yamamura, E., 2011b. Differences in the effect of social capital on health status
+between workers and non-workers. Int. Rev. Econ. 58, 385–400.
+Yamamura, E., 2015. Natural disasters and social capital formation: the impact of the
+Great Hanshin–Awaji earthquake. Pap. Reg. Sci. doi:http://dx.doi.org/10.1111/
+pirs.12121.
+Yamaoka, K., 2008. Social capital and health and well-being in East Asia: a
+population-based study. Soc. Sci. Med. 66, 885–899.
+Yip, W., Subramanian, S.V., Mitchell, A., Lee, D., Wang, J., Kawachi, I., 2007. Does
+social capital enhance health and well-being? Evidence from rural China. Soc.
+Sci. Med. 64, 35–49.
+Yu, J., Xie, Y., 2012. The varying display of gender display. Chin. Sociol. Rev. 44, 5–30.
+Zhao, Y., Strauss, J., Park, A., Shen, Y., Sun, Y., 2013. China Health and Retirement
+Longitudinal Study-Pilot Users’ Guide, Available at http://charls.ccer.edu.cn/en/
+page/documentation/2008_pilot.
+
+

@@ -1,0 +1,800 @@
+Annals of Global Health
+
+VOL. 81, NO. 4, 2015
+
+ª 2015 Icahn School of Medicine at Mount Sinai.
+
+ISSN 2214-9996
+http://dx.doi.org/10.1016/j.aogh.2015.07.002
+
+REVIEW ARTICLE
+
+Review of Occupational Health and Safety Organization
+in Expanding Economies: The Case of Southern Africa
+Dingani Moyo, MBChB, MFOM, MOHS, MAppMgnt (Health),
+Muzimkhulu Zungu, MBChB, DOMH, FCPHM, MMed (Community Health),
+Spoponki Kgalamono, BCur, MBChB, DOH, FCPHM (Occ Med), MMed (Comm Health), DPH,
+Chimba D. Mwila, MBChB (UNZA), Msc OM (London)
+Harare, Zimbabwe; Braamfotein, South Africa; Pretoria, South Africa; Johannesburg, South Africa; and Kitwe,
+Zambia
+
+Abstract
+B A C K G R O U N D Globally, access to occupational health and safety (OHS) by workers has remained at
+very low levels. The organization and implementation of OHS in South Africa, Zimbabwe, Zambia, and
+Botswana has remained at suboptimal levels. Inadequacy of human resource capital, training, and education
+in the ﬁeld of OHS has had a major negative impact on the improvement of worker access to such services in
+expanding economies. South Africa, Zimbabwe, Zambia, and Botswana have expanding economies with
+active mining and agricultural activities that pose health and safety risks to the working population.
+M E T H O D S A literature review and country systems inquiry on the organization of OHS services in the
+4 countries was carried out. Because of the infancy and underdevelopment of OHS in southern Africa,
+literature on the status of this topic is limited.
+R E S U L T S In the 4 countries under review, OHS services are a function shared either wholly or partially
+
+by 3 ministries, namely Health, Labor, and Mining. Other ministries, such as Environment and Agriculture,
+carry small fragments of OHS function. The 4 countries are at different stages of OHS legislative
+frameworks that guide the practice of health and safety in the workplace. Inadequacies in human
+resource capital and expertise in occupational health and safety are noted major constraints in the
+implementation and compliance to health and safety initiatives in the work place. South Africa has a
+more mature system than Zimbabwe, Zambia, and Botswana. Lack of specialized training in occupational
+health services, such as occupational medicine specialization for physicians, has been a major drawback
+in Zimbabwe, Zambia, and Botswana.
+D I S C U S S I O N The full adoption and success of OHS systems in Southern Africa remains constrained.
+Training and education in OHS, especially in occupational medicine, will enhance the development and
+maturation of occupational health in southern Africa. Capacitating primary health services with basic occupational health knowledge would be invaluable in bridging the current skills deﬁcit. Introducing short courses
+and foundational tracks in occupational medicine for general medical practitioners would be invaluable
+K E Y W O R D S occupational health and safety, southern Africa, worker’s health, occupational health
+access, health systems, workplace health
+
+© 2015 Icahn School of Medicine at Mount Sinai. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+From the Baines Occupational and Travel Medicine Centre, Harare, Zimbabwe (DM); National Institute for Occupational Health, of the National
+Health Laboratory Service, Braamfontein, South Africa (MZ, SK); School of Health Systems and Public Health, University of Pretoria, Pretoria, South
+Africa (MZ); School of Public Health, University of Witwatersrand, Johannesburg, South Africa (SK); Onsite Occupational Health Consultancy, Kitwe,
+Zambia (CDM). Address correspondence to D.M. (moyod@iwayafrica.co.zw).
+
+496
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+INTRODUCTION
+
+Access to health and safety in the workplace has had
+an inexplicably challenging gestation and a protracted and complicated delivery phase globally. Its
+development has not paralleled or matched the
+industrialization impetus in both developed and
+expanding economies. This is evidenced by the
+alarming statistics showing that more than 2 million
+work-related deaths and about 300 million nonfatal
+occupational accidents occur annually, resulting in
+global economic costs contributing to 4% of the
+global gross domestic product (GDP).1 Because
+workers represent half of the world’s population
+and are the major contributors to economic and
+social development, this magnitude of occupational
+accidents and fatalities calls for an urgent redress of
+the situation.2 Less than 15% of the global workforce, primarily in big enterprises in developed
+countries, has access to occupational health and
+safety (OHS).3 It still remains a big challenge in
+expanding economies. The imperative fundamentals
+to the genesis of wider coverage and improvement
+of OHS rests on the commitment of member states
+both individually and collectively. The majority of
+expanding economies in Africa face an enormous
+challenge of improving coverage and access to
+OHS services.
+The objective of this study was to review the
+organization of occupational health in expanding
+economies in southern Africa, namely, Zimbabwe,
+South Africa, Botswana, and Zambia. However, little published literature exists on this subject, particularly in Zimbabwe, Zambia, and Botswana.
+DEMOGRAPHICS
+
+The southern African countries vary widely in terms
+of their population sizes, economies, and the size of
+labor force. South Africa is an upper middle-income
+country located at the tip of Southern Africa4 with a
+total population of 54 million5 and a GDP of
+US$350.6 billion.6 The country has a labor force
+of 20,228,000, of which 4,909,000 are unemployed
+and 2,448,000 are employed in the informal sector
+(nonagriculture).7 Zimbabwe is a low-income country with a GDP that stood at $13.19 billion in
+2013.8 According to the 2012 Zimbabwe National
+Population Census, the country’s population was
+13,061,239,9 and in 2013 it was estimated at
+14,150,000.8,10 In 2012, Zimbabwe had a total
+labor force of about 5 million with only 30% of
+the economically active labor force being in paid
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+employment. The unemployment rate was 11%.11
+This unemployment rate excluded people who
+were in informal employment. Botswana, like South
+Africa, is an upper middle-income country with a
+population of about 2 million and a GDP of
+$14.78 billion.12 Botswana’s unemployment rate
+stood at 20% in 2014, whereas the formal sector
+accounted for 389,665 workers.13 Zambia is a lower
+middle-income country with a population of 14.54
+million and a GDP of $26.82 billion.14
+ORGANIZATION OF OHS SERVICES
+
+Globally, OHS is generally a new discipline that is
+still in its infancy stage, as reﬂected by the accident
+and occupational diseases statistics and the low
+global access to it. Despite the huge negative effect
+on the lives of people, OHS has not received significant focus and support even when compared with
+the substantial global support and attention given
+to HIV, malaria, and tuberculosis. OHS has
+remained an island whose existence has always
+been recognized but with no concerted efforts
+toward support. Southern Africa is no exception
+to this, as evidenced by the signiﬁcant gaps in
+human resource capital, training, and education
+and programmatic approaches in the workplace.
+Occupational health was supervised by Ministries
+of Labor in about 40% of the European Region
+Member States, and in about 60% by Ministries
+of Health.15 In southern Africa, the practice of
+occupational health has found itself multitentacled
+and waddling between the Ministries of Health
+and the Ministries of Labor, although in some cases
+the Ministry of Labor has assumed responsibility.
+Despite the noted poor coverage of OHS, the 4
+southern African countries have demonstrated a certain level of commitment to OHS, as shown by
+their ratiﬁcations of the International Labor Organization (ILO) conventions that have to do with
+health and safety. Of the 4 countries reviewed
+here, Zambia has the highest number of ratiﬁcations
+of ILO technical conventions with 36, followed by
+South Africa with 17, Zimbabwe with 15, and lastly
+Botswana with 6.16 However, these endorsements
+still fall far below the scheduled 177 technical
+conventions.
+OHS Legislation and Organization in Zimbabwe. In
+Zimbabwe, the main custodian of OHS is the Ministry of Labor through the Division of Occupational
+Health and Safety of the National Social Security
+Authority of Zimbabwe (NSSA).17 NSSA administers 2 schemes, namely the Pensions and Other
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+Beneﬁts scheme and Accident Prevention and
+Workers’ Compensation scheme. The Accident and
+Prevention and Workers’ Compensation scheme is
+administered through statutory instrument 68 of
+1990. The Accident and Prevention and Workers’
+Compensation scheme’s mandate is to create
+awareness and promote health and safety in the
+workplace, provide rehabilitation services, enforce
+health and safety legislation, and provide ﬁnancial
+beneﬁts to families of workers who have been
+injured or killed or who have acquired occupational
+diseases.17 The scheme requires all workplace accidents to be reported within 14 days regardless of
+whether the worker has completed treatment. In
+cases of serious accidents and fatalities, employers
+are required to report to the nearest NSSA ofﬁce
+and the police. The scheme meets all costs related to
+workplace injuries, such as transport, drugs, hospital
+fees, and artiﬁcial appliances (e.g., dentures, spectacles, hearing aids, artiﬁcial limbs, crutches and
+other apparatus used by people who are physically
+disabled.).17
+The scheme is well organized and focuses on the
+welfare of the employee and his or her family in the
+event of an incapacitating or fatal accident or occupational disease. Unfortunately, the workforce covered by this scheme is very small, including only
+30% of the national labor force in paid employment.11 The major challenge for the nation is to
+develop strategies targeted at those workers not currently covered by the scheme, including the informal sector, civil service, and domestic workers. A
+multitude of health and safety hazards also exist in
+the excluded categories.
+The second scheme administered by NSSA is
+the Employees’ Pension Scheme. Employees who
+suffer permanent disablements from injuries of
+magnitudes of at least 30% are entitled to compensation that is paid as a pension.11 Permanent disablements below the 30% cutoff receive a lump
+sum one-off payment commensurate with the
+severity of their permanent disablements.
+The Ministry of Health and Childcare plays the
+role of diagnosing and managing workplace-related
+occupational conditions. This is accomplished
+through the normal health delivery system. The
+Radiation Protection Authority and Environmental
+Management agencies are charged with speciﬁc
+functions of OHS.
+Legislation. Zimbabwe has a foundational OHS
+legislative framework that provides for the protection of workers’ health and safety. Like many other
+African countries, one of the challenges is the lack
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+of a harmonized and comprehensive legal instrument that covers most workplaces. As previously
+alluded to, the informal sector, domestic workers,
+and the civil service are not covered by the current
+OHS legislation.11 Highlights on the main OHS
+pieces of legislation are as discussed here. The
+foundational pieces of legislation governing OHS in
+Zimbabwe include some of the following.
+Statutory Instrument 68 of 1990: Act 12/
+89.18 Among many other issues, this instrument
+
+spells out the right to compensation for workers
+involved in accidents arising from and during the
+course of employment. It further details the exclusions from compensation for willful misconduct or
+death occurring more than 12 months after the accident unless such death is proven to directly emanate
+from the injury. The instrument further deﬁnes serious accidents as those resulting in permanent disablement of more than 30%. This instrument also
+lists the scheduled occupational diseases arising
+from various workplace exposures. Roles of employers and employees in OHS at the workplace are
+detailed by the instrument in greater depth. Under
+this act, compensation of victims is the responsibility of NSSA. This statutory instrument is quite
+comprehensive in presenting a platform for management of OHS issues at the workplace. Lack of speciﬁc supporting occupational health standards and
+ﬁtness for duty standards especially for safety sensitive/critical work presents a challenge in the optimization of OHS.
+Pneumoconiosis Act: Chapter 15.08. of 1971 revised
+1996.19 The Pneumoconiosis Act speciﬁcally
+
+addresses, among other pertinent issues, the establishment of a medical bureau that oversees the surveillance of exposed workers in dusty occupations by
+way of preplacement, periodic, and exit medical
+examinations at speciﬁed times. It prescribes the
+exclusions of employment in dusty environments.
+Because Zimbabwe is endowed with various minerals and hard rock mining constitutes the greatest
+activity, this is a very good proactive system that
+offers comprehensive surveillance for workers
+exposed to dust. There is, however, lack of similar
+pieces of legislation that relate to other speciﬁc hazards such as noise, vibration, light, and ergonomic
+risks. This has led to the so-called pneumoconiosis medical examination taking the center stage
+at the expense of other signiﬁcant hazards.
+Factories and Works Act: Chapter 14.08. 1948 revised
+1996.20 Relevant to OHS, Part 1V of the act
+
+requires the establishment of accident registers and
+reporting to the inspector of all accidents that result
+
+497
+
+498
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+in an absence of 3 days or more from the workplace.
+Part 1V, item 14 (5) of the act requires that medical
+practitioners who attend to workers suffering from
+lead, phosphorous, arsenic, or mercury poisoning
+or anthrax as a result of occupational exposures
+report to the inspector.
+Republic of South Africa. The governance and leadership for OHS in South Africa is shared mainly by
+3 government departments: the departments of
+Labor (DOL), Mineral Resources (DMR), and
+Health (DOH). The DOL administers the Occupational Health and Safety Act, no. 85 of 1996
+(OHSA),21 which exclude mines and the Compensation for Occupational Injuries and Diseases
+Act (COIDA), no. 130 of 1993 (COIDA).22 The
+DMR administers the Mine Health and Safety Act
+(MHSA), no. 29 of 1996, for the mines.23 The
+DOH administers the National Health Act, no. 61
+of 2003, which mandates that the provincial government provide OHS.24 The Occupational Diseases in Mines and Works Act (ODMWA), no. 78
+of 1973, provides for the compensation of certain
+diseases contracted in mines and works only.25
+The DOH has adopted the principles of universal health coverage, in line with the World Health
+Organization (WHO), to increase health coverage
+with essential health services for those with the
+greatest need. It is envisaged that the introduction
+of universal health coverage will increase OHS coverage, especially for workers in small, medium, and
+micro enterprises, agriculture, and the informal
+economy, as per the World Health Assembly
+60.26 and the WHO’s global plan of action on
+workers’ health.26
+In terms of the OHSA and MHSA, the
+employer is responsible for the provision of health
+and safety in the workplace, including the costs
+for hazard identiﬁcation and control and the provision of a medical surveillance program where applicable.21,23 The compensation legislation COIDA
+and ODMWA both provide for medical insurance
+for the treatment of occupational diseases and injuries for workers, at least for those in the formal
+economy.22,25 The health services for the industry
+are procured from the private sector through
+employer-funded medical aid schemes (insurance)
+and for some enterprises are provided in-house by
+industry providers and hospitals. Some workers in
+the informal economy; small, medium, and micro
+enterprises; agriculture; and contract or casual workers receive their curative OHS services from the provincial DOH in undesignated clinics such as family
+medicine, internal medicine, surgical, and
+
+emergency departments, and thus are covered
+through general tax revenue.24 Overall private
+health insurance (medical aid schemes), which covers high- and middle-income workers and their
+families, covered about 16% to 17% of the population, but accounted for more than 45% of total
+health care ﬁnancing for South Africa.27,28 Currently, there is paucity of data on the exact contribution of industry to the total health care expenditure
+in the private sector, but dated data estimates it to
+be 6%.29
+Botswana. In Botswana, the main custodian of
+OHS is the Ministry of Labor and Home Affairs.30
+The main responsibilities of the division include the
+following:
+d
+d
+d
+d
+
+Assessment of the suitability of designs of factories.
+Registration of factories.
+Inspection of factories and other places of work.
+Registration and inspection of plant and machinery.
+
+This division is also responsible for disseminating information on OHS and participates in the
+drawing up of Botswana National Health and Safety
+Standards.30
+In Botswana, the regulation of OHS is scattered
+over a number of acts of Parliament and is under the
+custody of many government ministries. Legislation
+includes the Factories Act (under the Ministry of
+Labor and Social Security); the Food Control Act,
+Public Health Act, and Control of Smoking Act
+(under the Ministry of Health); Agrochemicals
+Act (under the Ministry of Agriculture); the Mines,
+Quarries Works, and Machinery Act (Ministry of
+Minerals, Energy, and Water Resources); the
+Atmospheric Pollution (Prevention) Act and Waste
+Management Act (Ministry of Environment, Wildlife, and Tourism); and the Radiation Protection
+Act (Ministry of Communication, Science, and
+Technology).31
+The Ministry of Health, through its public
+health division, provides specialized occupational
+health services.32 The services include, among other
+issues, research in OHS, risk management, development of policies, and standards and provision of
+occupational health surveillance programs. It also
+provides occupational health diagnostic services
+and diagnostic occupational health services for exminers.33
+Diagnostic and curative services can be accessed
+through the normal health delivery system, although
+an occupational health specialist clinic in the Ministry of Health exists in the capital. Two important
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+pieces of legislation in the mining sector include the
+Mines, Quarries, Works and Machinery Act
+(MQWMA)34 and the Workmen’s Compensation
+Act.35 Part X of the former addresses Health and
+Labor issues (regulations 91-103) and prohibits
+the employment of any person in a mine unless
+they have undergone a medical examination by a
+registered medical practitioner and have been certiﬁed as ﬁt. The act stipulates the content of the
+examination that should include a chest x-ray and
+an audiometry test. Conditions such as tuberculosis,
+pneumoconiosis, ankylostomiasis, nystagmus, dermatitis, or any infectious diseases constitute an
+exclusionary criteria from employment in a mine.
+The act also sets down in detail the responsibilities
+and requirements for workers and employers necessary to create a safe working environment.
+Workmen’s Compensation Act. The act offers a
+comprehensive framework for the compensation of
+accidents and occupational diseases. Under this
+act, reporting of accidents arising out of and in
+the course of employment that lead to permanent
+disablement or sickness-related absences exceeding
+3 days are required to be reported within 17 days of
+the date of injury.35 Under this act, it is the
+responsibility of the employer to compensate the
+injured. Negligence or deliberate contravention of
+any law, regulation, or order meant to protect the
+health and safety of workers are among some of the
+exclusions from eligibility to compensation. The act
+also provides for a schedule of occupational diseases
+and impairment values for anatomical losses of
+speciﬁed body regions.
+Zambia. The OHS board is the main national body
+that is responsible for the coordination and collaboration of OHS issues in Zambia.36 The main national
+competent bodies charged with an OHS regulatory
+function in promoting and enforcing OHS include
+Occupational Safety and Health Services Department (Ministry of Labor and Social Security), Mines
+Safety Department (Ministry of Mines, Energy, and
+Water Development), and Radiation Protection
+Authority (Ministry of Health). The Occupational
+Health and Safety Institute, which is under the
+Ministry of Health, is also a national body charged
+with a specialized occupational health care function
+and provision of laboratory services and serves as a
+research institution for OHS.36
+The nongovernmental organizations dealing with
+OHS issues include the Zambia Occupational Health
+and Safety Association, Zambia Organisation for
+Occupational Health and Safety, and Zambia
+National Association of Hearing Impaired.36
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+The Occupational Health and Safety Institute is
+a regulatory body that was established under the
+Occupational Health and Safety Act No. 36 of
+2010 of the laws of Zambia and came into effect
+by Statutory Instrument No. 54 of 2012 signed by
+the Minister of Health.37 The institute is charged
+with the responsibility of designing OHS services,
+conducting occupational medical evaluations, establishing health promotion programs, carrying out
+occupational disease diagnostics, and investing and
+researching OHS, among other functions. The
+institute also provides a special medical evaluation
+services for retirees termed Village Beneﬁts Pneumoconiosis Medical Examination. This service function
+is provided to retirees for the remainder of their
+lives.
+Key pieces of OHS legislation in Zambia include
+the Factories Act, only applicable to workplaces
+deﬁned as factories; the Mining Regulations, only
+applicable to the mining industry; the Occupational
+Health and Safety Act, applicable to all sectors of
+the economy; the Ionizing Radiation Act, which
+provides for the protection of the public and workers from dangers arising from the use of devices or
+materials capable of producing ionizing radiation;
+and the Workers’ Compensation Act, providing
+for the establishment and administration of a fund
+for the compensation of workers who are disabled
+by accidents or who contract diseases in the course
+of their employment.36
+OCCUPATIONAL MEDICINE
+
+Throughout Africa, human resources capital in
+occupational medicine is scarce and where they are
+offered at company level, they are usually primary
+care in nature.38 Although specialist-level occupational medicine services are available to a limited
+extent in the public sector in South Africa, they exist
+to an even much lesser extent in sub-Saharan
+Africa.38 Occupational medicine is a fairly new discipline in Africa with a very lean human resource
+base in southern Africa. In most African countries,
+the gap between the number of practicing occupational medicine physicians and occupational health
+nurse practitioners is alarmingly wide compared
+with the populations indicated earlier on in the
+southern African states. It has been asserted that
+there is generally an acute shortage of OHS practitioners and services in most developing countries.39
+A survey of specialist occupational medical services in Africa in 2004 revealed that Zambia and
+Botswana had a specialist public-sector service
+
+499
+
+500
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+provided through the Occupational Health and
+Safety Management Board and the Ministry of
+Health, respectively.38 By then, Botswana had a single specialist occupational health clinic located
+within the Ministry of Health. This clinic provided
+and continues to provide diagnostic services, disability assessment, occupational hygiene, research, and
+pneumoconiosis screening. To date, there has been
+the emergence of private occupational medicine specialist clinics40 and occupational medicine
+practitionererun occupational health centers in
+mines and companies. One study demonstrated
+that in 2004, the only available occupational health
+services in Zambia were on the Zambian Copperbelt provided by the Occupational Health and
+Safety Board.38 In Zimbabwe, occupational medicine services have been provided by the National
+Social Security Authority through its occupational
+health clinics in Harare, Bulawayo, Gweru, and
+Masvingo. Additionally, the private sector complements this function through enterprise-based occupational medicine services that are run by
+occupational medicine specialists, occupational
+medicine practitioners, and general practitioners.
+The major problem in the provision of specialist
+occupational medicine services in southern Africa
+has been the inadequacy and in some instances a
+complete lack of qualiﬁed and accredited specialists
+in the ﬁeld. This is evidenced by the very low margins
+of occupational medicine specialists, with South
+Africa having 31,41 Botswana with 1,40 and
+Zimbabwe with 2.42 This statistic points to an urgent
+need to provide Africa with occupational medicine
+skills. For the basic occupational health services concept to succeed in southern Africa, major work on
+equipping nurses and doctors with basic occupational
+health skills remains urgent. Short courses and workshops for general medical practitioners would be
+invaluable. However, there has been an increase in
+the number of medical practitioners and nurses holding a diploma in occupational health who now work
+in companies and institutions offering occupational
+health. Most of the occupational medical centers in
+southern Africa are funded locally by governments
+and private companies. For southern Africa to realize
+basic occupational health services, let alone specialist
+occupational medicine services, quite substantial
+human resource capital and expertise is required to
+grow a minimum base for the provision of such
+services.
+Training in OHS. Specialist training in occupational
+medicine remains greatly constrained in expanding
+economies. Human resources for OHS have proven
+
+to be a major challenge in southern Africa, as is career
+development in OHS. Career pathing is a challenge
+even for occupational medicine, a stand-alone specialty recognized by both the College of Medicine
+South Africa and the Health Professionals Council of
+South Africa.41,43 In Zimbabwe, occupational medicine is a recognized and registrable specialty that, due
+to limited numbers of trained experts, has no separate
+register but is catered for under the Community
+Medicine Specialist Register. In Botswana, occupational medicine is a registrable specialty.
+Although there are professional bodies such as
+the South African Society for Occupational Health
+Nurses, South African Society for Occupational
+Medicine, South African Institute for Occupational
+Hygienists, Ergonomics Society of South Africa,
+Health Professionals Council of South Africa, and
+the South African Nursing Council, it is nearly
+impossible to quantify the number of OHS professionals active in the discipline in South Africa. The
+same goes for Zimbabwe, Zambia, and Botswana,
+and unfortunately there are no accurate published
+statistics for these professional cadres.
+In southern Africa, local specialist occupational
+medicine training only exists in South Africa in 5
+universities. Aspiring candidates in southern Africa
+have to study either in South Africa or pursue their
+studies overseas. The only available training in Zimbabwe, Zambia, and Botswana in the ﬁeld are the
+nonclinical general OHS courses at certiﬁcate,
+diploma, degree, and master’s level.
+South Africa has 5 medical institutions training
+occupational medicine specialists, but more than
+10 that train OHS professionals. The quality of
+the training programs for some occupational health
+professionals may require standardization and quality assurance because the training and development
+agencies are also the professional bodies. Medical
+doctors can receive occupational health training in
+a form of a 2-year part-time diploma course offered
+as a combination of distance learning and/or block
+release in various universities or a formal 4-year specialty training recognized by the College of Medicine South Africa. Currently, the majority of
+workplace health services in South Africa are run
+by diplomats as the specialty is still new.
+CONCLUSION
+
+The 4
+tional
+OHS.
+OHS
+
+countries reviewed here possess the foundalegislative frameworks and organization of
+However, just like the rest of the world,
+access for workers remains greatly
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+constrained. The mining sector in these countries
+possesses relevant pieces of legislation. The major
+hold in these 4 countries is the inadequacy of the
+human capital, particularly in occupational medicine. Development of clinical occupational health
+services infrastructure and support structures
+
+remains a critical component in the implementation
+of the basic occupational health services concept.
+Introduction of short courses and seminars on occupational health for primary health care services personnel would be invaluable in advancing the cause
+of occupational health.
+
+REFERENCES
+1. Improving safety and health at work
+through the decent work agenda.
+International Labour Organization.
+Available at: http://www.ilo.org/
+safework/projects/WCMS_149466/
+langeen/index.htm. Accessed May
+13, 2015.
+2. Workers’ health: global plan of action.
+Sixtieth World Health Assembly.
+Geneva, Switzerland: World Health
+Organization. Available at: http://
+www.who.int/occupational_health/
+WHO_health_assembly_en_web.
+pdf?ua¼1; 2007. Accessed March 5,
+2015.
+3. World Health Organisation; Occupational Health. The Global Occupational Health Network [GOHNET]
+Newsletter, 2009 (15): 1-2. Geneva
+(Switzerland): WHO press; 2009.
+Available at: http://www.who.int/
+occupational_health/network/gohnet_
+15.pdf?ua¼1. Accessed August 16,
+2015.
+4. World Bank. Country and lending
+groups. Washington DC: The World
+Bank Group 2015. Available at:
+http://data.worldbank.org/about/count
+ry-and-lending-groups#Upper_middle_
+income. Accessed April 20, 2015.
+5. Statistics South Africa. Statistical
+Release P0302: Mid year Population
+Estimates 2014. Pretoria, South
+Africa: Stats SA; 2014.
+6. World Bank. DATA. South Africa.
+Washington, DC: The World Bank
+Group. Available at: http://data.world
+bank.org/country/south-africa; 2015.
+Accessed April 9, 2015.
+7. Statistics South Africa. Statistical
+release P0211: quarterly Labour Force
+Survey, Quarter 4, 2014. Pretoria,
+South Africa: Stats SA.
+8. The World Bank. Zimbabwe. SubSaharan Africa. http://data.worldbank.
+org/country/Zimbabwe; Accessed May
+14, 2015.
+9. Zimbabwe Population Census 2012.
+http://www.zimstat.co.zw/sites/default/
+ﬁles/img/publications/Census/Census
+Results2012/National_Report.pdf. Accessed August 17, 2015.
+10. Statistics for Zimbabwe. Geneva:
+World Health Organization. Available
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+18.
+
+19.
+20.
+21.
+22.
+23.
+
+at: http://www.who.int/countries/zwe/
+en/. Accessed May 14, 2015.
+The National Social Security Authority
+of Zimbabwe, Annual Statistical Report,
+2013. https://www.ssa.gov/policy/docs/
+statcomps/ssi_asr/2013/ssi_asr13.pdf.
+The World Bank Data. Botswana.
+Available at: http://data.worldbank.
+org/country/botswana. Accessed May
+19, 2015.
+Statistics Botswana Annual Report
+2013/2014. http://www.cso.gov.bw/
+index.php/news-events/145-statisticsbotswana-annual-report-2013-14.
+Accessed 17 August 2015
+The World Bank Data. Zambia.
+Available at: www.data.worldbank.
+org/country/zambia. Accessed May
+14, 2015.
+Guidelines on quality management in
+multidisciplinary occupational health
+services. Geneva: World Health
+Organization,
+WHO
+European
+Centre for Environment and Health.
+Available at: http://www.who.int/occu
+pational_health/regions/en/oeheurqua
+litymanagement.pdf; 1999. Accessed
+May 14, 2015.
+Ratiﬁcations of ILO Conventions.
+International Labour Organization.
+Available at: www.ilo.org/dyn/norml
+ex/en. Accessed May 19, 2015.
+National Social Security Authority of
+Zimbabwe. Available at: www.nssa.
+org.zw. Accessed May 5, 2015.
+Statutory Instrument 68 of 1990. Act
+12/89. National Social Security
+Authority (Accident Prevention and
+Workers Compensation Scheme)
+Notice, 1990. Zimbabwe.
+Pneumoconiosis Act. Chapter 15.08.
+of 1971 revised 1996. (19) Government Printer, Harare, Zimbabwe.
+Factories and Works Act. Chapter 14.
+08. 1948 revised 1996. Government
+Printers, Harare, Zimbabwe.
+Occupational Health and Safety Act
+of 1996, Act no. 85. Pretoria (South
+Africa).
+Compensation for Occupational Injuries and Diseases Act of 1993, Act no.
+130. Pretoria (South Africa).
+Mine Health and Safety Act of 1996,
+Act no. 29. Pretoria (South Africa).
+
+24. National Health Act of 2003, Act no.
+61. Pretoria (South Africa).
+25. Occupational Diseases in Mines and
+Works Act of 1973, Act no. 78. Pretoria (South Africa).
+26. World Health Organisation. Occupational Health. Workers’ Health:
+Global Plan of Action. Geneva (Switzerland): WHO press. Available at:
+http://www.who.int/occupational_
+health/publications/global_plan/en/.
+Accessed August 16, 2015.
+27. Atagura J, Akazili J. Health care ﬁnancing in South Africa: moving towards universal coverage. CME 2010;28:74e8.
+28. Council for Medical Schemes. Publications: Annual reports 2012-2013.
+Pretoria (South Africa): Council for
+Medical Schemes. Available at:
+https://dl.dropboxusercontent.com/u/
+101411211/AR2012_2013.pdf. Accessed
+August 16, 2015.
+29. McIntyre D, Bloom G, Doherty J,
+Brijlal P. Health Expenditure and
+Finance in South Africa. Durban: Health
+Systems Trust and World Bank; 1995.
+30. Occupational health and safety. Ministry of Labour & Home Affairs.
+Available at: http://www.gov.bw/en/
+MinistrieseAuthorities/Ministries/
+Ministry-of-LaboureHome-AffairsMLHA/DepartmenteUnits/Occupa
+tional-Health-and-Safety/. Accessed
+June 29, 2015.
+31. Occupational Health and Safety. http://
+www.gov.bw/Global/Occupational%
+20Health%20and%20Safety%5B1%5D.
+pdf. Accessed August 17, 2015.
+32. Ministry of Health. Ex- Miners
+Diagnostic Services. http://www.gov.
+bw/en/MinistrieseAuthorities/Ministries/
+MinistryofHealth-MOH/ToolseServices/
+Serviceseforms/?FromPageID¼3038
+&FromPageType¼1&pid¼1&Clear
+Search¼true. Accessed August 17,
+2015.
+33. Ex-miner’s diagnostic services programme. Ministry of Health. Available at: http://www.gov.bw/en/Mini
+strieseAuthorities/Ministries/Ministry
+ofHealth-MOH/ToolseServices/Servi
+ceseforms/The-use-of-a-kgotla-forconsultation-and-decisione1/. Access
+ed June 28, 2015.
+
+501
+
+502
+
+Annals of Global Health, VOL. 81, NO. 4, 2015
+J u l y eA u g u s t 2 0 1 5 : 4 9 5 – 5 0 2
+
+Moyo et al.
+Occupational Health and Safety in Southern Africa
+
+34. Mines, Quarries, Works and Machinery Act. Chapter 44:02. Botswana.
+35. Worker’s Compensation, Chapter 47:
+03. Government of Botswana. Available at: http://www.ilo.org/wcmsp5/
+groups/public/e-ed_protect/e-prot
+rav/e-ilo_aids/documents/legaldocum
+ent/wcms_125673.pdf. Accessed June
+26, 2015.
+36. Zambia country proﬁle on occupational
+safety and health 2012. ILO Country
+Ofﬁce for Zambia, Malawi and Mozambique in Lusaka, 2012. Available
+at: http://www.ilo.org/wcmsp5/groups/
+public/e-ed_protect/e-protrav/e-safe
+work/documents/policy/wcms_208195.
+pdf. Accessed June 26, 2015.
+
+37. Occupational Health and Safety Institute. Available at: http://ohsi.co.zm/?
+page_id¼17. Accessed June 29, 2015.
+38. Naidoo RN, Ryan A. “Specialist
+Occupational Medicine Services in
+Sub Saharan Africa” African Newsletter on Occupational Health and Safety
+2004;14:4e6.
+39. Clarke E. Multi-disciplinary occupational health services. African Newsletter on Occupational Health and
+Safety 2004;14:4.
+40. MOSO Clinics. Available at: http://
+www.mosoclinics.co.bw/index.php/
+our-team. Accessed June 30, 2015.
+41. Health Professions Council of South
+Africa. Available at: http://isystems.
+
+hpcsa.co.za/iregister/. Accessed July
+1, 2015.
+42. Public searchable register. Medical
+and Dental Practitioners, Council of
+Zimbabwe. Available at: http://www.
+mdpcz.co.zw/index.php/searchablemembers-directory/entries?f[Specialty]
+¼SpecialistþCommunityþPhysician.
+Accessed January 7, 2015.
+43. Examinations/Diplomas
+for
+the
+College of Public Health Medicine.
+The Colleges of Medicine of South
+Africa. Available at: http://www.
+collegemedsa.ac.za/view_college.aspx?
+collegeid¼21. Accessed June 30,
+2015.
+
+

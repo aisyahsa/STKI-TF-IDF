@@ -1,0 +1,2106 @@
+Economics and Human Biology 22 (2016) 35–46
+
+Contents lists available at ScienceDirect
+
+Economics and Human Biology
+journal homepage: http://www.elsevier.com/locate/ehb
+
+Migrants, health, and happiness: Evidence that health
+assessments travel with migrants and predict well-being
+Martin Ljunge *
+Research Institute of Industrial Economics (IFN), IFN, Box 55665, 102 15 Stockholm, Sweden
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Article history:
+Received 26 November 2015
+Received in revised form 29 February 2016
+Accepted 3 March 2016
+Available online 11 March 2016
+
+Health assessments correlate with health outcomes and subjective well-being.
+Immigrants offer an opportunity to study persistent social inﬂuences on health where
+the social conditions are not endogenous to individual outcomes. This approach provides a
+clear direction of causality from social conditions to health, and in a second stage to wellbeing. Natives and immigrants from across the world residing in 30 European countries are
+studied using survey data. The paper applies within country analysis using both linear
+regressions and two stage least squares. Natives’ and immigrants’ individual characteristics have similar predictive power for health, except Muslim immigrants who experience
+a sizeable health penalty. Average health reports in the immigrant’s birth country have a
+signiﬁcant association with the immigrant’s current health. Almost a quarter of the birth
+country health variation is brought by the immigrants, while conditioning on
+socioeconomic characteristics. There is no evidence of the birth country predictive power
+declining neither as the immigrant spends more time in the residence country nor over the
+life course. The second stage estimates indicate that a one standard deviation
+improvement in health predicts higher happiness by 1.72 point or 0.82 of a standard
+deviation, more than four times the happiness difference of changing employment status
+from unemployed to employed. Studying life satisfaction yields similar results. Health
+improvements predict substantial increases in individual happiness.
+ß 2016 Elsevier B.V. All rights reserved.
+
+JEL classiﬁcation:
+F22
+I12
+I31
+J15
+Keywords:
+Health status
+Self-reported health
+Subjective well-being (SWB)
+Happiness
+life satisfaction
+Immigrant health
+
+1. Introduction
+Self-reported health is one of the strongest correlates
+with subjective well-being, indicating that health may be
+important for individual well-being (Chida and Steptoe,
+2008; Easterlin, 2003; Graham, 2010). Subjective wellbeing, happiness or life satisfaction, may also be an
+objective of individuals and policy makers. This paper
+presents evidence on the relationship between health and
+happiness using a method that has a claim to isolate the
+causal direction from health to happiness. The paper
+
+* Tel.: +46 8 665 4517; fax: +46 8 665 4599.
+E-mail address: martin.ljunge@ifn.se
+http://dx.doi.org/10.1016/j.ehb.2016.03.004
+1570-677X/ß 2016 Elsevier B.V. All rights reserved.
+
+extends the literature by using variation in health that
+plausibly is not endogenous to the individual’s current
+well-being.
+Health assessments vary widely both across individuals
+within a country and across countries. This paper studies
+immigrants in 30 European countries and compares their
+health and socioeconomic gradient to natives using survey
+data and regression analysis.1 Focusing on immigrants
+allows the study of persistent social inﬂuences on selfreported health by combining two approaches in the
+literature, as discussed below. Moreover, the persistent
+
+1
+The term socioeconomic gradient is used to describe the predictive
+power of socioeconomic characteristics for the outcome, in this case
+health.
+
+36
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+inﬂuence on health allows estimating the effect of health
+on well-being using an instrumental variable approach.
+The ultimate contribution of the paper is to estimate the
+inﬂuence of health on well-being using a two stage model
+where birth country health is used as an instrument for
+individual health. The paper makes three additional
+contributions to improve estimating the inﬂuence of
+health on well-being. First, the socioeconomic gradient
+of health, the predictive power of socioeconomic characteristics for health, is estimated for natives and
+immigrants. Second, one persistent inﬂuence on selfreported health, mean health assessments in their birth
+countries, is estimated among immigrants from across the
+globe. Third, it is examined if the birth country inﬂuence on
+health dissipates as immigrants spend more time in the
+residence country or as they age.
+The ﬁrst point on the socioeconomic gradient contributes to the literature on immigrant health which has
+shown a weak gradient among Mexican immigrants in the
+U.S. (Akresh and Frank, 2008; Rubalcava et al., 2008;
+Acevedo-Garcia et al., 2007; Buttenheim et al., 2010;
+Goldman et al., 2006; Sanchez-Vaznaugh et al., 2009).
+Signiﬁcant differences in the socioeconomic gradient of
+health has also been found in the Canadian context, see for
+example Wang and Hu (2013). Evidence from Germany
+points to small differences, see Nesterko et al. (2013). The
+differences between natives and immigrants have been
+found to dissipate with time spend in the destination
+country; see for example Subedi and Rosenberg (2014).
+The estimated gradient reported below is similar, on
+average, for natives and immigrants using data on 91
+immigrant groups residing in 30 countries.
+Moreover, persistent social inﬂuences on health of
+immigrants are studied. This combines two strands of the
+health literature: social inﬂuences on health and persistent
+inﬂuences of early environmental exposures. The literature
+has studied how social inﬂuences in the individual’s
+current environment correlates with health (Marmot and
+Wilkinson, 2006; Berkman and Kawachi, 2000). Another
+literature has studied how exposures through the life
+course inﬂuence health later in life (Cohen et al., 2010;
+Gong et al., 2011; Takeuchi et al., 2007; Ben-Shlomo and
+Kuh, 2002) and effects of exposures in utero (Rasmussen,
+2001; Almond and Currie, 2011). Health assessment in the
+individual’s birth country are related to the health report in
+a different environment at a later stage in the life course,
+hence combining the perspective of social inﬂuences with
+past exposures, to study a novel health inﬂuence channel.
+An essential part of the approach is to study social
+inﬂuences that are not endogenous to the outcomes of the
+individuals studied. Immigrants, whose current health does
+not determine the mean health in their birth country, provide
+such a setting. The data covers natives and immigrants in
+30 European countries between 2002 and 2010. Immigrants
+originate from 91 countries across the globe.
+The ultimate part of the analysis provides evidence on
+how health inﬂuences happiness. The literature thus far
+has found strong correlations between health and happiness where the causality could be interpreted in both
+directions (Chida and Steptoe, 2008; Easterlin, 2003;
+Graham, 2010). Related is also evidence on job satisfaction
+
+(Pagan et al., 2016). Building on the previous analysis of
+persistent social inﬂuence on health among migrants, a
+two stage approach is applied that can provide evidence on
+the causal inﬂuence of health on happiness. Birth country
+health is used as an instrument of individual health in
+estimating the inﬂuence of health on happiness. The
+estimates provide evidence on the causal effect of health
+on happiness given that the instrument is relevant (which
+is shown in the ﬁrst part of the analysis) and the exclusion
+restriction holds (which can never be known with
+certainty). The instrumental variables approach in this
+paper complements other approaches to studying the
+causal relationships between health and well-being such
+as the structural equations model in Gana et al. (2013)
+which impose different assumptions to yield stronger
+causal evidence than cross sectional correlation studies.
+2. Methods
+2.1. Empirical models
+The ﬁrst part of the analysis applies a linear ordinary
+least squares (OLS) model. The main type of analysis is
+regressions of the following form:
+0
+
+Healthicat ¼ b0 þ bk X icat þ b1 Mean Healtha þ g ct
+þ eicat
+
+(1)
+
+Healthicat captures the self-reported health in period t of
+individual i, residing in country c, and born in country a.
+Xicat captures individual demographic and socioeconomic
+controls, as well as parental characteristics, that may affect
+health. The associated vector of coefﬁcients is denoted by
+b0k . The country of residence-by-year ﬁxed effect is denoted
+by gct, and eicat is the error term. This regression is run on
+samples of natives and immigrants. The mean level of
+ancestral country health assessment, Mean_Healtha, is
+common to all individuals born in country a. This term is
+included when studying immigrants, and in this case a 6¼ c.
+Ancestral country and birth country are used interchangeably in this paper. All standard errors are clustered by the
+individual’s birth country to allow for arbitrary correlations of the error terms among individuals with the same
+birth country (Angrist and Pischke, 2009). The results
+presented below are based on a linear model but the
+results are robust to using the ordered Logit or the ordered
+Probit estimator. All regression parameter estimates are
+unstandardized.
+The inclusion of the country-by-year ﬁxed effect gct
+means that the institutional structure and all other
+unobserved differences which apply to all residents in
+country c in period t (such as the mean self-reported health
+and the residence country health system) are accounted
+for. It also means that the variation used to identify the
+estimate on ancestral health assessment is to compare the
+outcomes of immigrants within each country of residence
+and year relative to the values in their birth countries. For
+example, the comparison is if immigrants residing in
+France born in Denmark, a country with high health
+assessment, have higher health assessments than the
+immigrants in France born in Portugal, a country with
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+lower health assessment. The country-by-year ﬁxed effects
+account for level differences across countries (timeinvariant inﬂuences on the outcome variables) and nonlinear trends within each country.2 The method and
+related literature are discussed further in the literature
+(Fernandez, 2010; Fernández and Fogli, 2009), and has also
+been applied to the study of health among children of
+immigrants (Ljunge, 2014).
+The second part of the analysis studies how health
+predicts well-being. The model is that health may
+inﬂuence happiness. To address reverse causality, that
+happiness determines health, the model is estimated in
+two stages. In the ﬁrst stage health is modeled as
+determined in part by birth country health, Eq. (1) above.
+The second stage equation is:
+0
+
+Happinessicat ¼ b2 þ bm X icat þ b3 Healthicat þ g 0ct þ e0icat (2)
+Happinessicat captures the subjective well-being of an
+individual. Eqs. (1) and (2) are estimated using two stage
+least squares (2SLS); see for example Angrist and Pischke
+(2009) for details. Birth country health is hence used as an
+instrument for individual health. The relevance of the
+instrument is established in the ﬁrst part of the analysis
+where estimates of (1) are presented. The exclusion
+restriction, that conditional on the controls birth country
+health has no direct effect on happiness of migrants, is
+examined through robustness checks. Although impossible
+to be certain that the exclusion restriction holds the
+robustness analysis makes it plausible that it could be valid.
+2.2. Data
+The main data set is the European Social Survey (ESS).
+Representative samples are drawn for each country and
+round. Participating countries by round are listed in
+Appendix Table A1. The survey includes information on
+the country of birth of the respondent. From this it is possible
+to identify immigrants and which countries they originate
+from. Looking at 30 European countries of residence reduces
+the concern that the results are driven by conditions of one
+country. Individuals with ancestry from 91 countries across
+all continents are observed. The broad range of immigrants
+reduces the concern that the results are particular to a small
+number of ancestral backgrounds. The summary statistics
+are presented in Table 1. The immigrants are similar to the
+general population on observables including their selfreported health and well-being. There are some differences
+with more migrants having a higher education (while
+slightly fewer have an upper secondary degree) and more
+Muslims relative other denominations.
+The cumulative ﬁrst to fourth round ESS ﬁle is amended
+with the ﬁfth round. The ﬁrst round was collected in 2002;
+second round in 2004; the third round in 2006; the fourth
+round in 2008; and the ﬁfth round in 2010. The residence
+
+2
+Compared to a model with country and year ﬁxed effects the countryby-year speciﬁcation used relaxes the assumption that time trends are
+the same across countries. In practice, the less ﬂexible model with
+country and year effects deliver similar results as the country-by-year
+ﬁxed effects speciﬁcation.
+
+37
+
+countries included are Austria, Belgium, Bulgaria, Croatia,
+Cyprus, Czech Republic, Denmark, Estonia, Finland, France,
+Germany, Greece, Hungary, Ireland, Israel, Italy, Luxembourg, Netherlands, Norway, Poland, Portugal, Russian
+Federation, Slovakia, Slovenia, Spain, Sweden, Switzerland,
+Turkey, Ukraine, and United Kingdom. Extensive documentation of the data is available at http://ess.nsd.uib.no/.
+A summary of variable names, descriptions, and sources for
+all the variables are found in Appendix Table A2.
+2.2.1. Self-reported Health
+Self-reported health is measured by one question in the
+ESS (the variable name is ‘‘health’’). The interviewer asks
+‘‘How is your health in general? Would you say it is. . .’’ and
+reads out the categories ‘‘Very good,’’ ‘‘Good,’’ ‘‘Fair,’’ ‘‘Bad,’’
+‘‘Or, very bad.’’ ‘‘Very good’’ is coded with a 5 and each
+following category with a lower digit.
+2.2.2. Subjective well-being
+One question in the ESS is about subjective well-being
+(the variable name is ‘‘happy’’). The interviewer asks
+‘‘Taking all things together, how happy would you say you
+are?’’ The answers are given on a scale from ‘‘Extremely
+unhappy’’, coded as 0, to ‘‘Extremely happy’’, coded as 10.
+2.2.3. Life satisfaction
+Life satisfaction is assessed by one question in the ESS
+(the variable name is ‘‘stlife’’). The interviewer asks ‘‘All
+things considered, how satisﬁed are you with your life as a
+whole nowadays?’’ The answers are given on a scale from
+‘‘Extremely dissatisﬁed’’, coded as 0, to ‘‘Extremely
+satisﬁed’’, coded as 10.
+2.2.4. Individual variables
+Age, gender, marital status, education, income, employment status, and religious afﬁliation are recorded in
+the ESS. Marital status is captured by two dummies for
+married and never married, with widowed and divorced
+being the excluded category.3 Education is captured by one
+dummy for tertiary (university) degree and above, and one
+dummy for upper secondary as the highest attained
+degree.4 Lower education is the excluded category. One
+dummy captures income in the top three deciles, High
+Income, and one dummy for the middle four deciles,
+Middle Income.5 One dummy captures individuals who are
+out of the labor force (students, not employed and not
+looking for work, and retired) and another dummy for
+unemployed who look for work.6 Those employed is the
+omitted category. Religion dummies for being Catholic,
+Protestant, or Muslim are included while other denominations are the excluded category.7
+
+3
+Marital status indicators are derived from the variables ‘‘marital’’,
+‘‘marlfr’’, ‘‘maritala’’, and ‘‘maritalb’’ that capture marital status across
+waves and France.
+4
+These indicators are based on the variables ‘‘edulvla’’ and ‘‘edulvlb’’.
+5
+Income categories are derived from the variables ‘‘hinctnt’’ and
+‘‘hinctnta’’.
+6
+Employment status indicators are derived from the variable
+‘‘mnactic’’.
+7
+The religious categories are derived from the variable ‘‘rlgdnm’’.
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+38
+Table 1
+Summary statistics.
+Variable
+
+Native born sample
+
+Self-assessed health
+Average health
+assessment, birth
+country
+Subjective well-being
+(happiness)
+Age
+Female
+Upper secondary
+degree
+College/university
+degree
+Middle income
+High income
+Out of labor force
+Unemployed
+Married
+Never married
+Catholic
+Protestant
+Muslim
+Upper secondary
+education, mother
+Tertiary education,
+mother
+Upper secondary
+education, father
+Tertiary education,
+father
+Working mother
+(at age 14)
+Working father
+(at age 14)
+Observations
+
+3.74
+
+.94
+3.64
+
+3.77
+.33
+
+.98
+
+7.13
+
+2.06
+
+7.14
+
+2.11
+
+47.4
+.538
+0.444
+
+18.6
+.499
+0.497
+
+47.7
+0.555
+0.410
+
+17.68
+0.497
+0.492
+
+0.228
+
+0.420
+
+0.314
+
+0.464
+
+0.295
+0.159
+0.479
+0.037
+0.530
+0.279
+0.302
+0.128
+0.032
+0.181
+
+0.456
+0.366
+0.500
+0.188
+0.499
+0.448
+0.459
+0.334
+0.175
+0.385
+
+0.298
+0.135
+0.452
+0.050
+0.578
+0.212
+0.225
+0.072
+0.079
+0.146
+
+0.457
+0.342
+0.498
+0.218
+0.494
+0.409
+0.418
+0.259
+0.269
+0.353
+
+0.070
+
+0.255
+
+0.103
+
+0.305
+
+0.212
+
+0.409
+
+0.159
+
+0.366
+
+0.097
+
+0.296
+
+0.147
+
+0.354
+
+0.528
+
+0.499
+
+0.480
+
+0.500
+
+0.872
+
+0.334
+
+0.834
+
+0.372
+
+Mean
+
+207,941
+
+Std. dev.
+
+Immigrant sample
+Mean
+
+Std. dev.
+
+16656
+
+Notes: Data from the European Social Survey, rounds 1 through 5. The
+immigrant sample refers to individuals born in a country different from
+the country of residence (where the survey is conducted).
+
+2.2.5. Parental characteristics
+There is information on the education and labor supply
+of the individual’s parents (labor supply refers to labor
+market status being market work, either employed or selfemployed). Dummies are created for both the mother and
+father if the parent has an upper secondary or tertiary
+degree. Dummies are also created for if the father or
+mother was working when the immigrant was age 14.8
+2.2.6. Health assessments in the country of birth
+Average health assessment in the country of birth is
+computed in the integrated European Values Survey and
+the World Values Survey (EVS/WVS). This allows expanding the analysis of immigrants beyond those with ancestry
+in the countries covered by the ESS. The EVS/WVS health
+measure can be matched with immigrants from 91 nations
+across the globe. Extensive documentation is available at
+www.worldvaluessurvey.org.
+The health assessment question has the following
+formulation in the EVS/WVS, ‘‘All in all, how would you
+
+describe your state of health these days? Would you say it
+is. . .’’ The answers are coded 1 for ‘‘Very poor,’’ 2 ‘‘Poor,’’ 3
+‘‘Fair,’’ 4 ‘‘Good,’’ and 5 ‘‘Very good.’’ Averages are
+computed for all countries and across the waves (collected
+between 1981 and 2008) to capture persistent mean health
+assessments.
+2.2.7. Additional ancestral country characteristics
+Birth country health, the variable of main interest in the
+analysis on persistent health inﬂuences below, is related to
+other ancestral country characteristics. There is a positive
+relationship between health and income across countries.
+We do not want to confound the effect of ancestry from a
+more developed country with the effect of a higher health
+country. The log of the ancestral country’s gross domestic
+product (GDP) per capita is used to measure the effect of
+ancestry from a more developed nation.
+Moreover, ancestral country health outcomes can
+inﬂuence the health of immigrants. This is accounted for
+by controlling for life expectancy at birth and infant
+mortality (per 1000 births). Also accounted for is inequality
+through the ratio between the incomes of the top compared
+to the bottom 20%. All these measures are taken from the
+World Development Indicators (WDI) provided by the
+World Bank. For documentation see http://data.worldbank.
+org/data-catalog/world-development-indicators. The degree of democracy is measured by the polity2 variable
+from the Polity IV project. For documentation see http://
+www.systemicpeace.org/polity/polity4.htm. A data compilation is used as the source for these birth country
+characteristics (Samanni et al., 2010; The Quality of
+Government Institute cross-country data set).
+Average subjective well-being (happiness) in the birth
+country is measured across the ﬁve waves of the EVS/WVS
+(the surveys were conducted between 1981 and 2008). The
+happiness question in EVS/WVS is ‘‘Taking all things
+together, would you say you are:’’ where answers are given
+by ‘‘Very happy’’, ‘‘Quite happy’’, ‘‘Not very happy’’, and
+‘‘Not at all happy’’.
+2.2.8. Missing observations
+There are 16 (0.10%) missing observations of health in
+the immigrant estimation sample. Health report missing is
+not signiﬁcantly associated with individual control variables, except that those who are unemployed are less likely
+to not report health. In the native sample there are 251
+(0.12%) missing observations of health. All individual
+characteristics are insigniﬁcant except Protestants who are
+more likely to report health. For subjective well-being
+there are 144 (0.86%) missing observations in the
+immigrant estimation sample. Not reporting happiness
+is not signiﬁcantly associated with any of the control
+variables. This indicates that the analysis is not biased by
+non-responses of the dependent variables.
+3. Results
+3.1. Socioeconomic gradients for natives and immigrants
+
+8
+The parental characteristics are derived from the variables
+‘‘edulvlma’’, ‘‘edulvlfa’’, ‘‘emprm14’’, and ‘‘emprf14’’.
+
+The ﬁrst and second columns of Table 2 present the
+socioeconomic gradients of self-reported health for natives
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+39
+
+Table 2
+Self-reported health for natives and immigrants.
+Dependent variable: self-reported health status
+Sample
+
+Natives
+
+Immigrants
+
+Immigrants
+
+Immigrants
+
+Immigrants
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0.209
+(0.071)**
+0.013
+(0.002)***
+0.007
+(0.002)**
+0.098
+(0.013)***
+
+0.234
+(0.050)***
+0.036
+(0.003)***
+0.018
+(0.003)***
+0.050
+(0.014)***
+0.120
+(0.018)***
+0.217
+(0.023)***
+0.077
+(0.018)***
+0.171
+(0.025)***
+0.272
+(0.024)***
+0.167
+(0.028)***
+0.090
+(0.018)***
+0.033
+(0.023)
+0.027
+(0.018)
+0.116
+(0.027)***
+0.127
+(0.031)***
+
+Yes
+0.284
+16,656
+
+Yes
+0.321
+16,656
+
+0.234
+(0.048)***
+0.035
+(0.003)***
+0.018
+(0.003)***
+0.051
+(0.014)***
+0.108
+(0.018)***
+0.196
+(0.023)***
+0.074
+(0.017)***
+0.165
+(0.024)***
+0.270
+(0.024)***
+0.167
+(0.028)***
+0.090
+(0.018)***
+0.032
+(0.023)
+0.027
+(0.018)
+0.111
+(0.026)***
+0.114
+(0.030)***
+0.058
+(0.026)*
+0.013
+(0.029)
+0.045
+(0.023)
+0.027
+(0.024)
+0.003
+(0.016)
+0.046
+(0.017)**
+Yes
+0.322
+16,656
+
+Average health assessment, birth country
+Age
+Age squared/100
+Female
+Upper secondary degree
+College or university
+Middle income
+High income
+Out of the labor force
+Unemployed
+Married
+Never married
+Catholic
+Protestant
+Muslim
+Upper secondary education, mother
+Tertiary education, mother
+Upper secondary education, father
+Tertiary education, father
+Working mother (at age 14)
+Working father (at age 14)
+Country-by-year ﬁxed effects
+R-squared
+Observations
+
+0.035
+(0.002)***
+0.018
+(0.003)***
+0.049
+(0.015)**
+0.096
+(0.014)***
+0.200
+(0.016)***
+0.067
+(0.008)***
+0.134
+(0.012)***
+0.217
+(0.018)***
+0.130
+(0.015)***
+0.103
+(0.010)***
+0.026
+(0.011)*
+0.036
+(0.020)
+0.068
+(0.015)***
+0.013
+(0.021)
+0.045
+(0.011)***
+0.039
+(0.010)***
+0.032
+(0.009)**
+0.040
+(0.010)***
+0.027
+(0.010)**
+0.083
+(0.010)***
+Yes
+0.299
+207941
+
+0.033
+(0.003)***
+0.016
+(0.003)***
+0.053
+(0.014)***
+0.108
+(0.020)***
+0.195
+(0.025)***
+0.075
+(0.017)***
+0.176
+(0.024)***
+0.266
+(0.023)***
+0.170
+(0.028)***
+0.090
+(0.018)***
+0.041
+(0.023)
+0.018
+(0.019)
+0.125
+(0.027)***
+0.088
+(0.030)**
+0.059
+(0.027)*
+0.006
+(0.032)
+0.043
+(0.024)
+0.028
+(0.024)
+0.007
+(0.016)
+0.050
+(0.017)**
+Yes
+0.319
+16,656
+
+Notes: The dependent variable is self-assessed health, which ranges from 1, ‘very bad’ to 5 ‘very good.’ Column (1) estimates the association socio-economic
+gradient for the native population (born in the country of residence). Column (2) restricts the sample to immigrants (not born in the country of residence).
+Column (3) studies immigrants and estimates the effect of health assessments in the country of birth on the immigrant’s self-reported health, while only
+accounting for the most exogenous individual characteristics. Column (4) adds socioeconomic characteristics of the individual, and column (5) adds
+parental characteristics. High income is a dummy for the top three deciles. Middle income is a dummy for the middle four deciles. Country of residence-byyear ﬁxed effects included in all speciﬁcations. Data is from the ﬁrst to ﬁfth waves of the European Social Survey. Standard errors in parenthesis. Standard
+errors allow for clustering on the individual’s birth country. Models estimated with ordinary least squares.
+Signiﬁcance stars
+* Signiﬁcant at 5% level.
+** Signiﬁcant at 1% level.
+*** Signiﬁcant at 0.1% level.
+
+and immigrants, respectively. The speciﬁcations include
+the same individual and parental characteristics. The
+estimates on the individual characteristics are very similar
+across the two groups with one notable exception. Muslim
+immigrants pay a health penalty while there is no such
+effect for native Muslims. The health penalty for Muslim
+immigrants is of similar size as having less than an
+
+secondary degree (versus having one) or being three
+deciles lower in the income distribution; a sizeable effect.
+The associations of education, income, labor force and
+marital status are similar across groups.
+The associations of parental education and labor supply
+are largely similar across the groups, although the effects
+are less signiﬁcant for the immigrants. For immigrants the
+
+40
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+estimate on the mother having a tertiary degree is close to
+zero and insigniﬁcant, while there is a positive and
+signiﬁcant estimate for natives. For immigrants the
+estimate on the father having a tertiary degree is not
+signiﬁcantly different from zero, but the point estimate is
+close to that in the native sample. The estimate of a
+working mom (at age 14) is close to zero in the immigrant
+sample, while there is a penalty in the native sample. The
+results indicate that parental characteristics may be less
+important for immigrants compared to natives. The
+estimates on parental characteristics are less precisely
+estimated than the individual characteristics so the lack of
+signiﬁcance of parental characteristics in the immigrant
+sample could reﬂect the larger uncertainty rather than
+actual differences in estimates.
+Comparing the estimates of the socioeconomic characteristics between natives in column 1 and immigrants in
+column 2 of Table 2 reveals that the socioeconomic
+gradient is not signiﬁcantly different between natives and
+immigrants, with one exception.9 Muslim immigrants
+express signiﬁcantly worse health while there is no such
+effect among natives.
+One implication of the similar socioeconomic gradients
+is that immigrants do not seem to be selected differentially
+compared to the native population. Immigrants hence
+appear representative of the native population with
+respect to the health determinants considered. The
+possible exception is Muslim immigrants.
+The similar socioeconomic gradients for health among
+natives and immigrants in the European context contrast
+with the healthy immigrant effect found in studies using
+US and Canadian data, where the socioeconomic gradient
+differs for natives and immigrants. The results presented
+here are in line with Nesterko et al. (2013) ﬁnding of only
+very small health differences between German natives and
+immigrants. Both the summary statistics in Table 1 and the
+analysis in Table 2 discussed point to no signiﬁcant health
+differences among natives and immigrants in a broader
+European context. The results point to a difference in
+immigrant health determinants between Europe and
+North America.
+3.2. Persistent predictive power on self-reported health
+The health assessments of immigrants from across the
+world are systematically related to the average health
+assessments in their birth country. The pattern is
+illustrated in Fig. 1. The horizontal axis measures the
+mean health assessment in the immigrant’s birth country.
+The vertical axis captures the self-reported health difference between an immigrant group and natives, averaged
+across the 30 residence countries.
+The positive relationship in Fig. 1 implies that immigrants
+bring their birth country health with them to their residence
+country. The ﬁgure plots the 41 largest immigrant groups
+
+9
+Given that estimates are not signiﬁcantly different between natives
+and immigrants, it may not be informative to compute quantitative
+differences across groups based on point estimates that could measure
+the same underlying parameter.
+
+Fig. 1. Health assessment in the birth country and self-reported health of
+immigrants compared to natives. Health assessment is measured from 1,
+very bad, to 5, very good. Self-reported health deviations on the vertical
+axis are from the national average (across 30 nations). The sample is
+immigrants in 30 European countries. Country labels follow ISO-3166.
+Data are from the European Social Survey and the World Values Survey.
+
+but it is very similar for the full sample. The analysis
+accounts for individual socioeconomic and birth country
+characteristics, yet the relationship stays ﬁrmly positive.
+The ﬁndings provide new evidence on how health is
+shaped by social forces beyond the current context.
+The remaining three columns of Table 2 address if there is
+a persistent predictive power of health assessments in the
+birth country on the immigrant’s current health status. In
+the third column self-reported health is regressed on the
+average health assessment in the country of birth, age, age
+squared, a gender dummy, and a full set of country of
+residence by year ﬁxed effects. The estimate on health in the
+birth country is positive and highly signiﬁcant. Immigrants
+in a given country of residence who were born in a country
+with a high health assessment express relatively higher
+health compared to immigrants residing in the same
+country but who were born in a country with lower average
+health assessments. The signiﬁcant estimate on birth
+country health indicates a persistent social inﬂuence on
+self-reported health. Persistent social inﬂuence refers to the
+lasting predicting power of a contextual factor in the
+individual’s environment, where the focus in the analysis is
+on birth country average health assessments.
+The fourth speciﬁcation of Table 2 adds socio-economic
+characteristics of the individual to account in detail for the
+immigrant’s current status. The predictive power of birth
+country health remains positive and strongly signiﬁcant.
+Column 5 of Table 2 adds parental characteristics to the
+model, which slightly decrease the standard error on the
+persistent health estimate. The results are very similar if
+Muslim immigrants are excluded, indicating that the
+possible selection effect among Muslim immigrants do not
+affect the results.
+A one standard deviation increase in mean birth
+country health corresponds to the marriage premium or
+being four years younger. The effect is just shy of the
+association of an upper secondary degree (compared to
+less education) and bigger than moving from the low to the
+middle income category. A one unit increase in the mean
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+41
+
+(Wilkinson and Pickett, 2009). There is no signiﬁcant
+inﬂuence on the health of immigrants, although the point
+estimate is as hypothesized. Column 5 accounts for the level
+of democratization, and ﬁnds evidence that greater democracy promotes health.
+Column 6 of Table 3 estimates a cumulative model with
+all the birth country factors. In this speciﬁcation only the
+birth country health assessment remains signiﬁcant. Its
+point estimate and signiﬁcance is robust across speciﬁcations, indicating a persistent social inﬂuence on selfreported health. That the point estimates remain similar
+across speciﬁcations suggest that omitted factors might be
+of limited concern. The results are very similar if Muslim
+immigrants are excluded from the analysis.
+
+health of the birth country, increasing the health from
+Russia’s level to Denmark’s, parallels the effect of being
+twelve years younger and exceeds the effect of having a
+university degree (compared to having less than an upper
+secondary degree). The literature has argued that estimates of environmental factors on self-assessed health are
+a lower bound (Grafova et al., 2014).
+3.2.1. Robustness to ancestral country factors
+Conditions in the birth country other than health
+assessments could of course inﬂuence the immigrant later
+in life. Table 3 explores a number of plausible candidates. The
+ﬁrst column accounts for GDP followed by two measures of
+objective health in the birth country: life expectancy and
+infant mortality. The estimates have the expected signs,
+higher development and better health measures promote
+health among immigrants, and are also signiﬁcant. Column 4
+of Table 3 accounts for the ratio between the income shares
+of the top and bottom 20%, a measure argued to hurt health
+
+3.2.2. Adaptation
+The acculturation of the birth country factors predictive
+power on self-reported health has been studied by Jasso
+(2003). The last two columns of Table 3 study adaptation of
+
+Table 3
+Additional birth country inﬂuences and adaptation of health reports.
+Dependent variable: self-reported health status
+Sample: immigrants
+Alternative speciﬁcation
+
+Average health assessment,
+birth country
+Log of GDP per capita,
+birth country
+Life expectancy at birth,
+birth country
+Infant mortality per 1000
+live births, birth country
+Top 20% vs bottom 20%
+income shares, birth
+country
+Democracy (polity2), birth
+country
+Average health assessment,
+birth country interacted
+with dummy for living
+over 20 years in the
+country of residence
+Average health assessment,
+birth country interacted
+with dummy for age
+47 years or older
+Individual controls
+Country-by-year ﬁxed
+effects
+R-squared
+Observations
+
+Birth
+country
+
+Birth
+country
+
+Birth
+country
+
+Birth
+country
+
+Birth
+country
+
+Birth
+country
+
+Adaptation:
+
+Adaptation:
+
+GDP
+
+Life
+expectancy
+
+Infant
+mortality
+
+Income
+inequality
+
+Democracy
+
+Cumulative
+model
+
+Years in
+country
+
+Life course
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+0.207
+(0.046)***
+0.043
+(0.012)***
+
+0.214
+(0.052)***
+
+0.237
+(0.049)***
+
+0.235
+(0.053)***
+
+0.240
+(0.047)***
+
+0.249
+(0.059)***
+0.040
+(0.029)
+0.005
+(0.004)
+0.000
+(0.002)
+0.002
+(0.002)
+
+0.238
+(0.051)***
+
+0.233
+(0.050)***
+
+0.006
+(0.002)**
+
+0.004
+(0.003)
+
+0.003
+(0.001)*
+0.001
+(0.000)**
+0.002
+(0.002)
+
+0.004
+(0.005)
+
+0.002
+(0.008)
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+0.323
+15571
+
+0.322
+15802
+
+0.322
+15802
+
+0.321
+15398
+
+0.324
+15258
+
+0.324
+14888
+
+0.321
+16,656
+
+0.321
+16,656
+
+Notes: The dependent variable is self-assessed health, which ranges from 1, ‘very bad’ to 5 ‘very good.’ All speciﬁcations study immigrants and estimate the
+effect of health assessment in the country of birth on self-reported health. Individual controls include age, age squared, gender, education, labor force
+attachment, income, and religious denomination as in Table 2. Country of residence-by-year ﬁxed effects are included in all speciﬁcations. Data is from the
+ﬁrst to ﬁfth waves of the European Social Survey. Standard errors in parenthesis, which allow for clustering on the birth country.
+Signiﬁcance stars,
+* Signiﬁcant at 5% level.
+** Signiﬁcant at 1% level.
+*** Signiﬁcant at 0.1% level.
+
+42
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+health assessment in two dimensions: based on years since
+immigration and age. Column 7 interacts the health
+assessment in the birth country with an indicator for
+whether the immigrant has spent more than 20 years in
+the country of residence. About 53% of the immigrants
+have lived more than 20 years in the country of residence.
+A signiﬁcant negative estimate on the interaction term
+would indicate that the health assessments of those who
+have lived more than 20 years in the country are less
+affected by the birth country inﬂuence. Hence, it measures
+if individuals adapt their health assessment when they live
+longer in the country of residence. The point estimate on
+the interaction term in column 7 of Table 3 is close to zero
+and insigniﬁcant. There is hence no evidence of adaptation
+in the birth country predictive power on health reports as
+immigrants spend more time in the country.
+In column 8 of Table 3 the health assessment in the
+birth country is interacted with an indicator for whether
+the individual is at least 47 years old, the sample average
+age. The idea is to examine if there is adaptation in the
+birth country predictive power over the life course. There is
+no evidence of adaptation of health assessments over the
+life course.10 The estimated coefﬁcient on the interaction
+term is close to zero and insigniﬁcant.
+3.3. Estimating the effect of health on subjective well-being
+The previous section establishes that birth country
+average health signiﬁcantly predicts individual health of
+migrants living in a different country. This result provides
+the basis for examining the effect of health on subjective
+well-being, since birth country health is plausibly not
+determined by the well-being of individuals living in
+different countries. This section presents the second stage
+estimates of a two stage model of (1) and (2).
+The ﬁrst column of Table 4 presents the second stage
+estimates of well-being on health where health is
+instrumented for by mean birth country health. Only the
+most exogenous individual controls, age, its square, and
+gender, are included. The estimate on health is positive and
+highly signiﬁcant.
+Extensive individual controls (education, marital and
+labor market status, income, religion) are added in
+column 2 of Table 4. The addition of these controls has a
+negligible inﬂuence on the estimate on health, which
+remains similar in magnitude and signiﬁcance. The
+estimates on the demographic characteristics are similar
+to those in the literature (married individuals are
+happier, those unemployed looking for work are less
+happy); see for example Graham (2010) and Easterlin
+(2003). The results are very similar if Muslim immigrants are excluded.
+The point estimate indicates a substantial positive
+impact of health on subjective well-being. A one standard
+deviation increase in health implies a 1.72 point, or .82 of a
+standard deviation, increase in happiness. The estimated
+effect size of health is several times larger than the
+
+10
+Similar results are found when using three groups; older than 20,
+older than 40, and older than 60 years of age.
+
+estimates of the biggest demographic associations. The
+implied happiness gain of a one standard deviation
+increase in health is over three times the inﬂuence of
+being married (compared to being divorced or widowed)
+and over four times the happiness gain moving the
+employment status from unemployed looking for work
+to working.
+The concern with the instrumental variable approach is
+that there are relevant omitted variables. Birth country
+characteristics correlated with birth country health could
+inﬂuence happiness. Several plausible candidates were
+examined in Section 3.2.1. Column 3 of Table 4 adds the
+cumulative speciﬁcation with birth country characteristics
+from the mentioned section (log of GDP per capita, life
+expectancy, infant mortality, top vs. bottom income
+shares, and democracy) to the two stage model. The
+estimate on health remains positive and signiﬁcant, while
+all the added birth country characteristics are insigniﬁcant
+except life expectancy.
+Since the outcome variable is happiness there may be
+the added concern that happiness persists from the birth
+country. To address this concern the fourth column of
+Table 4 adds the birth country mean happiness to the two
+stage model. The estimate on birth country happiness is
+close to zero and insigniﬁcant while health remains
+positive and signiﬁcant.
+The F-statistics for exclusion of the instrument in the
+ﬁrst stage are reported at the bottom part of Table 4. The
+ﬁrst speciﬁcation with minimal individual controls comes
+in slightly under the common 10 threshold as an indicator
+of a sufﬁciently strong instrument. The precision of the
+model increases when adding individual characteristics.
+The F-statistic for the exclusion of the instrument increases
+to 17, indicating a very strong ﬁrst stage. Adding the ﬁve
+birth country characteristics in the third speciﬁcation has
+little effect on the ﬁrst stage strength. Adding birth country
+happiness has little effect on point estimates, and is itself
+insigniﬁcant, but due to covariation with birth country
+health the ﬁrst stage is not as strong. Yet, the F-statistic
+comes in at the threshold value 10. The relevance of the
+instrument is hence established. Further details on the ﬁrst
+stage estimates are found in Appendix Table A3. Each
+column in Table A3 reports the ﬁrst stage estimates for the
+model corresponding to the same column in Table 4.
+The exclusion restriction is not possible to test in this
+exactly identiﬁed model. Omitted variables correlated
+with the instrument and outcome is always a concern.
+Potential omitted variables could include productivity and
+human capital that correlate with birth country average
+health. The robustness analysis includes GDP per capita
+and life expectancy, factors that arguably would capture
+differences in productivity and human capital across birth
+countries. Moreover, individual controls for education,
+labor force attachment, and income also account for the
+individual’s productivity and human capital. The robustness of the results to a wide range of birth country factors
+and individual characteristics indicate that no other major
+factor is likely to inﬂuence the result.
+Additional evidence on how health affects subjective
+well-being comes from studying life satisfaction. There is a
+strongly signiﬁcant predictive power of health on life
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+43
+
+Table 4
+Estimates of the inﬂuences of health on subjective well-being (2SLS).
+Dependent variable
+
+Happiness (subjective well-being)
+
+Life
+satisfaction
+
+Sample: immigrants
+Model presented: second stage
+Speciﬁcation
+
+Health (individual’s own, instrumented
+with birth country average health)
+
+Demographic
+controls
+
+Extended
+controls
+
+Birth
+country
+controls
+
+Birth
+country
+controls
+and
+happiness
+
+Birth
+country
+controls
+and
+happiness
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+1.788
+
+1.753
+
+1.481
+
+1.414
+
+1.600
+
+(0.393)***
+
+(0.324)***
+
+(0.420)***
+
+(0.485)**
+
+(0.510)**
+
+0.057
+(0.056)
+0.025
+(0.008)***
+0.004
+(0.003)
+0.000
+(0.005)
+0.012
+(0.007)
+
+0.057
+(0.056)
+0.025
+(0.009)**
+0.004
+(0.003)
+0.000
+(0.005)
+0.012
+(0.007)
+0.038
+(0.143)
+
+0.063
+(0.064)
+0.029
+(0.009)**
+0.003
+(0.004)
+0.002
+(0.006)
+0.008
+(0.005)
+0.187
+(0.169)
+
+Birth country controls
+Log of GDP per capita, birth country
+Life expectancy at birth, birth country
+Infant mortality, (per 1000 live births),
+birth country
+Top 20% vs bottom 20% income shares,
+birth country
+Democracy (polity2), birth country
+Happiness, birth country
+
+Individual controls
+Age, age sq., gender
+Education, labor force and marital
+status, income, religion
+Country-by-year ﬁxed effects
+F-statistic for exclusion of instrument
+(ﬁrst stage)
+R-squared
+Observations
+
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+8.62
+
+Yes
+22.09
+
+Yes
+17.46
+
+Yes
+10
+
+Yes
+10.1
+
+0.025
+16,512
+
+0.0564
+16,512
+
+0.1401
+14,760
+
+0.1553
+14,760
+
+0.1633
+14,783
+
+Notes: The dependent variable in columns 1 through 4 is happiness, which ranges from 0, ‘extremely dissatisﬁed’ to 10 ‘extremely happy.’ The dependent
+variable in column 5 is life satisfaction, which ranges from 0, ‘extremely unhappy’ to 10 ‘extremely satisﬁed.’ All speciﬁcations study immigrants and
+estimate the effect of health assessment on happiness, where health is instrumented for with birth country mean health assessment. The table presents the
+second stage estimates of the two stage least squares model. First stage estimates presented in Appendix Table A3. Individual controls include age, age
+squared, gender, education, labor force attachment, income, and religious denomination as in Table 2. Country of residence-by-year ﬁxed effects are
+included in all speciﬁcations. Data is from the ﬁrst to ﬁfth waves of the European Social Survey. Standard errors in parenthesis, which allow for clustering on
+birth country.
+Signiﬁcance stars,
+*
+Signiﬁcant at 5% level.
+** Signiﬁcant at 1% level.
+*** Signiﬁcant at 0.1% level.
+
+satisfaction in column 5 of Table 4 using the same two
+stage estimation procedure and extensive controls as in the
+previous column. The result corroborates the interpretation that health improves subjective well-being by
+demonstrating the effect on life satisfaction, a measure
+distinct from but related to happiness. The ﬁrst stage
+results for life satisfaction are very similar to the previous
+speciﬁcations, both in terms of estimates and ﬁrst
+stage strength (the ﬁrst stage is reported in column 5 of
+Table A3).
+4. Discussion
+Immigrants and natives look alike (Table 1) and have
+similar health gradients (columns 1–2, Table 2). These
+observations are consistent with the weak evidence of
+immigrant sorting on health (Akresh and Frank, 2008;
+
+Rubalcava et al., 2008) and supplements earlier studies that
+have found different socioeconomic gradients, in particular
+between U.S. natives and immigrants from Latin America
+(Acevedo-Garcia et al., 2007; Buttenheim et al., 2010;
+Goldman et al., 2006; Sanchez-Vaznaugh et al., 2009).
+The similarities between immigrants and natives make it
+plausible that the persistent inﬂuences on health, and in the
+second stage well-being, estimated among immigrants
+could generalize to natives. If this is the case then targeted
+health policy interventions could beneﬁt the general
+population.
+Although no speciﬁc health interventions have been
+studied in this paper the analysis would suggest that
+interventions that improve health both have long lasting
+effects on health as well as contributes to individual
+happiness. The individual correlates suggest that avoiding
+unemployment is associated with both better health and
+
+44
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+greater happiness. Higher education is associated with
+better health (but does not signiﬁcantly contribute to
+happiness when health is accounted for). This suggests
+that education interventions that keep people out of
+unemployment could have substantial returns both in
+health and happiness among both healthy and health
+impaired workers.
+Birth country income inequality does not have a
+signiﬁcant effect on immigrant health reports, indicating
+such effects are not persistent. The lack of persistence, if
+capturing a true effect of income inequality close to zero
+(rather than imprecise measurement), suggests that policy
+interventions could be effective if inequality causes poor
+health (Marmot and Wilkinson, 2006; Wilkinson and
+Pickett, 2009). Had income inequality been found to persist
+when individuals move to a different context it might have
+been more challenging for policy to overcome such
+persistence.
+The effects of mean health in the birth country on
+current health are quantitatively signiﬁcant. They are
+comparable to much studied socioeconomic inﬂuences
+such as education, income, marriage, and age. The effect
+size makes it relevant to contemplate policy interventions
+to improve health. Moreover, the social inﬂuence on
+individual health indicates spillover effects.
+The predictive power of birth country health assessment on individual health could be interpreted as causal
+as the immigrant residing in a different country cannot
+plausibly affect the average value in the birth country.
+This causal direction is a strength of the approach
+studying immigrants, which is hard to achieve in
+samples of natives. The robustness of the estimate when
+accounting for individual, parental, and birth country
+characteristics adds power to the causal interpretation.
+Yet, one can never completely rule out the inﬂuence of
+omitted factors.
+The persistent social inﬂuences on health have two
+implications. First, social inﬂuences on health assessments
+imply a potential for spillovers from improved health
+beyond those directly affected. Second, the persistent
+predictive power of birth country health on health
+assessment, over and above a wide range of current
+socioeconomic factors, implies long-lasting effects on
+health. Policy that promotes health assessments could
+have positive health effects both contemporaneously and
+over the individual’s whole life course. Policy interventions
+may also beneﬁt individuals not directly treated by the
+intervention through the social feedback from the treated
+individuals.
+The two stage estimates provide evidence on the
+direction and magnitude of the effect of health on
+subjective well-being. The instrumental variables approach offers new evidence on the causal relationship of
+health and well-being (measured by happiness and life
+satisfaction) where the current literature has largely
+focused on individual correlations where causality could
+run in both directions. The results are in line with, Gana
+et al. (2013), who ﬁnds that subjective health predicts
+subjective well-being in a subsequent year. The causal
+interpretation of the two stage estimate presented in
+this paper is of course conditional on the identifying
+
+assumption that birth country health has no
+direct inﬂuence on happiness of migrants beyond the
+speciﬁed model. This is an untestable assumption
+inherent in the instrumental variable approach, yet
+the robustness checks of the two stage model indicate
+that it could be plausible that the identifying assumption
+holds.
+The two stage estimate of health on happiness (and life
+satisfaction), when interpreted causally, has one essential
+implication. Health is a very important determinant of
+individual well-being, quantitatively much more important than other demographic and economic characteristics.
+The ﬁndings reinforce the importance for both policy
+makers and individuals themselves to improve health as a
+means to higher well-being.
+Funding
+This work was supported by the Swedish Council for
+Working Life and Social Research grant number
+2012:1261, the Swedish Research Council grant number
+2012-643, and the Torsten Söderberg Foundation grant
+number E1-14. The funding agencies have had no role in
+the design, execution, or presentation of the study.
+Appendix A
+
+Table A1
+Countries participating in the ESS by survey round.
+Country
+
+Austria
+Belgium
+Bulgaria
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Israel
+Italy
+Luxembourg
+Netherlands
+Norway
+Poland
+Portugal
+Russian Federation
+Slovakia
+Slovenia
+Spain
+Sweden
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+
+Survey round
+
+
+Notes: Data from the European Social Survey, rounds 1 through 5. Edition
+2.0 of ESS round 5 is used, and the cumulative ﬁle for earlier rounds.
+Round 1 conducted in 2002, round 2 in 2004, round 3 in 2006, round 4 in
+2008, and round 5 in 2010.
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+45
+
+Table A2
+Variable descriptions and sources.
+Variable name
+
+Description
+
+Source
+
+Derived from variable(s)
+
+Individual characteristics
+health
+happy
+stﬂife
+agea
+female
+uppersecondary
+tertiary
+middleinc
+highinc
+outoﬂf
+act__uel
+mar__marr
+mar__nevm
+catholic
+protestant
+muslim
+
+ESS
+Subjective health
+Happiness
+Life satisfaction
+Age in years
+Female (dummy variable)
+Upper secondary degree
+College or university
+Middle income
+High income
+Out of the labor force
+Unemployed
+Married
+Never married
+Catholic
+Protestant
+Muslim
+
+–
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+
+–
+–
+–
+–
+gndr
+edulvla, edulvlb
+edulvla, edulvlb
+hinctnt, hinctnta
+hinctnt, hinctnta
+mnactic
+mnactic
+marital, marlfr, maritala, maritalb
+marital, marlfr, maritala, maritalb
+rlgdnm
+rlgdnm
+rlgdnm
+
+Parental characteristics
+uppersecondarymo
+tertiarymo
+uppersecondaryfa
+tertiaryfa
+workingmom
+workingdad
+
+Upper secondary education, mother
+Tertiary education, mother
+Upper secondary education, father
+Tertiary education, father
+Working mother (at age 14)
+Working father (at age 14)
+
+ESS
+ESS
+ESS
+ESS
+ESS
+ESS
+
+edulvlma
+edulvlma
+edulvlfa
+edulvlfa
+emprm14
+emprf14
+
+Average health assessment
+GDP per capita (log)
+Life expectancy
+Child mortality
+Top 20% divided by bottom 20%
+income shares
+Democracy index
+Average happiness
+
+WVS
+WDI
+WDI
+WDI
+WDI
+
+a009
+wdi_gdpc
+
+Birth country characteristics
+a009_cavg
+lwdi_gdpc
+wdi_lifexp
+wdi_mort
+wdi_ishtopbot200
+p_polity2
+happiness_cavg
+
+wdi_ish20/wdi_isl20
+
+Polity IV
+WVS
+
+v10
+
+Notes: Data source abbreviations: European Social Survey (ESS), World Values Survey (WVS), and World Development Indicators (WDI). WDI and Polity IV
+data has been obtained from the Quality of Government Institute’s standard cross country data set; http://qog.pol.gu.se/data/datadownloads/
+qogstandarddata.
+ESS and WVS data available through the following links:
+http://www.europeansocialsurvey.org/
+http://www.worldvaluessurvey.org.
+
+Table A3
+First stage estimates of 2SLS model in Table 4.
+Dependent variable: health (self-assessed)
+Sample: immigrants
+Speciﬁcation
+
+Average health assessment, birth country
+t-Statistic
+Log of GDP per capita, birth country
+Life expectancy at birth, birth country
+Infant mortality, (per 1000 live births), birth country
+Top 20% vs bottom 20% income shares, birth country
+Democracy (polity2), birth country
+
+Demographic
+controls
+
+Extended
+controls
+
+Birth
+country
+controls
+
+Birth
+country
+controls
+and
+happiness
+
+Birth
+country
+controls
+and
+happiness
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0.211
+(0.072)**
+2.94
+
+0.236
+(0.050)***
+4.7
+
+0.248
+(0.059)***
+4.18
+0.041
+(0.028)
+0.005
+(0.004)
+0.000
+(0.002)
+0.002
+(0.002)
+0.004
+(0.003)
+
+0.222
+(0.070)**
+3.16
+0.035
+(0.030)
+0.005
+(0.004)
+0.001
+(0.002)
+0.002
+(0.003)
+0.004
+(0.003)
+
+0.224
+(0.070)**
+3.18
+0.034
+(0.030)
+0.005
+(0.004)
+0.001
+(0.002)
+0.002
+(0.003)
+0.004
+(0.003)
+
+46
+
+M. Ljunge / Economics and Human Biology 22 (2016) 35–46
+
+Table A3 (Continued )
+Dependent variable: health (self-assessed)
+Sample: immigrants
+Speciﬁcation
+
+Demographic
+controls
+
+Extended
+controls
+
+Birth
+country
+controls
+
+Birth
+country
+controls
+and
+happiness
+
+Birth
+country
+controls
+and
+happiness
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+0.060
+(0.075)
+
+0.060
+(0.076)
+
+Happiness, birth country
+
+Individual controls
+Age, age sq., gender
+Education, labor force and marital status,
+income, religion
+Country-by-year ﬁxed effects
+R-squared
+Observations
+
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+Yes
+
+Yes
+0.283
+16,512
+
+Yes
+0.320
+16,512
+
+Yes
+0.322
+14,760
+
+Yes
+0.322
+14,760
+
+Yes
+0.322
+14,783
+
+Notes: The dependent variable is self-assessed health, which ranges from 1, ‘very bad’ to 5 ‘very good.’ The table presents the ﬁrst stage estimates of the two
+stage least squares model where Table 4 presents the second stage estimates. Each column corresponds to the sample in the same numbered column in
+Table 4. Individual controls include age, age squared, gender, education, labor force attachment, income, and religious denomination as in Table 2. Country
+of residence-by-year ﬁxed effects are included in all speciﬁcations. Data is from the ﬁrst to ﬁfth waves of the European Social Survey. Standard errors in
+parenthesis, which allow for clustering on birth country.
+Signiﬁcance stars,
+*
+Signiﬁcant at 5% level.
+** Signiﬁcant at 1% level.
+*** Signiﬁcant at 0.1% level.
+
+References
+Acevedo-Garcia, D., Soobader, M.-J., Berkman, L.F., 2007. Low birthweight
+among US Hispanic/Latino subgroups: the effect of maternal foreignborn status and education. Soc. Sci. Med. 65, 2503–2516.
+Akresh, I.R., Frank, R., 2008. Health selection among new immigrants. Am.
+J. Public Health 98, 2058–2064.
+Almond, D., Currie, J., 2011. Killing me softly: the fetal origins hypothesis.
+J. Econ. Perspect. 25 (3), 153–172.
+Angrist, J.D., Pischke, J.-S., 2009. Mostly Harmless Econometrics: An
+Empiricist’s Companion. Princeton University Press, Princeton, NJ.
+Ben-Shlomo, Y., Kuh, D., 2002. A life course approach to chronic disease
+epidemiology: conceptual models, empirical challenges, and interdisciplinary perspectives. Int. J. Epidemiol. 31, 285–293.
+Berkman, L.F., Kawachi, I., 2000. Social Epidemiology. Oxford University
+Press.
+Buttenheim, A., Goldman, N., Pebley, A.R., Wong, R., Chung, C., 2010. Do
+Mexican immigrants import social gradients in health to the US? Soc.
+Sci. Med. 71, 1268–1276.
+Chida, Y., Steptoe, A., 2008. Positive psychological well-being and mortality: a quantitative review of prospective observational studies.
+Psychosom. Med. 70, 741–756.
+Cohen, S., Janicki-Deverts, D., Chen, E., Matthews, K.A., 2010. Childhood
+socioeconomic status and adult health. Ann. N. Y. Acad. Sci. 1186, 37–55.
+Easterlin, R., 2003. Explaining happiness. PNAS 100, 11176–11183.
+Fernandez, R., 2010. Does culture matter? In: Benhabib, I.J., Bisin, A.,
+Jackson, M. (Eds.), Handbook of Social Economics. North-Holland.
+Fernández, R., Fogli, A., 2009. Culture: an empirical investigation of
+beliefs, work and fertility. Am. Econ. J.: Macroecon. 1 (1), 146–177.
+Gana, K., Bailly, N., Saada, Y., Joulain, M., Trouillet, R., Hervé, C., Alaphilippe, D., 2013. Relationship between life satisfaction and physical
+health in older adults: a longitudinal test of cross-lagged and simultaneous effects. Health Psychol. 896–904, http://dx.doi.org/10.1037/
+a0031656.
+Goldman, N., Kimbro, R.T., Turra, C.M., Pebley, A.R., 2006. Socioeconomic
+gradients in health for White and Mexican-origin populations. Am. J.
+Public Health 96, 2186–2193.
+Gong, F., Xu, J., Fujishiro, K., Takeuchi, D.T., 2011. A life course perspective
+on migration and mental health among Asian immigrants: the role of
+human agency. Soc. Sci. Med. 73, 1618–1626.
+Grafova, I.B., Freedman, V.A., Lurie, N., Kumar, R., Rogowski, J., 2014. The
+difference-in-difference method: assessing the selection bias in the
+
+effects of neighborhood environment on health. Econ. Hum. Biol. 13
+(March), 20–33.
+Graham, C., 2010. Happiness Around the World. Oxford University Press.
+Jasso, G., 2003. Migration, human development and the life course. In:
+Mortimer, I.J., Shanahan, M. (Eds.), Handbook of the Life Course.
+Kluwer Academic Publishers, Hingham, MA.
+Ljunge, M., 2014. Social capital and health: evidence that ancestral trust
+promotes health among children of immigrants. Econ. Hum. Biol. 15,
+165–186, http://dx.doi.org/10.1016/j.ehb.2014.09.001.
+Marmot, M., Wilkinson, R.G., 2006. Social Determinants of Health. Oxford
+University Press.
+Nesterko, Y., Braehler, E., Grande, G., Glaesmer, H., 2013. Life satisfaction
+and health-related quality of life in immigrants and native-born
+Germans: the role of immigration-related factors. Qual. Life Res. 22
+(5), 1005–1013.
+Pagan, R., Ordóñez de Haro, C., Sánchez, C.R., 2016. Obesity, job satisfaction and disability at older ages in Europe. Econ. Hum. Biol. 20,
+42–54.
+Rasmussen, K.M., 2001. The ‘fetal origins’ hypothesis: challenges and
+opportunities for maternal and child nutrition. Annu. Rev. Nutr. 21,
+73–95.
+Rubalcava, L.N., Teruel, G.M., Thomas, D., Goldman, N., 2008. The healthy
+migrant effect: new ﬁndings from the Mexican family life survey. Am.
+J. Public Health 98, 78–84.
+Samanni, M., Teorell, J., Kumlin, S., Rothstein, B., 2010. The QoG Social
+Policy Dataset. University of Gothenburg: The Quality of Government
+Institute.
+Sanchez-Vaznaugh, E.V., Kawachi, I., Subramanian, S.V., Sanchez, B.N.,
+Acevedo-Garcia, D., 2009. Do socioeconomic gradients in body mass
+index vary by race/ethnicity, gender and birthplace? Am. J. Epidemiol. 169, 1102–1112.
+Subedi, R.P., Rosenberg, M.W., 2014. Determinants of the variations in
+self-reported health status among recent and more established immigrants in Canada. Soc. Sci. Med. 115, 103–110.
+Takeuchi, D.T., Hong, S., Gile, K., Alegria, M., 2007. Developmental contexts and mental disorders among Asian Americans. Res. Hum. Dev.
+49 (4), 49–69.
+http://www.qog.pol.gu.seHämtat från.
+Wang, L., Hu, W., 2013. Immigrant health, place effect and regional
+disparities in Canada. Soc. Sci. Med. 98, 8–17.
+Wilkinson, R.G., Pickett, K., 2009. The Spirit Level: Why More Equal
+Societies Almost Always Do Better. Allen Lane, London.
+
+

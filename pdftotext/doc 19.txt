@@ -1,0 +1,1719 @@
+Author's Accepted Manuscript
+Dietary Intake of Fiber, Fruit, and Vegetables Decrease the Risk of Incident Kidney
+Stones in Women: A Women’s Health Initiative (WHI) Report
+Mathew D. Sorensen , Ryan S. Hsi , Thomas Chi , Nawar Shara , Jean WactawskiWende , Arnold J. Kahn , Hong Wang , Lifang Hou , Marshall L. Stoller
+
+PII:
+DOI:
+Reference:
+
+S0022-5347(14)03618-0
+10.1016/j.juro.2014.05.086
+JURO 11508
+
+To appear in: The Journal of Urology
+Accepted Date: 14 May 2014
+Please cite this article as: , Sorensen MD, Hsi RS, Chi T, Shara N, Wactawski-Wende J, Kahn AJ, Wang
+H, Hou L, Stoller ML, Dietary Intake of Fiber, Fruit, and Vegetables Decrease the Risk of Incident Kidney
+Stones in Women: A Women’s Health Initiative (WHI) Report, The Journal of Urology® (2014), doi:
+10.1016/j.juro.2014.05.086.
+DISCLAIMER: This is a PDF file of an unedited manuscript that has been accepted for publication. As a
+service to our subscribers we are providing this early version of the article. The paper will be copy edited
+and typeset, and proof will be reviewed before it is published in its final form. Please note that during the
+production process errors may be discovered which could affect the content, and all legal disclaimers
+that apply to The Journal pertain.
+All press releases and the articles they feature are under strict embargo until uncorrected proof of
+the article becomes available online. We will provide journalists and editors with full-text copies of the
+articles in question prior to the embargo date so that stories can be adequately researched and written.
+The standard embargo time is 12:01 AM ET on that date.
+
+ACCEPTED MANUSCRIPT
+Dietary Intake of Fiber, Fruit, and Vegetables Decrease the Risk of Incident Kidney Stones in
+Women: A Women’s Health Initiative (WHI) Report
+WHI Writing Group
+Division of Urology, Dept of Veteran Affairs Medical Center, and
+Dept of Urology, Urological Research Outcomes Collaboration
+(UROC), University of Washington School of Medicine, Seattle, WA
+
+Ryan S. Hsi, MD
+
+Department of Urology, University of Washington School of
+Medicine, Seattle, WA
+
+Thomas Chi, MD
+
+Dept of Urology, University of California, San Francisco, San
+Francisco, CA
+
+Nawar Shara, MS, PhD
+
+Dept of Biostatistics and Epidemiology, Georgetown University,
+MedStar Health Research Institute, Hyattsville, MD
+
+Jean Wactawski-Wende, PhD
+
+Department of Social and Preventive Medicine, University of
+Buffalo, Buffalo, NY
+
+Arnold J. Kahn, PhD
+
+San Francisco Coordinating Center, California Pacific Medical
+Center Research Institute, San Francisco, CA
+
+Hong Wang, MD, MS
+
+Dept of Biostatistics and Epidemiology, Georgetown University,
+MedStar Health Research Institute, Hyattsville, MD
+
+Lifang Hou, MD, PhD
+
+Preventive Medicine, Northwestern University, Chicago, IL
+
+Marshall L. Stoller, MD
+
+Dept of Urology, University of California, San Francisco, San
+Francisco, CA
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+Mathew D. Sorensen, MD, MS
+
+AC
+C
+
+Running title: Fiber, vegetables, fruit intake and kidney stones
+Keywords: nutrition, diet, fiber, fruit, vegetables, healthy lifestyle, kidney stones, nephrolithiasis
+
+Presented at the American Urologic Association Annual Meeting, May 8th, 2013.
+
+Word count: abstract 250 (allowed 250) Body 2500 (allowed 2500) References 29 (allowed 30)
+Keywords: nephrolithiasis, urinary calculi, vegetables, fruit, dietary fiber
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+Corresponding Author:
+Mathew D. Sorensen, MD, MS
+Assistant Professor
+
+RI
+PT
+
+Division of Urology, Department of Veteran Affairs Medical Center, and Department of Urology,
+Urological Research Outcomes Collaboration (UROC), University of Washington School of
+Medicine
+
+SC
+
+1959 NE Pacific Street, Box 356510, Seattle, WA 98195
+(206) 764-2265 (phone) (206) 543-3272 (fax)
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+mathews@uw.edu (email)
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+ABSTRACT:
+Purpose: We evaluated the relationship between dietary fiber, fruit, and vegetable intake, and the risk
+
+RI
+PT
+
+of kidney stone formation.
+Methods: Overall, 83,922 postmenopausal women from the WHI Observational Study were included
+and followed prospectively. Cox proportional hazards regression analyses evaluated the associations
+
+SC
+
+between total dietary fiber, fruits, and vegetable intake, and the risk of incident kidney stone formation
+adjusting for nephrolithiasis risk factors (age, race/ethnicity, geographic region, diabetes mellitus,
+
+M
+AN
+U
+
+calcium supplementation, hormone therapy use, body mass index, calibrated caloric intake, and
+dietary water, sodium, animal protein, and calcium intake). Women with a prior history of kidney
+stones (3,471 women) were analyzed separately.
+
+Results: Mean age was 64±7 years, 85% of women were Caucasian and 2,937 women (3.5%)
+
+TE
+D
+
+experienced a kidney stone occurrence in 8 years median follow-up. In women with no history of
+kidney stones, higher total dietary fiber (6-26% decreased risk, p<0.001), higher fruit intake (12-25%
+decreased risk, p<0.001), and higher vegetable intake (9-22% decreased risk, p=0.002) were
+
+EP
+
+associated with a decreased risk of incident kidney stone formation in separate adjusted models. In
+women with a history of stones, there were no significant protective effects of fiber, fruits, or
+
+AC
+C
+
+vegetable intake on the risk of kidney stone recurrence.
+Conclusions: Greater dietary intake of fiber, fruits and vegetables were each associated with a
+reduced risk of incident kidney stones in postmenopausal women. The protective effects were
+independent of other known risk factors for kidney stones. In contrast, there was no reduction in risk
+in women with a history of stones.
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+INTRODUCTION
+
+RI
+PT
+
+Kidney stone prevalence has increased by almost 70% over the last 15 years.1
+Recommending increased fluid intake, low sodium, low animal-protein and normal calcium intake
+diets have been the mainstays of prevention of kidney stone recurrence.2-4 The identification of
+
+SC
+
+additional dietary factors that are associated with the risk of stone formation would be clinically
+beneficial.
+
+M
+AN
+U
+
+Previous studies have noted that diets with higher fruit and vegetable intake might be
+associated with lower risk of urinary stones.2, 5 Both fruits and vegetables provide an alkali load that
+could increase urinary citrate, a known inhibitor of stone formation.6-9 Dietary phytate, the most
+abundant form of phosphate in plants, forms insoluble complexes with calcium in the intestinal tract,
+inhibits crystal formation in the urine, and is associated with reduced risk of stones.10-12 Greater fruit
+
+4
+
+TE
+D
+
+and vegetable intake might decrease the intake of dietary sodium, animal protein, and total calories.2Despite these potential benefits, there is some concern that greater intake of some vegetables
+
+(spinach, swiss chard, beets, and rhubarb for example) might increase the risk of stone formation as
+
+EP
+
+they are known to be rich in oxalate.
+
+AC
+C
+
+Total dietary fiber may also impact stone formation as it contains nondigestible compounds
+including lignin and nonstarch polysaccharies, which might bind to minerals and fat in the gut leading
+to reduced urinary excretion of oxalate and calcium.10, 12 However, prior studies have shown mixed
+results on urinary calcium excretion,13-16 and thus the association between fiber intake and stone
+formation is unclear.13, 14, 17
+The purpose of this study was primarily to evaluate the relationship between dietary fiber, fruit,
+and vegetable intake and the risk of incident kidney stone formation in women with no history of
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+stones and secondarily, to evaluate these relationships on stone recurrence in women with a history
+of kidney stones.
+
+RI
+PT
+
+METHODS:
+Participants
+
+SC
+
+The Women’s Health Initiative (WHI) Observational Study is a prospective, longitudinal,
+multicenter study investigating the health of postmenopausal women.18, 19 Overall, 93,676 women,
+
+M
+AN
+U
+
+age 50-79, enrolled from 1993 to 1998 and were followed for a median of 8 years. Participants
+completed health history questionnaires at enrollment and annually throughout participation, which
+included self-reported history and occurrences of incident stones. A WHI food frequency
+questionnaire (FFQ) was administered at enrollment.20 Women who never answered the incident
+
+TE
+D
+
+kidney stone questions, women who did not complete the FFQ, and those reporting extremes of
+energy intake (<600 or >5000 kcalories per day as categorized by WHI) were excluded from these
+analyses (7,912 total women).20 We also excluded 1,842 women who were missing their kidney
+
+EP
+
+stone history at baseline, leaving a final analytic cohort of 83,922 women. Included in this cohort
+were 3,471 women with a history of kidney stones prior to enrollment. These participants were
+
+Measurements
+
+AC
+C
+
+considered a separate group for all analyses.
+
+Our primary aim was to evaluate the association between fiber, fruit, and vegetable intake and
+kidney stone events during the study period. Daily dietary energy and nutrient intake was determined
+using the WHI FFQ administered at the baseline enrollment evaluation targeting intake in the
+previous 3 months (University of Minnesota Nutrient Data System for Research, Minneapolis, MN).20
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+Women were asked how often they ate 36 different fruits and 66 vegetables (never, monthly, 2-3
+times per month, weekly, 2 times per week, 3-4 times per week, 5-6 times per week, daily or 2+ times
+per day), and the size of their serving. They were provided a reference for a medium portion for each
+
+RI
+PT
+
+fruit and vegetable (i.e. one medium banana, ½ cup potatoes). Daily fiber (g/day), fruit (medium
+portions), and vegetable intake (medium portions) were calculated from the FFQ and categorized into
+quintiles of intake. Dietary energy intake (kcalories per day) was analyzed as a continuous variable
+
+SC
+
+after calibration was performed to correct some of the bias associated with self-reported intake,21, 22
+as previously described.23, 24 Boot-strapping (500 samples) generated 95% confidence intervals for
+
+M
+AN
+U
+
+all analyses including calibrated energy intake to accounting for the sample variation in calibration
+coefficient estimates.
+
+Anthropometric variables including body weight and height were measured at the clinic by study
+staff. Body mass index (BMI) was calculated (kg/m2) and analyzed categorically (<18.5, 18.5-24.9,
+
+TE
+D
+
+25-29.9, 30-34.9, ≥35 kg/m2)25 as a non-linear effect of BMI on stone risk was anticipated. Age was
+analyzed as a continuous variable. Baseline history of diabetes mellitus, calcium supplementation,
+hormone therapy (none, prior, current), and geographic region (Northeast, South, Midwest, West)
+
+EP
+
+were analyzed categorically. Dietary water, salt, animal protein and calcium were categorized into
+quintiles. Dietary calcium intake and calcium supplementation were included as separate variables
+
+Analyses
+
+AC
+C
+
+due to the perceived differential effect on the risk of stone formation.
+
+The primary outcome of interest was incident kidney stone occurrence during follow-up. For all
+comparisons, analyses were stratified by history of kidney stones prior to WHI study participation.
+Wilcoxon Rank-Sum was used to compare median follow-up. Women were followed until the date of
+the stone event or were censored at last follow-up or death. Cox proportional hazards regression
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+analyses were used to compare categorical and continuous variables. Cox proportional hazards
+regression was also used in each of the three multivariate models to evaluate the association
+between primary variables of interest (fiber, fruit, and vegetable intakes) and kidney stone event.
+
+RI
+PT
+
+Each of the models was adjusted for nephrolithiasis risk factors (age, race/ethnicity, geographic
+region, diabetes mellitus, baseline calcium supplementation, hormone therapy use, calibrated dietary
+energy intake, dietary intake of water, sodium, animal protein and calcium).24, 26 A correlation matrix
+
+SC
+
+evaluated the potential co-linearity of fiber, fruit and vegetable intake.
+
+Hazard ratios (HR), adjusted hazard ratios (aHR), and 95% confidence intervals (95% CI) were
+
+M
+AN
+U
+
+determined. All p-values were two–tailed, and statistical significance was set at p<0.05. Analyses
+were performed using Stata IC v10 (StataCorp LP, College Station, TX) and SAS version 9.1 (SAS
+Institute, Cary, NC).
+
+A final exploratory analysis was performed that included quintiles of fiber, fruits, and vegetable
+
+TE
+D
+
+intake (all three variables) in an attempt to determine if one of these variables was more strongly
+associated with kidney stone formation. To test for interaction, additional regression models were
+performed which included the product of the fiber*fruit, fiber*vegetable, and fruit*vegetable intake
+
+EP
+
+interaction terms.
+
+This study received institutional review board exemption (University of Washington, #HSD
+
+AC
+C
+
+45318). For the original WHI Observational Study, institutional review board approvals were obtained
+at all participating institutions and written informed consent was obtained from all participants.
+
+RESULTS:
+Women in our study population had a mean age of 64±7 years at enrollment, 85% were White,
+and most women were normal weight or overweight. Hormone therapy use was common (60%).
+Most women had moderate daily intake of fiber, fruits, and vegetables. After a median follow-up of 8
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+years, there were 2,937 stone events reported, including 2,390 incident stone events in 583,464
+person-years follow-up (4 events per 1000 person years) and 547 recurrent stone events in 24,958
+person-years follow-up (21 events per 1000 person years). Women with a history of kidney stones
+
+RI
+PT
+
+were statistically different from women with no history of stones in terms of age, race, medical
+history, calcium supplementation, hormone therapy use, BMI, and geographic region (Table 1). Only
+3% of the women with no history of stones developed a stone during the study, while more than 15%
+
+SC
+
+of women with a history of stones reported an event during the study (p<0.001). Women with a
+history of kidney stones had lower mean intake of fiber, fruit, and vegetables, with the greatest
+
+M
+AN
+U
+
+proportion of women in the lowest, and second lowest quintiles of intake (all p<0.001).
+In unadjusted analyses, fiber, fruit, and vegetable intake were each associated with a
+significant decreased risk of stone formation in women with no history of kidney stones (Table 2). In
+contrast, women with a history of kidney stones did not demonstrate a significant relationship
+
+TE
+D
+
+between fiber (p=0.24) or fruit (p=0.23) intake and kidney stone occurrence, but had a borderline
+association with vegetable intake (p=0.08), especially at the highest two quintiles of intake.
+In multivariate analyses, women with no history of stones with the highest dietary fiber intake
+
+EP
+
+were 22% less likely (aHR 0.78, 95%CI 0.67-0.92, p trend < 0.001) to report an incident stone event
+
+AC
+C
+
+during the study compared to women with the lowest fiber intake (Table 3). In a separate model,
+women with the highest fruit intake were 15% less likely (aHR 0.85, 95%CI 0.74-0.98, p trend <
+0.001) to report an incident stone event compared to women with the lowest fruit intake. In a third
+model, women with the highest vegetable intake were 22% less likely (aHR 0.78, 95%CI 0.68-0.91, p
+trend = 0.002) to report an incident stone event compared to women with the lowest vegetable intake.
+Women with a history of kidney stones prior to study participation did not demonstrate a significant
+relationship between fiber (p=0.93), fruit (p=0.73), or vegetable intake (p=0.50) and kidney stone
+occurrence during the study. There was moderate correlation between fiber and vegetable intake
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+(r=0.62), and fiber and fruit intake (r=0.59), with less correlation between fruit and vegetable intake
+(r=0.41).
+In the exploratory adjusted model that included fiber, fruit, and vegetable intake, there was a
+
+RI
+PT
+
+trend towards higher fiber intake being associated with up to a 16% decreased risk of incident stones
+(p=0.053) in women with no history of stones. Higher fruit intake was associated with a 4-18%
+decreased risk of incident stones (p=0.04) in women with no history of stones. Vegetable intake did
+
+SC
+
+not significantly decrease the risk of a stone occurrence (p=0.20). Also, there was no significant
+interaction between fiber and fruit (p=0.92), fruit and vegetable (p=0.35) or fiber and vegetable
+
+M
+AN
+U
+
+(p=0.99) intake. In women with a history of stones prior to study participation, fiber, fruit, and
+vegetable intake were not associated (p=0.90, p=0.80, p=0.48, respectively) with a stone occurrence
+
+TE
+D
+
+and there was no significant interaction between these variables in this model.
+
+DISCUSSION:
+
+This study demonstrated that women with the highest quintile intake of fiber, fruit, and
+
+EP
+
+vegetables were 22%, 15%, and 22% less likely to report an incident stone event, respectively,
+compared to women with the lowest quintile intake for postmenopausal women with no history of
+
+AC
+C
+
+stones in adjusted analyses. This represents a difference of about 2 portions per day of fruits and
+vegetables, or an increase of 12 grams per day of fiber intake between the lowest and highest
+quintiles of intake. The effects of fiber, fruit and vegetable intake on stone risk appear to be
+independent from the traditional dietary risk factors including calories, fluid, sodium, animal protein
+and calcium intake. Increased intake of fruits and vegetables has previously been shown to increase
+urine volume, pH, potassium, magnesium, citrate, phytate and other stone inhibitors, resulting in a
+decrease in the supersaturation of calcium oxalate and uric acid.6 It is also possible that women with
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+the highest intake of fruits, vegetables and other fiber containing foods are making other healthy
+dietary choices, or perhaps avoiding foods that may increase the risk of stone formation.
+However, this relationship did not exist in adjusted analyses for women with a history of kidney
+
+RI
+PT
+
+stones. The etiology of this differential effect is not entirely clear. The average consumption of fruits,
+vegetables and fiber were each lower in women with a history of stones, with the greatest proportion
+of women falling in the lowest intake categories. It is also possible that the intake of fiber, fruits, and
+
+SC
+
+vegetables are important in initial stone formation, but may be less important for recurrence in the
+face of other stronger risk factors for stone formation such as BMI, and the intake of fluids, sodium,
+
+M
+AN
+U
+
+animal protein and calcium. The nuances of which vegetables are high in oxalate can be confusing,
+and information from medical providers or internet sources are often incomplete, and thus patients
+may be globally reducing vegetable intake in an attempt to reduce their oxalate intake.27
+Reassuringly, this study specifically found no increased risk of stone formation with higher vegetable
+
+TE
+D
+
+intake. Previous studies of fiber, fruit and vegetable intake have been mixed,5, 6, 9, 11-17 possibly in
+part due to a failure to stratify based on stone history.
+Our findings suggest that there may be a fundamental difference between women who formed
+
+EP
+
+their first stone during this study and those who formed a recurrent stone during this study. Only 3%
+of women with no history of stones had an occurrence, compared to over 15% of women with a
+
+AC
+C
+
+history of stones. Thus, a woman who has her first kidney stone sometime in her 60s, might be
+phenotypically different compared to a woman with a history of stones earlier in life. Women with a
+history of stones might be more likely to have a rare disorder related to stone formation (renal
+tubular acidosis, primary hyperparathyroidism, gouty diathesis, sarcoidosis, etc), or perhaps
+behavior and diet are greater contributors to stone formation for the woman having her first stone
+later in life.
+Although greater intake of fruits, vegetables and fiber was not associated with a protective
+effect in our recurrent stone formers, these findings should not discourage providers from supporting
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+greater intake. These foods remain an important foundation of a healthy diet and are important for
+overall health with benefits beyond stone risk reduction. Greater intake of fruits, vegetables, and fiber
+likely contributes to decreased intake of foods that are high in calories, sodium, fat, and animal
+
+RI
+PT
+
+protein. Importantly, subjects with a history of stones may not have had a decrease in stone
+formation, but those with the greatest vegetable intake did not appear to incur any additional risk.
+This study has several limitations. WHI only includes postmenopausal women and may not be
+
+SC
+
+generalizable to others including younger women or men. The measurement of fruit, vegetable, and
+fiber intake relied on food frequency questionnaire and may be subject to recall bias and thus
+
+M
+AN
+U
+
+provides an estimate of intake, while true intake might be different. It is also possible that some of the
+intake is in the form of high-oxalate containing foods which may offset some of the protective
+association demonstrated in this study. Water and sodium intake are likely underestimated as the
+values are calculated based on the total beverage and food content of these factors, but do not
+
+TE
+D
+
+include additional quantities added in preparation or consumed at the table. Self-reported caloric
+intake is often unreliable and it is possible that our calibration may have only corrected some of the
+associated bias.21-23 Stone type and 24-hour urine composition were also not known. Stone events
+
+EP
+
+for women in the WHI is higher than prior population-based reports, potentially due to
+increased rates of imaging detection of asymptomatic stones.24 Stone events were not
+
+AC
+C
+
+adjudicated in our study, though self-reported stone events have previously been determined
+to be 97-98% accurate.28, 29
+
+CONCLUSIONS:
+Higher intake of fruits, vegetables and fiber are associated with a decreased risk of incident
+kidney stone formation in postmenopausal women, independent of the effect of BMI and other
+nephrolithiasis risk factors including dietary intake of water, sodium, animal protein and calcium. This
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+protective effect was not seen in women with a history of stones. These groups may represent
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+different phenotypes of stone formers with different risk factors.
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+ACKNOWLEDGEMENTS
+The authors would like to acknowledge and thank Andrea LaCroix for serving as our WHI
+sponsor. The WHI program is funded by the National Heart, Lung, and Blood Institute, National
+
+RI
+PT
+
+Institutes of Health, U.S. Department of Health and Human Services through contracts
+HHSN268201100046C, HHSN268201100001C, HHSN268201100002C, HHSN268201100003C,
+HHSN268201100004C, and HHSN271201100004C. This material is the result of work supported by
+
+SC
+
+resources from the VA Puget Sound Health Care System, Seattle, Washington. This project has also
+been funded in part by the National Center for Advancing Translational Sciences, National Institutes
+
+M
+AN
+U
+
+of Health UL1TR000101 (previously UL1RR031975), through the Clinical and Translational Science
+Awards Program, a trademark of DHHS, part of the Roadmap Initiative, “Re-Engineering the Clinical
+Research Enterprise.”
+
+TE
+D
+
+Role of the funding source
+
+The WHI study was funded by the National Heart, Lung and Blood Institute, National Institutes
+of Health, and U.S. Department of Health and Human Services, and these funding sources had initial
+
+EP
+
+input on study design. For this particular study, the funding source had no role in the study design,
+
+AC
+C
+
+analyses, interpretation, reporting or publication of these data. The WHI publications committee
+approved the final version of this manuscript.
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+REFERENCES:
+1.
+Scales, C. D., Jr., Smith, A. C., Hanley, J. M. et al.: Prevalence of kidney stones in the United States. Eur
+Urol, 62: 160, 2012
+
+RI
+PT
+
+2.
+Taylor, E. N., Fung, T. T., Curhan, G. C.: DASH-style diet associates with reduced risk for kidney stones. J
+Am Soc Nephrol, 20: 2253, 2009
+3.
+Borghi, L., Meschi, T., Amato, F. et al.: Urinary volume, water and recurrences in idiopathic calcium
+nephrolithiasis: a 5-year randomized prospective study. J Urol, 155: 839, 1996
+
+SC
+
+4.
+Borghi, L., Schianchi, T., Meschi, T. et al.: Comparison of two diets for the prevention of recurrent stones
+in idiopathic hypercalciuria. N Engl J Med, 346: 77, 2002
+5.
+Meschi, T., Nouvenne, A., Ticinesi, A. et al.: Dietary habits in women with recurrent idiopathic calcium
+nephrolithiasis. J Transl Med, 10: 63, 2012
+
+M
+AN
+U
+
+6.
+Meschi, T., Maggiore, U., Fiaccadori, E. et al.: The effect of fruits and vegetables on urinary stone risk
+factors. Kidney Int, 66: 2402, 2004
+7.
+Seltzer, M. A., Low, R. K., McDonald, M. et al.: Dietary manipulation with lemonade to treat
+hypocitraturic calcium nephrolithiasis. J Urol, 156: 907, 1996
+8.
+Remer, T., Manz, F.: Potential renal acid load of foods and its influence on urine pH. J Am Diet Assoc, 95:
+791, 1995
+
+TE
+D
+
+9.
+Trinchieri, A., Zanetti, G., Curro, A. et al.: Effect of potential renal acid load of foods on calcium
+metabolism of renal calcium stone formers. Eur Urol, 39 Suppl 2: 33, 2001
+10.
+Kelsay, J. L.: Effects of fiber, phytic acid, and oxalic acid in the diet on mineral bioavailability. Am J
+Gastroenterol, 82: 983, 1987
+
+EP
+
+11.
+Curhan, G. C., Willett, W. C., Knight, E. L. et al.: Dietary factors and the risk of incident kidney stones in
+younger women: Nurses' Health Study II. Arch Intern Med, 164: 885, 2004
+
+AC
+C
+
+12.
+Ohkawa, T., Ebisuno, S., Kitagawa, M. et al.: Rice bran treatment for patients with hypercalciuric stones:
+experimental and clinical studies. J Urol, 132: 1140, 1984
+13.
+Dussol, B., Iovanna, C., Rotily, M. et al.: A randomized trial of low-animal-protein or high-fiber diets for
+secondary prevention of calcium nephrolithiasis. Nephron Clin Pract, 110: c185, 2008
+14.
+Ebisuno, S., Morimoto, S., Yasukawa, S. et al.: Results of long-term rice bran treatment on stone
+recurrence in hypercalciuric patients. Br J Urol, 67: 237, 1991
+15.
+Gleeson, M. J., Thompson, A. S., Mehta, S. et al.: Effect of unprocessed wheat bran on calciuria and
+oxaluria in patients with urolithiasis. Urology, 35: 231, 1990
+16.
+Rotily, M., Leonetti, F., Iovanna, C. et al.: Effects of low animal protein or high-fiber diets on urine
+composition in calcium nephrolithiasis. Kidney Int, 57: 1115, 2000
+
+ACCEPTED MANUSCRIPT
+Fiber, Fruit, and Vegetable Intake and the Risk of Incident Kidney Stones
+
+17.
+Hiatt, R. A., Ettinger, B., Caan, B. et al.: Randomized controlled trial of a low animal protein, high fiber
+diet in the prevention of recurrent calcium oxalate kidney stones. Am J Epidemiol, 144: 25, 1996
+18.
+Design of the Women's Health Initiative clinical trial and observational study. The Women's Health
+Initiative Study Group. Control Clin Trials, 19: 61, 1998
+
+RI
+PT
+
+19.
+Rossouw, J. E., Anderson, G. L., Prentice, R. L. et al.: Risks and benefits of estrogen plus progestin in
+healthy postmenopausal women: principal results From the Women's Health Initiative randomized controlled
+trial. JAMA, 288: 321, 2002
+
+SC
+
+20.
+Patterson, R. E., Kristal, A. R., Tinker, L. F. et al.: Measurement characteristics of the Women's Health
+Initiative food frequency questionnaire. Ann Epidemiol, 9: 178, 1999
+21.
+Lichtman, S. W., Pisarska, K., Berman, E. R. et al.: Discrepancy between self-reported and actual caloric
+intake and exercise in obese subjects. N Engl J Med, 327: 1893, 1992
+
+M
+AN
+U
+
+22.
+Neuhouser, M. L., Tinker, L., Shaw, P. A. et al.: Use of recovery biomarkers to calibrate nutrient
+consumption self-reports in the Women's Health Initiative. Am J Epidemiol, 167: 1247, 2008
+23.
+Prentice, R. L., Mossavar-Rahmani, Y., Huang, Y. et al.: Evaluation and comparison of food records,
+recalls, and frequencies for energy and protein assessment by using recovery biomarkers. Am J Epidemiol, 174:
+591, 2011
+
+TE
+D
+
+24.
+Sorensen, M. D., Chi, T., Shara, N. M. et al.: Activity, Energy Intake, Obesity, and the Risk of Incident
+Kidney Stones in Postmenopausal Women: A Report from the Women's Health Initiative. J Am Soc Nephrol,
+2013
+25.
+World Health Organization. Obesity: preventing and managing the global epidemic: Report of a WHO
+Consultation. WHO Technical Report Series 894. Geneva: World Health Organization, 2000
+
+EP
+
+26.
+Sorensen, M. D., Kahn, A. J., Reiner, A. P. et al.: Impact of nutritional factors on incident kidney stone
+formation: a report from the WHI OS. J Urol, 187: 1645, 2012
+
+AC
+C
+
+27.
+Traver, M. A., Passman, C. M., LeRoy, T. et al.: Is the Internet a reliable source for dietary
+recommendations for stone formers? J Endourol, 23: 715, 2009
+28.
+Curhan, G. C., Willett, W. C., Rimm, E. B. et al.: A prospective study of dietary calcium and other
+nutrients and the risk of symptomatic kidney stones. N Engl J Med, 328: 833, 1993
+29.
+Curhan, G. C., Willett, W. C., Speizer, F. E. et al.: Comparison of dietary calcium with supplemental
+calcium and other nutrients as factors affecting the risk for kidney stones in women. Ann Intern Med, 126: 497,
+1997
+
+ACCEPTED MANUSCRIPT
+
+Dietary Intake of Fiber, Fruit, and Vegetables Decrease the Risk of Incident
+
+RI
+PT
+
+Kidney Stones in Women: A Women’s Health Initiative (WHI) Report
+
+LEGENDS
+Table 1. Participant demographics for women with and without a history of kidney
+
+SC
+
+stones for postmenopausal women in the Women’s Health Initiative Observational
+Study.
+
+M
+AN
+U
+
+Table 2. Univariate odds of kidney stone formation in postmenopausal women during
+their participation in the Women’s Health Initiative Observational Study, stratified by
+history of nephrolithiasis.
+
+Table 3. Association between fiber, fruit and vegetable intake and the risk of kidney
+stone formation during participation in the Women’s Health Initiative Observational
+
+AC
+C
+
+EP
+
+TE
+D
+
+Study, in separate adjusted regression models stratified by history of nephrolithiasis.
+
+ACCEPTED MANUSCRIPT
+
+Table 1:
+History of
+
+Nephrolithiasis
+
+Nephrolithiasis
+
+n (%)
+
+RI
+PT
+
+No History of
+
+n= 80,451 (96.1%)
+
+SC
+
+Demographics and History
+Age at enrollment (years)
+
+25,801 (32.1)
+
+M
+AN
+U
+
+50-59
+60-69
+≥70
+Mean±SD
+
+TE
+D
+
+Race/ethnicity
+White
+Black
+
+Other
+
+EP
+
+Hispanic
+
+AC
+C
+
+Baseline history of diabetes mellitus
+Baseline supplemental calcium use
+
+n (%)
+
+p value
+
+n= 3,471(3.9%)
+
+0.001
+1,060 (30.5)
+
+35,652 (44.3)
+
+1,536 (44.3)
+
+18,998 (23.6)
+
+875 (25.2)
+
+63.5 ± 7.3
+
+63.9 ± 7.3
+
+0.005
+<0.001
+
+78,584 (85.5)
+
+2,953 (85.3)
+
+5,663 (7.1)
+
+204 (5.9)
+
+2,557 (3.2)
+
+159 (4.6)
+
+3,435 (4.3)
+
+147 (4.2)
+
+3,990 (5.0)
+
+302 (8.7)
+
+<0.001
+
+20,397 (25.4)
+
+632 (18.2)
+
+<0.001
+
+Hormone therapy use
+
+<0.001
+
+Never
+
+31,846 (39.6)
+
+1,330 (38.4)
+
+Prior
+
+11,897 (14.8)
+
+570 (16.4)
+
+Current
+
+36,635 (45.6)
+
+1,567 (45.2)
+
+2
+
+ACCEPTED MANUSCRIPT
+
+BMI (kg/m2)
+
+<0.001
+938 (1.2)
+
+40 (1.2)
+
+18.5-24.9 Normal weight
+
+32,228 (40.5)
+
+1,155 (33.6)
+
+25-29.9 Overweight
+
+27,141 (34.1)
+
+1,155 (33.6)
+
+30-34.9 Moderately obese
+
+12,208 (15.3)
+
+624 (18.2)
+
+7,062 (8.9)
+
+459 (13.4)
+
+27.1 ± 5.8
+
+28.3 ± 6.2
+
+RI
+PT
+
+<18.5 Underweight
+
+≥35 Severely obese
+
+SC
+
+Mean±SD
+Geographical Region
+
+South
+Midwest
+West
+
+TE
+D
+
+Stone event during the study
+
+0.02
+
+18,601 (23.1)
+
+735 (21.2)
+
+20,305 (25.2)
+
+942 (27.1)
+
+18,114 (22.5)
+
+770 (22.2)
+
+23,431 (29.1)
+
+1,024 (29.5)
+
+2,390 (3.0)
+
+547 (15.8)
+
+<0.001
+
+7.2 ± 1.1
+
+7.2 ± 1.1
+
+<0.001
+
+8 (7-8)
+
+8 (7-8)
+
+0.005
+
+M
+AN
+U
+
+Northeast
+
+<0.001
+
+Study participation follow-up (years)
+Mean±SD
+
+EP
+
+Median (IQR 25th-75th percentile)
+
+AC
+C
+
+Fiber intake (quintile)
+
+Dietary Intake
+
+Intake range (g/d)*
+
+<0.001
+
+Lowest
+
+0-10.6
+
+15,937 (19.8)
+
+822 (23.7)
+
+Second
+
+10.6-14.0
+
+16,017 (19.9)
+
+729 (21.0)
+
+Third
+
+14.0-17.5
+
+16,149 (20.1)
+
+663 (19.1)
+
+Fourth
+
+17.5-21.9
+
+16,156 (20.1)
+
+627 (18.1)
+
+Highest
+
+21.9-99.4
+
+16,192 (20.1)
+
+630 (18.2)
+
+3
+
+ACCEPTED MANUSCRIPT
+
+Mean±SD
+
+16.6 ± 7.0
+
+Fruit intake (quintile)
+
+16.6 ± 7.0
+
+16.0 ± 7.0
+
+(portions/day)*
+
+<0.001
+
+0-1.0
+
+16,109 (20.0)
+
+899 (25.9)
+
+Second
+
+1.0-1.5
+
+15,821 (19.7)
+
+706 (20.3)
+
+Third
+
+1.5-2.1
+
+16,527 (20.5)
+
+699 (20.1)
+
+Fourth
+
+2.1-3.0
+
+15,868 (19.7)
+
+568 (16.4)
+
+Highest
+
+3.0-11
+
+16,126 (20.0)
+
+599 (17.3)
+
+2.1 ± 1.3
+
+2.1 ± 1.3
+
+1.9 ± 1.3
+
+SC
+
+(portions/day)*
+
+M
+AN
+U
+
+Vegetable intake (quintile)
+
+RI
+PT
+
+Lowest
+
+Mean±SD
+
+16,016 (19.9)
+
+815 (23.5)
+
+Second
+
+1.2-1.7
+
+15,984 (19.9)
+
+696 (20.1)
+
+Third
+
+1.7-2.4
+
+16,136 (20.0)
+
+691 (19.9)
+
+Fourth
+
+2.4-3.3
+
+16,119 (20.0)
+
+647 (18.6)
+
+3.3-13.3
+
+16,196 (20.1)
+
+622 (17.9)
+
+2.3 ± 1.3
+
+2.3 ± 1.3
+
+2.2 ± 1.3
+
+TE
+D
+
+0-1.2
+
+Mean±SD
+
+<0.001
+<0.001
+
+Lowest
+
+Highest
+
+<0.001
+
+<0.001
+
+AC
+C
+
+ranges.
+
+EP
+
+*The ranges of intake for the quintile categories of fiber, fruit and vegetable intake are non-overlapping
+
+4
+
+ACCEPTED MANUSCRIPT
+
+Table 2:
+
+n=80,451
+
+n=3,471
+
+HR (95% CI)
+
+(g/day)*
+Ref
+
+Second
+
+10.6-14.0
+
+0.90 (0.79-1.01)
+
+Third
+
+14.0-17.5
+
+0.87 (0.77-0.98)
+
+Fourth
+
+17.5-21.9
+
+0.69 (0.61-0.79)
+
+Highest
+
+21.9-99.4
+
+0.77 (0.68-0.88)
+
+Lowest
+
+0-1.0
+
+Second
+
+0.85 (0.70-1.02)
+0.81 (0.67-0.99)
+0.87 (0.72-1.05)
+0.23
+
+<0.001
+
+1.0-1.5
+
+0.82 (0.73-0.93)
+
+0.84 (0.70-1.00)
+
+Third
+
+1.5-2.1
+
+0.71 (0.63-0.81)
+
+0.89 (0.75-1.07)
+
+Fourth
+
+2.1-3.0
+
+0.65 (0.57-0.73)
+
+0.85 (0.70-1.03)
+
+Highest
+
+3.0-11
+
+0.71 (0.63-0.80)
+
+0.84 (0.70-1.02)
+
+EP
+
+<0.001
+
+0-1.2
+
+AC
+C
+
+Lowest
+
+TE
+D
+
+Ref
+
+(portions/day)*
+
+0.08
+
+Ref
+
+Ref
+
+Second
+
+1.2-1.7
+
+0.84 (0.75-0.95)
+
+0.92 (0.76-1.10)
+
+Third
+
+1.7-2.4
+
+0.79 (0.70-0.89)
+
+0.93 (0.77-1.11)
+
+Fourth
+
+2.4-3.3
+
+0.71 (0.62-0.80)
+
+0.81 (0.67-0.98)
+
+Highest
+
+3.3-13.3
+
+0.70 (0.62-0.80)
+
+0.78 (0.64-0.95)
+
+*The ranges of intake for the quintile categories of fiber, fruit and vegetable intake are
+non-overlapping ranges.
+5
+
+0.24
+
+0.92 (0.77-1.10)
+
+Ref
+
+Vegetable
+
+p value
+
+Ref
+
+M
+AN
+U
+
+0-10.6
+
+(portions/day)*
+
+HR (95% CI)
+
+<0.001
+
+Lowest
+
+Fruit
+
+p value
+
+RI
+PT
+
+Fiber
+
+Intake Range
+
+History of Nephrolithiasis
+
+SC
+
+Intake (quintile)
+
+No History of Nephrolithiasis
+
+ACCEPTED MANUSCRIPT
+
+Table 3:
+
+n=80,451
+
+n=3,471
+
+aHR** (95% CI)
+
+(g/day)*
+Ref
+
+Second
+
+10.6-14.0
+
+0.94 (0.83-1.08)
+
+Third
+
+14.0-17.5
+
+0.92 (0.81-1.05)
+
+Fourth
+
+17.5-21.9
+
+0.74 (0.63-0.86)
+
+Highest
+
+21.9-99.4
+
+0.78 (0.67-0.92)
+
+Second
+
+0.94 (0.77-1.14)
+0.94 (0.75-1.18)
+0.98 (0.77-1.26)
+
+<0.001
+
+0.73
+
+Ref
+
+Ref
+
+1.0-1.5
+
+0.88 (0.77-0.99)
+
+0.87 (0.72-1.05)
+
+Third
+
+1.5-2.1
+
+0.82 (0.72-0.93)
+
+0.97 (0.79-1.18)
+
+Fourth
+
+2.1-3.0
+
+0.75 (0.66-0.86)
+
+0.92 (0.74-1.15)
+
+Highest
+
+0.85 (0.74-0.98)
+
+0.93 (0.76-1.14)
+
+TE
+D
+
+0-1.0
+
+AC
+C
+
+3.0-11
+
+Vegetable
+
+(portions/day)*
+
+0.002
+
+0.50
+
+Lowest
+
+0-1.2
+
+Ref
+
+Ref
+
+Second
+
+1.2-1.7
+
+0.91 (0.80-1.03)
+
+0.90 (0.75-1.07)
+
+Third
+
+1.7-2.4
+
+0.85 (0.74-0.96)
+
+0.98 (0.81-1.18)
+
+Fourth
+
+2.4-3.3
+
+0.78 (0.69-0.90)
+
+0.86 (0.71-1.05)
+
+6
+
+0.93
+
+0.92 (0.76-1.12)
+
+EP
+
+Lowest
+
+p value
+
+Ref
+
+M
+AN
+U
+
+0-10.6
+
+(portions/day)*
+
+aHR** (95% CI)
+
+<0.001
+
+Lowest
+
+Fruit
+
+p value
+
+RI
+PT
+
+Fiber
+
+Intake Range
+
+History of Nephrolithiasis
+
+SC
+
+Intake (quintile)
+
+No History of Nephrolithiasis
+
+ACCEPTED MANUSCRIPT
+
+Highest
+
+3.3-13.3
+
+0.78 (0.68-0.91)
+
+0.85 (0.69-1.05)
+
+*The ranges of intake for the quintile categories of fiber, fruit and vegetable intake are
+non-overlapping ranges.
+
+RI
+PT
+
+** Adjusted for age, race, region, diabetes mellitus, calcium supplementation, hormone
+therapy use categories, BMI categories, calibrated calorie intake, and quintiles of dietary
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+water, sodium, animal protein, and calcium intake.
+
+7
+
+ACCEPTED MANUSCRIPT
+
+Dietary Intake of Fiber, Fruit, and Vegetables Decrease the Risk of Incident
+Kidney Stones in Women: A Women’s Health Initiative (WHI) Report
+
+RI
+PT
+
+Abbreviations:
+WHI: Women’s Health Initiative
+FFQ: food frequency questionnaire
+
+SC
+
+BMI: body mass index
+
+aHR: adjusted hazards ratio
+
+AC
+C
+
+EP
+
+TE
+D
+
+95% CI: 95% confidence intervals
+
+M
+AN
+U
+
+HR: hazards ratio
+
+
