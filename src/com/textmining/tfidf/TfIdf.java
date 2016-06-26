@@ -1,15 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.textmining.tfidf;
 
 import java.util.List;
 
-/**
- * Class to calculate TfIdf of term.
- * @author Mubin Shrestha
- */
 public class TfIdf {
     
     /**
@@ -19,14 +11,12 @@ public class TfIdf {
      * @return tf(term frequency) of term termToCheck
      */
     public double tfCalculator(String[] totalterms, String termToCheck) {
-        System.out.println("Computing Term-Frequency");
         double count = 0;  //to count the overall occurrence of the term termToCheck
         for (String s : totalterms) {
             if (s.equalsIgnoreCase(termToCheck)) {
                 count++;
             }
         }
-        System.out.println("Done computing Term-Frequency");
         return count / totalterms.length;
     }
     
@@ -38,7 +28,6 @@ public class TfIdf {
      */
     public double idfCalculator(List<String[]> allTerms, String termToCheck) {
         double count = 0;
-        System.out.println("Computing Inverse Document Frequency");
         for (String[] ss : allTerms) {
             for (String s : ss) {
                 if (s.equalsIgnoreCase(termToCheck)) {
@@ -47,7 +36,6 @@ public class TfIdf {
                 }
             }
         }
-        System.out.println("Done computing Inverse Document Frequency");
         return Math.log(allTerms.size() / count);
     }
 }

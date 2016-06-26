@@ -1,16 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.textmining.tfidf;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-/**
- *
- * @author Mubin Shrestha
- */
 public class TfIdfMain {
     
     /**
@@ -24,6 +16,5 @@ public class TfIdfMain {
         DocumentParser dp = new DocumentParser();
         dp.parseFiles("D:\\pdftotext"); //path to docs
         dp.tfIdfCalculator(); //calculates tfidf
-//        dp.getCosineSimilarity(); //calculated cosine similarity   
     }
 }

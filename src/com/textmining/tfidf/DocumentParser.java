@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.textmining.tfidf;
 
 import java.io.BufferedReader;
@@ -16,11 +12,6 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-/**
- * Class to read documents
- *
- * @author Mubin Shrestha
- */
 public class DocumentParser {
 
     //This variable will hold all terms of each document in an array.
@@ -62,12 +53,6 @@ public class DocumentParser {
         System.out.println("Terms Docs Array: ");
         for(String[] data: termsDocsArray){
             System.out.print(data[i]+" ");
-            i++;
-        }
-        int j = 0;
-        System.out.println("All Terms: ");
-        for(String data: allTerms){
-            System.out.print(data+" ");
             i++;
         }
     }
@@ -112,23 +97,5 @@ public class DocumentParser {
         
         JTable table = new JTable(model);
         JOptionPane.showMessageDialog(null, new JScrollPane(table));
-    }
-
-    /**
-     * Method to calculate cosine similarity between all the documents.
-     */
-    public void getCosineSimilarity() {
-        System.out.println("Starting computing Cosine Similarity");
-        for (int i = 0; i < tfidfDocsVector.size(); i++) {
-            for (int j = 0; j < tfidfDocsVector.size(); j++) {
-                System.out.println("between " + i + " and " + j + "  =  "
-                                   + new CosineSimilarity().cosineSimilarity
-                                       (
-                                         tfidfDocsVector.get(i), 
-                                         tfidfDocsVector.get(j)
-                                       )
-                                  );
-            }
-        }
     }
 }
