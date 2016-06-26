@@ -6,14 +6,12 @@ package com.textmining.tfidf;
 
 import java.util.List;
 
-//<editor-fold defaultstate="collapsed" desc="TFIDF calculator">
 /**
  * Class to calculate TfIdf of term.
  * @author Mubin Shrestha
  */
 public class TfIdf {
     
-    //<editor-fold defaultstate="collapsed" desc="TF Calculator">
     /**
      * Calculated the tf of term termToCheck
      * @param totalterms : Array of all the words under processing document
@@ -31,9 +29,7 @@ public class TfIdf {
         System.out.println("Done computing Term-Frequency");
         return count / totalterms.length;
     }
-    //</editor-fold>
     
-    //<editor-fold defaultstate="collapsed" desc="Idf Calculator">
     /**
      * Calculated idf of term termToCheck
      * @param allTerms : all the terms of all the documents
@@ -54,6 +50,4 @@ public class TfIdf {
         System.out.println("Done computing Inverse Document Frequency");
         return Math.log(allTerms.size() / count);
     }
-//</editor-fold>
 }
-//</editor-fold>

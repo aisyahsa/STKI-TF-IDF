@@ -11,6 +11,10 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import javax.swing.JOptionPane;
+import javax.swing.JScrollPane;
+import javax.swing.JTable;
+import javax.swing.table.DefaultTableModel;
 
 /**
  * Class to read documents
@@ -23,6 +27,7 @@ public class DocumentParser {
     private List<String[]> termsDocsArray = new ArrayList<String[]>();
     private List<String> allTerms = new ArrayList<String>(); //to hold all terms
     private List<double[]> tfidfDocsVector = new ArrayList<double[]>();
+    private List<tfidfarray> array = new ArrayList<>();
 
     /**
      * Method to read files and store in array.
@@ -53,7 +58,18 @@ public class DocumentParser {
                 termsDocsArray.add(tokenizedTerms);
             }
         }
-
+        int i = 0;
+        System.out.println("Terms Docs Array: ");
+        for(String[] data: termsDocsArray){
+            System.out.print(data[i]+" ");
+            i++;
+        }
+        int j = 0;
+        System.out.println("All Terms: ");
+        for(String data: allTerms){
+            System.out.print(data+" ");
+            i++;
+        }
     }
 
     /**
@@ -63,9 +79,11 @@ public class DocumentParser {
         double tf; //term frequency
         double idf; //inverse document frequency
         double tfidf; //term requency inverse document frequency
-
+        int i = 1;
+        
         System.out.println("Starting computing Tf-Idf");        
         for (String[] docTermsArray : termsDocsArray) {
+            System.out.println("Doc "+i);
             double[] tfidfvectors = new double[allTerms.size()];
             int count = 0;
             for (String terms : allTerms) {
@@ -75,10 +93,25 @@ public class DocumentParser {
                 tfidf = tf * idf;
                 System.out.println("Value: "+tfidf+"\n");
                 tfidfvectors[count] = tfidf;
+                if(tfidf>0){
+                    array.add(new tfidfarray(terms, tfidf));
+                }
                 count++;
             }
+            i++;
             tfidfDocsVector.add(tfidfvectors);  //storing document vectors;            
         }
+        
+         String col[] = {"Term", "W = Tf * Idf"};
+        DefaultTableModel model = new DefaultTableModel(col, 0);
+        
+        for(tfidfarray arr: array){
+            Object[] data = {arr.getTerm(), arr.getW()};
+            model.addRow(data);
+        }
+        
+        JTable table = new JTable(model);
+        JOptionPane.showMessageDialog(null, new JScrollPane(table));
     }
 
     /**
