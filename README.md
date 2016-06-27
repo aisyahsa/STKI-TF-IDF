@@ -16,3 +16,8 @@ Penting: STKI-TF-IDF membutuhkan Java dan NetBeans IDE
 
 ### License
 MIT
+
+### Author
+1. Aisyah Shofiyyah Asma
+2. Fadil Harris
+3. Bramantyo Adhilaksono
