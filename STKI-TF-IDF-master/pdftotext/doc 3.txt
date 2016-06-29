@@ -1,0 +1,1282 @@
+Women's Health Issues xxx-xx (2016) 1–9
+
+www.whijournal.com
+
+Original article
+
+Racial and Ethnic Health Care Disparities Among Women
+in the Veterans Affairs Healthcare System: A Systematic Review
+Andrea Carter, MD a, Sonya Borrero, MD, MS a,b,*, Charles Wessel, MLS c,
+Donna L. Washington, MD, MPH d,e, Bevanne Bean-Mayberry, MD, MHS d,e,
+Jennifer Corbelli, MD, MS a, and the VA Women’s Health Disparities Research
+Workgroup
+a
+
+Division of General Internal Medicine, University of Pittsburgh, Pittsburgh, Pennsylvania
+Center for Health Equity, Research, and Promotion, Veterans Affairs Pittsburgh Healthcare System, Pittsburgh, Pennsylvania
+c
+Health Sciences Library System, University of Pittsburgh, Pittsburgh, Pennsylvania
+d
+Veterans Affairs Health Service Research and Development Center for the Study of Healthcare Innovation, Implementation, and Policy, Veterans
+Affairs Greater Los Angeles Healthcare System, Los Angeles, California
+e
+Department of Medicine, David Geffen School of Medicine, University of California Los Angeles, Los Angeles, California
+b
+
+Article history: Received 24 November 2015; Received in revised form 4 March 2016; Accepted 23 March 2016
+
+a b s t r a c t
+Background: Women are a rapidly growing segment of patients who seek care in the Veterans Affairs (VA) Healthcare
+System, yet many questions regarding their health care experiences and outcomes remain unanswered. Racial and
+ethnic disparities have been well-documented in the general population and among veterans; however, prior disparities
+research conducted in the VA focused primarily on male veterans. We sought to characterize the ﬁndings and gaps in
+the literature on racial and ethnic disparities among women using the VA.
+Methods: We systematically reviewed the literature on racial and ethnic health care disparities exclusively among
+women using the VA Healthcare System. We included studies that examined health care use, satisfaction, and/or quality,
+and stratiﬁed data by race or ethnicity.
+Results: Nine studies of the 2,591 searched met our inclusion criteria. The included studies examined contraception
+provision/access (n ¼ 3), treatment of low bone mass (n ¼ 1), hormone therapy (n ¼ 1), use of mental health or
+substance abuse–related services (n ¼ 2), trauma exposure and use of various services (n ¼ 1), and satisfaction with
+primary care (n ¼ 1). Five of nine studies showed evidence of a signiﬁcant racial or ethnic difference.
+Conclusion: In contrast with the wealth of literature examining disparities both among the male veterans and women in nonVA settings, only nine studies examine racial and ethnic disparities speciﬁcally among women in the VA Healthcare System.
+These results demonstrate that there is an unmet need to further assess health care disparities among female VA users.
+Published by Elsevier Inc. on behalf of the Jacobs Institute of Women's Health.
+
+Women are a rapidly growing segment of patients who
+receive care in the Veterans Affairs (VA) Healthcare System: 6.5%
+of all VA users are women and the number of women receiving
+
+Funding and conﬂict of interest statement: This work was supported in part
+by the VA Women’s Health Research Network (VA HSR&D SDR 10–012). The
+contents of this manuscript do not represent the views of the Department of
+Veterans Affairs or the United States Government. To the best of our knowledge,
+there are no conﬂicts of interest.
+* Correspondence to: Sonya Borrero, MD, MS, 230 McKee Place, Suite 600,
+Pittsburgh, PA 15213. Phone: (412) 692-4841; fax: (412) 692-4828.
+E-mail address: borrerosp@upmc.edu (S. Borrero).
+
+health care in the VA has doubled since 2000 (Frayne et al., 2014).
+This growth has outpaced that of the male veteran population.
+More than one-half of women veterans returning from the
+conﬂicts in Iraq and Afghanistan (Operation Enduring Freedom,
+Operation Iraqi Freedom, and Operation New Dawn) have
+received VA health care (U.S. Department of Veterans Affairs,
+2012). However, most research conducted within the VA has
+not included women participants, and many questions regarding
+woman veterans’ health care experiences and outcomes remain
+unanswered.
+Female VA users are a vulnerable population with unique
+health care needs. Compared with civilian women and male VA
+
+1049-3867/$ - see front matter Published by Elsevier Inc. on behalf of the Jacobs Institute of Women’s Health.
+http://dx.doi.org/10.1016/j.whi.2016.03.009
+
+2
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+users, they have a higher prevalence of mental illness and
+medical comorbidities (Frayne et al., 2014; Haskell et al., 2010;
+Lehavot, Hoerster, Nelson, Jakupcak, & Simpson, 2012). Additionally, women veterans who use the VA are disproportionately
+from racial and ethnic minority groups. Almost 40% of women
+veterans who use VA services are from a racial or ethnic minority
+group compared with 23% of male veterans who use the VA
+(Frayne et al., 2014). Thus, an increased effort to understand the
+current state of care for women veterans, across all racial and
+ethnic groups, is imperative to guide future operations, policy,
+and research efforts.
+The burden of racial and ethnic disparities among veterans
+within the VA Healthcare System has been previously systematically reviewed (Saha et al., 2008) and was recently updated in
+an evidence brief (U.S. Department of Veterans Affairs Health
+Services Research & Development, 2015). The majority of
+studies included in the review showed that signiﬁcant racial or
+ethnic disparities exist, and that these disparities existed across a
+range of clinical areas including arthritis/pain management,
+cancer, diabetes, cardiovascular disease, human immunodeﬁciency virus, hepatitis C, mental health/substance abuse,
+preventative/ambulatory care, rehabilitation, and palliative care.
+However, the vast majority of the 171 studies included in the
+initial VA systematic review included either no women or a very
+small number (5% of total study participants) of women, and
+none of the clinical content areas presented in the review were
+areas speciﬁc to women’s health (such as cervical cancer
+screening or contraception).
+We systematically reviewed the literature on racial and ethnic
+disparities in health care among women who receive care in the
+VA Healthcare System. Although we report on any signiﬁcant
+difference in health care by race or ethnicity, we recognize that
+differences may not always indicate a disparity. The term “health
+disparity” has been deﬁned as “a particular type of health difference that is closely linked with social or economic disadvantage” (Secretary’s Advisory Committee on National Health
+Promotion and Disease Prevention Objective for 2020, 2008)
+and, as such, implies an injustice. Because it is common practice
+in the ﬁeld of disparities research to begin with the identiﬁcation
+of differences between vulnerable and less vulnerable populations, with further inquiry to determine if differences represent inequitable or lower quality care for the vulnerable
+population, we simply report on observed differences in this
+report and use the terms “disparity” and “difference” somewhat
+interchangeably. Our primary aims were to identify and summarize existing work in this area and to elucidate areas in which
+future research efforts should be focused to ultimately work
+toward the goal of reducing racial and ethnic disparities among
+women veterans.
+Methods
+Search Strategy
+A formalized protocol was written prior to initiation of the
+systematic review. A health sciences librarian (C.W.) developed,
+revised, translated, and performed literature searches in PubMed
+(1946–present), EMBASE (1974–present), and the American
+Psychological Association’s PsycINFO (1967–present). We constructed searches using the command language of each database
+and the applicable search ﬁelds (Appendix 1). MeSH, EMTREE,
+and American Psychological Association’s Thesaurus of Psychological Index Terms vocabulary were used. For this search, health
+
+disparities and racial and ethnic population group search terms
+were considered synonymous concepts and were combined
+together with a Boolean operator “OR.” These synonymous
+concepts were combined with a Boolean operator “AND” to the
+veteran/VA and women search terms. No search limits were
+applied and all languages were included. We ran all three database searches and citations were downloaded on June 30, 2014.
+Study Selection
+We removed duplicate citations and screened citations by
+both title and abstract for relevance. We selected studies that
+met the following criteria: 1) conducted solely within the VA
+Healthcare System, 2) reported data on women exclusively or
+stratiﬁed data by gender, 3) reported data on use, quality of
+health care services, or satisfaction, 4) stratiﬁed results by patient race or ethnicity, 5) contained original data, and 6) published in a peer-reviewed journal. Two authors (A.C. and J.C.)
+independently conﬁrmed study eligibility. Any discrepancies
+were resolved through discussion and group consensus.
+Data Abstraction
+We abstracted data from all studies meeting inclusion criteria
+using a structured form, which included study design, study
+period, number enrolled, source of race/ethnicity data, race/
+ethnicity of study population, source of outcome data, and outcomes. Studies were summarized in tables and classiﬁed according to clinical area. Because no standardized or validated
+quality measures to evaluate cross sectional data exist, we were
+unable to perform study quality and risk of bias scoring.
+Furthermore, a meta-analysis was not performed given the
+marked heterogeneity of both outcomes and outcome measures
+used in the studies included in our systematic review.
+Results
+Search Yield
+Our search located 1,622 citations in PubMED, 1,859 citations
+in EMBASE, and 584 citations in PsychINFO. After duplicate citations were identiﬁed and removed, 2,591 citations were
+screened by both title and abstract and 2,446 of these were
+eliminated. The remaining 145 citations were reviewed in full
+text, and 9 studies were identiﬁed for inclusion (Figure 1).
+Description of Evidence
+We identiﬁed nine studies that examine racial and ethnic
+disparities in health care among women in the VA Healthcare
+System (Table 1). Five studies were retrospective cohort studies
+using VA administrative databases, two studies were crosssectional surveys, and two studies were combination cohort
+and survey studies.
+Overall, ﬁve of the nine studies showed evidence of a significant racial or ethnic difference in a quality of care or use of care
+outcome (Table 2). Of the ﬁve studies that showed evidence of a
+signiﬁcant racial or ethnic difference, one was a single VA study
+and four used national VA data. The studies examined the
+following health care domains: contraception provision/access,
+treatment of low bone mass, hormone therapy, use of mental
+health or substance abuse–related services, trauma exposure and
+use of various VA services, and satisfaction with primary care.
+
+Included
+
+Eligibility
+
+Screening
+
+IdenƟficaƟon
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+Records idenƟfied through
+searching PubMed
+n = 1,622
+
+Records idenƟfied through
+searching Embase
+n = 1,859
+
+Records idenƟfied through
+searching PsychINFO
+n = 584
+
+Total records idenƟfied by searching databases
+n = 4,065
+
+Duplicate records excluded
+n = 1,474
+
+Records screened
+n = 2,591
+
+Records excluded by
+Ɵtle/abstract
+n = 2,446
+
+Records assessed for
+eligibility
+n = 145
+
+3
+
+Records excluded aŌer full text review:
+Not conducted solely within the VA
+Not exclusively women or data not straƟfied by gender
+No data on uƟlizaƟon, quality, or saƟsfacƟon
+Data not straƟfied by race or ethnicity
+No original data
+Not in peer reviewed journal
+
+n=9
+n = 112
+n=2
+n=7
+n=5
+n=1
+
+Studies included in review
+n=9
+
+Figure 1. PRISMA ﬂow diagram (Moher, Liberati, Tetzlaff, Altman, & PRISMA Group, 2009).
+
+Contraception provision/access (n ¼ 3)
+Of the three retrospective cohort studies examining contraception provision/access, two found evidence of a signiﬁcant
+racial or ethnic difference. One study of 805 woman veterans in
+the San Diego VA Healthcare System who received a new prescription for hormonal contraception during the study period
+found no racial or ethnic difference in hormonal contraception
+adherence (deﬁned as obtaining 12 months of reﬁlls of hormonal
+contraception in a 12-month time period; Kazerooni, Takizawa, &
+Vu, 2014). Another study of all woman veterans in the national
+VA system between age 18 and 45 who made at least one visit to
+a VA primary care or women’s health clinic in ﬁscal year 2008
+and had hormonal contraceptive coverage during the ﬁrst week
+of the study period (n ¼ 6,946) found that Hispanic women were
+signiﬁcantly more likely than White women to experience gaps
+between reﬁlls of hormonal contraception, and that Hispanic
+women and Black women received signiﬁcantly fewer overall
+months of contraceptive coverage in a 12-month period than
+White women (Borrero et al., 2013). A third study of all woman
+veterans in the national VA system between age 18 and 45 who
+made at least one visit to a VA primary care or women’s health
+clinic ﬁscal year 2008 (n ¼ 103,950) found that Hispanic and
+Black women were signiﬁcantly less likely than White women to
+have documented receipt of any contraception (Borrero et al.,
+2012). However, this same study found that, when Black
+women were using a form of contraception, they were signiﬁcantly more likely than White women to use a highly effective
+method of contraception (intrauterine device, implant, or surgical sterilization).
+
+Treatment of low bone mass (n ¼ 1)
+This cross-sectional survey study of 75 women who underwent dual-energy x-ray absorptiometry testing at the Washington DC VA Medical Center found that Black women were
+signiﬁcantly less likely than White women to receive an antiresorptive drug for treatment of low bone mass after controlling
+for severity of low bone mass and prior fractures (Wei, Jackson, &
+Herbers Jr, 2003).
+Hormone therapy (n ¼ 1)
+This retrospective cohort study of all woman veterans in the
+national VA system using menopausal hormone therapy (MHT)
+in 2001 (n ¼ 36,222) examined discontinuation of MHT after the
+publication of the Women’s Health Initiative, which was the ﬁrst
+major publication to describe risks of MHT (Rossouw et al.,
+2002). They found that perimenopausal and postmenopausal
+Black and Hispanic women were more likely than White women
+to discontinue MHT (Haskell et al., 2008) by 2 years after the
+Women’s Health Initiative publication.
+Use of mental health or substance abuse–related services (n ¼ 2)
+One combined survey and retrospective cohort study of 526
+woman veterans at a primary care clinic at the Durham VA
+Medical Center found no evidence of racial or ethnic difference in
+use of mental health services in a 12-month period. However,
+this study did ﬁnd that Black women reported wanting a mental
+health referral more frequently than White women (34% vs. 27%;
+p ¼ .01; Bosworth et al., 2000). The second retrospective cohort
+study of 854 woman veterans in the national VA system
+
+4
+
+Table 1
+Study Characteristics
+Title
+
+Study Design
+
+Study Period
+
+N
+
+Level of Analysis
+
+Source of Race or
+Ethnicity Data
+
+Race or Ethnicity of
+Study Population
+
+Kazerooni 2014
+
+Predictors of
+adherence to
+hormonal
+contraceptives in a
+female veteran
+population
+
+Retrospective cohort
+study
+
+April 2010–March
+2012
+
+805 women
+
+Single VA (San Diego)
+
+Administrative data
+
+Borrero 2013
+
+Adherence to
+hormonal
+contraception among
+women veterans:
+differences by race/
+ethnicity and
+contraceptive supply
+Contraceptive care in
+the VA health care
+system
+
+Retrospective cohort
+study
+
+October 2007–
+September 2008
+
+6,946 women
+
+National VA system
+
+Administrative data
+
+White 62%
+Black 14%
+Asian 7%
+Native American/
+Alaskan 1%
+Mixed race 2%
+Unknown 13%
+White 47%
+Hispanic 6%
+Black 22%
+Other 3%
+Unknown 22%
+
+Retrospective cohort
+study
+
+2008
+
+103,950 women
+
+National VA system
+
+Administrative data
+
+Determinants of
+hormone therapy
+discontinuation
+among female
+veterans nationally
+Racial disparities in
+trauma exposure,
+psychiatric symptoms,
+and service use among
+female patients in VA
+primary care clinics
+Brief report: lack of a
+race effect in primary
+care ratings among
+women veterans
+Ethnic disparity in the
+treatment of women
+with established low
+bone mass
+Racial variation in
+wanting and obtaining
+mental health services
+among women
+veterans in a primary
+care clinic
+Age, ethnicity, and
+comorbidity in a
+national sample of
+hospitalized alcoholdependent women
+veterans
+
+Retrospective cohort
+study
+
+2001–2004
+
+36,222 women
+
+National VA system
+
+Not reported
+
+Cross-sectional survey
+and retrospective
+cohort study
+
+January 2000–
+December 2002
+
+183 women
+
+Multiple VAs
+(Charleston, SC;
+Columbia SC;
+Tuscaloosa, AL;
+Birmingham, AL)
+
+Self-identiﬁed during
+phone interview
+
+White 55%
+Black 46%
+
+Cross-sectional survey
+
+Not reported
+
+1,447 women
+
+Multiple Vas (systems
+in DE, KY, PA, TN, WV)
+
+Self-identiﬁed on
+survey
+
+White 85%
+Black 11%
+Other 3%
+
+Cross-sectional survey
+
+January 1998–October
+2001
+
+75 women
+
+Single VA
+(Washington, DC)
+
+Self-identiﬁed on
+survey
+
+White 55%
+Black 35%
+Other 10%
+
+Survey and
+retrospective cohort
+study
+
+July 1994–December
+1996
+
+526 women
+
+Single VA (Durham,
+NC)
+
+Self-identiﬁed on
+survey
+
+White 46%
+Black 54%
+
+Retrospective cohort
+study
+
+October 1992–
+September 1993
+
+854 women
+
+National VA system
+
+Administrative data
+
+White 62%
+Black 33%
+Hispanic 2%
+Native American 3%
+
+Borrero 2012
+
+Haskell 2008
+
+Grubaugh 2008
+
+Bean-Mayberry 2006
+
+Wei 2003
+
+Bosworth 2000
+
+Ross 1998
+
+Abbreviation: VA, Veteran’s Affairs.
+
+White 40%
+Hispanic 6%
+Black 25%
+Other 3%
+Unknown 26%
+White 58%
+Black 12%
+Hispanic 2%
+Other/unknown 27%
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+First Author, Year
+
+Table 2
+Study Outcome Data
+Source of Use
+or Quality
+Outcome Data
+
+Quality/Use Outcome(s)
+
+Adjusted OR/HR (Referent, White Women; 95% CI
+if Reported, p-value if Reported)
+
+Kazerooni 2014
+
+Pharmacy/
+administrative
+data
+
+Adherence to hormonal contraception (deﬁned as having a medication possession
+ratio  0.9; a patient would need to have obtained 12 months’ worth of reﬁlls within a
+1-year time frame)
+
+Borrero 2013
+
+Pharmacy/
+administrative
+data
+
+Nonadherence to hormonal contraception (deﬁned as having gaps  7 days between reﬁlls)
+
+Black
+Asian
+Mixed
+Native American
+Hispanic
+Black
+Hispanic
+Black
+Hispanic
+Black
+Other
+Hispanic
+Black
+Other
+Hispanic
+Black
+Other
+
+0.73
+1.11
+0.54
+0.40
+1.18
+1.04
+0.76
+0.95
+0.82
+0.85
+0.87
+0.89
+1.10
+0.88
+1.41
+1.13
+1.08
+
+(0.44–1.22, p
+(0.60–2.03, p
+(0.16–1.77, p
+(0.08–2.08, p
+(1.03–1.34, p
+(0.95–1.13, p
+(0.57–1.01, p
+(0.81–1.12, p
+(0.76–0.88, p
+(0.81–0.89, p
+(0.79–0.95, p
+(0.77–1.03, p
+(1.01–1.20, p
+(0.73–1.05, p
+(1.19–1.67)*
+(1.05–1.22)*
+(1.02–1.12)*
+
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+
+Black
+Black
+Black
+Black
+
+0.13
+1.36
+1.64
+1.73
+
+(0.94–1.04,
+(0.69–2.68,
+(0.75–3.55,
+(0.87–3.42,
+
+¼
+¼
+¼
+¼
+
+Black
+Other
+Black
+Other
+Black
+Other
+Black
+Other
+Black
+Other
+Whitez
+
+0.7
+0.5
+0.7
+0.7
+1.9
+0.9
+0.7
+0.9
+0.7
+0.5
+3.71
+
+(0.4–1.3)
+(0.1–1.6)
+(0.5–1.1)
+(0.4–1.4)
+(0.8–4.4)
+(0.2–4.9)
+(0.3–1.2)
+(0.5–1.6)
+(0.4–1.1)
+(0.2–1.5)
+(1.24–11.1)*
+
+Black
+
+1.21 (0.79–1.86)
+
+Black
+Hispanic
+Native American
+Black
+Hispanic
+Native American
+Black
+Hispanic
+Native American
+
+0.79
+0.99
+4.18
+1.27
+4.62
+3.39
+0.69
+0.36
+2.28
+
+Borrero 2012
+
+Pharmacy/
+administrative
+data
+
+Adherence to hormonal contraception (deﬁned as obtaining all 12 months of contraception
+in a year without gaps)
+Documented receipt of any contraception (deﬁned as receiving prescription or undergoing
+procedure indicating contraceptive use)
+Use of most effective method of contraception (deﬁned as using IUD, implant, or surgical
+sterilization)
+
+Haskell 2008
+
+Grubaugh 2008
+
+Bean-Mayberry
+2006
+
+Pharmacy/
+administrative
+data
+Administrative
+data
+
+Survey
+
+Discontinuation of hormone therapy (deﬁned as having been prescribed and distributed
+hormone therapy in 2001 but no longer in 2004)
+Use of various VA services (deﬁned as  1 visit in prior 12 months)
+Inpatient services
+Urgent ER services
+Women’s clinic
+Mental health services
+Satisfaction with primary care in various domains (deﬁned as perfect score on survey)
+Patient preference for usual provider
+Satisfaction with provider interpersonal communication
+Satisfaction with provider accumulated knowledge
+Satisfaction with coordination of care
+Overall excellent satisfaction
+
+Wei 2003
+
+Survey
+
+Bosworth 2000
+
+Administrative
+data
+Administrative
+data
+
+Ross 1998
+
+Use of antiresorptive drug for treatment of low bone mass adjusted for severity and prior
+fractures (deﬁned as using estrogen replacement, alendronate, risedronate, nasal calcitonin,
+or raloxiﬁne)
+Use of mental health services (deﬁned as visit within last 12 months)
+Use of alcohol-related services among hospitalized veterans with alcohol-related disorders
+Receive alcohol treatment services
+
+Enter formal alcohol treatment
+
+Complete formal alcohol treatment
+
+.23)
+.77)
+.31)
+.27)
+.02)*
+.38)
+0.06)
+.56)
+<.001)*
+<.001)*
+.003)*
+.12)
+.04)*
+.16)
+
+Signiﬁcant Racial or
+Ethnic Difference in
+Quality/Use Outcome?
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+p
+p
+p
+p
+
+.06)y
+.37)
+.21)
+.12)
+No
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+First Author, Year
+
+Yes
+
+No
+Yes
+
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+¼
+
+not signiﬁcant)
+not signiﬁcant)
+< .05)*
+not signiﬁcant)
+not signiﬁcant)
+not signiﬁcant)
+not signiﬁcant)
+not signiﬁcant)
+not signiﬁcant)
+
+5
+
+Abbreviations: CI, conﬁdence interval; ER, emergency room; HR, hazard ratio; IUD, intrauterine device; OR, odds ratio; VA, Veteran’s Administration.
+* Statistically signiﬁcant value.
+y
+Results as listed in study (Black, 0.13; 95% CI, 0.94–1.04; p ¼ 0.06).
+z
+Adjusted odds ratio reported with Black women as reference.
+
+(p
+(p
+(p
+(p
+(p
+(p
+(p
+(p
+(p
+
+6
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+diagnosed with alcohol dependence found that Native American
+women (n ¼ 22) were more likely than White women (n ¼ 532)
+to receive formal alcohol treatment, but there was no difference
+in receiving formal alcohol treatment between Hispanic or African American women compared with White women (Ross,
+Fortney, Lancaster, & Booth, 1998).
+Trauma exposure and use of various VA services (n ¼ 1)
+A cross-sectional survey and retrospective cohort study of 183
+woman veterans randomly selected from 4 VA medical centers
+(Charleston, SC; Columbia, SC; Tuscaloosa, AL; and Birmingham,
+AL) assessed racial or ethnic differences in trauma exposure,
+psychiatric symptoms, and VA services use among women veterans and reported no racial or ethnic difference in the use of
+various VA services (including inpatient, emergency room,
+women’s clinic, primary care, and mental health services) over a
+12-month period (Grubaugh, Slagle, Long, Frueh, & Magruder,
+2008).
+Satisfaction with primary care (n ¼ 1)
+A cross-sectional survey study of 1,447 women using VA
+primary care or women’s health clinics in 5 states (Delaware,
+Kentucky, Pennsylvania, Tennessee, and West Virginia) asked
+veterans about their satisfaction with primary care and found no
+signiﬁcant racial or ethnic difference in overall rating of excellent
+satisfaction, patient preference for maintaining a relationship
+with her health care provider, patient perceptions of her provider’s interpersonal communication, accumulation of knowledge, or coordination of care (Bean-Mayberry, Chang, & Scholle,
+2006).
+Discussion
+The results of our systematic review demonstrate that there
+are only nine studies that examine racial and ethnic disparities
+speciﬁcally among female VA users. Many clinical areas with
+known racial and ethnic disparities among male VA users and
+among women outside the VA have not been studied in female
+VA users. Multiple groups and policymakers, including the VA,
+have called for the identiﬁcation and eradication of racial and
+ethnic disparities in health care to be a national priority (Fine &
+Demakis, 2003; Institute of Medicine, 2003; Koh, Blakey, &
+Roper, 2014; U.S. Department of Health and Human Services,
+2011). The VA is an ideal place to examine racial and ethnic
+differences among women for several reasons. The VA provides
+care to a racially and ethnically diverse population, taking care
+of 360,000 women veterans of whom 29% are Black, 1% are
+Asian, 1% are Native American/Alaska Native, 1% are Native
+Hawaiian/other Paciﬁc Islander, and 6% are of Hispanic origin
+(Frayne et al., 2014). Many of the ﬁnancial confounders present
+in the private sector, such as insurance coverage and ability to
+pay for care, are removed in the VA setting. Furthermore,
+administrative databases in the VA contain extensive national
+data on quality and use. These factors make the VA an optimal
+and uniquely informative place to identify and understand
+racial and ethnic health care disparities. Thus, the relative
+paucity of data on racial and ethnic disparities among woman
+veterans is concerning.
+A majority of studies included in our review showed evidence
+of a racial or ethnic difference. The clinical area with the most
+studies (n ¼ 3) was contraception. Of the three studies on
+contraception, two showed a signiﬁcant racial or ethnic difference in adherence to or receipt of contraception and one showed
+
+no difference. The study that showed no difference was based on
+a much smaller sample (n ¼ 805; Kazerooni et al., 2014) than the
+other two (n ¼ 6,946 and n ¼ 103,950; Borrero et al., 2012;
+Borrero et al., 2013). The smaller study did show, however, a
+nonsigniﬁcant trend toward lower adherence to contraception in
+Black and Hispanic women and may have been simply underpowered to detect statistical signiﬁcance. Additionally, this study
+was conducted in a single VA as opposed to the other two, which
+were national VA samples, so the results of this study may reﬂect
+factors speciﬁc to an individual VA Healthcare System. Overall,
+these ﬁndings of racial and ethnic differences in adherence to
+and receipt of contraception among women VA users aged 18 to
+45 are broadly consistent with the observed racial and ethnic
+differences in use of contraception and unintended pregnancy in
+the general U.S. population of teens and women aged 15 to 44
+(Dehlendorf et al., 2014; Finer & Zolna, 2014).
+Racial and ethnic differences in patient satisfaction among
+male veterans has been examined in at least ﬁve studies (Saha
+et al., 2008), and three of these showed signiﬁcant racial or
+ethnic disparities (Flaherty, Naidu, Lawton, & Pathak, 1981;
+Ohldin et al., 2004; Young, Meterko, & Desai, 2000). Our systematic review revealed only one study on satisfaction among
+women at the VA (Bean-Mayberry et al., 2006). This survey study
+showed no racial or ethnic differences in satisfaction with primary care, which is encouraging. However, the response rate was
+55%, and it is unclear if respondent characteristics were different
+from those of nonresponders. Given that this is the only published study on racial or ethnic differences in satisfaction among
+women at the VA, it is unclear if racial or ethnic satisfaction
+differences exist in care received outside of primary care.
+Although there are challenges with using patient satisfaction as
+an outcome measure, such as variability in scales used and a high
+degree of subjectivity, patient satisfaction studies may nonetheless be especially relevant given the increasing importance of
+patient satisfaction measures in quality metrics.
+Interestingly, some of the racial or ethnic differences we
+found among women at the VA appear on the surface to favor
+racial or ethnic minority groups. In particular, Black women were
+found to use contraception belonging in the category of “most
+effective” methods (intrauterine devices, implants, or surgical
+sterilization) more often than White women (Borrero et al.,
+2012). However, this difference is likely driven by higher rates
+of surgical sterilization among African American women
+(Borrero et al., 2010; Dehlendorf et al., 2014), who may have
+higher rates of post-sterilization regret (Borrero et al., 2008). A
+second difference that may seem to favor Blacks and Hispanics is
+that perimenopasual and postmenopausal Black and Hispanic
+women were more likely than White women to discontinue
+hormone therapy (Haskell et al., 2008) by 2 years after the
+Women’s Health Initiative publication, which was the ﬁrst
+publication to emphasize the risks of MHT (Rossouw et al., 2002).
+Again, the implication of this difference is unclear, because use of
+hormone therapy is highly sensitive to patient preference and
+because reasons for disparate discontinuation rates are unclear.
+Finally, Native American women completed inpatient alcohol
+treatment programs more often than White women (Ross et al.,
+1998), perhaps owing to clinician awareness that Native Americans are disproportionately burdened by alcohol-related problems like binge drinking (Akins, Lanfear, Cline, & Mosher, 2013)
+and alcohol-attributable mortality (Landen, Roeber, Naimi,
+Nielsen, & Sewell, 2014). However, it may be difﬁcult to draw
+signiﬁcant conclusions from this study given the small number
+(n ¼ 22, 3% of study population) of Native American women.
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+Additional work is needed to understand the clinical signiﬁcance
+of these ﬁndings.
+Although the majority of the studies included in our review
+evaluate gender-speciﬁc topics (contraception, low bone mass,
+hormone therapy), the fact that there were only ﬁve studies on
+these topics demonstrates the dearth of disparities literature in
+the area of gender-speciﬁc health conditions among women veterans. Racial and ethnic disparities have been shown to exist in
+non-VA settings in multiple gender-speciﬁc areas that have not yet
+been examined within the VA, including cervical cancer screening,
+mammography, prenatal care, and annual preventive visits (Kaiser
+Family Foundation, 2009; National Healthcare Quality and
+Disparities Report, 2011). In the non-VA setting, White and Hispanic women are less likely than Black and Asian women to
+receive a mammogram, Asian women are less likely than White
+women to receive a pap smear, and Native American women are
+less likely to receive prenatal care during the ﬁrst trimester than
+White women (National Healthcare Quality and Disparities
+Report, 2011). Given that patients who receive care at the VA
+have a higher burden of illness and lower income as compared
+with the general population (Agha, Lofgren, VanRuiswyk, & Layde,
+2000), ﬁndings from studies in the private sector may not be
+generalizable to the VA population. Our ﬁndings of racial and
+ethnic differences in contraception, hormone therapy, and low
+bone mass woman veterans, however, do raise concerns about
+health inequities for other gender-speciﬁc outcomes.
+Additionally, there are many clinical areas in which racial or
+ethnic disparities have been demonstrated among male veterans
+in the VA system that have not yet been examined among
+women VA users. In the prior systematic review (Saha et al.,
+2008) that was recently updated in a policy brief (U.S.
+Department of Veterans Affairs Health Services Research &
+Development, 2015), multiple studies have found racial or
+ethnic disparities among men who use the VA in the clinical
+areas of chronic pain, diabetes, and heart and vascular disease.
+Additionally, in the prior reviews, disparities were very prevalent
+in the use of surgery or invasive procedures. Thus, our search
+parameters were deliberately broad to identify health disparities
+of any kind. The fact that many of the studies that met our inclusion criteria were focused on gender-speciﬁc health conditions reﬂects the dearth of literature on disparities across the
+range of medical diseases that occur in women veterans. This is
+particularly concerning given that the most common health
+conditions affecting women in the VA system in fact include
+chronic pain, diabetes, and heart and vascular disease (Frayne
+et al., 2014). Another area of focus should be examining which
+disparities among women veterans occur locally and which are
+present at a national level. Because the VA health care system
+comprises geographically disparate sites across all 50 states and
+Puerto Rico and because geographic variation in health care has
+been identiﬁed as an important contributor to disparities, it will
+be important to discern whether observed racial or ethnic differences reﬂect variation in practice in regions or sites that primarily serve women from one racial or ethnic group versus those
+that result from systemic inequities.
+Several limitations deserve mention. First, we were unable to
+perform a meta-analysis owing to the heterogeneity of studies.
+Additionally, we cannot rule out the potential for publication bias
+in this research area that, if present, could have had a signiﬁcant
+impact on our ﬁndings given that we are interested in both the
+presence and absence of racial and ethnic disparities. However, a
+funnel plot to visualize the effect of publication bias could not be
+generated owing to distinct outcome measures in each included
+
+7
+
+study. Additionally, women veterans who receive care in VA
+system have worse overall physical and mental health than
+women who receive care in the private sector (Frayne et al.,
+2006; Washington, Farmer, Mor, Canning, & Yano, 2015). Given
+these differences, the results of our review may not generalizable
+to women veterans receiving care outside the VA. Last, the
+objective of this review was to summarize the extent to which
+published literature examines racial or ethnic differences in VA
+women’s health care to guide future VA research efforts, not to
+determine the full presence and distribution of racial or ethnic
+disparities. When a difference represents a disparity and
+whether this disparity ultimately is of clinical signiﬁcance must
+take into account social context, patient preference, and many
+other factors, which cross-sectional studies are often unable to
+elucidate and which are beyond the scope of this review. Given
+that only nine studies met our inclusion criteria despite our
+broad approach, this clearly underscores the extent to which a
+comprehensive understanding of racial and ethnic disparities
+among woman veterans will not be possible until further
+research is done.
+Implications for Practice, Policy, and Future Research
+In contrast with the wealth of literature examining racial and
+ethnic health care disparities both among male veterans and
+women in non-VA settings, there are only nine published studies
+examining disparities speciﬁcally among women in the VA
+Healthcare System. The results of this systematic review
+demonstrate that there is a need to further study racial and
+ethnic disparities among female VA users. Speciﬁcally, evidence
+of racial and ethnic health care disparities among women have
+been shown in non-VA settings in cervical cancer screening,
+prenatal care, mammograms, and annual preventive visits, but
+these areas have not been examined among female VA users.
+Also, among male VA users, disparities have been shown in areas
+of mental health and substance abuse, cardiovascular disease,
+surgical procedures, and pain management, but these areas have
+not been examined among female VA users. Our results thus
+highlight important knowledge gaps in the ﬁelds of VA health
+equity and women’s health research.
+Fortunately, an infrastructure to support and facilitate
+addressing these knowledge gaps currently exists. The VA requires that special efforts be made to include women and
+members of minority groups in all VA research studies including
+research that is unfunded, funded by non-VA entities, or funded
+by the VA Ofﬁce of Research and Development (U.S. Department
+of Veterans Affairs, 2013). Additionally, VA Health Service
+Research & Development has funded the development of the
+Women’s Health Practice Based Research Network (Frayne et al.,
+2013). The Practice Based Research Network establishes a readyto-use infrastructure to conduct multisite studies of women
+veterans, which encourage the inclusion of women in research
+studies by helping to overcome the issue of small numbers of
+women at any one facility. Currently, the Practice Based Research
+Network comprises 60 VA sites across the country and has purposefully included many sites with racially and ethnically diverse
+female patient populations. The VA Ofﬁce of Health Equity is also
+working across the agency to champion the advancement of
+health equity and elimination of health disparities for all
+vulnerable veteran populations.
+Because the VA is dedicated to optimizing women’s health
+care, additional research to understand and address racial and
+ethnic disparities among women will help to achieve VA’s
+
+8
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+
+mission to provide high-quality, equitable health care for all
+women veterans.
+Acknowledgments
+Contributors include members of the VA Women’s Health
+Disparities Research Workgroup, including Bryan C. Batch, MD,
+Jessica Y. Breland, MS, PhD, Brooke DiLeone, PhD, Melissa Ming
+Foynes, PhD, Robin Keene, PhD, RN, Leslie Hausmann, PhD,
+Kristen Mattocks, PhD, MPH, Michelle Mengeling, PhD, MS, Leslie
+Moreland, PsyD, Phyllis Nsiah-Kumi, MD, MPH, Uche Uchendu,
+MD, Sharon Kelly West, RN MHS, CCE, Karen Patricia Williams,
+PhD, and Susan Zickmund, PhD.
+Supplementary data
+Supplementary data related to this article can be found at
+http://dx.doi.org/10.1016/j.whi.2016.03.009.
+References
+Agha, Z., Lofgren, R. P., VanRuiswyk, J. V., & Layde, P. M. (2000). Are patients at
+Veterans Affairs medical centers sicker? A comparative analysis of health
+status and medical resource use. Archives of Internal Medicine, 160(21),
+3252–3257.
+Akins, S., Lanfear, C., Cline, S., & Mosher, C. (2013). Patterns and correlates of
+adult American Indian substance use. Journal of Drug Issues, 43(4), 497–516.
+Bean-Mayberry, B., Chang, C. C., & Scholle, S. H. (2006). Brief report: Lack of a
+race effect in primary care ratings among women veterans. Journal of General
+Internal Medicine, 21(10), 1105–1108.
+Borrero, S., Moore, C. G., Qin, L., Schwarz, E. B., Akers, A., Creinin, M. D., &
+Ibrahim, S. A. (2010). Unintended pregnancy inﬂuences racial disparity in
+tubal sterilization rates. Journal of General Internal Medicine, 25(2), 122–128.
+Borrero, S., Mor, M. K., Zhao, X., McNeil, M., Ibrahim, S., & Hayes, P. (2012).
+Contraceptive care in the VA health care system. Contraception, 85(6),
+580–588.
+Borrero, S., Zhao, X., Mor, M. K., Schwarz, E. B., Good, C. B., & Gellad, W. F. (2013).
+Adherence to hormonal contraception among women veterans: Differences
+by race/ethnicity and contraceptive supply. American Journal of Obstetrics
+and Gynecology, 209(2), 103.e101–103.e111.
+Borrero, S. B., Reeves, M. F., Schwarz, E. B., Bost, J. E., Creinin, M. D., &
+Ibrahim, S. A. (2008). Race, insurance status, and desire for tubal sterilization
+reversal. Fertility and Sterility, 90(2), 272–277.
+Bosworth, H. B., Parsey, K. S., Butterﬁeld, M. I., McIntyre, L. M., Oddone, E. Z.,
+Stechuchak, K. M., & Bastian, L. A. (2000). Racial variation in wanting and
+obtaining mental health services among women veterans in a primary care
+clinic. Journal of the National Medical Association, 92(5), 231–236.
+Dehlendorf, C., Park, S. Y., Emeremni, C. A., Comer, D., Vincett, K., & Borrero, S.
+(2014). Racial/ethnic disparities in contraceptive use: Variation by age and
+women’s reproductive experiences. American Journal of Obstetrics and Gynecology, 210(6), 526.e521–526.e529.
+Fine, M. J., & Demakis, J. G. (2003). The Veterans Health administration’s promotion of health equity for racial and ethnic minorities. American Journal of
+Public Health, 93(10), 1622–1624.
+Finer, L. B., & Zolna, M. R. (2014). Shifts in intended and unintended pregnancies in
+the United States, 2001-2008. American Journal of Public Health, 104(Suppl 1),
+S43–S48.
+Flaherty, J. A., Naidu, J., Lawton, R., & Pathak, D. (1981). Racial differences in
+perception of ward atmosphere. American Journal of Psychiatry, 138(6),
+815–817.
+Frayne, S., Phibbs, C. S., Saechao, F., Maisel, N. C., Berg, E., Hayes, P., Haskell, S., &
+Sourcebook: Women Veterans in the Veterans Health Administration (2014).
+Sociodemographics, Utilization, Costs of Care, and Health Proﬁle, Volume 3.
+Veterans Health Administration, Washington, DC.
+Frayne, S. M., Carney, D. V., Bastian, L., Bean-Mayberry, B., Sadler, A., Klap, R., .
+Yano, E. M. (2013). The VA Women’s Health Practice-Based Research
+Network: Amplifying women veterans’ voices in VA research. Journal of
+General Internal Medicine, 28(Suppl 2), S504–S509.
+Frayne, S. M., Parker, V. A., Christiansen, C. L., Loveland, S., Seaver, M. R.,
+Kazis, L. E., & Skinner, K. M. (2006). Health status among 28,000 women
+veterans. The VA Women’s Health Program Evaluation Project. Journal of
+General Internal Medicine, 21(Suppl 3), S40–S46.
+Grubaugh, A. L., Slagle, D. M., Long, M., Frueh, B. C., & Magruder, K. M. (2008).
+Racial disparities in trauma exposure, psychiatric symptoms, and service use
+among female patients in Veterans Affairs primary care clinics. Womens
+Health Issues, 18(6), 433–441.
+
+Haskell, S. G., Bean-Mayberry, B., Goulet, J. L., Skanderson, M., Good, C. B., &
+Justice, A. C. (2008). Determinants of hormone therapy discontinuation
+among female veterans nationally. Military Medicine, 173(1), 91–96.
+Haskell, S. G., Gordon, K. S., Mattocks, K., Duggal, M., Erdos, J., Justice, A., &
+Brandt, C. A. (2010). Gender differences in rates of depression, PTSD, pain,
+obesity, and military sexual trauma among Connecticut War Veterans of Iraq
+and Afghanistan. Journal of Women’s Health (Larchmont), 19(2), 267–271.
+Institute of Medicine. (2003). Unequal treatment: Confronting racial and ethnic
+disparities in health care. Available: www.nap.edu/catalog/10260/unequaltreatment-confronting-racial-and-ethnic-disparities-in-health-care. Accessed:
+March 15, 2015.
+Kaiser Family Foundation. (2009). Putting women’s health care disparities on
+the map. Available: http://kff.org/disparities-policy/report/putting-womenshealth-care-disparities-on-the/. Accessed: March 4, 2015.
+Kazerooni, R., Takizawa, A., & Vu, K. (2014). Predictors of adherence to hormonal contraceptives in a female veteran population. Contraception, 89(4),
+292–298.
+Koh, H. K., Blakey, C. R., & Roper, A. Y. (2014). Healthy People 2020: A report card
+on the health of the nation. JAMA, 311(24), 2475–2476.
+Landen, M., Roeber, J., Naimi, T., Nielsen, L., & Sewell, M. (2014). Alcoholattributable mortality among American Indians and Alaska Natives in the
+United States, 1999-2009. American Journal of Public Health, 104(Suppl 3),
+S343–S349.
+Lehavot, K., Hoerster, K. D., Nelson, K. M., Jakupcak, M., & Simpson, T. L. (2012).
+Health indicators for military, veteran, and civilian women. American Journal
+of Preventive Medicine, 42(5), 473–480.
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D. G., & PRISMA Group (2009).
+Preferred reporting items for systematic reviews and meta-analyses: The
+PRISMA statement. PLoS Medicine, 6(7), e1000097.
+National Healthcare Quality and Disparities Report. (2011). Disparities in healthcare
+quality among minority women. Available: www.ahrq.gov/research/ﬁndings/
+nhqrdr/nhqrdr11/minority-women.pdf. Accessed: March 6, 2015.
+Ohldin, A., Young, B., Derleth, A., McDonell, M., Diehr, P., Kiefe, C., & Fihn, S.
+(2004). Ethnic differences in satisfaction and quality of life in veterans with
+ischemic heart disease. Journal of the National Medical Association, 96(6),
+799–808.
+Ross, R., Fortney, J., Lancaster, B., & Booth, B. M. (1998). Age, ethnicity, and comorbidity in a national sample of hospitalized alcohol-dependent women
+veterans. Psychiatric Services, 49(5), 663–668.
+Rossouw, J. E., Anderson, G. L., Prentice, R. L., LaCroix, A. Z., Kooperberg, C.,
+Stefanick, M. L., . Ockene, J., & Writing Group for the Women’s Health
+Initiative, I (2002). Risks and beneﬁts of estrogen plus progestin in healthy
+postmenopausal women: Principal results from the Women’s Health
+Initiative randomized controlled trial. JAMA, 288(3), 321–333.
+Saha, S., Freeman, M., Toure, J., Tippens, K. M., Weeks, C., & Ibrahim, S. (2008).
+Racial and ethnic disparities in the VA health care system: A systematic
+review. Journal of General Internal Medicine, 23(5), 654–671.
+Secretary’s Advisory Committee on National Health Promotion and Disease
+Prevention Objective for 2020. (2008). Phase I report. Recommendations for
+the framework and format of Healthy People 2020. Available: www.
+healthypeople.gov/sites/default/ﬁles/PhaseI_0.pdf. Accessed: July 23, 2015.
+U.S. Department of Health and Human Services. (2011). Action plan to reduce
+racial and ethnic health disparities. Available: http://minorityhealth.hhs.gov/
+npa/ﬁles/Plans/HHS/HHS_Plan_complete.pdf. Accessed: March 27, 2015.
+U.S. Department of Veterans Affairs. (2012). Women Veterans Health Care Fact
+Sheet. Available: www.womenshealth.va.gov/WOMENSHEALTH/docs/WH_
+facts_FINAL.pdf. Accessed: March 3, 2015.
+U.S. Department of Veterans Affairs. (2013). VHA handbook 1200.09. Inclusion of
+women and minorities in research. Available: www.va.gov/vhapublications/
+ViewPublication.asp?pub_ID¼2920. Accessed: July 13, 2015.
+U.S. Department of Veterans Affairs Health Services Research & Development.
+(2015). Evidence brief: Update on prevalence of and interventions to reduce racial
+and ethnic disparities within the VA. Available: http://vaww.hsrd.research.va.
+gov/publications/esp/HealthDisparities.cfm. Accessed: July 3, 2015.
+Washington, D. L., Farmer, M. M., Mor, S. S., Canning, M., & Yano, E. M. (2015).
+Assessment of the healthcare needs and barriers to VA use experienced by
+women veterans: Findings from the national survey of women Veterans.
+Medical Care, 53(4 Suppl 1), S23–S31.
+Wei, G. S., Jackson, J. L., & Herbers, J. E., Jr. (2003). Ethnic disparity in the
+treatment of women with established low bone mass. Journal of the American Medical Women’s Association (1972), 58(3), 173–177.
+Young, G. J., Meterko, M., & Desai, K. R. (2000). Patient satisfaction with hospital
+care: Effects of demographic and institutional characteristics. Medical Care,
+38(3), 325–334.
+
+Author Descriptions
+Andrea Carter, MD is a chief resident in internal medicine at the University of
+Pittsburgh. She has presented nationally on topics in women’s health and education. She is starting a fellowship in general medicine, perusing a master’s degree in
+medical education.
+
+A. Carter et al. / Women's Health Issues xxx-xx (2016) 1–9
+Sonya Borrero, MD, MS is an Associate Professor of Medicine at the VA Pittsburgh
+Healthcare System and the University of Pittsburgh School of Medicine. She is a
+general internist, a core faculty in the VA Center for Health Equity Research and
+Promotion (CHERP), and the Director of the Center for Women’s Health Research
+and Innovation (CWHRI).
+
+Charles Wessel, MLS is the Head of Reference Initiatives and a faculty librarian at the
+Health Science Library System at the University of Pittsburgh Medical School. He has
+expertise in literature searching and providing support for systematic reviews.
+
+Donna L. Washington, MD, MPH is a Professor of Medicine at the VA Greater Los
+Angeles Healthcare System and UCLA David Geffen School of Medicine. She is a
+
+9
+
+general internist whose research focuses on healthcare access and quality for
+women and racial/ethnic minorities.
+
+Bevanne Bean-Mayberry, MD, MHS is a Clinical Associate Professor of Medicine at
+the VA Greater Los Angeles Healthcare System and UCLA David Geffen School of
+Medicine. She is a general internist whose research focuses on gender differences in
+quality measures and patient satisfaction.
+
+Jennifer Corbelli, MD, MS is an Assistant Professor of Medicine at the University of
+Pittsburgh Medical School. She is a general internist and clinician educator with
+women’s health expertise, and an Associate Program Director for inpatient general
+internal medicine.
+
+

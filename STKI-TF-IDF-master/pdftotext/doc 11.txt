@@ -1,0 +1,1734 @@
+SSM -Population Health 2 (2016) 294–303
+
+Contents lists available at ScienceDirect
+
+SSM -Population Health
+journal homepage: www.elsevier.com/locate/ssmph
+
+Article
+
+Developmental patterns of adolescent spiritual health in six countries
+Valerie Michaelson a,b, Fiona Brooks c, Ivo Jirásek d, Jo Inchley e, Ross Whitehead e,
+Nathan King b, Sophie Walsh f, Colleen M. Davison b, Joanna Mazur g, William Pickett b,n,
+for the HBSC Child Spiritual Health Writing Group1
+a
+
+School of Religion, Queen’s University, Kingston, Canada
+Department of Public Health Sciences, Queen’s University, Kingston, Canada K7L 3N6
+c
+Adolescent and Child Health Research Group, University of Hertfordshire, Hatﬁeld, UK
+d
+Faculty of Physical Culture, Palacky University, Olomouc, Czech Republic
+e
+Child and Adolescent Health Research Unit, University of St Andrews, Scotland, UK
+f
+Department of Criminology and the School of Education, Bar Ilan University, Ramat Gan, Israel
+g
+Institute of Mother and Child, Warsaw, Poland
+b
+
+art ic l e i nf o
+
+a b s t r a c t
+
+Article history:
+Received 30 November 2015
+Received in revised form
+15 March 2016
+Accepted 15 March 2016
+
+The spiritual health of adolescents is a topic of emerging contemporary importance. Limited numbers of
+international studies provide evidence about developmental patterns of this aspect of health during the
+adolescent years. Using multidimensional indicators of spiritual health that have been adapted for use
+within younger adolescent populations, we therefore: (1) describe aspects of the perceptions of the
+importance of spiritual health of adolescents by developmental stage and within genders; (2) conduct
+similar analyses across measures related to speciﬁc domains of adolescent spiritual health; (3) relate
+perceptions of spiritual health to self-perceived personal health status. Cross-sectional surveys were
+administered to adolescent populations in school settings during 2013–2014. Participants (n ¼45,967)
+included eligible and consenting students aged 11–15 years in sampled schools from six European and
+North American countries. Our primary measures of spiritual health consisted of eight questions in four
+domains (perceived importance of connections to: self, others, nature, and the transcendent). Sociodemographic factors included age, gender, and country of origin. Self-perceived personal health status
+was assessed using a simple composite measure. Self-rated importance of spiritual health, both overall
+and within most questions and domains, declined as young people aged. This declining pattern persisted
+for both genders and in all countries, and was most notable for the domains of “connections with nature”
+and “connections with the transcendent”. Girls consistently rated their perceptions of the importance of
+spiritual health higher than boys. Spiritual health and its domains related strongly and consistently with
+self-perceived personal health status. While limited by the 8-item measure of perceived spiritual health
+employed, study ﬁndings conﬁrm developmental theories proposed from qualitative observation, provide foundational evidence for the planning and targeting of interventions centered on adolescent
+spiritual health practices, and direction for the study of spiritual health in a general population health
+survey context.
+& 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Keywords:
+Adolescent
+Child development
+Gender
+Nature
+Spiritual health
+Spirituality
+
+Introduction
+Spirituality is a broad concept that relates to wisdom and
+compassion (Miller & Nakagawa, 2002), the experience of wonder
+
+n
+
+Corresponding author. Tel.: þ 1 613 533 6000x79551.
+E-mail address: will.pickett@queensu.ca (W. Pickett).
+1
+The HBSC Child Spiritual Health Writing Group consists of investigators from
+the following countries: Canada: C. Davison, J. Freeman, V. Michaelson, W. Pickett,
+T. Trothen; Czech Republic: I. Jirásek; England: F. Brooks, A. Morgan; Israel: Y.
+Harel-Fisch, S. Walsh; Latvia: I. Gobina, I. Pudule; Poland: A. Dzielska, J. Mazur, H.
+Nałęcz; Scotland: J. Inchley, R. Whitehead; Slovakia: P. Kolarcik.
+
+and joy in life (Bone, Cullen, & Loveridge, 2007), moral sensitivities
+(Hay & Nye, 1998) and the idea of “connectedness” (Palmer, 2009;
+Hay & Nye, 1998). It relates to a range of experiences, from those
+that are life afﬁrming to those that are painful (Eaude, 2003).
+Further, spirituality has been described as “the intrinsic human
+capacity for self-transcendence in which the individual participates in the sacred—something greater than the self” (Yust,
+Johnson, Sasso, & Roehlkepartain, 2006). Spiritual health has been
+recognized as a fourth dimension of health (along with social,
+emotional/mental and physical domains) (Dhar, Chaturvedi, &
+Nandan, 2011, 2013; Hawks, Hull, Thalman, & Richins, 1995; Miller
+
+http://dx.doi.org/10.1016/j.ssmph.2016.03.006
+2352-8273/& 2016 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+& Thoresen, 2003; Udermann, 2000), and we understand it to be
+under this broader construct of spirituality.
+While the spiritual dimension of health has re-emerged as part
+of an important discussion in health literature, there is little consensus in the literature as to a concise deﬁnition (Hawks et al.,
+1995; Vader, 2006). Because this ﬁeld is evolving, we argue that it
+is premature to propose a single, succinct deﬁnition as being able
+to capture this multi-dimensional and somewhat elusive construct. However, in order to facilitate dialogue, we propose the
+following working deﬁnition. Spiritual health is a dimension of
+health that entails a condition of spiritual well-being. This is a "way
+of being" that involves some capacity for awareness of the sacred
+qualities of life experiences and is characterized by connections in
+four domains: (1) connections to self, (2) others, (3) nature, and
+(4) with a sense of mystery or larger meaning to life, or whatever one
+considers to be ultimate. Spiritual development is also important to
+consider. It relates to the developmental process of nurturing the
+human capacity for spiritual health. Benson, Roehlkepartain, and
+Rude (2003) describe it as the “developmental ‘engine’ that propels the search for connectedness, meaning, purpose, and contribution” (Benson et al., 2003, p. 205). While our study has the
+narrow focus of describing developmental patterns related to
+perceptions of the importance of spiritual health, it belongs in a
+larger and emerging academic conversation about both spirituality
+and spiritual development.
+There are possible beneﬁts to including spiritual health as part
+of a holistic conceptualization of adolescent health and well-being.
+Such thinking considers the health of children as dynamic and
+integrated whole human beings as opposed to using a more
+compartmentalized approach. In particular, this is consistent with
+the teachings of many Indigenous cultures and also reﬂects a
+growing body of contemporary research in more secular societies
+that demonstrates the importance of spiritual health to adolescent
+populations (King, Ramos, & Clardy, 2013; Roehlkepartain, King,
+Wagener, & Benson, 2006). It is also in keeping with principles laid
+out in the United Nations Convention on the Rights of the Child,
+which outlines a child's right to a sense of spiritual well-being and
+refers explicitly to these spiritual rights in four of its articles
+(UNICEF, 1989). To illustrate, the Convention states that the child
+“be given opportunities… to enable him [sic] to develop physically,
+mentally, morally, spiritually and socially in a healthy and normal
+manner and in conditions of freedom and dignity” (UNICEF, 1989).
+Research in the ﬁeld of child spiritual health is challenged by
+the multidisciplinary nature of the concept and the fact that there
+are subtle differences in language and deﬁnitions applied across
+disciplines, and approaches to presentation of ﬁndings. Child
+spirituality has been referred to as a concept that can be “described but that is very difﬁcult to deﬁne” (Eaude, 2003). There is
+some agreement that it involves some capacity for awareness of
+the sacred qualities of life experiences, and that these are especially connected to being in relationship. This is typically expressed (as per our working deﬁnition) in the four relational domains.
+This is in keeping with conceptual frameworks developed by
+scholars including Fisher (2011) and Hay and Nye (1998).
+In addition, it is important to distinguish between the concepts
+of spirituality and religiosity. While religious traditions can
+sometimes be vehicles for spiritual experience and growth, child
+spirituality has been viewed as a more universal construct, one
+that is not dependent on, or contained by, religious expression
+(Crompton, 1999). Many studies on adult populations have
+explored spirituality as separate from religiosity, and identify these
+experiences as “spiritual-but-not-religious” (“SBNR”) (Schnell,
+2012), “non-religious spirituality” (Jirásek, 2013; Hyland, Wheeler,
+Kamble, & Masters, 2010), “atheistic spirituality” (Nolan, 2009),
+and “humanist spirituality” (Kaufman, 1987). While this may also
+be a common experience in child populations, because of some
+
+295
+
+natural overlaps between spirituality and religion, it is more difﬁcult for children—especially younger children who have not yet
+developed the ability to think abstractly—to be able to clearly
+distinguish spirituality and religiosity as separate concepts
+(Crompton, 1999). Our study is based on the assumption that
+while many children experience spirituality and religion in similar
+contexts, children do not need to be religious in order to be
+spiritual.
+Spirituality-based practices provide one foundation for health
+and its promotion (Lippman & Keith, 2006; Sallquist, Eisenberg,
+French, Purwono, & Suryanti, 2010). In educational and clinical
+settings, examples include interventions that focus on exposures
+to nature (Louv, 2005; 2012), and techniques such as self-quieting
+exercises and meditation and related mindfulness exercises
+(Simkin & Black, 2014; Shonin, Van Gordon, & Grifﬁths, 2012).
+Such practices are becoming common in many schools, hospitals,
+and outpatient settings (Blaney & Smythe, 2014; Thompson &
+Gauntlett-Gilbert, 2008). Engagement in spiritual health practices
+has long been recognized in pastoral settings where care is provided for situations involving serious illness and death (Feudtner,
+Haney, & Dimmers, 2003; Pendleton, Cavalli, Pargament, & Nasr,
+2002). An emerging body of research now examines the merits of
+spiritual health and care not only for young people in health crisis
+and at end-of-life, but for those nearer to the beginning. This
+contemporary surge in interest can perhaps be attributed to a
+number of studies suggesting links between spirituality and
+positive mental health (Eaude, 2009), happiness (Holder, Coleman,
+& Wallace, 2008), and resilience among children (Smith, Webber,
+& DeFrain, 2013).
+More internationally, despite strong interest in spiritual health
+as an important dimension of the health of children, as well as the
+United Nations mandate to address such spiritual needs (UNICEF,
+1989), the international research base in the peer-review domain
+is limited, and there is a need for further evidence to understand
+the views of younger children about their own spiritual health
+(Benson et al., 2003; Houskamp, Fisher, & Stuber, 2004). Descriptions of developmental and gender-based patterns of spiritual
+health across countries and cultures would be especially helpful as
+much of the existing evidence is based on qualitative research
+paradigms (e.g., Hay & Nye, 1998) or theoretical discussions (e.g.,
+Eaude, 2009). Adolescence is a unique developmental phase, and is
+distinct from childhood (Caskey & Anfara, 2007). Consequently,
+intentional study of how adolescents perceive spirituality is worthy of consideration.
+We had the opportunity to conduct a quantitative study of the
+spiritual health of adolescents through our involvement in the
+cross-national Health Behaviour in School-aged Children study, or
+HBSC (Freeman et al., 2011). This longstanding study involves
+researchers in some 43 countries or regions and seeks to understand adolescent health and its contextual determinants. In its
+most recent cycle (2013–2014), a series of spiritual health measures were available to countries as a new optional set of items.
+We used this opportunity in order to: (1) describe aspects of
+perceptions of the importance of spiritual health of young people
+by developmental stage within genders and across the six countries; (2) conduct similar analyses but within four speciﬁc domains
+of spiritual health; (3) relate perceptions of the importance of
+adolescent spiritual health to self-perceived personal health status. Our intentions were to explore the assessment of spiritual
+health within a general adolescent health survey context, to
+evaluate the consistency of suspected developmental and genderbased patterns of adolescent spiritual health experiences inferred
+from existing theories (Fisher, 2011; Hay & Nye, 1998), and to
+provide evidence that might inform the eventual planning and
+targeting of spiritual health interventions applied to adolescents
+within a diversity of health, educational and home settings.
+
+296
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+Methods
+Study populations and procedures
+Countries involved in this cross-national study were as follows:
+Canada, the Czech Republic, England, Israel, Poland and Scotland.
+School-based anonymous surveys were conducted in each country
+during the academic year 2013–2014 according to a common
+research protocol (Currie et al., 2012). Our national research teams
+surveyed students to produce representative national estimates
+for 11–15 year-olds. Classes within schools were selected with
+variations in sampling criteria permitted to ﬁt country-level circumstances. The samples included children across each year of this
+age range, although in some countries the questions were only
+asked of older age groups (ages 13–15 years). While some national
+samples were developed to be self-weighting, in others (e.g.,
+Canada), standardized weights were created to ensure representativeness. Country teams obtained approval to conduct the
+survey from the ethics review board or equivalent regulatory body
+associated with the institution conducting each respective
+national survey. Participation was voluntary, and consent (explicit
+or implicit) was sought from school administrators, parents, and
+participating students as per national human subject requirements. At the student-participant level, response rates varied by
+country and were 480% at the school level, and 470% at the
+individual student level.
+Measures
+Adolescent spiritual health
+The spiritual health module consisted of eight questions
+adapted (for age-appropriate literacy and brevity) from Fisher's
+Spiritual Well-being scale for secondary students (Gomez & Fisher,
+2003). Two items were asked for each of the four standard
+domains. Students responded to these questions with one of ﬁve
+response categories ranging from 1—“not at all important” to 5
+—“very important.” (N.B. response categories in Israel varied from
+the standard protocol, and varied from 1—“not at all important” to
+4—“very important”). The items asked students to identify at what
+level they think it is important to: “feel that your life has meaning or
+purpose”; “experience joy (pleasure, happiness) in life” (connections
+to self); “be kind to other people”; “be forgiving of others” (connections to others); “feel connected to nature”; “care for the natural
+environment” (connections to nature); “feel a connection to a higher
+spiritual power”; “meditate or pray” (connections to the transcendent). A priori, our hope was that the eight items could be examined individually, by domain, and then potentially be combined
+into a multidimensional scale. Use of an abbreviated (8-item)
+version of a scale was dictated by our absolute requirement to
+keep this instrument short and succinct, to minimize response
+burden, especially in very young adolescents.
+Reﬁnement of the spiritual health module for young adolescents
+When the original version of this module was administered to a
+young adult population, Cronbach's alpha values for the items
+included in the four domains ranged from 0.72 to 0.86, with an
+overall value of 0.78 (Wallace, 2010). When the scale in its original
+form was ﬁrst introduced to HBSC, concerns expressed included its
+length for inclusion on a general population health survey, and its
+level of literacy for use with much younger adolescents (11 years).
+This was conﬁrmed in initial focus group testing in Canada.
+Therefore, in an adapted version of the module we retained the
+8 items (2 per domain) with the highest factor loadings from the
+Wallace (2010) study. We then tested this 8-item module both
+quantitatively (n¼ 630) and qualitatively (n ¼21) in Scotland and
+Canada (n ¼48) in 2013. A Cronbach's alpha value of 40.80 for the
+
+eight items was found in initial reliability testing. This round of
+focus group work suggested that two items were not clearly
+understood by young people during these pilots, particularly in
+very young adolescents. Hence, the items were re-worded based
+upon the recommendations of these same young people, to
+improve face validity.
+We next went on to test this abbreviated and reﬁned version of
+the module using the Canadian HBSC sample (n ¼ 25,567), considering solutions with up to four factors. Principal components
+analyses involved oblimin rotation (which assumes correlation
+between items). Findings best supported a four-factor structure
+where the revised scale items loaded highly (each 40.80) and
+according to the original four domains. This was further supported
+by a maximum likelihood goodness of ﬁt test (p¼ 0.10) and
+observed Cronbach's alpha values of 40.80 for each of the four
+domains. Conﬁrmatory analyses too supported a four-factor solution with ﬁt statistics within acceptable ranges (RMSEA 0.06,
+SRMR 0.02, AGFI 0.97). This supported the conduct of analyses
+with the abbreviated 8-item scale but at the level of the four
+original domains. However, based on the original theoretical
+concept that would also support a composite measure of spiritual
+health, we also combined the 8 items into a single multidimensional scale, for exploratory purposes only (N.B., please see
+the discussion section surrounding our planned use of this scale,
+moving forward).
+General health status
+Each respondent rated their personal health status: “Would you
+say your health is?”: 1—“Excellent”; 2—“Good”; 3—“Fair”; 4—“Poor”.
+Self-rated health measures represent relatively stable constructs
+over repeated observations during adolescence, and when using
+this measure, reported health deteriorates consistently with a lack
+of general well-being, disability, healthcare attendance and healthcompromising behaviour, attesting to item validity (Idler &
+Benyamini, 1997).
+Demographic covariates
+Based upon reported birth month and year and the date of
+questionnaire administration, the age of each respondent was
+estimated. Students also reported their gender (boy or girl), and
+perceived socio-economic status (relative measure of material
+wealth; how well off to you think your family is? (1—“Very well off”;
+2—“Quite well off”; 3—“Average”; 4—Not very well off”; 5—“Not at all
+well off”). Schools in each country were also numbered in
+sequence so the effects of the clustered nature of data collection
+(students nested within schools then countries) could be taken
+into account in subsequent analyses.
+Statistical analysis
+Data analyses were conducted with SAS 9.3 (SAS Institute, Cary,
+NC, 2013). Descriptive analyses were used to characterize the
+samples in each country by age and gender. Composite scores for
+the perceptions of the importance of spiritual health were estimated for each participant. Responses were divided into three
+groups with cut-points anchored on the response totals, for
+example with scores of 8–16 representing “not important” (scores
+averaging 1–2 in the Likert Scale), 17–31 representing “somewhat
+important (scores averaging 4 2 and o4 in the Likert Scale), and
+32–40 representing “important” (scores average 4–5 on the Likert
+scale). Percentages of children reporting the different levels of
+scoring were then described by age and gender within each
+country. Tests for statistical signiﬁcance in the linear trends in
+these proportions were conducted using the Rao–Scott test that
+accounted for clustering at the school level (Rao & Scott, 1981). We
+tested for developmental patterns observed by age within genders,
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+as well as differences in responses between the genders. We also
+used a multivariable log-binomial regression, which accounted for
+the nested data structure within each country (children nested
+within schools) to model the developmental trends per two-year
+age interval, and also relate the multidimensional spiritual health
+score with self-perceived general health status. These models
+mathematically adjusted for expected imbalances in basic sociodemographic factors that also relate to spiritual health (gender,
+socio-economic status), based upon standard criteria for confounding (Rothman, Greenland, & Lash, 2008).
+
+Results
+Table 1 proﬁles the samples available for study. Some country
+teams asked the spiritual health items of all HBSC ages, while
+others limited their questioning to older age groups.
+The perceptions of young people in terms of how often they
+viewed each of the eight spiritual health items as “important” are
+presented in Table 2. Across the six countries, declines in the
+median proportions of young people reporting such perceptions of
+importance were observed as children aged. This pattern was
+Table 1
+Demographic composition of the 45,967 young people from 6 countries that
+completed the 2014 HBSC spiritual health module.
+Country
+
+Canadaa
+Czech Republic
+England
+Israela
+Poland
+Scotlanda
+Total
+
+a
+
+Canada
+Czech Republic
+England
+Israela
+Poland
+Scotlanda
+Total
+a
+
+Age groups covered
+
+Sample
+
+r 11
+
+12
+
+13
+
+14
+
+Z 15
+
+Boys
+
+1124
+
+2047
+
+2602
+
+577
+774
+
+234
+
+2353
+383
+469
+560
+599
+1800
+
+4068
+398
+664
+300
+1212
+1418
+
+12,194
+781
+2109
+1634
+2434
+3218
+22,370
+
+165
+623
+
+r 11
+
+12
+
+13
+
+14
+
+Z 15
+
+Girls
+
+1186
+
+2260
+
+2915
+
+508
+715
+
+205
+
+2491
+405
+542
+491
+678
+1798
+
+4182
+438
+659
+427
+1446
+1442
+
+13,033
+843
+2100
+1633
+2748
+3240
+23,597
+
+186
+624
+
+297
+
+observed consistently in both boys and in girls, but less consistently at the country level (N.B., in 3/6 countries; the Czech
+Republic, Poland, and Scotland, these and subsequent age-related
+trends were based upon responses from 13 to 15 year-olds, only).
+Comparisons across the four domains suggest that “connections
+with others” and “connections with self” were important to strong
+majorities of young people, irrespective of their age or gender.
+Similar declines in the perceived importance of the eight
+spiritual health items were reﬂected in our multivariable logbinomial regressions, presented here per 2-year age interval
+(Table 3). The largest declines were observed in the four items
+describing the last two domains (connections with nature and to
+the transcendent). There were also some apparent national and
+perhaps cultural differences in responses observed across the
+countries under study; for example Israel appeared to be anomalous to the other countries in the last two domains (N.B., this may
+in part be attributable to its use of only 4 vs. 5 possible response
+items, which varied from the other 5 countries).
+Table 4 summarizes results according to the multidimensional
+spiritual health score, presented here for exploratory purposes
+only. These ﬁndings demonstrate strong and statistically signiﬁcant declines in the reported perceptions of spiritual health as
+being “important” as children aged. Similar to the analyses at the
+item and domain levels, this pattern was observed consistently by
+gender within all countries, with the exception of girls from Israel.
+In addition, in every age group and country, girls scored higher on
+this composite score than did boys. Percentages of young people
+within each age/gender grouping reporting the importance of
+spiritual health to be in the “not important” range were small and
+these values remained relatively consistent by age group.
+Finally, Fig. 1 shows the proportion of respondents reporting
+excellent self-perceived health status in relation to their overall
+multidimensional spiritual health score. Relations were strong and
+consistent among both boys and girls in each of the six countries.
+Israel again stood out from all other countries because more young
+people rated their health as excellent; however, the relationship
+between the multidimensional spiritual health measure and selfperceived health status was consistent with that observed in other
+countries.
+
+Discussion
+This cross-national study examined self-reported perceptions
+of the importance of spiritual health in the lives of adolescent
+children in six countries. We explored patterns of children's perceptions of the importance of spiritual health, overall and by
+
+Sample sizes for Canada, Israel and Scotland are weighted.
+
+Table 2
+Percentages of young people who reported the spiritual health items as important by gender and age group, and number of countries reporting a statistically signiﬁcant
+(po 0.05) linear trend in these ratings by age.
+Domain
+
+Item
+
+Median % by agea
+Boys
+
+Others
+Self
+Nature
+Transcendent
+
+a
+b
+
+Be kind to other people
+Be forgiving of others
+Feel that your life has meaning or purpose
+Experience joy (pleasure, happiness) in life
+Feel connected to nature
+Care for the natural environment
+Feel a connection to a higher spiritual power
+Meditate or pray
+
+Number of countries reporting age trendb
+Girls
+
+Boys
+
+Girls
+
+11
+
+13
+
+15
+
+11
+
+13
+
+15
+
+↓
+
+¼
+
+↑
+
+↓
+
+¼
+
+↑
+
+91
+83
+85
+90
+71
+79
+58
+45
+
+84
+75
+81
+87
+60
+69
+41
+29
+
+79
+69
+78
+86
+52
+56
+32
+27
+
+93
+90
+88
+91
+71
+79
+61
+48
+
+90
+80
+80
+87
+65
+69
+43
+33
+
+89
+76
+83
+89
+55
+63
+33
+28
+
+3
+3
+3
+2
+5
+6
+5
+3
+
+3
+3
+3
+4
+1
+0
+1
+3
+
+0
+0
+0
+0
+0
+0
+0
+0
+
+1
+3
+2
+2
+4
+4
+4
+3
+
+5
+3
+4
+4
+2
+2
+2
+3
+
+0
+0
+0
+0
+0
+0
+0
+0
+
+Average responses, typically estimated within 7 4%, were calculated for each county separately and values presented here are the median of those averages.
+Each value represents a country.
+
+298
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+Table 3
+Results of the multivariable log-binomial regression analysis examining relations between age and the rating of spiritual health as important.
+Domain
+
+England
+
+Scotland
+
+Canada
+
+Czech Republic
+
+Israel
+
+Poland
+
+Age—per 2 yearsa
+
+Age—per 2 yearsa
+
+Age—per 2 yearsa
+
+Age—per 2 yearsa
+
+Age—per 2 yearsa
+
+Age—per 2 yearsa
+
+Item
+
+RR
+
+(95% CI)
+
+RR
+
+(95% CI)
+
+RR
+
+(95% CI)
+
+RR
+
+(95% CI)
+
+RR
+
+(95% CI)
+
+RR
+
+(95% CI)
+
+Others
+Be kind to other people
+Be forgiving of others
+
+0.92
+0.97
+0.91
+
+(0.90–0.94)
+(0.96–0.98)
+(0.89–0.92)
+
+0.98
+0.99
+0.96
+
+(0.93–1.03)
+(0.95–1.02)
+(0.91–1.02)
+
+0.98
+1.00
+0.97
+
+(0.96–1.00)
+(0.98–1.01)
+(0.95–0.99)
+
+0.96
+0.96
+0.94
+
+(0.90–1.02)
+(0.91–1.01)
+(0.89–0.99)
+
+0.99
+0.99
+0.99
+
+(0.97–1.02)
+(0.98–1.00)
+(0.97–1.02)
+
+0.98
+0.97
+1.00
+
+(0.96–1.01)
+(0.94–0.99)
+(0.97–1.02)
+
+Self
+Life has meaning or purpose
+Experience joy in life
+
+0.96
+0.95
+0.98
+
+(0.94–0.97)
+(0.93–0.96)
+(0.97–1.00)
+
+0.94
+0.94
+0.96
+
+(0.90–0.98)
+(0.90–0.98)
+(0.93–0.99)
+
+0.97
+0.97
+0.98
+
+(0.96–0.99)
+(0.96–0.99)
+(0.97–0.99)
+
+1.01
+1.01
+1.00
+
+(0.97–1.05)
+(0.97–1.05)
+(0.96–1.03)
+
+0.99
+1.00
+1.00
+
+(0.98–1.01)
+(0.98–1.02)
+(0.99–1.01)
+
+1.02
+1.01
+1.01
+
+(0.99–1.04)
+(0.98–1.04)
+(0.99–1.03)
+
+Nature
+Feel connected to nature
+Care for natural environment
+
+0.74
+0.77
+0.81
+
+(0.71–0.77)
+(0.74–0.80)
+(0.79–0.83)
+
+0.76
+0.80
+0.82
+
+(0.69–0.84)
+(0.74–0.87)
+(0.77–0.88)
+
+0.85
+0.88
+b
+0.88
+
+(0.82–0.87)
+(0.85–0.90)
+(0.85–0.90)
+
+0.90
+0.92
+0.91
+
+(0.84–0.98)
+(0.87–0.98)
+(0.85–0.98)
+
+0.95
+1.00
+0.94
+
+(0.89–1.01)
+(0.94–1.06)
+(0.90–0.97)
+
+0.83
+0.86
+0.90
+
+(0.79–0.87)
+(0.82–0.90)
+(0.86–0.93)
+
+Transcendent
+Connection to higher power
+Meditate or pray
+
+0.77
+0.70
+0.84
+
+(0.70–0.84)
+(0.66–0.74)
+(0.77–0.90)
+
+1.02
+0.82
+1.01
+
+(0.86–1.23)
+(0.73–0.93)
+(0.86–1.19)
+
+0.81
+0.83
+0.83
+
+(0.77–0.86)
+(0.79–0.87)
+(0.79–0.88)
+
+0.73
+0.72
+0.78
+
+(0.56–0.96)
+(0.62–0.85)
+(0.60–1.02)
+
+1.03
+0.98
+1.01
+
+(0.88–1.22)
+(0.87–1.11)
+(0.86–1.17)
+
+0.85
+0.87
+0.87
+
+(0.79–0.91)
+(0.82–0.92)
+(0.83–0.92)
+
+a
+Adjusted for gender and SES (how well off is your family); For England, Scotland, Canada, Czech Republic, and Poland each overall domain important ¼ 8–10 (sum of the
+two domain items), and for each domain item important¼4–5; For Israel overall domain important¼6–8 and for each domain item important¼ 3–4.
+b
+Adjusted only for gender because of model convergence problems (not adjusted for family afﬂuence); all models adjusted for clustering by school and estimates for
+Scotland, Canada, and Israel have been weighted.
+
+domain, related to developmental stage, gender, and country. We
+accomplished this using an abbreviated measure that provides a
+skeletal view of perceptions of the importance of spiritual health
+to young people. We also explored relations between the importance of spiritual health measures and self-perceived personal
+health status. In this discussion, we relate these quantitative
+ﬁndings to existing theories that have been derived in mainly
+qualitative studies (i.e. Hay & Nye, 1998).
+
+Patterns by age and gender
+Age-related declines in the rating of spiritual health as being
+important were observed consistently across countries and by
+gender. Several possible explanations exist for these declines. For
+example, qualitative researchers Hay (anthropology) and Nye
+(psychology) have argued that an inner sense of spiritual health is
+innate to the biological make-up of children, and attributed
+declines in spiritual health to the pervasive inﬂuence of society
+and secular culture (Hay & Nye, 1998). Others explanations for
+these declines may be related to natural changes in cognition and
+to the emergence of independent thinking that comes with adolescent growth and development (Piaget, 1972; Butterworth &
+Harris, 2014; Erikson, 1994). Cognitive changes that emerge with
+age may enhance children's capacities for reason and abstract
+thought. It is normal for young people to critically reassess concepts as they further become aware of the ideas behind them
+(Piaget, 1972).
+The observed gender-related ﬁndings were also striking. Relational aspects of spiritual health were generally rated as being
+more important among girls than boys, irrespective of the age
+group or country under study. These ﬁndings are consistent with
+other studies (i.e. Benson, Scales, Syvertsen, & Roehlkepartain,
+2012; Hendricks-Ferguson, 2006). Speculatively, this is likely
+reﬂective of differences in the ways that girls and boys are nurtured during their early years and socialized as they enter
+adolescence.
+
+Patterns by domain
+Connection with self
+While the age-related declines and the gender-related disparities were observed in this domain, the vast majority of young
+people from all demographic groups still rated the importance of
+this domain highly. This ﬁnding might reﬂect the values of Euro
+American societies that see subjective well-being and happiness as
+individualistic (Luo Lu, 2004). It is also consistent with the idea
+that personal meaning promotes both wellbeing and happiness in
+children (Holder et al., 2008). This also connects with a growing
+body of research that suggests that young people are eager to
+search for purpose in their lives (Damon, Menon, & Bronk, 2003)
+and to ask deep questions about ultimate concerns (King & Benson, 2006).
+Connection with others
+Among girls, this domain was somewhat anomalous to the ﬁrst
+domain. While perceptions related to the question about forgiving
+others followed the typical declining age-related pattern, those
+related to the item asking about being kind to others did not.
+Observed gender differences may reﬂect the ways that girls are
+nurtured in the early years and then socialized as adolescents. This
+response proﬁle is positive for the mental health of adolescent
+girls in that expressions of kindness towards others as well practical acts of volunteering have both been linked to enhanced
+happiness and well-being (Otake, Shimai, & Tanaka-Matsumi,
+2006; Post, 2005). Others have shown the positive health beneﬁts
+of forgiveness, including to one's physical, mental and emotional
+health (Witvliet, Ludwig, & Vander Laan, 2001; Witvliet &
+McCullough, 2007). The pattern in boys, however, demonstrated a
+clear decline by age reﬂected in both questions.
+Connection with nature
+Findings associated with this domain were unexpected. The
+consistent decline in this domain observed by age in boys and girls
+alike contradicts assumptions that young people are likely to be
+highly engaged with the environment, even though connections
+
+Note: Values are percentages and are typically estimated within 7 4%; *estimated 7 8%; Spiritual health scores: Important ¼ 32–40, Somewhat Important ¼ 17 –31, and Not Important ¼ 8–16; [**For Israel: Important ¼ 24–32;
+Somewhat important ¼17–23; and Not Important ¼ 8–16]; Proportions for Scotland, Canada, and Israel are weighted.
+
+–
+–
+1
+3
+2
+–
+–
+40
+40
+45
+–
+–
+59
+57
+53
+1
+–
+1
+–
+2
+18
+–
+25
+–
+17
+81
+–
+74
+–
+81
+–
+–
+48
+–
+59
+–
+–
+49
+–
+39
+–
+–
+63
+–
+68
+3
+1
+4
+3
+4
+Girls
+r 11
+12
+13
+14
+Z15
+
+67
+64
+40
+37
+30
+
+30
+34
+56
+60
+66
+
+–
+–
+35
+–
+29
+
+–
+–
+2
+–
+4
+
+70
+65
+55
+49
+46
+
+28
+34
+43
+48
+52
+
+2
+1
+2
+3
+2
+
+–
+–
+3
+–
+2
+
+–
+–
+2
+5
+4
+–
+–
+47
+51
+54
+–
+–
+51
+44
+42
+3
+–
+3
+–
+4
+20
+–
+29
+–
+32
+76
+–
+69
+–
+64
+–
+–
+56
+–
+66
+–
+–
+41
+–
+31
+–
+–
+66
+–
+73
+3
+3
+3
+7
+4
+Boys
+r 11
+12
+13
+14
+Z15
+
+60
+51
+36
+35*
+28
+
+37
+47
+62
+58*
+68
+
+–
+–
+30
+–
+22
+
+–
+–
+4
+–
+4
+
+63
+57
+51
+43
+39
+
+35
+42
+46
+53
+57
+
+2
+2
+3
+3
+5
+
+–
+–
+3
+–
+3
+
+Important
+Important
+Somewhat
+Important
+Not
+Somewhat
+Important
+Not
+Somewhat
+Important
+
+Not
+
+Important
+
+Somewhat
+
+Czech Republic
+Canada
+Scotland
+England
+
+Table 4
+Percentage of young people from 6 countries who reported spiritual health as being important by gender and age group.
+
+Not
+
+Israel**
+
+Somewhat
+
+Not
+
+Poland
+
+Somewhat
+
+Not
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+299
+
+Fig. 1. Proportion of boys (panel A) and girls (panel B) reporting excellent health
+status by overall spiritual health score. All p-trend o 0.01, with the exception of
+Czech Republic Girls (p ¼ 0.17). Percentages are estimated within 7 5%.
+
+with the natural world have long been held to have strong
+importance to children (Louv, 2005, 2012). However, such connections may be overestimated for Northern European and North
+American young people. Explanations for this are complex, but
+may reﬂect distinctive changes among the current generation
+in the nature of childhood and early adolescence, which is known
+to feature less outdoor play (Gray, 2011) than previous
+generations. This decline may be related to increased parental
+concerns around crime and safety as well as to greater time
+spent interacting with electronic communication technologies
+(Clements, 2004).
+Environmental issues may be regarded with less importance by
+the groups of young people surveyed when compared with cultures with large populations of Aboriginal persons and adherents
+to many Eastern religions (Fisher, Francis, & Johnson, 2000). School
+curricula and social messages often present the environment as
+being in crisis and in need of human care (i.e. Bigelow & Swineheart, 2014). Rather than experience the “awe and wonder” that
+might be found in an experience of nature, young people may be
+more likely to experience the stress connected with environmental degradation (Ojala, 2012, 2013).
+Connection with the transcendent
+The dominant perspective of an increasingly secular west has
+been challenged by forms of religious resurgence in recent years
+(Hughes, 2013); however, this does not appear to be central to
+
+300
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+adolescents in sampled countries (predominantly) from Christian
+populations. The lower ratings of importance associated with this
+domain of transcendence were not a surprise as this was the
+domain that could perhaps be most closely linked to religious
+experiences. It is also the most mysterious and abstract of the
+domains. The observed pattern of moving from being “important”
+to “somewhat important” suggests that children are not rejecting
+their perceived experience of the importance of spirituality (or
+potentially in this domain, of religion) completely as they get
+older. Rather, declines are more likely attributable to external
+inﬂuences and perhaps greater awareness of social expectations,
+social norms, as well as cultural pressures that may devalue
+spirituality or religion. And these too follow gender and agerelated patterns that are inﬂuenced by culture.
+Regardless of its origins, a growing body of research demonstrates the deep importance of this transcendent domain, including asking questions about ultimate concerns in life, and expressions of spirituality are not necessarily bound to those experienced
+in religious environments. Past research suggests that spirituality
+is connected to happiness in young people (Holder et al., 2008).
+Further, among those young people who do attend formal religious activities, social self-identiﬁcation with such communities
+can be far more important than religious belief as “belonging
+without necessarily believing” is a typical feature of adolescent
+religious experiences (Francis & Robbins, 2004). These data do not
+devalue the positive role that religion can potentially play in
+facilitating positive spiritual health in young people, and indeed,
+practices that have arisen from religious traditions also appear to
+have practical value to health. For example, reﬂective practices
+such as prayer (Levin, 1994) and mindfulness-based meditation,
+which relates both to the domain connection to self and the
+domain connection to the transcendent, (Biegel, Brown, Shapiro, &
+Schubert, 2009) relate to many positive health outcomes, such as
+the alleviation of stress (Grossman, Niemann, Schmidt, & Walach,
+2004). The small group of young people that still ﬁnd this connection to be important may receive health beneﬁts from these
+priorities.
+Israel
+Results of the study showed cross-national differences, in particular with some notable differences in Israel, where adolescents
+reported higher levels for most of the perceptions of spiritual
+health items (experiencing joy, ﬁnding meaning, forgiving others,
+a connection with a higher spiritual power and meditating/praying). In addition, in comparison to the other countries, levels of the
+perceived importance of spiritual health did not decline over age
+and gender differences were less notable. These results are in line
+with past research with Jewish and Arab adolescents in Israel (Rich
+& Cinamon, 2007) in which few gender differences were noted and
+the vast majority of adolescents interviewed discussed a connection to a transcendental being (“something inﬁnitely greater than
+themselves”). Israel, as a Jewish state with a large Arab minority, is
+a country in which issues of identity (both religious and secularethnic) are paramount. Even among secular Jewish citizens, there
+is a strong connection to a Jewish identity (CBS, 2009). Higher
+levels of spirituality among Israeli adolescents may be explained
+by the importance of ethnic identity (Phinney, 1990) throughout
+the developmental task of adolescent identity formation in Israel.
+In addition, deﬁnitions of spirituality emphasize a sense of connection to those outside of oneself. Due to its history and current
+reality, Israel is a country in which many of its citizens feel a strong
+sense of connection to the state, the community and other Israelis.
+This feeling that one is part of a greater whole may increase or be
+part of a sense of spirituality for young Israelis.
+
+Potential inﬂuences on adolescent health
+Overall, we observed that while the perceived importance of
+spiritual health declines by age, for adolescents who maintain a
+strong sense of the importance of self-perceived spiritual health
+the possible beneﬁts are striking. This was indicated in our ﬁndings of self-perceived personal health status, which is a consistent
+and powerful measure of many aspects of general well-being (Idler
+& Benyamini, 1997). This relationship was observed consistently
+across age, gender and countries (see Fig. 1), and while there
+remains a great deal we do not understand about the etiology or
+extent of this relationship, the strength and consistency suggests
+that they merit serious attention. In a companion article, we
+explore further the relationship between perceived importance of
+spiritual health and a diversity of physical and emotional health
+outcomes.
+It is perhaps not surprising that the valuing of spiritual health is
+positive to these health experiences. Past research has focused
+more speciﬁcally on the health-related inﬂuences that relate to
+aspects of the four domains. For example, connection to self
+(Sinats et al., 2005); connection to peers (Scholte & Van Aken,
+2006) and adults (Elgar, Trites, & Boyce, 2010); connection to
+nature (Louv 2005, 2012) and a connection to the realm of
+transcendence have all been demonstrated to have positive health
+beneﬁts.
+
+Strengths and limitations
+Strengths of our study include our embedding of a (necessarily
+abbreviated) spiritual health measure in a general adolescent
+health survey, the size and diversity of the study populations and
+their cross-national nature. While an emerging body of research
+explores similar themes, including two studies that offer insight
+on adolescent health and spiritual development in a multi-nation
+sample that includes developing countries (see Benson et al., 2012;
+Scales, Syvertsen, Benson, Roehlkepartain, & Sesma, 2014), our
+study provides a helpful exploration of this topic within our more
+general health survey context. We therefore feel that it is complimentary to the wider body of research in this ﬁeld, including
+the original studies that led to existing theories of the inﬂuence of
+child development on spiritual health (Hay & Nye, 1998). Our
+ﬁndings strongly support the basic tenets of such theories but
+provide further empirical evidence that demonstrates their universal nature.
+Further limitations of our analysis include its cross-sectional
+design, which makes it difﬁcult to attribute cause and effect.
+Reverse causality in this situation is unlikely, however, given our
+focus on demographic factors (age and gender) as the key independent variables. Second, due to the self-reported nature of our
+study outcomes, it is possible that some misclassiﬁcation exists in
+reports of the aspects of spiritual health that we have measured;
+this misclassiﬁcation too may vary differentially by age group,
+gender, and country and bias relationships in unknown directions.
+Third, our analysis is intentionally descriptive, and we did not
+make efforts to model and explain the mechanisms behind any
+observed effects. Age and gender are proxy measures for deeper
+constructs, with further study warranted to truly understand the
+developmental and gender-based patterns. Our analysis represents
+the perceptions of young people from a few countries and such
+ﬁndings may not be generalizable to other contexts and cultures.
+One potential criticism of this multidimensional scale that
+measures perceptions of child spiritual health is that it is operationally very similar to other psychological constructs. The latter
+include measures of well-being, life satisfaction, and emotional
+health. These constructs too have some emphasis on connections
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+and relationships, and hence would correlate with this multidimensional measure of adolescent perceptions of spiritual health.
+Analyses of such correlations may be problematic due to these
+conceptual overlaps. Further, our measures of perceptions of
+spiritual health attempt to get at inner experiences and feelings
+(subjective perceptions of importance) vs. reports of actual spiritual health practices. Such perceptions are clearly not identical to
+the lived experience of spiritual health. Further study, both qualitative and quantitative, about such lived experiences would be a
+positive contribution to this area of research.
+Finally, the 8-item version of the spiritual health module used
+admittedly represents only a skeletal view of this construct and its
+four domains. It was not possible to include the full 20-item
+Fisher's Spiritual Well-being scale for secondary students (Gomez
+& Fisher, 2003) due to questionnaire response burden in our
+general health survey context. While extensive efforts were made
+to validate the abbreviated version and most psychometrics
+associated with its use were satisfactory, our conﬁrmatory analysis
+suggests that use of the 8-item version is not optimal, and future
+work should revert, where possible, to use of the 20-item scale.
+
+Implications
+The highly gendered patterns in these self-reported perceptions of the importance of spiritual health, which generally favour
+girls over boys, suggest that gender-speciﬁc curricula and
+approaches to the promotion of spiritual health may be warranted.
+In addition, wide variations in the perceived importance of spiritual health exist by domain, and the strong declines observed with
+age for some key domains suggest a need for a more outward
+focus to be stressed during adolescence. For example, if spirituality
+enhances health by increasing personal meaning, strategies aimed
+at enhancing personal meaning in children's lives require promotion. Approaches could include such simple things as
+encouraging young people to keep journals (Sinats et al., 2005) or
+to participate in volunteer activities (Holder et al., 2008; Post,
+2005). While evidence surrounding their effects is mixed, meditation programs such as mindfulness also appear to be efﬁcacious.
+Provision of opportunities for young people to not only care for,
+but also to learn to know and love the natural world, may also be
+important.
+In order for such interventions to be fully informed, there is a
+need for more in-depth explorations of the mechanisms that lay
+behind the observed patterns. There is a further need for conceptual work on differences between religiosity and spirituality (as
+begun by Benson et al. (2012) and Scales et al. (2014)) and a
+stronger conceptualization of the meaning and assessment of
+spiritual health in child populations, building on the work of
+scholars such as Fisher (1999, 2010, 2011). More theoretically,
+questions remain surrounding the societal and personal mechanisms that underlie the decline by age that has been observed in
+this study, and in particular, if this decline is related to increased
+exposure to secular aspects of Western culture as children age.
+Further study of interrelationships between all four domains and
+whether or not each is equally important to children is also warranted (Fisher, 2011). Finally, efforts are needed to describe spiritual health as a protective asset for speciﬁc health outcomes in
+various contexts and cultures.
+
+Conclusion
+Adolescence represents a key time of transition that requires
+ongoing focus as children learn, grow, and develop cognitively and
+socially through their formative years. Study ﬁndings conﬁrm
+
+301
+
+developmental theories that suggest that the importance of
+spiritual health, overall and by domain, declines as children grow
+and develop. Our analysis of the perceptions of young people in
+6 countries provides further evidence to this ﬁeld of study. From
+the standpoint of health promotion, optimization of spiritual
+health may be one important way that overall health status can be
+gained as it may be a positive health asset for young people. There
+is an inherent elusive quality to spirituality, and so to spiritual
+health. While we cannot claim to capture the whole of a person's
+spiritual health, this study offers us clues and markers as to how
+the aspects of “connectedness” among these four domains, which
+are recognized elements of spiritual health, contribute to the
+overall health of a child. We reiterate that future work is needed in
+order to capture a broader picture of spiritual health in adolescent
+populations, including, where possible, use of Gomez and Fisher's
+full scale (Gomez & Fisher, 2003) versus our 8-item adapted version. Goals of future work could also include moving beyond
+capturing perceptions of the importance of spiritual health to
+exploring children's lived experiences within each domain. This
+analysis provides a starting point for etiological research and the
+development and targeting of health interventions, whether they
+are in educational, hospital, home or pastoral care settings.
+
+Conﬂict of interest
+There are no conﬂicts of interest to declare.
+
+Acknowledgements
+The HBSC is a WHO/Euro collaborative study; International
+Coordinator of the 2014 study was Candace Currie, St. Andrews
+University, Scotland; Data Bank Manager is Oddrun Samdal, University of Bergen, Norway. The 6 countries involved in this analysis
+(current responsible principal investigator) were: Canada (J.
+Freeman), Czech Republic (M. Kalman), Israel (Y. Harel-Fisch),
+Poland (J. Mazur), the United Kingdom (England (A. Morgan),
+Scotland (C. Currie). Funding for this research came from research
+grants in the following agencies: (1) the Public Health Agency of
+Canada; (2) the Canadian Institutes of Health Research (Operating
+grant MOP 341188); (3) the Czech Science Foundation (Reg. no.
+GA14-02804S); (4) the Department of Health for England; (5) the
+Israeli Ministry of Health; (6) the Institute of Mother and Child in
+Warsaw, Poland; and (7) NHS Health Scotland.
+
+References
+Benson, P. L., Roehlkepartain, E. C., & Rude, S. P. (2003). Spiritual development in
+childhood and adolescence: Toward a ﬁeld of inquiry. Applied Developmental
+Science, 7(3), 205–213.
+Benson, P. L., Scales, P. C., Syvertsen, A. K., & Roehlkepartain, E. C. (2012). Is spiritual
+development a universal process in the lives of youth? An international
+exploration. Journal of Positive Psychology, 7(6), 453–470. http://dx.doi.org/
+10.1080/17439760.2012.73210.
+Bigelow, B., & Swineheart, T. (2014). A people's curriculum for the earth: Teaching
+climate change and the environmental crisis. Milwaukee, WI: Rethinking Schools.
+Biegel, G. M., Brown, K. W., Shapiro, S. L., & Schubert, C. (2009). Mindfulness-based
+stress reduction for the treatment of adolescent psychiatric outpatients: A
+randomized clinical trial. Journal of Consulting and Clinical Psychology, 77(5),
+855–866. http://dx.doi.org/10.1037/a0016241.
+Blaney, B., & Smythe, J. Mindfulness training program. 2014, Retrieved from 〈http://
+meds.queensu.ca/education/postgraduate/wellness/mbsr〉.
+Bone, J., Cullen, J., & Loveridge, J. (2007). Everyday spirituality: An aspect of the
+holistic curriculum in action. Contemporary Issues in Early Childhood, 8(4),
+344–354.
+Butterworth, G., & Harris, M. (2014). Principles of developmental psychology. New
+York: Psychology Press.
+
+302
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+Caskey, M. M., & Anfara, V. A., Jr. Research summary: Young adolescents’ developmental characteristics. 2007, Retrieved from 〈http://www.nmsa.org/Research/
+ResearchSummaries/DevelopmentalCharacteristics/tabid/1414/Default.aspx〉.
+CBS (2009). Social survey 2009—The Jewish population: The place of religion in Israeli
+public life. Israel Central Bureau for Statistics.
+Clements, R. (2004). An investigation of the status of outdoor play. Contemporary
+Issues in Early Childhood, 5(1), 67–80.
+Crompton, M. (1999). Children, spirituality and religion In: P. Milnter, & B. Carolin
+(Eds.), Time to listen to children: Personal and Professional Communication (pp.
+79–93). New York, NY: Routledge.
+Currie, C., Zanotti, C., Morgan, A., Currie, D., de Looze, M., Roberts, C., Samdal, O.,
+Smith, O. R. F., & Barnekow, V. Social determinants of health and well-being
+among young people: Health behaviour in school-aged children (HBSC study):
+International report from the 2009/2010 survey. Health Policy for Children and
+Adolescents, Report No. 6, WHO Regional Ofﬁce for Europe. 2012, Retrieved from
+〈http://www.euro.who.int/en/publications/abstracts/social-determinants-ofhealth-and-well-being-among-young-people.-health-behaviour-in-schoolaged-children-hbsc-study〉.
+Damon, W., Menon, J., & Bronk, K. (2003). The development of purpose during
+adolescence. Applied Developmental Sciences, 7(3), 119–127. http://dx.doi.org/
+10.1207/S1532480 XADS0703_2.
+Dhar, N., Chaturvedi, S., & Nandan, D. (2011). Spiritual health scale 2011: Deﬁning
+and measuring 4th dimension of health. Indian Journal of Community Medicine,
+36(4), 275–282. http://dx.doi.org/10.4103/0970-0218.91329.
+Dhar, N., Chaturvedi, S., & Nandan, D. (2013). Spiritual health, the fourth dimension:
+A public health perspective. WHO South-East Asia Journal of Public Health, 2(1),
+3–5. http://dx.doi.org/10.4103/2224-3151.115826.
+Eaude, T. (2003). New perspectives on spiritual development. Bristol: National Primary Centre (South West).
+Eaude, T. (2009). Happiness, emotional well-being and mental health: What has
+children's spirituality to offer? International Journal of Children's Spirituality, 14
+(3), 185–196.
+Elgar, F. J., Trites, S. J., & Boyce, W. (2010). Social capital reduces socio-economic
+differences in child health: Evidence from the Canadian health behaviour in
+school-aged children study. Canadian Journal of Public Health, 101(3), S23–S27.
+Erikson, E. H. (1994). Identity: Youth and crisis. New York: WW Norton.
+Feudtner, C., Haney, J., & Dimmers, M. A. (2003). Spiritual care needs of hospitalized
+children and their families: A national survey of pastoral care providers’ perceptions. Pediatrics, 111(1), e67–e72.
+Fisher, J. W. (1999). Developing a spiritual health and life-orientation measure for
+secondary school students In: J. Ryan, V. Wittwer, & D. Baird (Eds.), Research
+with a regional/rural focus: Proceedings of the University of Ballarat inaugural
+annual conference (pp. 57–63). Ballarat: University of Ballarat, Research and
+Graduate Studies Ofﬁce.
+Fisher, J. (2010). Development and application of a spiritual well-being questionnaire called SHALOM. Religions, 1(1), 105–121.
+Fisher, J. (2011). The four domains model: Connecting spirituality, health and wellbeing. Religions, 2(1), 17–28. http://dx.doi.org/10.3390/rel2010017.
+Fisher, J. W., Francis, L. J., & Johnson, P. (2000). Assessing spiritual health via four
+domains of spiritual wellbeing: The SH4DI. Pastoral Psychology, 49(2), 133–145 37.
+Francis, L. J., & Robbins, M. (2004). Belonging without believing: A study in the
+social signiﬁcance of Anglican identity and implicit religion among 13–15 yearold males. Implicit Religion, 7(1), 37–54.
+Freeman, J. G., King, M., Pickett, W., Craig, W., Elgar, F., Janssen, I., & Klinger, D.
+(2011). The health of Canada's young people: A mental health focus (p. 194)
+Ottawa: Public Health Agency of Canada.
+Gomez, R., & Fisher, J. W. (2003). Domains of spiritual well-being and development
+and validation of the spiritual well-being questionnaire. Personality and Individual Differences, 35(8), 1975–1991.
+Gray, P. (2011). The decline of play and the rise of psychopathology in children and
+adolescents. American Journal of Play, 3(4), 443–463.
+Grossman, P., Niemann, L., Schmidt, S., & Walach, H. (2004). Mindfulness-based
+stress reduction and health beneﬁts: A meta-analysis. Journal of Psychosomatic
+Research, 57(1), 35–43.
+Hay, D., & Nye, R. (1998). The spirit of the child. London: Fount Paperbacks.
+Hawks, S. R., Hull, M. L., Thalman, R. L., & Richins, P. M. (1995). Review of spiritual
+health: Deﬁnition, role, and intervention strategies in health promotion.
+American Journal of Health Promotion, 9(5), 371–378. http://dx.doi.org/10.4278/
+0890-1171-9.5.371.
+Hendricks-Ferguson, V. (2006). Relationships of age and gender to hope and
+spiritual well-being among adolescents with cancer. Journal of Pediatric
+Oncology Nursing, 23(4), 189–199.
+Holder, M., Coleman, B., & Wallace, J. (2008). Spirituality, religiousness, and happiness in children aged 8–12 years. Journal of Happiness Studies, 11(2), 131–150.
+Houskamp, B. M., Fisher, L. A., & Stuber, M. L. (2004). Spirituality in children and
+adolescents: Research ﬁndings and implications for clinicians and researchers.
+Child and Adolescent Psychiatric Clinics of North America, 13(1), 221–230. http:
+//dx.doi.org/10.1016/S1056-4993(03)00072-5.
+Hughes, P. A new day for religion in Canada and Australia? Pointers: Bulletin of the
+Christian Research Association, 23(1), 2013, 5–6. Retrieved from 〈http://search.
+informit.com.au/documentSummary;dn ¼ 162333001616314;res¼IELHSS〉.
+Hyland, M. E., Wheeler, P., Kamble, S., & Masters, K. S. (2010). A sense of 'special
+connection', self-transcendent values and a common factor for religious and nonreligious spirituality. Archive for the Psychology of Religion—Archiv Fur Religionspsychologie, 32(3), 293–326. http://dx.doi.org/10.1163/157361210x533265.
+
+Idler, E. L., & Benyamini, Y. (1997). Self-rated health and mortality: A review of
+twenty-seven community studies. Journal of Health and Social Behavior, 38(1),
+21–37.
+Jirásek, I. (2013). Verticality as non-religious spirituality. Implicit Religion, 16(2),
+191–201.
+Kaufman, P. I. (1987). Humanist spirituality and ecclesial reaction: Thomas More's
+Monstra. Church History, 56(1), 25–38. http://dx.doi.org/10.2307/3165302.
+King, P. E., & Benson, P. L. (2006). Spirituality development and adolescent wellbeing and thriving In: E. C. Roehlkepartain, P. E. King, L. Wagener, & P. L. Benson
+(Eds.), The handbook of spiritual development in childhood & adolescence (pp.
+384–398). Thousand Oaks, CA: Sage Publications, Inc.
+King, P. E., Ramos, J., & Clardy, C. (2013). Searching for the sacred: Religion, spirituality, and adolescent development In: K. I. Pargament, J. J. Exline, & J. W. Jones
+(Eds.), APA handbook of psychology, religion, and spirituality (Vol. 1): Context,
+theory, and research (pp. 513–528). Washington, DC: APA. http://dx.doi.org/
+10.1037/14045-028.
+Levin, J. (1994). Is there an association, is it valid, and is it casual? Social Science
+Medicine, 38(11), 1475–1482.
+Lippman, L. H., & Keith, J. D. (2006). The demographics of spirituality among youth:
+International perspectives In: E. C. Roehlkepartain, P. E. King, L. Wagener, & P.
+L. Benson (Eds.), The handbook of spiritual development in childhood and adolescence (pp. 109–123). Thousand Oaks, CA: Sage Publications Inc.
+Louv, R. (2005). Last child in the woods: Saving our children from nature-deﬁcit disorder. New York: Algonquin Books.
+Louv, R. (2012). The nature principle: Reconnecting with life in a virtual age. New
+York: Algonquin Books.
+Luo Lu, R. G. (2004). Culture and conceptions of happiness: Individual oriented and
+social oriented swb. Journal of Happiness Studies, 5(3), 269–291.
+Miller, J. P., & Nakagawa, Y. (Eds.). (2002). Nurturing our wholeness: Perspectives on
+spirituality in education. Brandon, VT: The Foundation for Educational Renewal.
+Miller, W. R., & Thoresen, C. E. (2003). Spirituality, religion, and health: An emerging research ﬁeld. American Psychologist, 58(1), 24–35. http://dx.doi.org/
+10.1037/0003-066X.58.1.24.
+Nolan, S. (2009). In defence of the indefensible: An alternative to John Paley's
+reductionist, atheistic, psychological alternative to spirituality. Nursing Philosophy, 10(3), 203–213.
+Ojala, M. (2012). Regulating worry, promoting hope: How do children, adolescents,
+and young adults cope with climate change? International Journal of Environmental and Science Education, 7(4), 537–561.
+Ojala, M. (2013). Coping with climate change among adolescents: Implications for
+subjective well-being and environmental engagement. Sustainability, 5(5),
+2191–2209. http://dx.doi.org/10.3390/su5052191.
+Otake, K., Shimai, S., & Tanaka-Matsumi, J. (2006). Happy people become happier
+through kindness: A counting kindness intervention. Journal of Happiness Studies, 7(3), 361–375.
+Palmer, P. (2009). A hidden wholeness: The journey toward an undivided life. San
+Francisco, CA: Jossey-Bass.
+Pendleton, S., Cavalli, K., Pargament, K., & Nasr, S. (2002). Religious/spiritual coping
+in childhood cystic ﬁbrosis: A qualitative study. Pediatrics, 109(1), e8.
+Phinney, J. S. (1990). Ethnic identity in adolescents and adults: review of research.
+Psychological Bulletin, 108(3), 499.
+Piaget, J. (1972). Intellectual evolution from adolescence to adulthood. Human
+Development, 15(1), 1–12.
+Post, S. G. (2005). Altruism, happiness, and health: It's good to be good. International Journal of Behavioral Medicine, 12(2), 66–77.
+Rao, J. N. K., & Scott, A. J. (1981). The analysis of categorical data from complex
+sample surveys: Chi-squared tests for goodness of ﬁt and independence in twoway tables. Journal of the American Statistical Association, 76(374), 221–230.
+Rich, Y., & Cinamon, R. G. (2007). Conceptions of spirituality among Israeli Arab and
+Jewish late adolescents. Journal of Humanistic Psychology, 47(1), 7–29.
+Roehlkepartain, E., King, P., Wagener, L., & Benson, P. (Eds.). (2006). The handbook of
+spiritual development in childhood and adolescence. Thousand Oaks, CA: Sage
+Publications Inc.
+Rothman, K. J., Greenland, S., & Lash, T. L. (Eds.). (2008). Modern epidemiology.
+Lippincott Williams & Wilkins.
+Sallquist, J., Eisenberg, N., French, D., Purwono, U., & Suryanti, T. (2010). Indonesian
+adolescents’ spiritual and religious experiences and their longitudinal relations
+with socio-emotional functioning. Developmental Psychology, 46(3), 699–716.
+http://dx.doi.org/10.1037/a0018879.
+Scales, P. C., Syvertsen, A. K., Benson, P. L., Roehlkepartain, E. C., & Sesma, A., Jr.
+(2014). The relation of spiritual development to youth health and well-being:
+Evidence from a global study In: A. Ben-Arieh, F. Casas, I. Frones, & J. E. Korbin
+(Eds.), The handbook of child well-being (pp. 1101–1135). Dordrecht: Springer
+Netherlands. http://dx.doi.org/10.1007/978-90-481-9063-8_41.
+Schnell, T. (2012). Spirituality with and without religion: Differential relationships
+with personality. Archive for the Psychology of Religion—Archiv Fur Religionspsychologie, 34(1), 33–61. http://dx.doi.org/10.1163/157361212x644495.
+Scholte, R. H. J., & Van Aken, M. A. G. (2006). Peer relations in adolescence In:
+S. Jackson, & L. Goossens (Eds.), Handbook of adolescent development (pp. 175–
+199). New York: Psychology Press.
+Shonin, E., Van Gordon, W. V., & Grifﬁths, M. D. (2012). The health beneﬁts of
+mindfulness-based interventions for children and adolescents. Education and
+Health, 30(4), 95–98 Retrieved from〈〈http://sheu.org.uk/x/eh304mg.pdf〉〉.
+Simkin, D. R., & Black, N. B. (2014). Meditation and mindfulness in clinical practice.
+Child and Adolescent Psychiatric Clinics in North America, 23(3), 487–534.
+
+V. Michaelson et al. / SSM -Population Health 2 (2016) 294–303
+
+Sinats, P., Scott, D. G., McFerran, S., Hittos, M., Cragg, C., Brooks, D., & Leblanc, T.
+(2005). Writing ourselves into being: Writing as spiritual self-care for adolescent girls, part 1. International Journal of Children's Spirituality, 10(1), 17–29.
+Smith, L., Webber, R., & DeFrain, J. (2013). Spiritual well-being and its relationship
+to resilience in young people. Sage Open (pp. 1–13), 1–13. http://dx.doi.org/
+10.1177/2158244013485582.
+Thompson, M., & Gauntlett-Gilbert, J. (2008). Mindfulness with children and adolescents: Effective clinical application. Clinical Child Psychology and Psychiatry,
+13(3), 395–407.
+Udermann, B. E. (2000). The effect of spirituality on health and healing: A critical
+review for athletic trainers. Journal of Athletic Training, 35(2), 194–197.
+UNICEF. Convention on the rights of the child. 1989, Retrieved from 〈http://www.
+unicef.org/crc/index_protecting.html〉.
+Vader, J. P. (2006). Spiritual health: The next frontier. European Journal of Public
+Health, 16(5), 457.
+
+303
+
+Wallace, J. (2010). The contributions of spirituality and religious practices to children's
+happiness. BC: University of British Columbia.
+Witvliet, C. V. O., Ludwig, T. E., & Vander Laan, K. (2001). Granting forgiveness or
+harboring grudges: Implications for emotion, physiology, and health. Psychological Science, 12, 117–123.
+Witvliet, C. V. O., & McCullough, M. E. (2007). Forgiveness and health: A review and
+theoretical exploration of emotion pathways In: S. G. Post (Ed.), Altruism and
+health: Perspectives from empirical research (pp. 259–276). Oxford, UK: Oxford
+University Press.
+Yust, K. M., Johnson, A. N., Sasso, S. E., & Roehlkepartain, E. C. (2006). Traditional
+wisdom: Creating space for religious reﬂection on child and adolescent spirituality. Nurturing child and adolescent spirituality: Perspectives from the world's
+religious traditions (pp. 1–14), 1–14.
+
+

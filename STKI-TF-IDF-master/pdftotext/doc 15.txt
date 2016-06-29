@@ -1,0 +1,558 @@
+STANDARDS OF PRACTICE
+
+Society of Interventional Radiology
+IR Pre-Procedure Patient Safety
+Checklist by the Safety and
+Health Committee
+Poyan Raﬁei, MD, Eric M. Walser, MD, James R. Duncan, MD, PhD, Hunaid Rana, BS,
+Jason Robert Ross, MD, Robert K. Kerlan, Jr, MD, Kathleen A. Gross, MSN, BS, RN-BC, CRN,
+Stephen Balter, PhD, Gabriel Bartal, MD, Nadine Abi-Jaoudeh, MD, CCRP, Michael S. Stecker, MD,
+Alan M. Cohen, MD, Robert G. Dixon, MD, Raymond H. Thornton, MD, and Boris Nikolic, MD,
+MBA, for the Society of Interventional Radiology Health and Safety Committee
+PREAMBLE
+The National Patient Safety Goals program was established by The Joint
+Commission in 2002 to help accredited organizations address areas of
+concern regarding patient safety in the United States. The Universal
+Protocol, adopted by The Joint Commission in 2003, is included in the
+National Patient Safety Goals to prevent wrong person, wrong procedure,
+and wrong site surgery in all surgical and nonsurgical invasive procedures
+(1). These guidelines have been applied speciﬁcally to the practice of
+interventional radiology (IR) (2); however, a pre–procedure checklist
+tailored to IR may further improve patient safety and outcomes.
+Recent interest has evolved in developing a surgical or time-out
+checklist to reduce morbidity and mortality caused by human errors.
+For example, Haynes et al (3) demonstrated that implementation of a
+19-item surgical checklist adopted from the World Health Organization
+(4) reduced the rate of death associated with surgery from 1.5% to 0.8%
+in a global population. Inpatient complications also were reduced from
+a baseline of 11% to 7%. Corso et al (5) showed that use of a 20-item
+time-out checklist derived from the Cardiovascular and Interventional
+Radiological Society of Europe (6) eliminated adverse events associated
+with IR procedures in the ﬁrst year of use. Such positive results with the
+use of checklists have also been conﬁrmed in other studies (7–9).
+From the Department of Radiology (P.R., E.M.W., J.R.R.), University of Texas
+Medical Branch (H.R.), 301 University Boulevard, Galveston, TX 77555-0709;
+Mallinckrodt Institute of Radiology (J.R.D.), St. Louis, Missouri; Department of
+Radiology (R.K.K.), University of California, San Francisco, San Francisco,
+California; Private Practice (K.A.G.), Owings Mills, Maryland; Departments of
+Medicine and Radiology (S.B.), Columbia University Medical Center, New
+York, New York; Department of Radiology (G.B.), Meir Medical Center, Kfar
+Saba, Israel; University of California, Irvine (N.A.-J.), Orange, California;
+Division of Angiography and Interventional Radiology (M.S.S.), Brigham and
+Women’s Hospital, Boston, Massachusetts; Department of Vascular/Interventional Radiology (A.M.C.), University of Texas, Houston, Texas; Department of Radiology (R.G.D.), University of North Carolina, Chapel Hill, North
+Carolina; Department of Radiology (R.H.T.), Memorial Sloan Kettering Cancer
+Center, New York, New York; and Department of Radiology (B.N.), Stratton
+Medical Center, Albany, New York. Received and accepted March 1, 2016.
+Address correspondence to P.R.; E-mail: poraﬁei@utmb.edu
+N.A.-J. received grants from Teclison Cheery Pharma (Short Hills, New
+Jersey), SillaJen, Inc (San Diego, California), Philips Healthcare (Best, The
+Netherlands), and W.L. Gore & Associates (Flagstaff, Arizona). None of the
+other authors have identiﬁed a conﬂict of interest.
+Published by Elsevier, Inc., on behalf of SIR.
+J Vasc Interv Radiol 2016; XX:]]]–]]]
+http://dx.doi.org/10.1016/j.jvir.2016.03.002
+
+However, other studies have failed to duplicate signiﬁcant
+improvements in patient safety following widespread implementation
+of pre-procedure checklists (10,11). These failures could reﬂect issues
+with checklist design or its implementation. A well-designed checklist
+should include items that effectively address the underlying failure
+modes for the adverse events that occur in any particular operational
+environment. In addition, the checklist should be designed to facilitate
+reliable execution of the control strategy for those failure modes.
+Creating a checklist that addresses the cause of every conceivable
+adverse event would result in a checklist so long as to be impractical.
+Rather, patient safety is better served by allowing local teams to build a
+checklist from a list of items that matches the operational requirements
+of their working environment and case mix. A series of potential
+checklist items is provided along with their rationale.
+
+PRE-PROCEDURE CHECKLIST
+The pre-procedure checklist is a list of pertinent items to review before
+the start of a procedure and can include the components of the
+Universal Protocol to remain compliant with The Joint Commission
+standards. Such a list may disclose patient allergies, use of contrast
+agent, prophylactic antibiotics, sedation plan, laboratory values, need
+for blood products, review of prior imaging, specimen collection,
+radiation or magnetic resonance (MR) imaging safety precautions,
+need for special medications or equipment, additional safety concerns,
+and nonstandard items for review (“sidebar”). An example of a preprocedure checklist is shown in the Table.
+
+UNIVERSAL PROTOCOL
+The Joint Commission Universal Protocol is a requirement for hospital
+accreditation in the United States and includes pre-procedure veriﬁcation, site marking, and time-out. The pre-procedure veriﬁcation process
+veriﬁes the correct patient, correct procedure, and correct site and is an
+ongoing process of gathering information before the procedure. Site
+marking is performed when there is more than one possible location for
+a procedure, such as different limbs, organs, or level of the spine, and
+when performing the procedure in a different location would negatively
+affect quality or safety (1). The time-out is performed immediately
+before the start of the procedure and involves the patient (whenever
+practical) and immediate members of the procedure team, including
+physicians, radiology technologists, and nurses. The time-out should be
+initiated by a designated member of the team and be standardized.
+During the time-out, the team members agree at a minimum on correct
+patient identity, correct procedure, and correct site.
+
+2
+
+’
+
+SIR Pre-Procedure Patient Safety Checklist
+
+Raﬁei et al
+
+JVIR
+
+the start of the procedure can help avoid minor or major reactions with
+potential morbidity.
+
+Table . Pre-Procedure Checklist
+Pre-Procedure Checklist
+
+’
+
+Patient Label
+
+Patient identiﬁers (at least 2)
+Patient name
+Patient date of birth
+Patient medical record number
+Procedure(s)
+Site mark
+Allergies
+Contrast agent
+Antibiotics
+Administration time
+Sedation plan
+Minimal sedation
+Moderate sedation
+Deep sedation
+General anesthesia
+Laboratory tests
+INR
+Platelets
+PTT
+Creatinine
+Last dose of anticoagulation
+Blood products
+Type and screen
+Prior imaging
+Specimen collection
+Radiation safety
+Staff protective and monitoring equipment
+
+CONTRAST AGENT
+Use of radiocontrast media in IR has many beneﬁts in localizing
+pathology, guiding treatment, and conﬁrming treatment response.
+However, a major morbidity associated with intravascular radiographic contrast use is contrast-induced nephropathy, which is reported
+as the third most common cause of acute tubular necrosis in patients
+admitted to the hospital (15). Very few published studies have a
+suitable control group to permit the separation of contrast-induced
+nephropathy from post-contrast acute kidney injury, which may occur
+regardless of whether contrast medium is the cause of renal deterioration (16). Although more recent literature questions whether
+contrast-induced nephropathy exists (17,18), we treat it as a real but
+rare entity and recommend exercising caution when using intravascular
+radiographic contrast media in patients with preexisting renal disease.
+For intravascular angiography, physicians may elect to use a hypoosmolar agent, such as iopamidol (Isovue; Bracco Diagnostic Inc, Monroe
+Township, New Jersey), or an iso-osmolar agent, such as iodixanol
+(Visipaque; GE Healthcare, Princeton, New Jersey), owing to the less
+harmful effects on renal function compared with hyperosmolar agents
+(19,20). A less costly option with a hyperosmolar agent, such as iohexol
+(Omnipaque; GE Healthcare), may be favorable for nonvascular cases.
+
+ANTIBIOTICS
+Antibiotic prophylaxis for an IR procedure is commonly administered
+to prevent infection in vascular and nonvascular cases. Although there
+are no published multicenter randomized trials evaluating antibiotic
+prophylaxis during IR procedures, recommendations have been set
+forth by the Society of Interventional Radiology (SIR) regarding the
+use of prophylactic antibiotics in IR (21). The choice of antimicrobial
+agent depends on the type of procedure as well as the patient’s renal
+and hepatic function and allergies.
+
+Optimize low dose radiation
+Patient protection
+MR imaging safety
+MR-compatible equipment and instruments
+Patient and staff screening
+Need for special equipment
+Disposable items
+Nondisposable equipment
+Procedural-related medications
+Additional safety concerns
+Sidebar
+Consent conﬁrmation
+Patient radiation history
+Pregnancy test result
+Procedure sterility classiﬁcation
+Prophylactic allergy premedication conﬁrmation
+INR ¼ international normalized ratio; PTT ¼ partial thromboplastin time.
+
+SEDATION PLAN
+An accurate sedation plan reduces patient movement, pain perception, and
+anxiety, allowing for a safe, comfortable, and successful procedure (22).
+There is high variability in the complexity and magnitude of injury
+incurred with various IR procedures, and the sedation plan can be
+inﬂuenced by many patient variables, including, but not limited to,
+patient age, patient positioning during the procedure, body mass index,
+Mallampati score, American Society of Anesthesiologists physical
+classiﬁcation score, surgical or medical comorbidities, allergies, current
+medications, psychosocial history, and oral intake restrictions according to
+institutional guidelines. A medical assessment before a procedure is
+therefore critical in deciding on a sedation plan for a particular patient.
+Practice parameters for sedation and analgesia in radiologic care have been
+further described by the American College of Radiology and SIR (23).
+The American Society of Anesthesiologists recognizes four levels
+of sedation: minimal sedation (anxiolysis), moderate sedation/analgesia
+(conscious sedation), deep sedation/analgesia, and general anesthesia
+(24). The beneﬁts of the type of sedation must be weighed against the
+risks and discussed with the patient. The sedation plan should also be
+reviewed with the IR team before the start of the procedure.
+
+PATIENT ALLERGIES
+
+LABORATORY TESTS/BLOOD PRODUCTS
+
+Various agents are used during IR procedures; local anesthetics,
+opioids, anxiolytics, contrast agents, and prophylactic antibiotics are
+frequently administered. Use of latex gloves is also common if the
+institution is not a latex-free environment. The most common agents
+responsible for anaphylactic reactions during surgical and medical
+procedures are muscle relaxants and latex, followed by antibiotics and
+induction agents (12). The major emphasis on managing a patient’s
+allergies is prevention (13,14), and reviewing a patient’s allergies before
+
+Routine hematologic evaluation of patients is common for many IR
+procedures to reduce the risk of bleeding, sedation, and infectious
+complications. Recommendations for the use of blood products and
+other hemostatic agents in IR have been described by Patel et al (25).
+A patient’s biochemical proﬁle may be useful before the administration
+of intravascular contrast media in select patients. Liver function tests
+are also routinely evaluated before hepatic embolization treatments
+and transjugular intrahepatic portosystemic shunt procedures.
+
+Volume XX
+
+’
+
+Number X
+
+’
+
+Month
+
+’
+
+2016
+
+PRIOR IMAGING
+Review of prior medical imaging studies can be very helpful in guiding
+a particular procedure, such as in localization of an infected ﬂuid
+collection for percutaneous drainage or in identiﬁcation of a migrated
+intravascular foreign body for endovascular retrieval. This review may
+decrease procedural time, reduce use of contrast agent, and prevent
+complications. Some ﬂuoroscopy units may also allow for display of
+the patient’s prior imaging study on the in-room monitors for
+continuous review during a procedure.
+
+SPECIMEN COLLECTION
+Collecting specimens for diagnostic purposes may sometimes require
+special media for storage (or transportation) or need speciﬁc personnel
+for determining a preliminary diagnosis or adequate tissue sampling.
+Awareness of the IR team before the procedure allows for appropriate
+collection of storage media and/or adequate notiﬁcation of the
+pathologist or cytotechnologist. This in turn helps reduce procedural
+time delays and ensures optimal timing of tissue sampling.
+
+3
+
+procedures speciﬁc to MR imaging–guided interventional procedures
+need to be implemented to ensure safe operation, including appropriate
+screening of patients and all staff personnel before entering Zone 3 (35).
+The “ACR Guidance Document on MR Safe Practices: 2013” is an
+excellent resource that provides recommendations on procedures,
+personnel qualiﬁcations and training, and site access restrictions (36).
+
+NEED FOR SPECIAL EQUIPMENT
+Use of ﬂuoroscopy, ultrasound, and computed tomography is routine
+in IR; however, special equipment for certain procedures is sometimes
+necessary. This may include disposable items, such as speciﬁc vascular
+stents, thrombectomy catheters, or detachable coils, or nondisposable
+items, such as intravascular ultrasound, rheolytic devices, percutaneous
+ablation equipment, or endoscopic instruments for cholangioscopy.
+Procedural-related medications (eg, heparin, alteplase) may also be
+required. Adequate planning for these items can properly ensure
+appropriate equipment is available before the start of the case.
+
+ADDITIONAL SAFETY CONCERNS
+RADIATION SAFETY
+IR procedures with ﬂuoroscopy and computed tomography guidance
+expose patients and health care workers to ionizing radiation that can
+be harmful in large or cumulative doses (26,27). A collaborative
+approach to radiation safety is recommended to achieve the lowest
+dose to all involved. Staff should have appropriate personal protective
+equipment, including ﬁtted lead aprons, thyroid shields, and leaded eye
+wear. Static and mobile shielding devices may also be incorporated into
+IR suites to decrease radiation exposure (28).
+The “Image Wisely” campaign for adults has been developed to raise
+awareness of opportunities to eliminate unnecessary imaging examinations
+and to lower the amount of radiation used in medical imaging (29). The
+campaign website contains various educational materials for different
+radiation protection issues, including technical principles for IR
+procedures. For dose reduction strategies in pediatric patients, the “Image
+Gently, Step Lightly” campaign website includes a procedural checklist to
+maximize radiation safety during interventional procedures (30). A few of
+the main points of the checklist include stepping lightly on the ﬂuoroscopy
+pedal, the use of low-dose pulsed ﬂuoroscopy, tight collimation to exclude
+radiosensitive organs, and the use of last image hold and electronic zoom.
+The use of patient shielding is not recommended on a regular basis;
+however, shielding is commonly used for pediatric patients and for
+potentially pregnant patients. This may include extragonadal shields and/
+or fetal monitoring for patients known to be pregnant.
+Appropriate monitoring and analysis of prior radiation dose is
+necessary for long-term regulation of radiation exposure. For staff
+members, the International Commission on Radiological Protection
+recommends two dosimeters—one at the collar level and one under the
+apron—for an accurate assessment of radiation dosage (31). For
+patients, prompt review and recording of dose is imperative (30).
+Using these tools, statistical analyses with established systems for
+feedback are a proven method for long-term reduction of ionizing
+radiation dose (32).
+
+MR IMAGING SAFETY
+MR imaging has become a promising tool in guiding both diagnostic
+and therapeutic procedures. An important advantage of MR imaging is
+the lack of ionizing radiation. MR imaging also provides enhanced soft
+tissue contrast; is able to measure and quantify ﬂow, diffusion, and
+perfusion; and allows for evaluation of temperature changes (33,34).
+However, all operating equipment used within the MR imaging
+ﬁeld must be nonmagnetic, and all instruments should be MR
+compatible. Electrical conductive materials (eg, wires associated with
+electrocardiogram monitoring or radiofrequency grounding pads)
+should be kept from touching the patient’s skin. Internal policies and
+
+This element of the checklist is used to address any speciﬁc safety
+concern related to the patient. There are cultural and professional
+hierarchies that may lead to nonphysician providers on the medical
+team feeling apprehensive or embarrassed about speaking up when the
+physician naturally takes the leadership role. Allotting time for anyone
+on the IR team to speak about a safety concern by simply asking,
+“Does anyone have any other concerns?” may help avoid communication errors and improve safety attitudes and teamwork.
+
+SIDEBAR
+This is a catch-all category where nonstandard items are reviewed. This
+may include patient positioning, changes to the IR consultation,
+consent conﬁrmation, the patient’s radiation history, pregnancy test
+result, procedural sterility classiﬁcation, or prophylactic allergy premedication conﬁrmation. Depending on the procedure and institution,
+additional items of concern can be discussed here.
+
+DISCUSSION
+When reliably implemented, checklists lead to improved patient outcomes (37–39). Checklists are a tool that reduces reliance on memory,
+improves team communication, and increases situational awareness
+among team members (40). However, similar to any new tool, using
+checklists to improve patient care requires careful design and effective
+implementation. The description of potential checklist items presented
+here is intended to help teams construct checklists that meet the needs
+of their patients. Implementing a checklist requires teamwork and
+change management.
+For most teams, The Joint Commission Universal Protocol is a
+required component of the pre-procedure time-out. Other items are
+meant to reduce complications related to IR procedures. The checklist
+is designed to be reviewed with the physician, nurse, and technologist
+when the patient is in the IR room before the start of the procedure.
+In an era of fully electronic medical records, we encourage the use
+of electronic checklists for several reasons. First, default patient
+information can be loaded before the start of the case to help
+streamline operations. Second, data can be linked and tracked for
+future reference, such as a patient’s prior radiation exposure. Third,
+electronic checklists may help reduce paper checklist errors, as
+demonstrated in the aviation industry (41).
+Checklists should also be designed to promote compliance. The
+items listed in the checklist should be individualized to the needs of the
+institution and should be kept simple (r 10 items). The checklist
+should be allowed to evolve over time with the addition or removal of
+items needed to address speciﬁc issues for a particular institution. A
+
+4
+
+’
+
+SIR Pre-Procedure Patient Safety Checklist
+
+checklist that is too complex, time-consuming, or redundant will likely
+not be followed well (42). Monitoring, analysis, and feedback may also
+improve compliance of appropriately using the checklist (43,44).
+Gottumukkala et al (43) demonstrated that the use of an audiovisual
+recording system and continual feedback led to substantial improvements in time-out performance over a 3–year period in the pediatric
+IR suite.
+
+CONCLUSIONS
+The pre-procedure checklist is not a panacea but is designed to
+promote communication and enhance teamwork in an effort to
+improve patient safety. As stated in the Boeing quick reference
+handbook, “checklists cannot be created for all conceivable situations
+and are not intended to replace good judgement” (41). We understand
+that trial and feedback of such a checklist are necessary for validation
+and hope that future studies will assess the usefulness of the checklist in
+regard to patient outcomes.
+
+REFERENCES
+1. The Joint Commission. 2015 national patient safety goals. Available at:
+http://www.jointcommission.org/assets/1/6/2015_NPSG_HAP.pdf.
+Accessed March 23, 2016.
+2. Angle JF, Nemcek AA, Cohen AM, et al; SIR Standards Division; Joint
+Commission Universal Protocol for Preventing Wrong Site, Wrong
+Procedure, Wrong Person Surgery. Quality improvement guidelines for
+preventing wrong site, wrong procedure, and wrong person errors:
+application of the Joint Commission “Universal protocol for preventing
+wrong site, wrong procedure, wrong person surgery” to the practice of
+interventional radiology. J Vasc interv Radiol 2008; 19:1145–1151.
+3. Haynes AB, Weiser TG, Berry WR, et al. A surgical safety checklist to
+reduce morbidity and mortality in a global population. N Engl J Med 2009;
+360:491–499.
+4. World Health Organization. WHO guidelines for safe surgery 2009.
+Available at: http://whqlibdoc.who.int/publications/2009/9789241598552_
+eng.pdf. Accessed March 23, 2016.
+5. Corso R, Vacirca F, Patelli C, Leni D. Use of “Time-Out” checklist in
+interventional radiology procedures as a tool to enhance patient safety.
+Radiol Med 2014; 119:828–834.
+6. Lee MJ, Fanelli F, Haage P, Hausegger K, Van Lienden KP. Patient
+safety in interventional radiology: a CIRSE IR checklist. Cardiovasc
+Intervent Radiol 2012; 35:244–246.
+7. de Vries EN, Prins H, Crolla R, et al; SURPASS Collaborative Group.
+Effect of a comprehensive surgical safety system on patient outcomes. N
+Engl J Med 2010; 363:1928–1937.
+8. Neily J, Mills PD, Young-Xu Y, et al. Association between implantation
+of a medical team training program and surgical mortality. JAMA 2010;
+304:1693–1700.
+9. Koetser IC, de Vries EN, van Delden OM, Smorenburg SM, Boermeester
+MA, van Lienden KP. A checklist to improve patient safety in interventional radiology. Cardiovasc Intervent Radiol 2013; 36:312–319.
+10. Urbach DR, Govindarajan A, Saskin R, Wilton AS, Baxter NN. Introduction of surgical safety checklists in Ontario, Canada. N Engl J Med 2014;
+370:1029–1038.
+11. Sewell M, Adebibe M, Jayakumar P, et al. Use of the WHO surgical
+safety checklist in trauma and orthopaedic patients. Int Orthop 2011; 35:
+897–901.
+12. Lieberman P. Anaphylactic reactions during surgical and medical procedures. J Allergy Clin Immunol 2002; 110:S64–S69.
+13. Caffarelli C, Stringari G, Miraglia DGM, et al. Prevention of allergic
+reactions in anesthetized patients. Int J Immunopathol Pharmacol 2011;
+24:S91–S99.
+14. Dippenaar JM, Naidoo S. Allergic reactions and anaphylaxis during
+anaesthesia. Curr Allergy Clin Immunol 2015; 28:18–22.
+15. Nash K, Hafeez A, Hou S. Hospital-acquired renal insufﬁciency. Am J
+Kidney Dis 2002; 39:930–936.
+16. ACR Committee on Drugs and Contrast Media. ACR manual on contrast
+media, version 10.1.2015. Available at: http://www.acr.org/  /media/
+37D84428BF1D4E1B9A3A2918DA9E27A3.pdf. Accessed March 23,
+2016.
+
+Raﬁei et al
+
+’
+
+JVIR
+
+17. McDonald RJ, McDonald JS, Bida JP, et al. Intravenous contrast
+material-induced nephropathy: causal or coincident phenomenon? Radiology 2013; 267:106–118.
+18. McDonald RJ, McDonald JS, Carter RE, et al. Intravenous contrast
+material exposure is not an independent risk factor for dialysis or
+mortality. Radiology 2014; 273:714–725.
+19. Barrett BJ, Carlisle EJ. Metaanalysis of the relative nephrotoxicity of highand low-osmolality iodinated contrast media. Radiology 1993; 188:171–178.
+20. Nguyen SA, Suranyi P, Ravenel JG, et al. Iso-osmolality versus lowosmolality iodinated contrast medium at intravenous contrast-enhanced
+CT: effect on kidney function. Radiology 2008; 248:97–105.
+21. Venkatesan AM, Kundu S, Sacks D, et al; Society of Interventional
+Radiology Standards of Practice Committee. Practice guideline for adult
+antibiotic prophylaxis during vascular and interventional radiology procedures. Written by the Standards of Practice Committee for the Society of
+Interventional Radiology and Endorsed by the Cardiovascular Interventional Radiological Society of Europe and Canadian Interventional Radiology Association [corrected]. J Vasc Interv Radiol 2010; 21:1611–1630.
+22. Johnson S. Sedation and analgesia in the performance of interventional
+procedures. Semin Intervent Radiol 2010; 27:368–373.
+23. ACR-SIR practice parameter for sedation/analgesia, resolution 23.2015.
+Available at: http://www.acr.org/  /media/ACR/Documents/PGTS/guide
+lines/Adult_Sedation.pdf. Accessed March 23, 2016.
+24. American Society of Anesthesiologists Task Force on Sedation and Analgesia
+by Non-Anesthesiologists. Practice guidelines for sedation and analgesia by
+non-anesthesiologists. Anesthesiology 2002; 96:1004–1017.
+25. Patel IJ, Davidson JC, Nikolic B, et al; Standards of Practice Committee,
+with Cardiovascular and Interventional Radiological Society of Europe
+(CIRSE) Endorsement. Consensus guidelines for periprocedural management of coagulation status and hemostasis risk in percutaneous imageguided interventions. J Vasc Interv Radiol 2012; 23:727–736.
+26. Balter S, Hopewell JW, Miller DL, Wagner LK, Zelefsky MJ. Fluoroscopically guided interventional procedures: a review of radiation effects
+on patients’ skin and hair. Radiology 2010; 254:326–341.
+27. National Research Council Committee to Assess Health Risks From
+Exposure to Low Levels of Ionizing Radiation. Health Risks from
+Exposure to Low Levels of Ionizing Radiation: BEIR VII Phase 2.
+Washington, DC: The National Academies Press; 2006.
+28. Miller DL, Vañó E, Bartal G, et al; Cardiovscular and Interventional
+Radiology Society of Europe; Society of Interventional Radiology.
+Occupational radiation protection in interventional radiology: a joint
+guideline of the Cardiovascular and Interventional Radiology Society
+of Europe and the Society of Interventional Radiology. Cardiovasc
+Intervent Radiol 2010; 33:230–239.
+29. Brink JA, Amis ES Jr. Image wisely: a campaign to increase awareness
+about adult radiation protection. Radiology 2010; 257:601–602.
+30. Sidhu M, Goske MJ, Connolly B, et al. Image gently, step lightly:
+promoting radiation safety in pediatric interventional radiology. AJR Am J
+Roentgenol 2010; 195:W299–W301.
+31. International Commission on Radiological Protection. The 2007 recommendations of the International Commission on Radiological Protection.
+ICRP publication 103. Ann ICRP 2007; 37:1–332.
+32. Duncan J, Street M, Strother M, Picus D. Optimizing radiation use
+during ﬂuoroscopic procedures: a quality and safety improvement
+project. J Am Coll Radiol 2013; 10:847–853.
+33. Sequeiros RB, Ojala R, Kariniemi J, et al. MR-guided interventional
+procedures: a review. Acta Radiol 2005; 46:576–586.
+34. Quesson B, deAwart JA, Moonen CT. Magnetic resonance temperature imaging for guidance of thermotherapy. J Magn Reson Imaging
+2000; 12:525–533.
+35. Hushek SG, Russell L, Moser RF, Hoerter NM, Moriarty TM,
+Shields CB. Safety protocols for interventional MRI. Acad Radiol
+2005; 12:1143–1148.
+36. Kanal E, Barkovich AJ, Bell C, et al. ACR guidance document on MR
+safe practices: 2013. J Magn Reson Imaging 2013; 37:501–530.
+37. Patel J, Ahmed K, Guru KA, et al. An overview of the use and
+implementation of checklists in surgical specialties—a systematic
+review. Int J Surg 2014; 12:1317–1323.
+38. de Vries EN, Prins HA, Bennink CM, et al. Nature and timing of
+incidents intercepted by the SURPASS checklist in surgical patients.
+BMJ Qual Saf 2012; 21:503–508.
+39. Treadwell JR, Lucas S, Tsou AY. Surgical checklists: a systematic review of impacts and implementation. BMJ Qual Saf 2014; 23:
+299–318.
+
+Volume XX
+
+’
+
+Number X
+
+’
+
+Month
+
+’
+
+2016
+
+40. Walker IA, Reshamwalla S, Wilson IH. Surgical safety checklists: do
+they improve outcomes? Br J Anaesth 2012; 109:47–54.
+41. Boorman D. Today’s electronic checklists reduce likelihood of crew
+errors and help prevent mishaps. ICAO J 2001; 1:17–21.
+42. Anthes E. Hospital checklists are meant to save lives—so why do they
+often fail? Nature 2015; 523:516–518.
+
+5
+
+43. Gottumukkala R, Street M, Fitzpatrick M, Tatineny P, Duncan JR. Improving
+team performance during the preprocedure time-out in pediatric interventional
+radiology. Jt Comm J Qual Patient Saf 2012; 38:387–394.
+44. Putnam LR, Levy SM, Sajid M, et al. Multifaceted interventions improve adherence to the surgical checklist. Surgery 2014; 156:
+336–344.
+
+SIR DISCLAIMER
+The clinical practice guidelines of the Society of Interventional Radiology attempt to deﬁne practice principles that generally should assist in
+producing high-quality medical care. These guidelines are voluntary and are not rules. A physician may deviate from these guidelines, as
+necessitated by the individual patient and available resources. These practice guidelines should not be deemed inclusive of all proper methods of
+care or exclusive of other methods of care that are reasonably directed toward the same result. Other sources of information may be used in
+conjunction with these principles to produce a process leading to high-quality medical care. The ultimate judgment regarding the conduct of any
+speciﬁc procedure or course of management must be made by the physician, who should consider all circumstances relevant to the individual
+clinical situation. Adherence to the SIR Quality Improvement Program will not assure a successful outcome in every situation. It is prudent to
+document the rationale for any deviation from the suggested practice guidelines in the department policies and procedure manual or in the
+patient’s medical record.
+
+

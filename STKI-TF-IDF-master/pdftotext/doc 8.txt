@@ -1,0 +1,2600 @@
+Accepted Manuscript
+Sensorimotor Peripheral Nerve Function and the Longitudinal Relationship with
+Endurance Walking in the Health, Aging and Body Composition Study
+Brittney S. Lange-Maia, PhD, MPH, Anne B. Newman, MD, MPH, Jane A. Cauley,
+DrPH, Robert M. Boudreau, PhD, John M. Jakicic, PhD, Paolo Caserotti, PhD, Nancy
+W. Glynn, PhD, Tamara B. Harris, MD, MS, Stephen B. Kritchevsky, PhD, Ann V.
+Schwartz, PhD, MPH, Suzanne Satterfield, MD, DrPH, Eleanor M. Simonsick, PhD,
+Aaron I. Vinik, MD, PhD, Sasa Zivkovic, MD, Elsa S. Strotmeyer, PhD, MPH
+PII:
+
+S0003-9993(15)01150-8
+
+DOI:
+
+10.1016/j.apmr.2015.08.423
+
+Reference:
+
+YAPMR 56299
+
+To appear in:
+
+ARCHIVES OF PHYSICAL MEDICINE AND REHABILITATION
+
+Received Date: 20 May 2015
+Revised Date:
+
+28 July 2015
+
+Accepted Date: 16 August 2015
+
+Please cite this article as: Lange-Maia BS, Newman AB, Cauley JA, Boudreau RM, Jakicic JM, Caserotti
+P, Glynn NW, Harris TB, Kritchevsky SB, Schwartz AV, Satterfield S, Simonsick EM, Vinik AI, Zivkovic
+S, Strotmeyer ES, for the Health, Aging, and Body Composition Study, Sensorimotor Peripheral
+Nerve Function and the Longitudinal Relationship with Endurance Walking in the Health, Aging and
+Body Composition Study, ARCHIVES OF PHYSICAL MEDICINE AND REHABILITATION (2015), doi:
+10.1016/j.apmr.2015.08.423.
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+ACCEPTED MANUSCRIPT
+
+Running Head: Peripheral Nerve Function and Endurance
+Sensorimotor Peripheral Nerve Function and the Longitudinal Relationship with
+
+RI
+PT
+
+Endurance Walking in the Health, Aging and Body Composition Study
+
+Brittney S. Lange-Maia,a PhD, MPH, Anne B. Newman,a MD, MPH, Jane A. Cauley,a DrPH,
+
+SC
+
+Robert M. Boudreau,a PhD, John M. Jakicic,b PhD, Paolo Caserotti,c PhD,
+
+Nancy W. Glynn,a PhD, Tamara B. Harris,d MD, MS, Stephen B. Kritchevsky,e PhD,
+
+M
+AN
+U
+
+Ann V. Schwartz,f PhD, MPH, Suzanne Satterfield,g MD, DrPH, Eleanor M. Simonsick,h PhD,
+Aaron I. Vinik,I MD, PhD, Sasa Zivkovic,j MD, and Elsa S. Strotmeyer,a PhD, MPH,
+for the Health, Aging, and Body Composition Study
+
+a
+
+Department of Epidemiology, Graduate School of Public Health, University of Pittsburgh,
+
+TE
+D
+
+Pittsburgh, PA. bDepartment of Health and Physical Activity, School of Education, University of
+Pittsburgh, Pittsburgh, PA. cDepartment of Sports Science and Clinical Biomechanics, University
+of Southern Denmark, Odense, Denmark. dIntramural Research Program, Laboratory of
+
+EP
+
+Epidemiology, and Population Sciences, National Institute on Aging, National Institutes of
+Health, Bethesda, MD.
+
+e
+
+Division of Gerontology and Geriatric Medicine, Department of Internal
+
+AC
+C
+
+Medicine, Wake Forest School of Medicine, Winston-Salem, NC. fDepartment of Epidemiology
+and Biostatistics, University of California San Francisco, San Francisco, CA, gDepartment of
+Preventive Medicine, University of Tennessee Health Science Center, Memphis, TN,
+h
+
+Translational Gerontology Branch, National Institute on Aging, National Institutes of Health,
+
+Baltimore, MD. iDepartment of Neurobiology, Eastern Virginia Medical School, Norfolk, VA.
+j
+
+Veterans Affairs Pittsburgh Health Care System and Department of Neurology, University of
+
+Pittsburgh, Pittsburgh, PA
+
+ACCEPTED MANUSCRIPT
+
+ACKNOWLEDGMENTS
+
+RI
+PT
+
+Presented to the Gerontological Society of America, November 6, 2014, Washington, D.C.
+
+This research was supported by National Institute on Aging Contracts N01-AG-6–2101, N01AG-6–2103, and N01-AG-6–2106 and Grant 1-R01-AG 028050 (to ESS) and National Institute
+
+SC
+
+of Nursing Research Grant R01-NR012459 and supported in part by the Intramural Research
+Program of the National Institutes of Health, National Institute on Aging, the University of
+
+M
+AN
+U
+
+Pittsburgh Claude D. Pepper Older Americans Independence Center (P30-AG024827) Pilot
+Grant (to ESS).
+
+Disclosure: Dr. Vinik reports a financial relationship with Merck, ISIS Pharmaceuticals, and
+
+Corresponding Author:
+
+TE
+D
+
+PamLab outside the submitted work. The other authors have nothing to disclose.
+
+Elsa S. Strotmeyer, PhD, MPH
+
+EP
+
+University of Pittsburgh
+
+Department of Epidemiology
+
+AC
+C
+
+130 N. Bellefield Ave, Room 515
+Pittsburgh, PA 15213
+Fax: 412-383-1308
+
+Email: StrotmeyerE@edc.pitt.edu
+
+ACCEPTED MANUSCRIPT
+
+1
+
+Sensorimotor Peripheral Nerve Function and the Longitudinal Relationship with
+
+2
+
+Endurance Walking in the Health, Aging and Body Composition Study
+
+3
+ABSTRACT
+
+5
+
+Objectives: To determine whether lower extremity sensorimotor peripheral nerve deficits are
+
+6
+
+associated with reduced walking endurance in older adults.
+
+7
+
+Design: Prospective cohort study with six years of follow-up.
+
+8
+
+Setting: Two U.S. clinical sites in (Pittsburgh, PA and Memphis, TN).
+
+9
+
+Participants: Community-dwelling older adults enrolled in Health, Aging and Body
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+4
+
+Composition study from the 2000/01 annual clinical examination (n=2393; age 76.5 ± 2.9 years;
+
+11
+
+48.2% male; 38.2% black) and subset with longitudinal data (n=1,178).
+
+12
+
+Interventions: Not applicable
+
+13
+
+Main Outcome Measures: Participants underwent peripheral nerve function examination in
+
+14
+
+2000/01, including peroneal motor nerve conduction amplitude and velocity, vibration perception
+
+15
+
+threshold, and monofilament testing. Symptoms of lower-extremity peripheral neuropathy
+
+16
+
+included numbness or tingling and sudden stabbing, burning, pain, or aches in the feet or legs.
+
+17
+
+The long distance corridor walk (LDCW; 400m) was administered in 2000/01 and every two
+
+18
+
+years afterwards for 6 years to assess endurance walking performance over time.
+
+19
+
+Results: In separate fully adjusted linear mixed models poor vibration threshold (>130
+
+20
+
+microns), 10-g and 1.4-g monofilament insensitivity were each associated with slower LDCW
+
+21
+
+completion time (16.0, 14.1, and 6.7, seconds slower, respectively, P<.05 for each). Poor motor
+
+22
+
+amplitude (<1mV), poor vibration perception threshold, and 10-g monofilament insensitivity were
+
+23
+
+related to greater slowing/year (4.7, 4.3, and 4.3 additional seconds/year, respectively, P<.05),
+
+24
+
+though poor motor amplitude was not associated with initial completion time.
+
+25
+
+Conclusions: Poorer sensorimotor peripheral nerve function is related to slower endurance
+
+26
+
+walking and greater slowing longitudinally. Interventions to reduce the burden of sensorimotor
+
+AC
+C
+
+EP
+
+TE
+D
+
+10
+
+1
+
+ACCEPTED MANUSCRIPT
+
+peripheral nerve function impairments should be considered in order to help older adults to
+
+28
+
+maintain walking endurance—a critical component for remaining independent in the community.
+
+29
+
+List of Abbreviations:
+
+30
+
+Health ABC: Health, Aging, and Body Composition Study
+
+31
+
+LDCW: Long Distance Corridor Walk
+
+RI
+PT
+
+27
+
+32
+33
+
+Sensorimotor peripheral nerve function deficits are common in older adults, even in the
+absence of diabetes.1-3 In the Health, Aging, and Body Composition Study (Health ABC), recent
+
+35
+
+work indicated that 55% of mobility-intact older adults (N=1,680; age 76.5 ± 2.9 years) at the
+
+36
+
+2000/01 examination had evidence of lower extremity peripheral nerve impairment.3 Poor
+
+37
+
+peripheral nerve function in older adults is associated with worse lower extremity function,4-7
+
+38
+
+quadriceps and ankle dorsiflexion strength,8,9 falls,10-13 and lower extremity mobility limitations.3
+
+39
+
+Worse lower extremity sensation and motor control resulting from sensorimotor peripheral nerve
+
+40
+
+dysfunction can lead to altered gait mechanics and inefficient and unstable gait patterns.14-19
+
+41
+
+Additionally, symptoms related to peripheral nerve impairments—including lower extremity pain
+
+42
+
+or numbness—may make weight-bearing activities like walking difficult.
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+34
+
+Walking endurance—the ability to walk for a sustained time or distance—is important for
+
+44
+
+independence and remaining active in the community. Though aerobic fitness plays a major role
+
+45
+
+in endurance walking, factors like peripheral nerve function may influence walking endurance
+
+46
+
+over time, particularly given their impact on lower extremity function. However, work has been
+
+47
+
+limited in exploring the impact of peripheral nerve impairments on walking endurance.
+
+AC
+C
+
+48
+
+EP
+
+43
+
+Evidence exists that walking endurance is worse in diabetic adults compared to non-
+
+49
+
+diabetic healthy adults20 and also in the in the presence of a greater burden of lower extremity
+
+50
+
+complications from diabetic peripheral neuropathy.21 In the InCHIANTI study, motor nerve
+
+51
+
+conduction velocity was cross-sectionally associated with slower completion of a fast-paced
+
+52
+
+400m walking test for older diabetic and non-diabetic adults.22 Ideally, both motor and sensory
+2
+
+ACCEPTED MANUSCRIPT
+
+53
+
+nerve assessments and symptoms should be included to examine the full range of peripheral
+
+54
+
+nerve function, not only clinical disease.23 Furthermore, no longitudinal studies have examined
+
+55
+
+if peripheral nerve function contributes to decline in endurance walking over time in old age.
+This study aimed to: 1) examine whether worse sensorimotor peripheral nerve function
+
+RI
+PT
+
+56
+
+is cross-sectionally related to poorer endurance walking in older adults, and 2) determine
+
+58
+
+whether worse sensorimotor peripheral nerve function is associated with greater slowing
+
+59
+
+longitudinally over six years of follow-up in the Health ABC study.
+
+SC
+
+57
+
+61
+
+METHODS
+
+62
+
+Study Population
+
+63
+
+M
+AN
+U
+
+60
+
+Participants were from Health ABC, a longitudinal cohort study of community-dwelling
+older adults (n=3075; age 70-79; 48.4% male; 41.6% black at baseline) from Pittsburgh, PA and
+
+65
+
+Memphis, TN aimed at investigating factors related to the development of functional limitation
+
+66
+
+and disability.24 Participants had to self-report having no difficulty in walking ¼ mile, climbing 10
+
+67
+
+steps, or any basic activity of daily living; be free of any life-threatening cancers; and plan to
+
+68
+
+remain in the study area for at least three years. Participants completed the baseline visit
+
+69
+
+between April 1997 and June 1998 and provided written informed consent. In 2000/01, 2,404
+
+70
+
+participants had a clinic visit, with 2393 having complete nerve function and endurance walking
+
+71
+
+data (Figure 1). All study protocols were approved by institutional review boards at the
+
+72
+
+University of Pittsburgh and University of Tennessee Health Science Center.
+
+73
+
+Peripheral Nerve Function Measures
+
+EP
+
+AC
+C
+
+74
+
+TE
+D
+
+64
+
+Lower extremity sensory and motor nerve function was assessed in 2000/01 by a trained
+
+75
+
+examiner. Motor nerve function was measured objectively using amplitude (millivolts) and
+
+76
+
+conduction velocity (m/sec) of the peroneal motor response as previously described.25
+
+77
+
+Stimulation occurred at the popliteal fossa and ankle using the NeuroMax 8a. Sensory nerve
+
+78
+
+function was measured using vibration detection threshold and monofilament testing. Vibration
+3
+
+ACCEPTED MANUSCRIPT
+
+detection threshold (in microns) was measured at the bottom of the great toe with a VSA-3000
+
+80
+
+Vibratory Sensory Analyzerb. Monofilament insensitivity was defined as the inability to detect
+
+81
+
+three of four touches at the dorsum of the large toe with a standard 10-g and light 1.4-g
+
+82
+
+monofilamentc. Feet were warmed to 30°C, and measures were perf ormed on the right unless
+
+83
+
+contraindicated due to knee replacement, amputation, trauma, ulcer, or recent surgery, in which
+
+84
+
+case the left side was tested unless also contraindicated. Clinically meaningful cut-points of
+
+85
+
+motor amplitude <1 mV, conduction velocity <40 m/sec,26 or vibration threshold >130were used
+
+86
+
+to define impairment, . These cut-points were previously used by Ward and are related to
+
+87
+
+quadriceps strength declines over time9 and incident mobility limitation.3
+
+SC
+
+M
+AN
+U
+
+88
+
+RI
+PT
+
+79
+
+Self-reported symptoms of peripheral neuropathy included (1) numbness, "asleep
+
+89
+
+feeling,” prickly feeling or tingling (2) sudden stabbing, burning, or deep aches, or (3) an open
+
+90
+
+persistent sore or gangrene on either foot or leg in the past 12 months.
+
+91
+
+Endurance Walking
+
+The long distance corridor walk (LDCW) was administered in 2000/01 and follow-up
+
+TE
+D
+
+92
+
+visits in 2002/03, 2004/05 and 2006/07 to assess walking endurance.27 Exclusion criteria
+
+94
+
+included: systolic blood pressure >200 mmHg, resting pulse of ≥120 beats per minute, presence
+
+95
+
+of an electrocardiogram abnormality, cardiac surgery, worsening of chest pain or shortness of
+
+96
+
+breath in the prior three months. This test included minute warm-up where the participant was
+
+97
+
+to “cover as much ground as possible” for two minutes followed by the LDCW performed “as
+
+98
+
+quickly as possible at a pace that can be maintained for 400 meters.”28 Completion time for the
+
+99
+
+400m portion was recorded and used for analysis. Participants walked 10 laps around traffic
+
+100
+
+cones placed 20m apart for a total of 400 meters. Heart rate was recorded for each lap and
+
+101
+
+blood pressure was measured at the end of the test. The test was stopped if heart rate
+
+102
+
+surpassed 135 beats per minute, or for lightheadedness, dizziness, chest pain, shortness of
+
+103
+
+breath or leg pain.
+
+104
+
+Additional Covariates
+
+AC
+C
+
+EP
+
+93
+
+4
+
+ACCEPTED MANUSCRIPT
+
+105
+
+Clinical site, age, sex, and race were included as demographic characteristics. Several
+
+106
+
+factors were considered as potential covariates and were from the 2000/01 clinic visit unless
+
+107
+
+otherwise noted.
+Smoking history (assessed in 1999/2000), health status (excellent, very good, good, fair,
+
+109
+
+or poor), current alcohol use (drinks/week), and physical activity (kilocalories expended/week in
+
+110
+
+walking and stair climbing)29 were assessed via questionnaire. Body composition (fat mass
+
+111
+
+and bone-free lean mass) was measured using dual-energy X-ray absorptiometry (DXA
+
+112
+
+4500A)d.
+
+SC
+
+Diabetes was defined using self-reported physician’s diagnosis, hypoglycemic
+
+M
+AN
+U
+
+113
+
+RI
+PT
+
+108
+
+medication use, or fasting glucose ≥126 mg/dL (8 hour fast); impaired fasting glucose was
+
+115
+
+defined as fasting glucose level of 100-125 mg/dL after an 8 hour fast.30 Arterial stiffening
+
+116
+
+Peripheral arterial disease and arterial stiffening were defined ankle brachial index31 of <0.9
+
+117
+
+and >1.3, respectively. Hypertension was defined by self-report, medication use, measured
+
+118
+
+systolic blood pressure ≥140mmHg or diastolic blood pressure ≥90mmHg. Poor vitamin B12
+
+119
+
+status was defined as <260 pmol/L32 and insufficient renal function as Cystatin-C >1mg/dL.33
+
+120
+
+Cognitive function was measured using the Digit Symbol Substitution Test34 at baseline and
+
+121
+
+Modified Mini-Mental State Examination35 in 1999/2000. The Center for Epidemiologic Studies
+
+122
+
+Depression Scale (CES-D) score assessed depressive symptoms.36 Prevalent coronary heart
+
+123
+
+disease (bypass/coronary artery bypass graft, carotid endarterectomy, myocardial infarction,
+
+124
+
+angina, or congestive heart failure), cerebrovascular disease (transient ischemic attack or
+
+125
+
+stroke), lung disease (asthma, chronic obstructive pulmonary disease, or emphysema), and
+
+126
+
+osteoarthritis in the knee or hip were assessed at baseline.
+
+127
+
+Statistical Methods
+
+AC
+C
+
+EP
+
+TE
+D
+
+114
+
+128
+
+Participants were grouped based upon initial 2000/01 LDCW eligibility and completion.
+
+129
+
+Groups included: ineligible for the LDCW, not completing the full LDCW, completing the 400m
+
+130
+
+portion in >7 minutes, and completing in ≤7 minutes. The aerobic fitness validation study of the
+5
+
+ACCEPTED MANUSCRIPT
+
+LDCW indicated that requiring >7 minutes is potentially indicative of significant functional
+
+132
+
+limitations.27 Descriptive statistics were expressed using proportions for categorical variables
+
+133
+
+and mean ± SD for continuous variables. Tests of trend were used to assess differences in
+
+134
+
+characteristics and peripheral nerve function across groups. Linear mixed-effects models
+
+135
+
+assessed the association between peripheral nerve function and greater slowing longitudinally
+
+136
+
+over six years of follow-up. Only participants who completed the LDCW in 2000/01 and at least
+
+137
+
+one follow-up could be included in the longitudinal models (n=1178, Figure 1). T-tests and chi-
+
+138
+
+squared tests were used to compare characteristics of those who were included in the
+
+139
+
+longitudinal models or not.
+
+SC
+
+M
+AN
+U
+
+140
+
+RI
+PT
+
+131
+
+Some peripheral nerve function measures were moderately correlated and thus modeled
+separately. The date of each Health ABC visit was used as the time parameter. Interaction
+
+142
+
+terms between each predictor and time indicate rate of change in 400m completion time over
+
+143
+
+the course of the study contributed by that predictor. Time-varying covariates were used for
+
+144
+
+factors that were updated throughout the study (physical activity, body composition). Models
+
+145
+
+were built progressively using forward stepwise techniques, initially retaining factors reaching a
+
+146
+
+significance of P<.10 or that appreciably attenuated the effect of peripheral nerve predictors.
+
+147
+
+We started with unadjusted models including peripheral nerve function and the interaction
+
+148
+
+between time and peripheral nerve function, and progressed by adding age, sex, race, site, and
+
+149
+
+body composition for a minimally adjusted model. We further adjusted for baseline health
+
+150
+
+status, lifestyle habits (smoking, alcohol consumption, and physical activity), prevalent diseases,
+
+151
+
+and mental health and cognitive function variables as well as the time interactions for each of
+
+152
+
+these covariates. Only factors reaching a significance of P<.05 were retained in the final
+
+153
+
+parsimonious model. Because of the strong relationship between diabetes and peripheral nerve
+
+154
+
+function, diabetes was retained in the final model regardless of significance. In sensitivity
+
+155
+
+analyses, we tested the interaction between diabetes and peripheral nerve function, and we
+
+156
+
+also reran the linear mixed models excluding participants with diabetes. No structure was
+
+AC
+C
+
+EP
+
+TE
+D
+
+141
+
+6
+
+ACCEPTED MANUSCRIPT
+
+157
+
+imposed on the covariance matrix of the random effects. All models included a random
+
+158
+
+intercept and a random slope for the visit parameter. Due to multiple comparisons, statistical
+
+159
+
+significance was also checked after Bonferroni correction for eight comparisons.
+
+RI
+PT
+
+160
+161
+162
+
+RESULTS
+
+Of the 2393 participants (age 76.5 ± 2.9 years; 48.2% male; 38.2% black), included in
+
+164
+
+this analysis, n=345 (14.4%) were ineligible for the LDCW, n=407 (17.0%) started but did not
+
+165
+
+complete the full LDCW, n=113 (4.7%) completed the 400m portion in >7 minutes, and 1528
+
+166
+
+participants (52.0%) completed in ≤7 minutes at the 2000/01 clinic visit. Significant trends
+
+167
+
+existed that those who completed the LDCW were slightly younger, were less likely to be female
+
+168
+
+or black, and were generally in better health and had fewer chronic conditions than those who
+
+169
+
+were ineligible or unable to complete the full LDCW (Table 1).
+
+M
+AN
+U
+
+Cross-sectional LDCW eligibility and performance were also associated with higher
+
+TE
+D
+
+170
+
+SC
+
+163
+
+motor amplitude, lower vibration threshold, detection of both monofilaments, and reporting no
+
+172
+
+symptoms of peripheral neuropathy (Table 2, P<.05 for each). Motor nerve conduction velocity
+
+173
+
+was not associated with LDCW eligibility or completion.
+
+174
+
+EP
+
+171
+
+Compared to those included in the longitudinal analyses, those not included were slightly
+older (mean age 76.9 ± 2.9 vs. 76.2 ± 2.8 years, P<.001), more likely to be women (55.8% vs.
+
+176
+
+52.1%, P<.001) and more likely to be black (44.9% vs. 32.2%, P<.001). Those not in the
+
+177
+
+longitudinal analyses also had worse motor nerve amplitude (3.1 ± 1.9 vs. 3.6 ± 2.0 mV,
+
+178
+
+P<.001), higher vibration perception threshold (53.6 ± 36.4 vs. 49.5 ± 34.6 microns, p=0.005),
+
+179
+
+were more likely to have 10-g (10.7% vs. 7.0%) or 1.4-g (37.6% vs. 36.1%) monofilament
+
+180
+
+insensitivity (p=0.004), and were more likely to report at least one symptom of peripheral
+
+181
+
+neuropathy (42.3% vs. 31.8%). The most common reasons for not being included in the mixed
+
+AC
+C
+
+175
+
+7
+
+ACCEPTED MANUSCRIPT
+
+182
+
+models were not finishing the initial LDCW (n=407) or meeting exclusion criteria at the initial
+
+183
+
+LDCW assessment (n=345).
+In longitudinal analyses, worse motor amplitude worse vibration threshold and poor
+
+185
+
+vibration threshold, 10-g and 1.4-g monofilament insensitivity were associated with 3.9, 5.2,
+
+186
+
+19.6, 9.3, and 20.7 seconds slower initial 400m walk completion time, respectively, when
+
+187
+
+adjusting for age, sex, race, site, height, and weight (Table 3; P<.05 for all). Relationships
+
+188
+
+were slightly attenuated after further adjusting for health habits and health conditions. Significant
+
+189
+
+relationships remained with the exception of lower motor amplitude (per SD poorer amplitude).
+
+190
+
+Poor vibration perception threshold was associated with completing the 400m walk 16.0
+
+191
+
+seconds slower and an additional 4.3 seconds of slowing per year compared to those with
+
+192
+
+vibration perception threshold ≤130 microns. Those with 10-g monofilament insensitivity
+
+193
+
+completed the 400m walk 14.1 seconds slower and slowed an additional 4.3 seconds each
+
+194
+
+year. Longitudinal endurance walking was not associated with either motor nerve conduction
+
+195
+
+velocity or symptoms of peripheral neuropathy. In sensitivity analyses, no significant interaction
+
+196
+
+existed between diabetes and peripheral nerve function. All results remained consistent after
+
+197
+
+excluding individuals with diabetes.
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+184
+
+200
+
+DISCUSSION
+
+In this cohort of community-dwelling older adults, worse motor and sensory peripheral
+
+AC
+C
+
+199
+
+EP
+
+198
+
+201
+
+nerve function was related to worse endurance walking performance, and sensory nerve
+
+202
+
+impairments were associated with greater slowing longitudinally. Additionally, peripheral nerve
+
+203
+
+function and presence of symptoms of neuropathy were cross-sectionally related to the inability
+
+204
+
+to complete the initial LDCW. Though peripheral nerve impairments are often thought to be
+
+205
+
+primarily a concern for those with diabetes, these results support previous work indicating that
+
+206
+
+peripheral nerve function is an important predictor of mobility related outcomes in older adults
+
+207
+
+independent of diabetes.3,4
+8
+
+ACCEPTED MANUSCRIPT
+
+208
+
+Vibration perception threshold and standard monofilament insensitivity were strongly
+associated with the slowing of endurance walking over time. Sensory nerves detect touch,
+
+210
+
+vibration, and other sensations regarding the external environment, while motor nerves relay
+
+211
+
+signals from the central nervous system that allow for voluntary movement. Sensory nerve
+
+212
+
+function in the lower extremities is crucial for perception of joint position, posture, and balance—
+
+213
+
+all factors that play roles in walking quickly and efficiently. Worse vibration perception threshold
+
+214
+
+is associated with worse balance and slower usual gait speed in older adults without diabetes or
+
+215
+
+overt peripheral neuropathy.4,7,37
+
+SC
+
+RI
+PT
+
+209
+
+Little work exists relating sensorimotor peripheral nerve function to endurance walking in
+
+217
+
+older adults. In InCHIANTI, slower motor nerve conduction velocity was associated with slower
+
+218
+
+completion of a fast-paced 400m walking test for older adults,22 though this study did not include
+
+219
+
+measures of motor nerve amplitude, sensory peripheral nerve function or the assessment of
+
+220
+
+symptoms of peripheral neuropathy. The association with conduction velocity is in contrast to
+
+221
+
+our results, though age and racial differences between the InCHIANTI and Health ABC cohorts
+
+222
+
+may have contributed to the differences in findings. Worse motor nerve amplitude (a sign of
+
+223
+
+axonal degeneration) but not worse motor nerve conduction velocity (a sign of demyelination)
+
+224
+
+have been shown to be associated with worse lower extremity physical performance,4 slower
+
+225
+
+usual gait speed4, and incident lower extremity limitation3 in Health ABC.
+
+TE
+D
+
+EP
+
+The effect size of poor sensory peripheral nerve function was similar in magnitude to
+
+AC
+C
+
+226
+
+M
+AN
+U
+
+216
+
+227
+
+those of common risk factors associated with worse walking endurance. For example, current
+
+228
+
+smoking was independently associated with completing the initial 400m walk 14.0 seconds
+
+229
+
+slower, and cerebrovascular disease was associated with 16.1 seconds slower on the initial
+
+230
+
+400m walk, though neither were significantly associated with greater slowing over time. This is
+
+231
+
+similar to the effect of poor vibration perception threshold (16.0 seconds slower) and 10-g
+
+232
+
+monofilament insensitivity (14.1 seconds) on initial 400m walk completion time, which were
+
+233
+
+each related to greater slowing over time (4.3 seconds slower each).
+9
+
+ACCEPTED MANUSCRIPT
+
+234
+
+Peripheral nerve impairments are common in older adults, 1 and improving functional
+outcomes in those with these impairments may be important on many levels. Work in diabetic
+
+236
+
+populations has shown that worse lower extremity peripheral nerve function is associated with
+
+237
+
+altered gait biomechanics17-19,38 Because of the associations between gait alterations with
+
+238
+
+injuries and falls16,38-41 these factors may also be in the pathway to worse lower-extremity
+
+239
+
+function for older adults. Physical activity may help older adults delay persistent mobility
+
+240
+
+limitations,42 however, whether physical activity interventions may be used to reduce physical
+
+241
+
+functional impairments due to poor peripheral nerve function is currently unknown.
+
+SC
+
+RI
+PT
+
+235
+
+A major strength of this work is the inclusion of several measures of both motor and
+
+243
+
+sensory nerve function, as well as symptoms associated with peripheral neuropathy. Nerve
+
+244
+
+function deficits in older adults are commonly asymptomatic,1 making it particularly important to
+
+245
+
+include a variety objective and subjective measures. In addition, the large sample size and
+
+246
+
+longitudinal design allowed an examination of several factors that could potentially influence
+
+247
+
+peripheral nerve function and/or walking endurance over time.
+
+248
+249
+
+Study Limitations
+
+TE
+D
+
+M
+AN
+U
+
+242
+
+Only participants who completed the initial LDCW and at least one follow-up could be
+
+251
+
+used in the longitudinal analysis. Those who could not complete initial LDCW or at least one
+
+252
+
+follow-up had worse peripheral nerve function compared to those who were included in the
+
+253
+
+longitudinal analyses. Retention bias is applicable to most cohort studies of older adults since
+
+254
+
+those who return for clinic visits are typically healthier than those who do not.43
+
+255
+
+have underestimated the true effect of peripheral nerve function on the worsening of walking
+
+256
+
+endurance.
+
+257
+
+adults,27 traditional measures of maximal aerobic capacity were not available in this study. The
+
+258
+
+relationship between aerobic fitness as determined from a maximal treadmill test and also other
+
+259
+
+physical activity assessments to peripheral nerve function has should be explored in future
+
+AC
+C
+
+EP
+
+250
+
+Thus, we may
+
+Finally, though the LDCW is a valid measure for estimating aerobic fitness in older
+
+10
+
+ACCEPTED MANUSCRIPT
+
+260
+
+work. Our physical activity assessment was restricted walking and stair climbing, as these were
+
+261
+
+the only activities self-reported consistently throughout this follow-up period.
+
+262
+
+264
+
+CONCLUSIONS
+
+RI
+PT
+
+263
+
+Poorer sensory and motor peripheral nerve function in older adults is related to slower
+endurance walking and greater slowing longitudinally over 6 years. Declines in endurance
+
+266
+
+walking likely contribute to the development of mobility limitations for those with sensorimotor
+
+267
+
+peripheral nerve impairments. Future work to reduce the burden of these impairments should
+
+268
+
+be considered to help older adults to maintain walking endurance—a crucial component for
+
+269
+
+community independence.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+265
+
+11
+
+ACCEPTED MANUSCRIPT
+
+SUPPLIERS
+a. XLTEK, 2568 Bristol Cir, Oakville, ON L6H 5S1, Canada
+
+27707
+
+RI
+PT
+
+b. Medoc Advanced Medical Systems U.S. 1502 W Nc Highway 54 Ste 404, Durham, NC
+
+c. North Coast Medical, 8100 Camino Arroyo, Gilroy, CA 95020.
+d. Hologic, Inc., 35 Crosby Dr. Bedford, MA 01730
+
+SC
+
+Key Words:
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+peripheral nerve function, older adults, longitudinal analysis, walking endurance
+
+12
+
+ACCEPTED MANUSCRIPT
+
+REFERENCES
+Gregg EW, Sorlie P, Pulose-Ram R, Eberhardt M, Wolz M, Burt V, et al. Prevalence of
+lower-extremity disease in the U.S. adult population 40+ years of age with and without
+diabetes. Diabetes Care. 2004;27(27):1591-1597.
+
+2.
+
+Baldereschi M, Inzitari M, Di Carlo A, Farchi G, Scafato E, Inzitari D. Epidemiology of
+distal symmetrical neuropathies in the Italian elderly. Neurology. 2007;68(18):14601467.
+
+3.
+
+Ward RE, Boudreau RM, Caserotti P, Harris TB, Zivkovic S, Goodpaster BH, et al.
+Sensory and motor peripheral nerve function and incident mobility disability. J Am
+Geriatr Soc. 2014;62(12):2273-2279.
+
+4.
+
+Strotmeyer ES, De Rekeneire N, Schwartz A, Faulkner K, Resnick H, Goodpaster B, et
+al. The relationship of reduced peripheral nerve function and diabetes with physical
+performance in older white and black adults. Diabetes Care. 2008;31(9):17671-11772.
+
+5.
+
+Cimbiz A, Cakir O. Evaluation of balance and physical fitness in diabetic neuropathic
+patients. J Diabetes Complicat. 2005;19(3):160-164.
+
+6.
+
+Resnick HE, Stansberry K, Harris T, Tirivedi M, Smith K, Morgan P, et al. Diabetes,
+peripheral neuropathy, and old age disability. Muscle Nerve. 2002;25(1):43-50.
+
+7.
+
+Resnick H, Vinik A, Schwartz AV, Leveille S, Brancati F, Balfour J, et al. Independent
+effects of peripheral nerve dysfunction on lower-extremity physical function in old age:
+the Women's Health and Aging Study. Diabetes Care. 2000;23(11):1642-1647.
+
+8.
+
+Strotmeyer ES, de Rekeneire N, Schwartz AV, Resnick HE, Goodpaster B, Faulkner K,
+et al. Sensory and Motor Peripheral Nerve Function and Lower-Extremity Quadriceps
+Strength: The Health, Aging and Body Composition Study. J Am Geriatr Soc.
+2009;57(11):2004-2010.
+
+9.
+
+Ward RE, Boudreau RM, Caserotti P, Harris TB, Zivkovic S, Goodpaster BH, et al.
+Sensory and motor peripheral nerve function and longitudinal changes in quadriceps
+strength. J Gerontol A Biol Sci Med Sci. Apr 2015;70(4):464-470.
+
+10.
+
+Richardson J, Ching C, Hurvitz E. The relationship between electromyographically
+documented peripheral neuropathy and falls. J Am Geriatr Soc. 1992;40(10):1008-1012.
+
+12.
+
+13.
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+11.
+
+RI
+PT
+
+1.
+
+Schwartz A, Vittinghoff E, Sellmeyer D, Feingold K, de Rekeneire N, Strotmeyer E, et al.
+Diabetes-related complications, glycemic control, and falls in older adults. Diabetes
+Care. 2008 2008;31(3):391-396.
+Ferrucci L, Bandinelli S, Cavazzini C, Lauretani F, Corsi A, Bartali B, et al. Neurological
+examination findings to predict limitations in mobility and falls in older persons without a
+history of neurological disease. Am J Med.116(12):807-815.
+Lalli P, Chan A, Garven A, Midha N, Chan C, Brady S, et al. Increased gait variability in
+diabetes mellitus patients with neuropathic pain. J Diabetes Complicat. 2013;27(3):248254.
+13
+
+ACCEPTED MANUSCRIPT
+
+Mueller M, Minor S, Sahrmann S, Schaaf J, Strube M. Differences in the Gait
+characteristics of patients with diabetes and peripheral neuropathy compared with agematched controls. Physical Therapy. 1994;74(4):299-308.
+
+15.
+
+Katoulis E, Ebdo-Parry M, Lanshammar H, Vileikyte L, Krlkarni J, Boulton A. Gait
+abnormalities in diabetic neuropathy. Diabetes Care. 1997;20(12):1904-1907.
+
+16.
+
+Raspovic A. Gait Characteristics of people with diabetes-related peripheral neuropathy,
+with and without a history of ulceration. Gait Posture. 2013;38:723-728.
+
+17.
+
+Brach J, Talkowiski J, Strotmeyer E, Newman A. Diabetes mellitus and gait dysfunction:
+possible explanitory factors. Physical Therapy. 2008;88(11):1365-1374.
+
+18.
+
+Deschamps K, Matricali GA, Roosen P, Nobels F, Tits J, Desloovere K, et al.
+Comparison of foot segmental mobility and coupling during gait between patients with
+diabetes mellitus with and without neuropathy and adults without diabetes. Clin
+Biomech. 2013;28(7):813-819.
+
+19.
+
+Menz H, Lord S, St George R, Fitzpatrick R. Walking stability and sensorimotor function
+in older people with diabetic peripheral neuropathy. Arch Phys Med Rehab.
+2004;85(2):245-252.
+
+20.
+
+Özdirenç M, Biberoğlu S, Özcan A. Evaluation of physical fitness in patients with Type 2
+diabetes mellitus. Diabetes Res Clin Pr. 2003;60(3):171-176.
+
+21.
+
+Kanade RV, Deursen RWM, Harding K, Price P. Walking performance in people with
+diabetic neuropathy: benefits and threats. Diabetologia. 2006;49(8):1747-1754.
+
+22.
+
+McDermott M, Guralnik J, Albay M, Bandinelli S, Miniati B, Ferrucci L. Impairments of
+muscles and nerves associated with peripheral arterial disease and their relationship
+with lower extremity functioning: The InCHIANTI Study. J Am Geriatr Soc.
+2004;52(3):405-410.
+
+23.
+
+Tesfaye S, Boulton A, Dyck P, Freeman R, Horowitz M, Kempler P, et al. Diabetic
+neuropathies: update on definitions, diagnostic criteria, estimation of severity, and
+treatments. Diabetes Care. 2010;33(10):2285-2293.
+
+24.
+
+Simonsick E, Newman A, Nevitt M, Kkritchevsky S, Ferrucci L, Guralnik J, et al.
+Measuring higher level physical function in well-functioning older adults. J Gerontol A
+Biol Sci Med Sci. 2001:M644-649.
+
+26.
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+25.
+
+RI
+PT
+
+14.
+
+Ward RE, Boudreau RM, Vinik AI, Zivkovic S, Njajou O, Satterfield S, et al.
+Reproducibility of peroneal motor nerve conduction measurement in older adults. Clin
+Neurophysiol. 2013;124(3):603-609.
+
+Maser RE, Nielsen VK, Dorman JS, Drash AL, Becker DJ, Orchard TJ. Measuring
+subclinical neuropathy: does it relate to clinical neuropathy? Pittsburgh epidemiology of
+diabetes complications study-V. J Diabet Complications. 1991;5(1):6-12.
+
+14
+
+ACCEPTED MANUSCRIPT
+
+Simonsick E, Fan E, Fleg J. Estimating cardiorespiratory fitness in well-functioning older
+adults: treadmill validation of the long distance corridor walk. J Am Geriatr Soc.
+2005:127-132.
+
+28.
+
+Simonsick E, Montgomery P, Newman A, Bauer D, Harris T. Measuring fitness in
+healthy older adults: the Health ABC long distance corridor walk. J Am Geriatr Soc.
+2001;49:1544-1548.
+
+29.
+
+Ainsworth B, Haskell W, Leon A. Compendium of physical activities: classification of
+energy costs of human physical activities. Med Sci Sports Exerc. 1993:71-83.
+
+30.
+
+American Diabetes Association. Diagnosis and classification of diabetes mellitus.
+Diabetes Care. 2013;36 Suppl 1:S67-74.
+
+31.
+
+Aboyans V, Criqui M, Abraham P, Allison M, Creager M, Diehm C, et al. Measurement
+and interpretation of the ankle-brachial index: a scientific statement from the American
+Heart Association. Circulation. 2012;126(24):2890-2909.
+
+32.
+
+Leishear K, Boudreau RM, Studenski SA, Ferrucci L, Rosano C, de Rekeneire N, et al.
+Relationship between vitamin B12 and sensory and motor peripheral nerve function in
+older adults. J Am Geriatr Soc. 2012;60(6):1057-1063.
+
+33.
+
+Shlipak M, Wassel Fyr C, Chertow G, Harris T, Kritchevsky S, Tylavsky F, et al. Cystatin
+C and mortality risk in the elderly: the health, aging, and body composition study. J Am
+Soc Nephrol. 2006;17(1):254-261.
+
+34.
+
+Wechsler Adult Intelligence Scale—Revised. San Antonio, TX: Psychological
+Corporation; 1981.
+
+35.
+
+Teng E, Chui H. The Modified Mini-Mental State (3MS) Examination. J Clin Psychiatry.
+1987;48(8):314-318.
+
+36.
+
+Radloff L. The CES-D Scale: A self-report depression xcale for research in the general
+population. Appl Psychol Meas. 1977;1(3):385-401.
+
+37.
+
+Buchman AS, Wilson RS, Leurgans S, Bennett DA. Vibratory thresholds and mobility in
+older persons. Muscle Nerve. 2009;39(6):754-760.
+
+38.
+
+Zurales K, DeMott TK, Kim H, Allet L, Ashton-Miller JA, Richardson JK. Am J Phys Med
+Rehabil. 2015 Jun 5 [Epub ahead of print].
+
+40.
+
+41.
+
+SC
+
+M
+AN
+U
+
+TE
+D
+
+EP
+
+AC
+C
+
+39.
+
+RI
+PT
+
+27.
+
+Tinetti M, Speechley M, Ginter S. Risk factors for falls among elderly persons living in
+the community. N Engl J Med. 1988;319(26):1701-1707.
+Hausdorff JM, Edelberg HK, Mitchell S, Goldberger A, Wei J. Increased gait
+unsteadiness in community-dwelling elderly fallers. Arch Phys Med Rehab.
+1997;78(March 1997):278-286.
+Hausdorff JM, Rios DA, Edelberg HK. Gait variability and fall risk in community-living
+older adults: a 1-year prospective study. Arch Phys Med Rehab. 2001;82(8):1050-1056.
+
+15
+
+ACCEPTED MANUSCRIPT
+
+Pahor M, Guralnik JM, Ambrosius WT, et al. Effect of structured physical activity on
+prevention of major mobility disability in older adults: The life study randomized clinical
+trial. JAMA. 2014;311(23):2387-2396.
+
+43.
+
+Strotmeyer E, Arnold A, Boudreau R, Ives D, Cushman M, Robbins J, et al. Long-term
+retention of older adults in the Cardiovascular Health Study: implications for studies of
+the oldest old. J Am Geriatr Soc. Apr 2010;58(4):696-701.
+
+AC
+C
+
+EP
+
+TE
+D
+
+M
+AN
+U
+
+SC
+
+RI
+PT
+
+42.
+
+16
+
+ACCEPTED MANUSCRIPT
+
+FIGURE LEGENDS
+
+RI
+PT
+
+Figure 1: Participant Flow Diagram from the Health, Aging and Body Composition Study
+
+LIST OF TABLES
+
+SC
+
+Table 1: Participant Characteristics by Long Distance Corridor Walk (LDCW) Eligibility and
+
+M
+AN
+U
+
+Completion in the Health, Aging and Body Composition Study 2000/01 Clinic Visit
+
+Table 2: Year 4 Peripheral Nerve Function by LDCW Eligibility/Completion Group in the Health,
+Aging and Body Composition study 2000/01 Clinic Visit
+
+Table 3: Peripheral nerve functioning and longitudinal performance in LDCW from 2000/01 to
+
+AC
+C
+
+EP
+
+TE
+D
+
+2006/07 in the Health, Aging and Body Composition study
+
+17
+
+ACCEPTED MANUSCRIPT
+
+Table 1: Participant Characteristics by Long Distance Corridor Walk (LDCW) Eligibility and
+Completion in the Health, Aging and Body Composition Study 2000/01 Clinic Visit
+Did Not
+
+Completed
+
+Completed
+
+P for
+
+for LDCW
+
+Finish LDCW
+
+LDCW
+
+LDCW
+
+Trend
+
+n=345
+
+n=407
+
+RI
+PT
+
+Ineligible
+
+(400m) in
+
+(400m) in
+
+>7 Minutes
+
+≤7 Minutes
+
+n=113
+
+n=1528
+
+SC
+
+Participant Characteristics
+
+192 (55.7)
+
+218 (53.6)
+
+49 (43.4)
+
+760 (49.7)
+
+.03
+
+Age, Mean ± SD
+
+77.2 ± 2.9
+
+76.8 ± 2.9
+
+76.8 ± 3.0
+
+76.3 ± 2.8
+
+<.001
+
+Female Sex
+
+197 (57.1)
+
+255 (62.7)
+
+71 (62.8)
+
+716 (46.9)
+
+<.001
+
+Black Race
+
+192 (55.7)
+
+188 (46.2)
+
+61 (54.0)
+
+473 (31.0)
+
+<.001
+
+Health Fair or Poor
+
+100 (29.2)
+
+92 (22.7)
+
+25 (22.3)
+
+127 (8.3)
+
+<.001
+
+48.6 ± 9.3
+
+48.6 ± 9.7
+
+47.4 ± 9.5
+
+49.3 ± 10.7
+
+.24
+
+28.5 ± 10.1
+
+28.6 ± 9.5
+
+28.8 ± 10.4
+
+24.9 ± 7.7
+
+<.001
+
+34 (10.2)
+
+42 (10.4)
+
+13 (11.6)
+
+113 (7.5)
+
+<.001
+
+84 (25.2)
+
+95 (23.6)
+
+24 (21.4)
+
+509 (33.6)
+
+<.001
+
+7.3 ± 20.1
+
+<.001
+
+M
+AN
+U
+
+Pittsburgh Site, N (5)
+
+Body Composition
+
+TE
+D
+
+Bone-Free Lean Mass (kg)
+Fat Mass (kg)
+Lifestyle Habits
+
+Drink >1 Drink/Week
+
+EP
+
+Current Smoker
+
+3.1 ± 6.7
+
+3.6 ± 6.0
+
+103 (29.9)
+
+117 (28.8)
+
+34 (30.1)
+
+263 (17.2)
+
+Impaired Fasting Glucose
+
+54 (15.7)
+
+73 (18.0)
+
+15 (13.3)
+
+242 (15.
+
+Hypertension
+
+261 (77.9)
+
+272 (67.5)
+
+77 (68.8)
+
+822 (54.5)
+
+<.001
+
+Coronary Heart Disease
+
+73 (21.5)
+
+105 (26.3)
+
+17 (15.2)
+
+222 (14.7)
+
+<.001
+
+Cerebrovascular Disease
+
+38 (11.5)
+
+39 (9.9)
+
+8 (7.3)
+
+72 (4.8)
+
+<.001
+
+AC
+C
+
+Physical Activity* (kcal/kg/week)
+
+3.0 ± 7.4
+
+Prevalent Diseases and Conditions
+Diabetes
+
+<.001
+
+ACCEPTED MANUSCRIPT
+
+85 (24.6)
+
+105 (26.3)
+
+20 (17.7)
+
+229 (15.0)
+
+<.001
+
+Osteoarthritis (Knee or Hip)
+
+59 (17.1)
+
+57 (14.0)
+
+16 (14.2)
+
+138 (9.0)
+
+<.001
+
+Peripheral Arterial Disease
+
+90 (28.8)
+
+94 (24.5)
+
+21 (19.4)
+
+167 (11.2)
+
+<.001
+
+Arterial Stiffening
+
+14 (4.5)
+
+17 (4.4)
+
+9 (8.3)
+
+79 (5.2)
+
+<.001
+
+Insufficient Renal Function (Cystatin-C
+
+139 (41.1)
+
+143 (35.9)
+
+Poor Vitamin B12 (<260 pmol/L)
+
+52 (16.0)
+
+65 (16.7)
+
+Shortness of Breath While Walking
+
+154 (44.6)
+
+178 (43.7)
+
+M
+AN
+U
+
+Mental Health and Cognitive Function
+
+41 (37.6)
+
+335 (22.4)
+
+<.001
+
+18 (17.1)
+
+344 (17.4)
+
+.51
+
+43 (38.1)
+
+344 (22.5)
+
+<.001
+
+SC
+
+>1mg/dL)
+
+RI
+PT
+
+Lung Disease
+
+CES-D Score
+
+8.2 ± 7.7
+
+7.4 ± 7.0
+
+7.6 ± 6.0
+
+5.7 ± 5.8
+
+<.001
+
+3MSE Score
+
+87.9 ± 8.9
+
+89.0 ± 8.8
+
+86.9 ± 9.6
+
+91.6 ± 7.3
+
+<.001
+
+Digit Symbol Substitution Score
+
+31.7 ± 14.4
+
+34.7 ± 14.5
+
+31.6 ± 15.2
+
+28.6 ± 14.2
+
+<.001
+
+*Physical Activity: Kilocalories/kilogram body weight spent per week in walking and stair
+
+TE
+D
+
+climbing,
+
+Abbreviations: CES-D, Center for Epidemiologic Studies Depression Scale36; 3MSE, Modified
+
+AC
+C
+
+EP
+
+Mini-Mental State Examination35
+
+ACCEPTED MANUSCRIPT
+
+Table 2: Year 4 Peripheral Nerve Function by LDCW Eligibility/Completion Group in the Health,
+Aging and Body Composition study 2000/01 Clinic Visit
+Ineligible
+for LDCW
+n=345
+
+Did Not
+Finish
+LDCW
+n=407
+
+Motor Nerve Function
+
+Poor amplitude, N (%)
+
+3.0 ± 2.1
+47 (19.9)
+
+41 (13.8)
+
+M
+AN
+U
+
+Sensory Nerve Function
+
+3.1 ± 2.0
+
+3.1 ± 2.0
+
+SC
+
+Motor amplitude, mV, Mean ± SD
+
+Completed
+LDCW
+(400m) in
+>7 Minutes
+n=113
+
+Completed P for
+LDCW
+trend
+(400m) in
+≤7
+minutes
+n=1528
+
+RI
+PT
+
+Peripheral Nerve Function
+Measure
+
+12 (15.0)
+
+3.5 ± 2.0
+
+<.001
+
+110 (8.8)
+
+<.001
+
+43.2 ± 5.6
+
+43.3 ± 5.2
+
+44.8 ± 5.7
+
+43.7 ± 5.4
+
+.33
+
+Poor conduction velocity
+
+52 (21.1)
+
+63 (22.7)
+
+15 (20.3)
+
+262 (21.9)
+
+.37
+
+Vibration threshold, microns
+
+56.0 ± 39.5 52.5 ± 35.4
+
+55.2 ± 35.8
+
+50.1 ± 34.7
+
+.03
+
+Poor vibration threshold
+
+32 (9.9)
+
+19 (4.8)
+
+10 (9.2)
+
+74 (5.0)
+
+.008
+
+1.4 monofilament insensitivity
+
+127 (38.3)
+
+35 (36.7)
+
+84 (42.7)
+
+23 (36.2)
+
+43 (13.0)
+
+41 (10.3)
+
+16 (14.6)
+
+107 (7.1)
+
+105 (31.0)
+
+125 (31.0)
+
+34 (30.1)
+
+379 (24.9)
+
+65 (19.2)
+
+46 (11.4)
+
+7 (6.2)
+
+120 (7.9)
+
+TE
+D
+
+Conduction velocity, m/sec
+
+10-g monofilament insensitivity
+
+<.001
+
+Symptoms of Peripheral Neuropathy
+
+EP
+
+One symptom
+
+AC
+C
+
+Two or More Symptoms
+
+<.001
+
+ACCEPTED MANUSCRIPT
+
+Table 3: Peripheral nerve functioning and longitudinal performance in LDCW from 2000/01 to
+2006/07 in the Health, Aging and Body Composition study
+Model 2
+
+Model 3: Final
+Model
+
+Standardized Betas
+
+Standardized Betas
+
+Standardized Betas
+
+Main
+Effect
+
+Time
+Interaction
+
+Main
+Effect
+
+Main
+Effect
+
+Time
+Interaction
+
+3.9*
+
+0.5
+
+3.7*
+
+2.2
+
+0.2
+
+5.8
+
+4.8**
+
+3.2
+
+4.4**
+
+-0.8
+
+4.7**†
+
+SD Slower Conduction
+Velocity, m/sec
+
+-0.8
+
+-0.1
+
+-0.5
+
+0.3
+
+1.1
+
+0.3
+
+Poor Conduction
+Velocity
+
+-2.1
+
+-0.04
+
+0.9
+
+-0.3
+
+-3.9
+
+-0.7
+
+RI
+PT
+
+Model 1
+
+Time
+Interaction
+
+Sensory Nerve
+Function
+
+5.2**
+
+1.6**
+
+4.9**
+
+1.7**
+
+3.4*
+
+1.5**†
+
+19.6**
+
+4.1*
+
+20.1**
+
+4.9**
+
+16.0*
+
+4.2*
+
+EP
+
+SD higher vibration
+perception threshold,
+microns
+
+TE
+D
+
+Poor amplitude
+
+AC
+C
+
+Poor vibration perception
+threshold
+
+0.3
+
+M
+AN
+U
+
+SD lower amplitude, mV
+
+SC
+
+Motor Nerve Function
+
+1.4 monofilament
+insensitivity
+
+9.3**
+
+-0.6
+
+8.6**
+
+-0.6
+
+6.9*
+
+-0.9
+
+10-g monofilament
+insensitivity
+
+20.7**
+
+4.4**
+
+16.3**
+
+4.5**
+
+14.4**
+
+3.8**†
+
+*P<.05, **P≤.01. *P<.05, **P≤.01, † Significant using Bonferroni adjustment for 8 multiple
+comparisons, P<0.006).
+
+ACCEPTED MANUSCRIPT
+
+Note: Model 1 is adjusted for age, sex, race and site; Model 2 Adjusted for Model 1 + health
+status, physical activity, current cigarette smoking, lean mass and fat mass; Model 3 Motor
+
+RI
+PT
+
+amplitude and conduction velocity: Model 2 + PAD, cerebrovascular disease, diabetes,
+insufficient renal function, shortness of breath while walking, and DSST score. Cigarette
+
+smoking and health status were removed. Model 3: Sensory nerves function: Model 2 + PAD,
+
+SC
+
+cerebrovascular disease, diabetes, insufficient renal function, DSST score, CES-D and
+hypertension. Cigarette smoking and health status were removed. Model 3: Vibration
+
+M
+AN
+U
+
+perception threshold: Model 2 + PAD, cerebrovascular disease, diabetes, insufficient renal
+function, DSST score, CES-D and hypertension, health status removed due to non-significance.
+Beta values for continuous predictors represent the decrease/increase in LDCW completion
+time based upon each standard deviation change representing worse nerve functioning.
+Continuous nerve function mean ± SD of those in the longitudinal sample (n=1178): Amplitude =
+
+
+
+3.6 ± 2.0 mV, conduction velocity = 43.7 ± 5.4, and vibration threshold = 49.5 ± 34.6.
+Time interactions indicate the additional increase in LDCW completion time per year (change in
+slope) compared to the baseline category (for categorical variables) or for each standard
+
+
+deviation of worse nerve functioning.
+
+
+
+

@@ -1,0 +1,758 @@
+American Journal of Infection Control 41 (2013) 340-4
+
+Contents lists available at ScienceDirect
+
+American Journal of Infection Control
+
+American Journal of
+Infection Control
+
+journal homepage: www.ajicjournal.org
+
+Major article
+
+Measuring inﬂuenza immunization coverage among health care workers in acute
+care hospitals and continuing care organizations in Canada
+Susan Quach MSc a, Jennifer A. Pereira PhD a, Jemila S. Hamid PhD b, Lois Crowe BA c,
+Christine L. Heidebrecht MSc a, Jeffrey C. Kwong MD, MSc a, d, e, f, Maryse Guay MD g, h, i,
+Natasha S. Crowcroft MD, PhD a, d, j, Allison McGeer MD, MSc d, j, k,
+Larry W. Chambers PhD, FACE, HonFFPH (UK), FCAHS b, c, l, Sherman D. Quan MSc a, m,
+Julie A. Bettinger PhD, MPH n, *, for the Public Health Agency of Canada/Canadian Institutes of Health
+Research Inﬂuenza Research Network PCIRN Vaccine Coverage Theme Group and the Canadian
+Healthcare Inﬂuenza Immunization Network
+a
+
+Surveillance and Epidemiology Unit, Public Health Ontario, Toronto, Ontario, Canada
+Department of Clinical Epidemiology and Biostatistics, McMaster University, Hamilton, Ontario, Canada
+Bruyère Research Institute, Bruyère Continuing Care and University of Ottawa Partnership, Ottawa, Ontario, Canada
+d
+Dalla Lana School of Public Health, University of Toronto, Toronto, Ontario, Canada
+e
+Institute for Clinical Evaluative Sciences, Toronto, Ontario, Canada
+f
+Department of Family Medicine and Community Medicine, University of Toronto, Toronto, Ontario, Canada
+g
+Département des sciences de la santé communautaire, Université de Sherbrooke, Longueuil, Québec, Canada
+h
+Institut national de santé publique du Québec, Longueuil, Québec, Canada
+i
+Direction de santé publique, Agence de la santé et des services sociaux de la Montérégie, Longueuil, Québec, Canada
+j
+Laboratory Medicine and Pathobiology Department, University of Toronto, Toronto, Ontario, Canada
+k
+Department of Microbiology, Mount Sinai Hospital, Toronto, Ontario, Canada
+l
+Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada
+m
+Centre for Innovation in Complex Care, University Health Network, Toronto, Ontario, Canada
+n
+Vaccine Evaluation Center, British Columbia Children’s Hospital, University of British Columbia, Vancouver, British Columbia, Canada
+b
+c
+
+Key words:
+Health care personnel
+Vaccinations
+Vaccination rate
+Flu
+
+Background: Immunizing health care workers against inﬂuenza is important for preventing and
+reducing disease transmission in health care environments. We describe the ability of Canadian health
+care organizations to measure inﬂuenza immunization coverage among health care workers and
+identify factors associated with comprehensive inﬂuenza immunization measurement.
+Methods: A Web-based survey was distributed to inﬂuenza immunization campaign planners responsible for delivering the 2010-2011 inﬂuenza vaccine to health care workers working in acute care
+hospitals or long-term continuing care organizations. The primary outcome was the ability to comprehensively measure inﬂuenza immunization coverage.
+Results: Of the 1,127 health care organizations approached, 721 (64%) responded. Ninety-one percent
+had incomplete immunization coverage measurement; 7% could not measure coverage among any
+personnel. After multivariable adjustment, organizations with a written inﬂuenza immunization
+implementation plan (odds ratio, 2.0; 95% conﬁdence interval, 1.1-3.5) or a policy or procedure describing
+how to calculate or report immunization rates (odds ratio, 2.1; 95% conﬁdence interval, 1.2-3.9) were
+more likely to have comprehensive measurement of inﬂuenza immunization coverage than organizations without these practices.
+
+* Address correspondence to Julie A. Bettinger, PhD, MPH, Vaccine Evaluation
+Center, University of British Columbia, 950 W 28th Ave, Room A-5, Vancouver, BC
+V5Z4H4, Canada.
+E-mail address: jbettinger@cfri.ca (J.A. Bettinger).
+Conﬂicts of interest: This study was supported by an operating grant from the
+Canadian Institutes of Health Research (No. IRR 96974). The study also received
+
+ﬁnancial support from the Canadian Healthcare Inﬂuenza Immunization Network funded primarily by the Canadian Institutes of Health Research (No. TPA
+90189). J.C.K. is supported by a University of Toronto Department of Family and
+Community Medicine Clinician Scientist Award. J.A.B. is supported by a Career
+Investigator Award from the Michael Smith Foundation for Health Research.
+
+0196-6553/$36.00 - Copyright Ó 2013 by the Association for Professionals in Infection Control and Epidemiology, Inc. Published by Elsevier Inc. All rights reserved.
+doi:10.1016/j.ajic.2012.04.333
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 340-4
+
+341
+
+Conclusion: Most organizations demonstrated incomplete measurement of inﬂuenza immunization
+among health care workers. Given the use of inﬂuenza immunization coverage as a measure of
+quality of care, further work is needed to develop a standardized approach to improve its
+measurement.
+Copyright Ó 2013 by the Association for Professionals in Infection Control and Epidemiology, Inc.
+Published by Elsevier Inc. All rights reserved.
+
+INTRODUCTION
+
+Questionnaire
+
+Many health care and public health organizations in Canada
+and the United States have recently introduced measures to
+encourage public reporting of inﬂuenza immunization coverage
+of health care workers.1-8 The US Healthcare Infection Control
+Practices Advisory Committee and the Advisory Committee on
+Immunization Practices released evidence-based recommendations for professionals responsible for inﬂuenza immunization and
+infection control programs.9 Two recommendations emphasized
+the importance of providing feedback on immunization rates
+and of using immunization coverage as a quality of care measure.
+However, identifying who has been immunized, who is currently
+employed within an organization, and which nonemployee groups
+(eg, volunteers) should be included is challenging. Including
+different health care workers in numerators (ie, number of health
+care workers immunized) or denominators (ie, number of health
+care workers who could be immunized) causes inconsistent
+coverage estimates.10 This is further compounded by variability
+in immunization information accuracy and completeness. Without understanding how immunization coverage is measured, the
+comprehensiveness of the data, and the limitations associated
+with these indicators, it is difﬁcult to draw valid conclusions for
+policies and recommendations and to use coverage as a quality
+indicator.
+The objectives of our study were to describe the ability of
+Canadian health care organizations to measure inﬂuenza immunization coverage of health care workers and to identify factors
+associated with comprehensive coverage measurement.
+
+The questionnaire was developed based on a literature review
+and research conducted by the Canadian Healthcare Inﬂuenza
+Immunization Network (www.chiin.ca) according to established
+guidelines11 to identify information gaps in health care worker inﬂuenza immunization and immunization program delivery.12,13 The
+questionnaire covered demographics, campaign team/planning/tools,
+recording and reporting of immunizations, policies and procedures,
+and evaluation activities. Our analysis focused on factors that we
+hypothesized to be related to comprehensive measurement of
+immunization coverage:
+ Type of system used for tracking immunizations (paper, electronic, hybrid of both, or none);
+ Having immunization reporting practices;
+ Having policies or procedures to support immunization data
+collection and reporting (eg, declination forms and immunization documentation);
+ Having a mandatory inﬂuenza immunization policy;
+ Having an inﬂuenza immunization program implementation
+plan;
+ Having an interprofessional team involved in planning the
+campaign (ie, 5 different types of personnel, including those
+involved with occupational health and safety, infection
+prevention and control, communications, information technology, pharmacy, administration, senior management, and
+union);
+ Evaluating the methods used to count and report immunization; and
+ Prioritizing vaccine delivery to certain risk groups.
+
+METHODS
+Sampling strategy
+We identiﬁed individuals responsible for inﬂuenza immunization
+of health care workers at acute care hospitals (ACH) or continuing
+care (CC) organizations (eg, assisted living facilities, personal care
+homes, nursing homes, and long-term care organizations) through
+consultation with provincial/regional governments and regional
+infection control networks, postings in bulletins, E-mail lists, Web
+site advertisements, and calls to organizations identiﬁed on provincial Web sites and lists of hospitals accredited by Accreditation
+Canada. We surveyed the person(s) responsible for coordinating the
+health care workers immunization campaign, a role undertaken by
+public health authorities in some jurisdictions. Individuals responsible for campaigns at more than 1 health care facility under the same
+organization were asked to complete 1 survey for multiple facilities
+only if the same polices, plans, and procedures applied to all of the
+facilities for which they were responsible. These organizations were
+deﬁned as “multiple facilities.” Organizations that had both ACH and
+CC beds were classiﬁed as “mixed.” We excluded organizations
+without acute care or continuing care beds (eg, walk-in clinics). In
+addition, Nunavut, Northwest Territories, and the Yukon were
+excluded because they did not have health care workers-speciﬁc
+immunization campaigns.
+
+We pilot-tested the questionnaire in 3 rounds with 12 respondents (directors of care, occupational and infection control
+managers, and public health immunization planners).
+Survey implementation
+To optimize response and minimize recall bias, we mailed prenotice letters with $5 coffee gift cards to respondents in April and
+May 2011, following completion of the 2010-2011 inﬂuenza
+immunization campaign. One week after mailing pre-notice letters,
+we sent an online survey to respondents, followed by 3 e-mail
+reminders at intervals of 1 to 3 weeks, and a ﬁnal telephone
+reminder to participants who had not responded after the third
+email.
+Outcome measure
+The primary outcome was the ability to measure inﬂuenza
+immunization coverage in all health care workers within an organization. Health care workers referred to individuals working in the
+organization, regardless of patient contact or employment status
+(eg, paid staff, volunteers, students, trainees, physicians, and
+contractors). Contractors were workers paid by an external organization. Respondents were asked if they measured the number of
+
+342
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 340-4
+
+personnel who were immunized (numerator) during the 2010-2011
+campaign, and if they knew the total number of health care workers
+(denominator) in their organization during the campaign from the
+following groups: payroll personnel (eg, nurses), casual personnel
+(ie, employed on a temporary basis), nonpayroll physicians, nonpayroll personnel, students or trainees, personnel on extended
+leave, and volunteers. These groups were not mutually exclusive.
+Organizations were considered to have comprehensive measurement of coverage if they measured the numerator and denominator
+across all applicable groups.
+Potential confounders included organization size (large or
+small), number of facilities under the same organization (single
+facility or multiple facilities) and type of organization ACH [ie, had
+no continuing care beds], CC [ie, had no acute care beds], or mixed
+[ie, had both continuing care and acute care beds]). Large organizations were deﬁned as having 100 beds in a single facility.
+Organizations representing more than one facility were also classiﬁed as “large.” All acute care hospitals in Canada are private
+not-for-proﬁt organizations that are publicly funded. CC organizations could be public, private not-for-proﬁt, or private for-proﬁt
+organizations, and public funding of these organizations varied
+across provinces. Due to these complexities, ownership was
+excluded from the analysis.
+ANALYSIS
+We calculated the proportion of organizations that could
+measure coverage for all applicable health care worker groups,
+stratiﬁed by organization type. Logistic regression models were
+ﬁtted to identify variables associated with comprehensive coverage
+measurement. We examined univariate models for each factor to
+identify those that were statistically signiﬁcantly associated with
+the outcome. Only variables that had a P value <.25 were included
+in the multivariable model, which controlled for organization size,
+type, and number of facilities. Variables were excluded from the
+model if they led to complete separation of data, had >10% missing
+data, or had no observations in a group. We measured the variance
+inﬂation factor for each factor in the multivariable model. We
+plotted the deviance, Pearson residuals, and Pregibon leverage
+against the predicted probabilities to assess whether the results
+were affected by inﬂuential observations. Data analysis was
+performed using STATA version 10.0. (2007, StataCorp, LP, College
+Station, TX).
+ETHICS
+This study received ethics approval from the Research Ethics
+Boards of the University of Toronto, Capital Health in Halifax, and
+Bruyère Continuing Care in Ottawa.
+RESULTS
+Of the 1,127 immunization planners approached, 721 (64%)
+responded. Fifty-two (4.6%) were excluded because their questionnaires were missing data on immunization coverage
+measurements, number of beds, and type of organization (ACH vs
+CC), or they did not meet our inclusion criterion.
+The ﬁnal sample of 669 respondents represented 462 single
+facilities (52 ACHs, 391 CC organizations, and 19 mixed), and 207
+multiple facilities (16 ACH, 55 CC, and 136 mixed). Most respondents (589 [88%]) were occupational safety personnel, infection
+control representatives, or senior administrators. For single facilities, the median number of beds was 152 for ACHs, 100 for CC
+organizations, and 77 for mixed organizations.
+
+Table 1
+Percentage of respondents who reported an ability to measure coverage for each
+health care worker group by type of organization
+No. of respondents (%)
+Type of health care worker
+
+ACH
+(n ¼ 68)
+
+CC
+(n ¼ 446)
+
+Mixed
+(n ¼ 155)
+
+Overall
+(n ¼ 669)
+
+Payroll personnel
+Casual personnel
+Volunteers
+Students or trainees
+Nonpayroll physicians
+Nonpayroll personnel
+Personnel on extended leave
+
+64
+49
+38
+23
+38
+19
+14
+
+410
+342
+183
+132
+69
+116
+87
+
+140
+108
+58
+36
+65
+22
+38
+
+614
+499
+279
+191
+172
+157
+139
+
+(94)
+(72)
+(56)
+(34)
+(56)
+(28)
+(21)
+
+(92)
+(77)
+(41)
+(30)
+(15)
+(26)
+(20)
+
+(90)
+(70)
+(37)
+(23)
+(42)
+(14)
+(25)
+
+(92)
+(75)
+(42)
+(29)
+(26)
+(23)
+(21)
+
+ACH, respondents from acute care hospitals; CC, respondents from continuing care
+organizations.
+
+Coverage measurement
+Most respondents measured coverage among personnel on
+payroll (n ¼ 614 [92%]) and casual personnel (n ¼ 499 [75%])
+(Table 1). Fewer than 50% measured coverage among volunteers,
+students and trainees, nonpayroll physicians, nonpayroll personnel,
+and personnel on extended leave. Across most health care workers
+(except casual and nonpayroll personnel), respondents from ACHs
+measured coverage more comprehensively than those from CC
+organizations. For example, 38 (56%) respondents from ACHs, but
+only 69 (15%) respondents from CC organizations measured
+coverage in nonpayroll physicians. A higher proportion of ACHs
+than CC organizations were able to measure coverage for their
+volunteers (ACH ¼ 38 [56%], CC ¼ 183 [41%]).
+Sixty-three organizations (ACH ¼ 7 [11%], CC ¼ 47 [11%], mixed ¼ 9
+[6%]) reported that they could measure coverage across their entire
+health care worker population. Of these organizations, only 18 (29%)
+organizations had all seven health care worker groups in their setting.
+Forty-ﬁve organizations (ACH ¼ 4 [6%], CC ¼ 27 [6%], mixed ¼ 14 [9%])
+could not measure coverage in any groups.
+Inﬂuenza immunization program practices and policies
+During the 2010-2011 inﬂuenza season, 45% of respondents
+reported having a written implementation plan for their immunization campaign, and 279 of 669 (42%) worked with an interprofessional team to implement the campaign (Table 2). Four
+hundred seventy-eight of 669 (71%) respondents reported payroll
+personnel coverage to senior management, whereas 334 of 669
+(50%) reported this for nonpayroll personnel. Most organizations
+collected data on payroll personnel who declined immunization
+(n ¼ 447 [67%]), although few collected the same information for
+nonpayroll personnel (n ¼ 131 [20%]).
+Only 20% of organizations (134/669) reported having mandatory
+immunization policies; of these, most were used in continuing care
+organizations (ACH ¼ 1 [1%], CC ¼ 117 [26%], mixed ¼ 16 [10%]).
+Approximately 32% of organizations (212/669) had a documented
+policy or procedure for personnel who declined immunization
+(declination process) (ACH ¼ 13 [19%], CC ¼ 168 [38%], mixed ¼ 31
+[20%]). Organizations that could comprehensively measure coverage
+were signiﬁcantly more likely to have an immunization implementation plan, prioritize vaccine delivery to certain groups, collect
+information on declinations, and describe the method used to
+calculate or report immunization rates in their policies or procedures
+(Table 2).
+In the multivariable model (Table 3), organizations that reported
+having an implementation plan for their immunization campaign
+or a policy or procedure describing how to calculate and/or report
+immunization rates were more likely to comprehensively measure
+rates than organizations without these characteristics (odds ratio,
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 340-4
+
+343
+
+Table 2
+Program practices and policies among inﬂuenza immunization programs directed at health care workers (HCWs)
+
+Practice or policy
+Program had a written implementation plan
+Program used a multidisciplinary team (5 or more representatives from
+different disciplines*)
+Reported immunization rates to senior management for:
+Payroll personnel
+Nonpayroll personnel
+Program was able to prioritize vaccine delivery for:
+Personnel who have contact with patients who are at high risk of
+developing inﬂuenza complications (eg, neonatal, oncology)
+Personnel who are at risk of acquiring inﬂuenza in their work setting
+(eg, emergency department personnel)
+Personnel’s level of direct patient care
+Program collects inﬂuenza declination information for:
+Payroll personnel who declined immunization
+Nonpayroll personnel who declined immunization
+Program tracked inﬂuenza immunizations using:y
+Paper only
+Electronic only
+Electronic and paper
+Immunizations were not tracked
+Immunization program had policies or procedures for the following:
+Mandatory immunization of HCWs
+Tracking personnel who declined inﬂuenza immunization
+Calculating immunization rates for HCW immunized outside of the organization
+Reporting and/or calculating immunization rates
+Conducted an evaluation after immunization program ended on how
+immunization rates were counted and reported
+
+Proportion of
+respondents (%)
+(n ¼ 669)
+
+No. able to
+measure coverage
+in all HCW groups (%)
+(n ¼ 63)
+
+No. unable to
+measure coverage
+in all HCW groups (%)
+(n ¼ 606)
+
+302 (45)
+279 (42)
+
+37 (59)
+26 (41)
+
+265 (44)
+253 (42)
+
+.02
+.12
+
+478 (71)
+334 (50)
+
+41 (65)
+37 (59)
+
+437 (72)
+297 (49)
+
+.23
+.15
+
+279 (42)
+
+31 (49)
+
+248 (41)
+
+.17
+
+239 (36)
+
+30 (48)
+
+209 (34)
+
+.04
+
+313 (47)
+
+38 (60)
+
+275 (45)
+
+.02
+
+447 (67)
+131 (20)
+
+49 (78)
+21 (33)
+
+398 (66)
+110 (18)
+
+.05
+< .01
+
+309
+138
+192
+30
+
+(46)
+(21)
+(29)
+(4)
+
+33 (52)
+10 (16)
+20 (32)
+0
+
+276
+128
+172
+30
+
+(46)
+(21)
+(28)
+(5)
+
+.35
+.32
+.52
+dz
+
+134
+212
+142
+191
+351
+
+(20)
+(32)
+(21)
+(29)
+(52)
+
+10
+20
+20
+29
+38
+
+124
+192
+122
+162
+313
+
+(20)
+(32)
+(20)
+(27)
+(52)
+
+.38
+.99
+.03
+<.01
+.16
+
+(16)
+(32)
+(32)
+(46)
+(60)
+
+P value
+
+*Representatives include occupational health and safety, infection prevention and control, pharmacy, administrative support, information technology personnel,
+communications, senior administrators, and union representatives.
+y
+Categories were mutually exclusive.
+z
+Complete separation of data.
+Table 3
+Multivariate model
+
+Characteristic
+No. of facilities
+Single facility (reference)
+Multiple facility
+Type of organization
+Continuing care organization (reference)
+Acute care hospital
+Mixed
+Large organizations (100 beds)
+Program had a written implementation plan
+Prioritized vaccine delivery to certain groups*
+Program collected inﬂuenza declination
+information for payroll
+Program had polices or procedures describing
+how rates were calculated or reported
+Conducted postimmunization program
+evaluation on how immunization rates were
+documented and reported
+
+Adjusted
+odds ratio
+
+95% Conﬁdence
+interval
+
+1.00
+0.74
+
+(0.29, 1.88)
+
+1.00
+1.50
+0.93
+0.63
+1.99
+1.43
+1.27
+
+(0.60,
+(0.32,
+(0.36,
+(1.11,
+(0.80,
+(0.60,
+
+2.13
+
+(1.19, 3.86)
+
+1.30
+
+(0.72, 2.34)
+
+3.74)
+2.74)
+1.12)
+3.55)
+2.55)
+2.70)
+
+*Groups included personnel who have contact with patients who are at high risk of
+developing inﬂuenza complications (eg, neonatology and oncology), personnel at
+risk of acquiring inﬂuenza in their work setting (eg, emergency department
+personnel), or personnel’s level of direct patient care.
+
+2.0; 95% conﬁdence interval, 1.1-3.5 and odds ratio, 2.1; 95%
+conﬁdence interval, 1.2-3.9, respectively).
+DISCUSSION
+This is the ﬁrst large-scale study to examine the ability of
+Canadian organizations to measure inﬂuenza immunization
+coverage of health care workers. It is also the ﬁrst pan-Canadian
+
+study to explore immunization campaign implementation and
+the policies or procedures that exist to support coverage
+measurement. Unlike previous research in this area that focused on
+immunization rates as the primary outcome, our study enquired
+about the numerator and denominator separately for each health
+care worker group to better distinguish organizations that measure
+coverage comprehensively. We revealed signiﬁcant variation in the
+ability to measure health care worker immunization coverage, with
+most organizations able to do so for only a subset of personnel.
+A US study found that nearly all hospitals (98%) measuring
+coverage included payroll employees in their rates,12 but <60%
+included other types of employees in their coverage estimates.
+Compared with health care workers on payroll, it may be challenging
+to measure the denominators for other groups becaues they are
+generally excluded from the organizations’ payroll databases, and
+their lists may be managed externally (eg, colleges and contracting
+ﬁrms). Our results demonstrate that some organizations employ
+strategies to help support the collection and tracking of immunization
+data, such as requiring documentation from personnel vaccinated offsite and requiring declination forms when immunization was refused.
+As a starting point for reporting and comparing coverage across
+organizations, it would be valuable for organizations to report
+subsets of their health care worker population using a standardized
+deﬁnition rather than a combined rate consisting of heterogeneous
+employee groups. This will allow organizations to identify which
+groups are underimmunized while facilitating interorganizational
+comparisons.
+This study had some limitations. Although we attempted to
+identify inﬂuenza immunization campaign planners at organizations
+across Canada, this list was not comprehensive. The moderate
+response rate among those who were identiﬁed may introduce
+response bias. Because some respondents answered once on behalf of
+
+344
+
+S. Quach et al. / American Journal of Infection Control 41 (2013) 340-4
+
+multiple facilities within the same organization, variations in implementation of campaigns among facilities may be substantial. Six
+percent of responding organizations did not answer the coveragerelated questions. These organizations may not measure coverage at
+all or those responding may not have been knowledgeable about their
+organization’s practices. Finally, our deﬁnition of comprehensive
+coverage included 7 personnel groups; however, because some
+groups are likely to be small relative to others, they may be less
+important to capture in immunization coverage measures.
+Until organizations uniformly measure coverage, comparisons of
+coverage across organizations will be misleading. To achieve accurate and complete measurement, agreement on standard deﬁnitions
+for health care worker groups and who should be included in
+immunization coverage measurements is required. Further, organizations need standard methods that can be incorporated into their
+procedures for collecting immunization information. Once these
+have been achieved, organizations can use health care workers’
+immunization coverage to support the prevention and control of
+inﬂuenza transmission in health care settings.
+Acknowledgment
+The authors thank Dr. Shelley Deeks for her valued input on the
+questionnaire, and thank Hilary Ramsay, Nicholas Costain, and
+Sarah Decoutere for their assistance with conducting the survey.
+The Canadian Association for Immunization Research and Evaluation provided networking assistance. The authors also thank the
+study participants and individuals who pilot-tested the surveys.
+PCIRN Vaccine Coverage Theme Group members are: Stephanie
+Brien, David Buckeridge, Larry Chambers, Jemila Hamid, Natasha
+Crowcroft, Shelley Deeks, Michael Finkelstein, Julie Bettinger,
+Maryse Guay, Lois Crowe, Christine Heidebrecht, Donna Kalailieff,
+Faron Kolbe, Jeff Kwong, Allison McGeer, Jane Nassif, Jennifer Pereira, Susan Quach, Sherman Quan, Beate Sander, and Chris Sikora.
+Canadian Healthcare Inﬂuenza Immunization Network Team
+Members are: Donna Baker, Lucie Marisa Bucci, Larry Chambers,
+Nicholas Costain, Lois Crowe, Sarah DeCoutere, Mary Egan, Heather
+Hall, Bonnie Henry, Po-Po Lam, Donna MacDougall, Anne McCarthy,
+
+Shelly McNeil, Hilary Ramsay, Virginia Roth, Marina Salvadori, Jennifer Stevens, Kathryn Suh, and Kumanan Wilson.
+References
+1. McKibben L, Horan T, Tokars JI, et al. Guidance on public reporting of
+healthcare-associated infections: recommendations of the Healthcare Infection
+Control Practices Advisory Committee. Am J Infect Control 2005;33:217-26.
+2. Iowa Healthcare Collaborative. Promoting Responsible Public Reporting. Available from: http://www.ihconline.org/aspx/publicreporting/publicreporting.aspx.
+Accessed August 8, 2011.
+3. Maryland Health Care Commission. Maryland hospital performance evaluation
+guide: preventing healthcare-associated infections (all Maryland hospitals). Available from: http://mhcc.maryland.gov/consumerinfo/hospitalguide/hospital_guide/
+reports/healthcare_associated_infections/healthcare_associated_infections_detail
+.asp. Accessed May 23, 2012.
+4. Rhode Island Department of Health. Hospital employee inﬂuenza vaccination and
+declination. Available from: http://www.health.ri.gov/publications/qualityreports/
+hospitals/FluVaccination.pdf. Accessed May 23, 2012.
+5. Massachussetts Department of Public Health. personnel seasonal inﬂuenza vaccination report 2009-2010. Available from: http://www.mass.gov/eohhs/docs/dph/
+quality/healthcare/hai-inﬂuenza-vaccination-report.pdf. Accessed May 23, 2012.
+6. Toronto Medical Ofﬁcer of Health. Inﬂuenza immunization rates of healthcare
+workers in Toronto healthcare facilities. Available from: http://www.toronto.ca/
+legdocs/mmis/2011/hl/bgrd/backgroundﬁle-38323.pdf. Accessed May 23, 2012.
+7. Wellington-Dufferin-Guelph Public Health. Inﬂuenza immunization rates for
+healthcare workers in long-term care homes, retirement homes, and hospitals, in
+Wellington-Dufferin-Guelph for the 2010-2011 season. Available from: http://www
+.wdgpublichealth.ca/sites/default/ﬁles/wdgphﬁles/BH_01_03_02_0311%20inﬂue
+nza%20immunization%20rates(2).pdf. Accessed May 23, 2012.
+8. Johnson J, Talbot T. New apporaches for inﬂuenza vaccination of healthcare
+workers. Curr Opin Infect Dis 2011;24:363-9.
+9. CDC. Inﬂuenza Vaccination of Healthcare Personnel, Recommendations of the
+Heatlhcare Infection Control Practices Advisory Committee (HICPAC) and
+Advisory Committee on Immunization Practices (ACIP). National Centre for
+Infectious Disease, Division of Healthcare Quality Promotion 2006 February 24
+[cited 2011 May 5];1-16. Available from: http://www.cdc.gov/mmwr/pdf/rr/
+rr5502.pdf. Accessed August 9, 2011.
+10. Russell ML, Henderson EA. The measurement of inﬂuenza vaccine coverage
+among health care workers. Am J Infect Control 2003;31:457-61.
+11. Dillman DJ, Smyth J, Christian M. Internet, mail, and mixed-mode surveys, the
+tailored design apporach. 3rd ed. Hoboken [NJ]: John Wiley & Sons, Inc; 2009.
+12. Lam PP, Chambers LW, MacDougall DMP, McCarthy AE. Seasonal inﬂuenza
+vaccination campaigns for health care personnel: systematic review. CAMJ
+2010;182:E542-8.
+13. Lindley M, Yonek J, Ahmed F, Perz J, Torres GW. Measurement of inﬂuenza
+vaccination coverage among healthcare personnel in US hospitals. Infect
+Control Hosp Epidemiol 2009;30:1150-7.
+
+

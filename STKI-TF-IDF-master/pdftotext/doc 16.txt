@@ -1,0 +1,636 @@
+Research in Developmental Disabilities 55 (2016) 235–241
+
+Contents lists available at ScienceDirect
+
+Research in Developmental Disabilities
+
+Characteristics inﬂuencing attendance at a primary care
+health check for people with intellectual disability: An
+individual participant data meta-analysis
+Robert S. Ware a,b,∗ , Nicholas G. Lennox c
+a
+
+UQ Child Health Research Centre, School of Medicine, The University of Queensland, Herston Road, Herston, QLD 4006, Australia
+School of Public Health, The University of Queensland, Herston Road, Herston, QLD 4006, Australia
+c
+Queensland Centre for Intellectual and Developmental Disability, MRI-UQ, The University of Queensland, Mater Hospital, Raymond
+Terrace, South Brisbane, QLD 4101, Australia
+b
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 19 November 2015
+Received in revised form 18 April 2016
+Accepted 19 April 2016
+Keywords:
+Intellectual disability
+Health screening
+Primary care
+Management
+
+a b s t r a c t
+Background: Health checks beneﬁt adolescents and adults with intellectual disability, however uptake is low despite government–funded incentives.
+Aim: To assess the characteristics of people with intellectual disability who, when offered
+a health check with their primary care physician at no cost, completed the health check.
+Methods and procedures: Data from three randomised controlled trials considering health
+checks in people with intellectual disability living in the community were included in an
+individual-patient data meta-analysis. The studies used the same health check and the
+participant characteristics investigated (age, sex, cause of disability, level of disability and
+socio-economic position) were deﬁned identically, but participants were sourced from different settings: adults living in 24-h supported accommodation, adults living in private
+dwellings, and school-attending adolescents.
+Outcomes and results: In total 715 participants were offered health checks. Compared to participants with Down syndrome, participants with other known causes of disability were
+more likely not to attend their health check (odds ratio;95%CI) = (2.5;1.4–4.7), as were
+participants with no known cause of disability (2.3;1.2–4.3). These associations remained
+signiﬁcant after adjusting for potentially confounding variables.
+Conclusion and implication: Down syndrome was the only characteristic positively associated with health check attendance across all study settings. Future research should focus
+on strategies to increase health check uptake in this population.
+© 2016 Elsevier Ltd. All rights reserved.
+
+What this paper adds
+People with intellectual disability have poor health and healthcare and subsequently shorter lifespans than their peers in
+the general population. Health checks are the only tool used at the primary care level that have high-quality evidence showing
+their uptake leads to beneﬁcial effects on health outcomes in adults with intellectual disability. Despite government–funded
+incentives, health check uptake is low. Data from 715 participants from three randomised controlled trials conducted by
+
+∗ Corresponding author at: UQ Child Health Research Centre, School of Medicine, The University of Queensland, Herston Road, Herston, QLD 4006,
+Australia.
+E-mail address: R.Ware@uq.edu.au (R.S. Ware).
+http://dx.doi.org/10.1016/j.ridd.2016.04.012
+0891-4222/© 2016 Elsevier Ltd. All rights reserved.
+
+236
+
+R.S. Ware, N.G. Lennox / Research in Developmental Disabilities 55 (2016) 235–241
+
+the same research team were combined. An investigation of the characteristics of participants who completed their health
+checks showed that people with Down syndrome were signiﬁcantly more likely to complete their checks than people with
+any other cause of disability. No other characteristic examined was associated with health check uptake. Future research
+should focus on the reasons for the differential uptake among people with intellectual disability, and the development of
+strategies to increase uptake in this highly marginalised population.
+
+1. Introduction
+People with intellectual disability have poorer health and shorter lifespans than the general population, as well as high
+levels of unrecognised disease, and inadequate health screening and promotion (Emerson & Baines, 2010; Heslop et al., 2014;
+Taggart & Cousins, 2014). An investigation of the circumstances of 244 deaths of English people with intellectual disability
+found that up to 37% of deaths could have been avoided through the provision of good quality healthcare, and that the
+median ages at death of males and females with intellectual disability were 13 and 20 years younger than their peers in the
+general population (Heslop et al., 2014). An Australian study found the standardised mortality ratios for males and females
+with intellectual disability aged 5–69 years compared with the general population were 2.52 and 4.26 respectively (Florio
+& Trollor, 2015). The Australian Institute of Health and Welfare disability survey found people with intellectual disability
+aged under 65 years have a number of other associated disabilities including problems in the physical (49%), psychiatric
+(57%) and sensory/speech realms (44%) (Australian Institute of Health and Welfare, 2008). These levels of disability were
+congruent with clinical research ﬁndings from overseas and in Australia (Baxter et al., 2005; Beange, Lennox, & Parmenter,
+1999; van-Schrojenstein-Lantman-De-Valk, Metsemakers, Haveman, & Crebolder, 2000).
+Health checks are the only intervention implemented at the primary care level with high quality evidence showing
+they decrease unmet health need in people with intellectual disability (Bryne, Lennox, & Ware, 2016; Robertson, Hatton,
+Emerson, & Baines, 2014). Many developed countries, including Australia, have introduced government funded health check
+programs for this population. In the United Kingdom (UK) health checks for adults with intellectual disability were introduced
+in primary care services in Wales in 2006, primarily based on evidence from studies involving the Cardiff Health Check that
+showed health checks identify new health needs and increase health promotion activities (Baxter et al., 2005; Felce et al.,
+2008a, 2008b). They were introduced as a Directed Enhanced Service, with primary care practices ﬁnancially rewarded for
+conducting heath checks. This scheme was extended to England in 2008. Despite government funding uptake of health
+checks is mixed. In Australia less than 1% of eligible adults with intellectual disability received a health check between July
+2007 and August 2009, the last years for which data is available (Koritsas, Iacono, & Davis, 2012), whereas in England 44% of
+those eligible received a health check in 2013/2014 (Public Health England, 2014). This difference can partially be explained
+by the different health care systems, for example in the UK patients register with a general practitioner and checks are more
+fully embedded within the practice.
+European studies investigating the characteristics of health check attendees in non-disabled adults have found inconsistent associations between demographic and social characteristics such as gender, age, ethnicity, education, marital status
+and socio-economic position, and health check attendance (Assendelft et al., 2012; Cochrane et al., 2013; Dalton, Bittle,
+Okom, Majeed, & Millett, 2011). The only two studies to consider the association between individual characteristics and
+health check attendance among people with intellectual disability were both retrospective audits of routinely collected
+data. One study of adults in Northern Ireland found that health checks were less likely to be undertaken by those living with
+family carers and by those living in more socially deprived areas (McConkey, Taggart, & Kane, 2015), while an English study
+found that health checks were less likely among younger adults and those living in more socially deprived areas (Buszewicz
+et al., 2014).
+An Australian Academic Research Centre has run three randomised trials investigating the health beneﬁts of health checks
+in people with intellectual disability living in the community. The Endeavour Foundation trial (EF-CHAP) was conducted
+among adults living in 24-h supported accommodation in 2000–2001, with participants randomised to receive either a
+health check or usual care (Lennox et al., 2007). The Advocacy and Health (A&H) trial was conducted among adults living
+in private dwellings in 2004–2005 (Lennox et al., 2010). The A&H trial was a 2 × 2 factorial study; the two interventions
+studied were a health check and a personalised health diary designed for ongoing use. The Ask Study was conducted among
+adolescents attending secondary school in 2006–2010, with participants randomised to receive either a health intervention
+package consisting of health education, a health diary and a health check, or usual care (Lennox et al., 2012). Similarities
+between trials were the use of the same health check (the Comprehensive Health Assessment Program), that participants
+lived in the community and were recruited from the same geographical region, and that participant characteristics were
+recorded using the same criteria. Differences between trials were the age and residences of participants, and that the health
+check may have been received with other health interventions in the A&H and Ask studies. In each trial participants allocated
+to receive a health check may, or may not, have attended an appointment with their primary care physician to complete
+their health check. This study combines data from these three trials in an individual participant data meta-analysis, the aim
+of which is to identify whether age, sex, cause of disability, level of disability or social position are associated with health
+check attendance.
+
+R.S. Ware, N.G. Lennox / Research in Developmental Disabilities 55 (2016) 235–241
+
+237
+
+2. Material and methods
+The three trials included in this meta-analysis were all undertaken among adolescents and adults with intellectual disability living in the community in South East Queensland, Australia. Each trial examined the effect of a health check, with or
+without additional intervention (a health diary in the A&H and health education and health diary in the Ask). Participant-level
+data from each study was extracted, checked and synthesised prior to analysis. All studies were approved by the Behavioural
+and Social Sciences Ethical Review Committee of The University of Queensland. In each study consent was given formally
+by the person with intellectual disability (or their parent/carer for Ask Study participants), their main residential carer and
+their primary care physician.
+The health check used in each trial was the Comprehensive Health Assessment Program (CHAP). The CHAP is a booklet
+designed for one-off use. It is ﬁrst completed by the person with disability and their carer who provide a detailed medical
+history, and then by the primary care physician, who is prompted to review the history, perform the health check and
+develop a health action plan. In the EF-CHAP and A&H trials participants allocated to receive a health check were sent CHAP
+booklets soon after randomisation and requested to book an appointment with their regular primary care physician. In
+the Ask trial participants were sent CHAP booklets approximately six months after returning baseline questionnaires. In all
+cases there was no cost to the person with disability to attend the appointment. In all trials participants were requested to
+return the health check booklet to the study team immediately after their primary care consultation. The medical records
+of participants allocated to receive a health check but who did not return their booklets were examined to identify whether
+a health check had occurred. A health check was deﬁned to have occurred if either the health check booklet was received
+by the study team or there was clear evidence from the medical records that a health check had been completed.
+Baseline characteristics collected on all participants at recruitment were age, sex, cause and level of disability, and
+postcode of residence. Age was categorised as 18–29 years, 30–44 years, or 45+ years. Cause of disability was classiﬁed
+according to carer report as either Down syndrome, other known cause (for example another syndrome or neonatal trauma)
+or cause unknown. Level of disability was classiﬁed as mild or moderate if the participant had IQ assessed as between 55 and
+70 on an individually administered IQ test and adaptive behaviour deﬁcits, and as severe or profound if they were assessed to
+have IQ less than 55 and adaptive behaviour deﬁcits. Socio-economic position was measured at the postcode level using the
+Australian Bureau of Statistics developed Socio-Economic Index for Areas, a measure of Relative Disadvantage (Australian
+Bureau of Statistics, 2012). All variables were collected using the same deﬁnitions in all studies.
+
+3. Calculation
+Summary statistics are reported as frequency(percentage). An individual participant meta-analysis combined results
+from the three studies using a three-level mixed-effects logistic regression, with primary care physician nested within
+study (EF-CHAP/A&H/Ask) and both physician and study treated as random-effects to account for possible study-speciﬁc
+or physician-speciﬁc dependence. Association between participant characteristics and health check attendance was ﬁrst
+investigated univariably, and then multivariably. Multivariable models include all measured characteristics as covariables.
+Due to the sampled population (school attenders) in the Ask study, the range of ages was restricted and level of disability
+was not collected. Consequently Ask study participants were excluded from any age- or disability-level related analysis
+(as we would not be able to distinguish age/disability-level effects from study effects). The association between participant
+characteristics and health check attendance was then repeated separately for each study, with physician treated as a random
+effect, in order to investigate any study-speciﬁc effects. Effect estimates are reported as odds ratio (95% conﬁdence interval).
+Analysis was undertaken using Stata statistical software v12.0 (StataCorp, College Station, TX, USA).
+
+4. Results
+The total number of individuals allocated to receive health checks was 715: 234 in the EF-CHAP, 134 in the A&H and 347
+in the Ask. Individuals were mostly male (57.6%) and 16.5% had Down syndrome. The percentage of individuals completing
+their health checks was signiﬁcantly higher in the EF-CHAP (92.7%) and A&H (84.6%) than in the Ask (51.9%).
+The only characteristic signiﬁcantly associated with health check attendance was cause of disability (Table 1). Compared
+to participants with Down syndrome, participants with other causes of disability and with no known cause of disability
+were more likely not to attend their health check (OR (95%CI) = 2.5 (1.4, 4.7) and 2.3 (1.2, 4.3) respectively). These associations remained signiﬁcant after adjusting for other measured characteristics. No other participant characteristic appears to
+inﬂuence health check attendance.
+When investigated by individual study, the magnitude of the observed association between cause of disability and health
+check attendance was remarkably consistent between studies, although the effect is only statistically signiﬁcant for the Ask
+Study (Table 2). For the two adult studies the conﬁdence intervals are wide due to the smaller sample sizes and higher
+overall health check uptake, nevertheless it appears that individuals with Down syndrome may be more likely to attend
+health checks across life stages and style of accommodation.
+
+238
+
+R.S. Ware, N.G. Lennox / Research in Developmental Disabilities 55 (2016) 235–241
+
+Table 1
+Association between demographic and clinical characteristics of research study participants with intellectual disability and attendance of a health check.
+Data for sex, cause of disability, and socio-economic position from the EF-CHAP, A&H and Ask studies (N = 715); data for age and level of disability from
+EF-CHAP and A&H studies (N = 368). Adjusted analyses adjust for all variables in the table.
+N
+
+No Health Check; n(%)
+
+Crude OR (95%CI)
+
+Adjusted OR (95% CI)
+
+Age
+18–29
+30–44
+45+
+
+105
+162
+101
+
+10 (9.5%)
+19 (11.7%)
+7 (6.9%)
+
+1.0
+1.3 (0.6, 3.0)
+0.7 (0.3, 2.1)
+
+1.0
+1.4 (0.6, 3.4)
+0.8 (0.3, 2.3)
+
+Sex
+Male
+Female
+
+412
+303
+
+111 (26.9%)
+92 (30.4%)
+
+1.0
+1.1 (0.7, 1.5)
+
+1.0
+1.0 (0.7, 1.5)
+
+Cause of disability
+Down syndrome
+Other cause
+Cause unknown
+
+118
+289
+308
+
+16 (13.6%)
+115 (39.8%)
+72 (23.4%)
+
+1.0
+2.5 (1.4, 4.7)
+2.3 (1.2, 4.3)
+
+1.0
+2.4 (1.3, 4.5)
+2.2 (1.2, 4.3)
+
+Level of disability
+Mild/Moderate
+Severe/Profound
+
+136
+188
+
+15 (11.0%)
+14 (7.5%)
+
+1.0
+0.7 (0.3, 1.6)
+
+1.0
+0.7 (0.3, 1.6)
+
+Socio-economic position
+Lowest
+Lower
+Higher
+Highest
+
+135
+185
+266
+129
+
+39 (28.9%)
+45 (24.3%)
+82 (30.8%)
+37 (28.7%)
+
+1.0
+0.8 (0.5, 1.4)
+1.6 (0.9, 2.6)
+0.9 (0.5, 1.6)
+
+1.0
+0.8 (0.5, 1.5)
+1.6 (0.9, 2.7)
+1.0 (0.5, 1.8)
+
+Level of disability unknown for 44 participants.
+
+5. Discussion
+People with Down syndrome living in the community were signiﬁcantly more likely to attend no-cost health checks than
+either people with other causes of intellectual disability or people whose intellectual disability has no known cause. The
+magnitude of the effect was similar for both adults and adolescents, and for adults was not dependent on residential setting.
+Individuals with Down syndrome are at higher risk of comorbid disease, especially sensory impairments and musculoskeletal
+disorders, than individuals with other causes of intellectual disability (Torr, Strydom, Patti, & Jokinen, 2010). In people with
+Down syndrome these comorbidities also occur earlier in life, which may have inﬂuenced their willingness to attend their
+health check (either individually or through their carers).
+Strengths of this study are its large sample size, and that the data combined for these analyses originated from three
+trials conducted from the same Academic Centre. All studies were undertaken in the same geographic region, used the
+same health check, and outcome measures and data extraction procedures were consistent. All participants lived in the
+community, however the key difference between studies was in the population sampled: either adults who lived in 24 h
+supported accommodation (EF-CHAP) or private dwellings (A&H), or school-attending adolescents (Ask). Due to the relatively
+small sample sizes in the individual studies, effect estimates are imprecise when analysed by study, however the direction
+and magnitude of estimates is generally consistent across studies.
+Data used in this study derives from participants who had enrolled in a research study, with demographic, social and
+clinical characteristics of participants collected prospectively. Consequently the information is more likely to be valid than
+information used in other studies, which is often registry data. Although cause of disability was reported by the carer (usually
+a parent), identiﬁcation of Down syndrome is likely to be accurate as a previous validation study reported a positive predictive
+value for maternally reported Down syndrome of 100% (Rasmussen, Mulinare, Khoury, & Maloney, 1990).
+It is possible that some participants may have attended the health check but not returned the booklet and not had the
+visit recorded in their medical records. However the number of individuals in this situation is likely to be small as when
+medical records of participants who returned their booklets for the EF-CHAP were examined it was demonstrated that in 70%
+of cases where a health check was conducted this could be identiﬁed in the medical records. No participant in the EF-CHAP
+or A&H who did not return their health check booklet had health check attendance recorded in their medical records, and
+this occurred for only four Ask participants.
+Fewer Ask study participants completed their health checks, possibly reﬂecting the age of the participants and the longer
+time between study enrolment and scheduled health check attendance than in the adult studies. Parents of adolescents
+who did not attend the health check were asked why at the exit interview, with 37% saying they were too busy, 10% that
+the adolescent would not attend, and 8% that they see their doctor too often for other reasons already. Other reasons for
+non-attendance were that it was difﬁcult to access their doctor and they considered it unnecessary as the adolescent was
+healthy.
+Results in this study do not reﬂect those found in previous research that has considered health check uptake in this
+population, which found that health checks were less likely to be undertaken by younger adults living with families, or
+independently, and by those living in more socially deprived areas (Buszewicz et al., 2014; McConkey et al., 2015). We did
+
+EF-CHAP Study
+
+A&H Study
+
+Ask Study
+
+N
+
+No Health Check; n(%)
+
+Crude OR (95%CI)
+
+N
+
+No Health Check; n(%)
+
+Crude OR (95%CI)
+
+Age
+18–29
+30–44
+45+
+
+57
+109
+68
+
+2 (3.5%)
+10 (9.2%)
+5 (7.4%)
+
+1.0
+2.8 (0.6, 13.1)
+2.2 (0.4, 11.7)
+
+48
+53
+33
+
+8 (16.7%)
+9 (17.0%)
+2 (6.1%)
+
+1.0
+1.0 (0.4, 2.9)
+0.3 (0.1, 1.6)
+
+Sex
+Male
+Female
+
+141
+93
+
+11 (7.8%)
+6 (6.5%)
+
+1.0
+0.8 (0.3, 2.3)
+
+83
+51
+
+12 (14.5%)
+7 (13.7%)
+
+Cause of disability
+Down syndrome
+Other cause
+Cause unknown
+
+57
+28
+149
+
+2 (3.5%)
+4 (14.3%)
+11 (7.4%)
+
+1.0
+4.6 (0.8, 26.7)
+2.2 (0.5, 10.2)
+
+19
+60
+55
+
+Level of disability
+Mild/Moderate
+Severe/Profound
+
+70
+151
+
+5 (7.1%)
+10 (6.6%)
+
+1.0
+0.9 (0.3, 2.8)
+
+Socio-economic positiion
+46
+Lowest
+45
+Lower
+112
+Higher
+31
+Highest
+
+3 (6.5%)
+4 (8.9%)
+10 (8.9%)
+0 (0%)
+
+1.0
+1.4 (0.3, 6.6)
+1.4 (0.4, 5.4)
+n/a
+
+N
+
+No Health Check; n(%)
+
+Crude OR (95%CI)
+
+1.0
+0.9 (0.3, 2.6)
+
+188
+159
+
+88 (46.8%)
+79 (49.7%)
+
+1.0
+1.1 (0.7, 1.7)
+
+1 (5.3%)
+11 (18.3%)
+7 (12.7%)
+
+1.0
+4.0 (0.5, 33.6)
+2.6 (0.3, 22.9)
+
+42
+201
+104
+
+13 (31.0%)
+100 (49.8%)
+54 (51.9%)
+
+1.0
+2.2 (1.1, 4.5)
+2.4 (1.1, 5.1)
+
+66
+37
+
+10 (15.2%)
+4 (10.8%)
+
+1.0
+0.7 (0.2, 2.3)
+
+16
+48
+45
+25
+
+2 (12.5%)
+5 (10.4%)
+10 (22.2%)
+2 (8.0%)
+
+1.0
+0.8 (0.1, 4.7)
+2.0 (0.4, 10.3)
+0.6 (0.1, 4.8)
+
+73
+92
+109
+73
+
+34 (46.6%)
+36 (39.1%)
+62 (56.9%)
+35 (47.9%)
+
+1.0
+0.7 (0.4, 1.4)
+1.5 (0.8, 2.7)
+1.1 (0.6, 2.0)
+
+n/a—not applicable because no events in one category.
+Number of participants analysed for EF-CHAP Study, N = 234, except level of disability (N = 221); for A&H Study, N = 134 except level of disability (N = 103); for Ask Study, N = 347.
+
+R.S. Ware, N.G. Lennox / Research in Developmental Disabilities 55 (2016) 235–241
+
+Table 2
+Association between demographic and clinical characteristics of research study participants with intellectual disability for EF-CHAP, A&H, and Ask Studies.
+
+239
+
+240
+
+R.S. Ware, N.G. Lennox / Research in Developmental Disabilities 55 (2016) 235–241
+
+not ﬁnd an association between health check attendance and either age or socio-economic position, while neither McConkey
+and colleagues or Buszewicz and colleagues considered reason for disability in their analyses. McConkey and colleagues used
+anonymised data to investigate characteristics of primary care clinics according to the proportion of clients with intellectual
+disability who had a health check, and found that uptake was increased in localities where clinics had access to staff known
+as ‘health facilitators’, who were registered intellectual disability nurses or members of community intellectual disability
+teams. Health facilitators liaised with primary care practices to identify patients with intellectual disability, encouraged the
+patients to attend a health check, and then assisted during the check and with any follow-up actions. While the employment
+of health facilitators was successful in the UK, its effect would be more limited in the Australian primary care system where
+individuals do not register with a primary care clinic, and many people with intellectual disability have no regular physician.
+Results from this study are likely to be generalisable to a wide range of adolescents and adults with intellectual disability
+in high income countries, as the study participants are representative of the population in such countries, with regards to
+age, gender, level of intellectual disability, and types of community accommodation/support arrangements.
+5.1. Conclusion
+A health check is the only primary care level intervention that is effective at reducing unmet health needs in this population
+that is supported by gold standard randomised trial evidence. Current uptake of health checks is low. Although UK studies
+have demonstrated that uptake can be increased by introducing a more intensive identiﬁcation and contact process led by
+intellectual disability professionals within primary care clinics, that approach is not practical in many health systems. By
+focussing on the characteristics of individuals with intellectual disability associated with non-attendance, more effective
+strategies for increasing uptake can be developed.
+Financial support
+The studies included in this pooled analysis were funded by the Australian National Health and Medical Research Council
+(Grant numbers 401647 and 9936815) and the Australian General Practice Evaluation Programme (Grant number 825). The
+funder had no role in study design, data collection, analysis and interpretation of data, or decision to submit this manuscript
+for publication. Further information on the three trials, including on all components of the interventions, can be obtained
+by contacting the authors at qcidd@uq.edu.au.
+Conﬂict of interest
+Uniquest, a corporate arm of the University of Queensland licenses the Comprehensive Health Assessment Program
+(CHAP). The CHAP was the health check investigated in this study. The royalties from the CHAP license are shared equally
+between the University of Queensland, the Queensland Centre for Intellectual and Developmental Disability, and the second
+author (Nicholas G. Lennox). The ﬁrst author (Robert S. Ware) has no competing interests.
+References
+Assendelft, W. J. J., Nielen, M. M. J., Hettinga, D. M., van der Meer, V., van Vliet, M., & Drenthen, A. J. M. (2012). Bridging the gap between public health and
+primary care in prevention of cardiometabolic diseases. Family Practice, 29(Suppl. 1), i126–i131.
+Australian Bureau of Statistics. (2012). Census of population and housing: socio-economic indexes for areas (SEIFA), Australia, 2011. Canberra: ABS [Accessed
+20.03.16]. http://www.abs.gov.au/ausstats/abs@.nsf/mf/2033.0.55.001/
+Australian Institute of Health and Welfare. (2008). Disability in Australia: intellectual disability. Bulletin no. 67. Cat. No. AUS 110. Canberra: AIHW [Accessed
+20.03.16]. http://www.aihw.gov.au/publication-detail/?id=6442468183
+Baxter, H., Lowe, K., Houston, H., Jones, G., Felce, D., & Kerr, M. (2005). Previously unidentiﬁed morbidity in patients with intellectual disability. British
+Journal of General Practice, 56, 93–98.
+Beange, H., Lennox, N., & Parmenter, T. (1999). Health targets for people with intellectual disability. Journal of Intellectual and Developmental Disability, 24,
+283–287.
+Bryne, J. H., Lennox, N. G., & Ware, R. S. (2016). Systematic review and meta-analysis of primary healthcare interventions on health actions in people with
+intellectual disability. Journal of Intellectual and Developmental Disability, 41, 66–74.
+Buszewicz, M., Welch, C., Horsfall, L., Nazareth, I., Osborn, D., Hassiotis, A., et al. (2014). Assessment of an incentivised scheme to provide annual health
+checks in primary care for adults with intellectual disability: a longitudinal cohort study. Lancet Psychiatry, 1, 522–530.
+Cochrane, T., Gidlow, C. J., Kumar, J., Mawby, Y., Iqbal, Z., & Chambers, R. M. (2013). Cross-sectional review of the response and treatment uptake from the
+NHS Health Checks programme in Stoke on Trent. Journal of Public Health, 35, 92–98.
+Dalton, A. R. H., Bottle, A., Okoro, C., Majeed, A., & Millett, C. (2011). Uptake of the NHS Health Checks programme in a deprived, culturally diverse setting:
+cross-sectional study. Journal of Public Health, 33, 422–429.
+Emerson, E., & Baines, S. (2010). Health inequalities and people with learning disabilities in the UK: 2010. [Accessed 20.03.16].
+https://www.improvinghealthandlives.org.uk/uploads/doc/vid 7479 IHaL2010-3HealthInequality2010.pdf
+Felce, D., Baxter, H., Lowe, K., Dunstan, F., Houston, H., Jones, G., et al. (2008a). The impact of repeated health checks for adults with intellectual
+disabilities. Journal of Applied Research in Intellectual Disabilities, 21, 585–596.
+Felce, D., Baxter, H., Lowe, K., Dunstan, F., Houston, H., Jones, G., et al. (2008b). The impact of checking the health of adults with intellectual disabilities on
+primary care consultation rates, health promotion and contact with specialists. Journal of Applied Research in Intellectual Disabilities, 21, 597–602.
+Florio, T., & Trollor, J. (2015). Mortality among a cohort of persons with an intellectual disability in New South Wales, Australia. Journal of Applied Research
+in Intellectual Disabilities, 28, 383–393.
+Heslop, P., Blair, P. S., Fleming, P., Hoghton, M., Marriott, A., & Russ, L. (2014). The conﬁdential inquiry into premature deaths of people with intellectual
+disabilities in the UK: a population-based study. Lancet, 383, 889–895.
+
+R.S. Ware, N.G. Lennox / Research in Developmental Disabilities 55 (2016) 235–241
+
+241
+
+Koritsas, S., Iacono, T., & Davis, R. (2012). Australian general practitioner uptake of a remunerated medicare health assessment for people with intellectual
+disability. Journal of Intellectual and Developmental Disability, 37, 151–154.
+Lennox, N., Bain, C., Rey-Conde, T., Purdie, D., Bush, R., & Pandeya, N. (2007). Effects of comprehensive health assessment programme for Australian adults
+with intellectual disability: a cluster randomized trial. International Journal of Epidemiology, 36, 139–146.
+Lennox, N., Bain, C., Rey-Conde, T., Taylor, M., Boyle, F. M., Purdie, D. M., et al. (2010). Cluster randomized-controlled trial of interventions to improve
+health for adults with intellectual disability who live in private dwellings. Journal of Applied Research in Intellectual Disabilities, 23, 303–311.
+Lennox, N., Ware, R., Carrington, S., O’Callaghan, M., Williams, G., McPherson, L., et al. (2012). Ask: a health advocacy program for adolescents with an
+intellectual disability: a cluster randomised controlled trial. BMC Public Health, 12, 750.
+McConkey, R., Taggart, L., & Kane, M. (2015). Optimizing the uptake of health checks for people with intellectual disabilities. Journal of Intellectual
+Disabilities, 19, 205–214.
+Public Health England. (2014). The uptake of learning disability health checks 2013–2014. PHE no. 2014-437.. PHE; London.
+https://www.improvinghealthandlives.org.uk/publications/1239/The Uptake of Learning Disabilities Health Checks, 2013 to 2014 [Accessed
+20.03.16]
+Rasmussen, S. A., Mulinare, J., Khoury, M. J., & Maloney, E. K. (1990). Evaluation of birth defect histories obtained through maternal interviews. American
+Journal of Human Genetics, 46, 478–485.
+Robertson, J., Hatton, C., Emerson, E., & Baines, S. (2014). The impact of health checks for people with intellectual disabilities: an updated systematic
+review of evidence. Research in Developmental Disabilities, 35, 2450–2462.
+Taggart, L., & Cousins, W. (Eds.). (2014). Health promotion for people with intellectual and developmental disabilities. Maidenhead, Berkshire: Open
+University Press.
+Torr, J., Strydom, A., Patti, P., & Jokinen, J. (2010). Aging in down syndrome: morbidity and mortality. Journal of Policy and Practice in Intellectual Disabilities,
+7, 70–81.
+van-Schrojenstein-Lantman-De-Valk, H. M., Metsemakers, J. F., Haveman, M. J., & Crebolder, H. F. (2000). Health problems in people with intellectual
+disability in general practice: a comparative study. Family Practice, 17, 405–407.
+
+

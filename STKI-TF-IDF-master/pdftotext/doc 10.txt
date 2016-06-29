@@ -1,0 +1,1233 @@
+ 	
+
+Health promotion practices delivered by primary health care nurses: elements
+for success in Finland
+Virpi Maijala MNSc, PhD Student in Health science, Kerttu Tossavainen PhD,
+Hannele Turunen PhD
+PII:
+DOI:
+Reference:
+
+S0897-1897(15)00204-9
+doi: 10.1016/j.apnr.2015.11.002
+YAPNR 50743
+
+To appear in:
+
+Applied Nursing Research
+
+Received date:
+Revised date:
+Accepted date:
+
+7 July 2015
+2 November 2015
+8 November 2015
+
+Please cite this article as: Maijala, V., Tossavainen, K. & Turunen, H., Health promotion
+practices delivered by primary health care nurses: elements for success in Finland, Applied
+Nursing Research (2015), doi: 10.1016/j.apnr.2015.11.002
+
+This is a PDF ﬁle of an unedited manuscript that has been accepted for publication.
+As a service to our customers we are providing this early version of the manuscript.
+The manuscript will undergo copyediting, typesetting, and review of the resulting proof
+before it is published in its ﬁnal form. Please note that during the production process
+errors may be discovered which could aﬀect the content, and all legal disclaimers that
+apply to the journal pertain.
+
+ACCEPTED MANUSCRIPT
+
+1
+
+Title
+Health promotion practices delivered by primary health care nurses: elements for success in Finland
+
+Virpi Maijala*
+MNSc, PhD Student in Health science
+
+SC
+
+University of Eastern Finland (Faculty of Health Sciences)
+
+RI
+P
+
+T
+
+Authors:
+
+MA
+NU
+
+Department of Nursing Science
+
+Post address: PO. Box. 1627, FI-70211 Kuopio, Finland
+
+Street address: Canthia-building, Yliopistonranta 1C, Kuopio
+e-mail: vkemppai@uef.fi
+
+ED
+
+Tel. +358 505742607
+Fax: +358 17 162 632
+
+PT
+
+Kerttu Tossavainen
+
+CE
+
+PhD, Professor
+
+University of Eastern Finland (Faculty of Health Sciences)
+
+AC
+
+Department of Nursing Science
+
+Post address: PO. Box. 1627, FI-70211 Kuopio, Finland
+Street address: Canthia-building, Yliopistonranta 1C, Kuopio
+e-mail: kerttu.tossavainen@uef.fi
+Hannele Turunen
+PhD, Professor, Head of the Department, Nursing Director (part-time)
+University of Eastern Finland (Faculty of Health Sciences)
+Department of Nursing Science
+Post address: PO. Box. 1627, FI-70211 Kuopio, Finland
+e-mail: hannele.turunen@uef.fi
+
+ACCEPTED MANUSCRIPT
+*Corresponding author: e-mail: vkemppai@uef.fi
+
+AC
+
+CE
+
+PT
+
+ED
+
+MA
+NU
+
+SC
+
+RI
+P
+
+T
+
+Running head: HPP delivered by primary health care nurses – elements for the success
+
+2
+
+ACCEPTED MANUSCRIPT
+
+3
+
+Abstract
+
+Aim: The aim of this study was to identify and reach a consensus on the elements needed for the
+
+T
+
+success of health promotion practices delivered by registered nurses (RNs) who receive clients in
+
+RI
+P
+
+primary health care among primary health care participants in eastern Finland.
+Background: Advanced practice nurses are a reaction to the changing health needs of society. These
+nurses have come to play a significant part in improving health-promotive care in the primary
+
+SC
+
+health care setting.
+
+Methods: A mixed method two-stage Delphi technique was applied.
+
+MA
+NU
+
+Results: A health-promoting organizational culture (e.g., the respectful management of health
+promotion) and nurses’ health orientation and development (e.g., nurses’ professional growth and
+work well-being) were found as the main elements required for the success of the health promotion
+practices in primary health care.
+
+Conclusions: A health-promoting organizational culture with the strategic and respectful leadership
+
+by RNs in primary health care.
+
+ED
+
+of health promotion is significant in the implementation of the health promotion practices delivered
+
+PT
+
+Key words: Primary health care, registered nurses, health promotion practice
+
+CE
+
+1. Background
+
+AC
+
+Health promotion and prevention is an essential strategy for managing the growing needs of elderly
+people and for reducing population health disparities in the primary health care setting. In many
+countries, the introduction of advanced practice nurses has been a reaction to the changing health
+needs of society (McIlfatrick et al., 2014). However, both experience and research have found
+several issues that challenge the development of advanced nursing practice in primary health care.
+For example, nurses’ capacity to implement health-promotion practices is affected by organizational
+factors such as a positive health culture including wellness planning, workplace milieu, the
+development of organization members, and the appreciation of health promotion by health care
+organization managers (Johansson et al., 2010). On the other hand, health promotion training has
+been found to increase nurses’ motivation to implement health promotion practices in nursing
+(Brobeck et al., 2013), as well as their own lives to improve their health and well-being (Roelen et
+al., 2013). Clients’ commitment to a healthy lifestyle, their motivation for self-care, and community
+resources (such as the availability of preventive services) have also been found to enhance the
+
+ACCEPTED MANUSCRIPT
+
+4
+
+success of health promotion (Findholt et al., 2013). Additionally, health has become a political
+priority across governments; for example, the European Union’s (EU’s) health strategy ―Together
+for Health‖ emphasizes actions that focus on protecting people from health threats and diseases, and
+
+T
+
+that promote positive lifestyle choices, and workplace health and safety, taking into account the
+
+RI
+P
+
+―health in all policies‖ principle (European Union, 2014).
+
+Advanced nursing practices have become significant in improving health promotive care in the
+primary health care setting. Therefore, this study aimed to: (1) identify the elements needed for the
+
+SC
+
+success of HPPs delivered by registered nurses (RNs) who receive clients in primary health care
+and (2) to reach a consensus on those elements among primary health care participants (RNs who
+
+MA
+NU
+
+received clients, directors of nursing, senior physicians, health promotion officers, and local
+councilors) in eastern Finland.
+
+Health promotion involves not only actions directed at strengthening the skills and capabilities of
+individuals; it has also developed towards the achievement of health equity and seeing health as a
+human right and political priority (World Health Organization, 2013). While health and health
+
+ED
+
+promotion are largely defined by actions taken based on the social determinants of health and as
+part of public health thinking (Van den Broucke, 2013), nurses are suggested to be more active in
+
+PT
+
+health promotion practice in primary health care (Roden et al., 2015).
+The foundations for advanced practice nurses were established in the United States in 1965, with
+
+CE
+
+the development of the work of nurse practitioners (NPs) who were found to meet the growing
+needs of health promotion in primary health care (Donald et al., 2013). Even though advanced
+practice nurses work in a variety of nursing fields, the educational requirements vary greatly across
+
+AC
+
+countries, and there is also a lack of consistency in the legislative systems and regulatory
+mechanisms that recognize advanced nursing practices (Carney, 2015). However, there are many
+similarities between advanced practice nurses in the countries where they have been introduced, as
+follows: they are RNs with continuing education and training; they embody competencies required
+to work autonomously both in hospital and primary health care settings; and they apply a variety of
+preventive care activities in nursing, such as promoting a healthy lifestyle and giving counselling on
+health risks (e.g., American Association of Nurse Practitioners, 2013; Royal College of Nursing,
+2012; Nursing and Midwifery Board of Australia, 2013).
+In Finland, primary health care is provided by local authorities and covers public health services,
+health promotion, and any related provision of health counselling and health checks (The New
+Health Care Act, 2010). The target group of this study—RNs, who are authorized by the National
+Supervisory Authority for Welfare and Health (Valvira) and have additional education in nursing
+areas (such as wound care, or cardiovascular or diabetes preventive care)—are able to receive
+
+ACCEPTED MANUSCRIPT
+
+5
+
+various client groups supported by doctor’s consultation or in collaboration with a doctor
+(Delamaire & Lafortune, 2010; National Institute for Health and Welfare, 2013). However, health
+promotion is challenging: in provinces in eastern Finland (Northern Karelia, Northern Savo and
+
+T
+
+Kainuu), where younger generations move to large cities because of a lack of job opportunities,
+
+RI
+P
+
+around 20% of the population is older than 65, and long-term conditions—such as mental health
+problems and diabetes, as well as unhealthy lifestyle behaviour, for example obesity, smoking, and
+
+SC
+
+alcohol consumption—are more common than elsewhere in Finland (Eurostat, 2014).
+
+MA
+NU
+
+2. Methods
+
+In this study, a mixed method two-stage Delphi technique was applied, consisting of both
+qualitative and quantitative approaches. The Delphi survey includes several data collection phases
+or ―rounds,‖ and seeks to gain the most reliable consensus of opinion from a group of participants
+(Keeney et al., 2001). The Delphi technique was considered appropriate for exploring the elements
+
+ED
+
+required for the success of the health promotion practices delivered by RNs (who received clients in
+primary health care) with diverse backgrounds and from geographically dispersed locations
+
+PT
+
+(Keeney et al., 2001). There is no single definition for what constitutes a level of consensus. For
+example, 75% has been suggested as an acceptable level (McElhinney, 2010); however, there is no
+
+CE
+
+obvious scientific rationale for this (Keeney et al., 2006). In this study, the consensus level was set
+at 51% (or over) agreement.
+
+AC
+
+3. Participants
+
+An information letter was sent to all 34 primary health centers in three provinces in eastern Finland.
+Eleven responded and volunteered to participate in this study. They were from four health centers in
+Northern Karelia, four in Northern Savo, and three in Kainuu. Directors of nursing (matrons and
+head nurses) at primary health care centers suggested possible participants; they were contacted by
+the researcher, who asked for their consent to be involved in this study. Inclusion criteria for the
+participants in this Delphi study were applied according to Keeney et al. (2001), requiring that they
+were familiar with the research topic and willing to contribute throughout the Delphi survey. The
+participants (RNs who receive clients, directors of nursing, senior physicians and health promotion
+officers, and local councilors) were required to have been employed for five years or longer in
+primary health care and they had to have had experience of either working autonomously as an RN
+who receives clients or experience of working as part of a pair or team working with an RN who
+
+ACCEPTED MANUSCRIPT
+
+6
+
+receives clients. For local councilors the requirement was that they were familiar with primary
+health care and had a nursing education background.
+At the beginning of the study, there were 42 participants, including 18 RNs (who received clients),
+
+RI
+P
+
+background information of the participants is described in Table 1.
+
+T
+
+14 directors of nursing, 4 senior physicians, 3 health promotion officers, and 3 local councilors. The
+
+Table 1 near here
+
+SC
+
+4. Data collection
+
+MA
+NU
+
+The data collection began in the first round with semi-structured interviews with the primary health
+care participants (n = 42) between April and July 2009 (see Table 1). The aim was to identify the
+elements needed for the success of health promotion practices delivered by RNs who receive clients
+in primary health care. Focused questions based on the literature were developed around the
+following themes: the organizational aspects of primary health care; RNs’ own health behaviour
+
+ED
+
+and opportunities for further education and health promotion training; primary health care clientrelated aspects; and political decision-making aspects. The interviews were conducted in a similar
+
+PT
+
+manner in the participants’ workplaces and were tape-recorded and transcribed. The information
+from the qualitative study formed the basis for a questionnaire used in the quantitative survey in the
+
+CE
+
+second Delphi round. This questionnaire was pre-tested with five RNs (who received clients) in
+primary health care centers who were not involved in the research. Some changes in the wording
+were made on the basis of their feedback.
+
+AC
+
+The data collection continued in the second round with a questionnaire consisting of 17 statements,
+each of them scored on a five-point Likert scale: 1 (completely agree), 2 (partially agree), 3
+(partially disagree), 4 (strongly disagree), and 5 (neither agree nor disagree). The data were
+collected in January and March 2011. The aim was to reach a consensus on the elements identified
+among primary health care participants (RNs who receive clients, directors of nursing, senior
+physicians, health promotion officers, and local councilors) in eastern Finland. In order to maximize
+consensus, additional participants were included in the survey. The questionnaire was sent to 87
+individuals including the participants who had been interviewed (n = 42) as well as to directors of
+nursing, RNs (who received clients), and senior physicians in the same 11 primary health centers
+who had not participated in the semi-structured interviews. The response rate was 64%. The
+questionnaire was returned by 56 participants: 31 RNs (who received clients), 14 directors of
+nursing, 5 senior physicians, 3 health promotion officers, and 3 local councilors (see Table 1).
+
+ACCEPTED MANUSCRIPT
+
+7
+
+5. Data analysis
+
+The data analysis involved management of both qualitative and quantitative information gathered
+
+T
+
+from interviews and the questionnaire. Qualitative interview data was analyzed systematically by
+
+RI
+P
+
+applying the concept map method according to the recommendations of Novak (2002). Qualitative
+data from the first Delphi round were diverse, which is why a concept mapping method was useful
+in data analysis as it clarifies conceptual understanding and provides a strategy for analyzing and
+
+SC
+
+organizing information systematically (Kemppainen et al., 2013). According to Novak (2002),
+concept mapping involves six phases: 1) identifying a key question that focuses on the purpose of
+
+MA
+NU
+
+the concept map, 2) identifying key concepts using the key question and beginning to construct the
+concept map by placing the key concepts at the top of the hierarchy, 3) selecting defining concepts,
+4) arranging key concepts in a hierarchy, 5) combining the concepts by connecting concepts in
+different segments or domains of the concept map and giving the links a one- or two-word name,
+and 6) adding specific examples that clarify the meaning of the concept if desired.
+
+ED
+
+In this study, three researchers were involved in the concept-mapping process. First, one researcher
+read through all the transcribed interviews, and the key concepts and defining concepts were
+
+PT
+
+identified by the aim of the study in the interview material. Second, the same researcher began to
+construct the concept map hierarchically. This goal was achieved by placing the key concepts on the
+
+CE
+
+top left-hand side of a page and then listing definitions of those concepts down the middle of the
+page. Two supervising researchers verified the first and second phases of the concept-mapping
+process. Third, one researcher continued the construction of the concept map by combining the key
+
+AC
+
+concepts and definition concepts using links that were then named. The concept maps were then
+critically evaluated by the supervising researchers. Fourth, the researcher selected examples from
+participants’ interviews and listed these on the right-hand side of each page for clarification.
+The second Delphi round’s quantitative data were analyzed with SPSS® Statistics (v21.0; IBM
+Corporation, Somers, NY, USA). Descriptive statistics, such as frequencies and percentages, were
+used to report responses and the consensus of the primary health care participants.
+
+6. Ethical approval
+
+This study was approved by the Research Ethics Committee of Kuopio University Hospital
+(statement number 120/2008). The researcher also provided information regarding the study both
+orally and in written form, and participants gave written and oral consent.
+
+ACCEPTED MANUSCRIPT
+
+8
+
+7. Results
+
+Using the two-stage mixed method Delphi technique, this study identified 17 elements needed for
+
+T
+
+the success of health promotion practices delivered by RNs who received clients in primary health
+
+RI
+P
+
+care in eastern Finland. Among the participants of this study, a consensus level of 51% (or over)
+was reached for fifteen of the identified elements required for success while no consensus was
+reached for two of them.
+
+SC
+
+Seven of the elements required for the success of health promotion practices were related to
+primary health care organization; they were considered to represent a key concept of health-
+
+MA
+NU
+
+promoting organizational culture (see Figure 1). The highest levels of consensus were reached for
+organizations’ respectful attitude towards health (89.3%) and having sufficient resources for health
+promotion practices (83.9%) among the participants. According to the results of this study, primary
+health care leaders’ appreciation of health promotion reached a consensus level of 80.4%.
+Organizations’ action plan for health promotion reached a consensus level of 71.4% in this study.
+
+ED
+
+Health promotion practices as part of quality management systems reached a consensus level of
+64.3% and a clear management system of health promotion reached a consensus level of 60.7%
+
+PT
+
+among the participants of this study. A final identified element related to health promoting
+organization culture was development projects for health promotion, but it did not reach a
+
+Figure 1 near here
+
+CE
+
+consensus in this study (level of agreement: 48.2%).
+
+This study found two of the elements required for the success of health promotion practices related
+
+AC
+
+to nurses’ professional growth and nurses’ work well-being that were considered to demonstrate the
+key concept of nurses’ health orientation and development (see Figure 2). Consensus levels of
+71.4% and 71.4% were reached in the systematic documentation of health promotion practices in
+clients’ electronic health records and the opportunity for continuing education in health promotion,
+respectively. No consensus (level of agreement: 28.6%) was reached among participants regarding
+having contacts with public health researchers as an identified element required for the success of
+HPP, whereas the opportunity to consult a colleague (another RN who sees clients) showed a
+consensus level of 82.1%. The requirements for nurses’ own health behavior reached a consensus
+level of 64.3% in this study and the opportunity to receive supervision for challenging client,
+57.1%.
+Figure 2 near here
+This study found two of the elements required for the success of the health promotion practices
+related to clients in primary health care; these were considered to indicate the key concept of
+
+ACCEPTED MANUSCRIPT
+
+9
+
+clients’ approach to being healthy (see Figure 3). The requirement for the availability of health
+promotion practices (e.g., living a short distance from preventive services) reached a consensus
+level of 75.0% among the participants and client’s commitment to self-care, 69.6%.
+
+T
+
+Figure 3 near here
+
+RI
+P
+
+Two of the elements required for the success of health promotion practices were found related to
+political decision-making; these were considered to demonstrate the key concept of health policy
+(see Figure 4). The requirement for municipal decision-making on public health promotion (e.g., to
+
+SC
+
+build sports centers and offer cheaper exercise choices) had a consensus level of 69.6% in this
+study and national legislation on public health promotion (e.g., tighter tobacco and alcohol laws)
+
+MA
+NU
+
+had a consensus level of 57.1%. Table 2 presents the summary of the results of this study.
+Figure 4 near here
+Table 2 near here
+
+ED
+
+8. Discussion
+
+In this study, consensus was reached among primary health care participants (RNs who received
+
+PT
+
+clients, directors of nursing, senior physicians, health promotion officers, and local councilors) on
+15 elements required for the success of health promotion practices delivered by RNs who received
+
+CE
+
+clients in primary health care in eastern Finland.
+Firstly, a health-promoting organizational culture (e.g., an organization’s respectful attitude
+towards health, sufficient resources for health promotion practices, and primary health care leaders’
+
+AC
+
+appreciation of health promotion) reached the highest levels of consensus (between 60.7% and
+89.3%) in this study. A positive health culture and the leadership of health promotion within an
+organization have been found to play a major role in creating opportunities for nurses to implement
+health promotion practices in nursing (Johansson et al., 2010). Additionally, the systematic
+leadership of health promotion provides direction, defining a vision and strategy for health
+promotion (Johansson et al., 2010; Beaudet et al., 2011). Therefore, it is important to develop
+collaboration between advanced nursing practices and directors of nursing that may provide a
+framework for the establishment of a collegial and supportive working relationship.
+Secondly, this study revealed nurses’ health orientation and development to be an element required
+for the success of the health promotion practices delivered by RNs who receive clients in primary
+health care. Nurses’ professional growth included the systematic documentation of health
+promotion in the clients’ electronic records, and opportunities for continuing education and health
+promotion training. The use of electronic health records has been found to be common and
+
+ACCEPTED MANUSCRIPT
+
+10
+
+meaningful, especially in care coordination in advanced practice nursing (Narcisse et al. 2013). This
+study indicated that the systematic documentation of health promotion in clients’ health records
+enhanced individual health-promotive care. On the other hand, continuing education and health
+
+RI
+P
+
+motivation for health promotion practices (Brobeck et al., 2013).
+
+T
+
+promotion training are significant for nurses’ professional development as they can provide
+
+This study showed that nurses’ health orientation and development also consisted of nurses’ work
+well-being. We may consider that the findings of this study support the traditional view that nurses
+
+SC
+
+are perceived to engage in healthy activities, and that fatigue and long-term conditions among
+nurses can reduce the quality of their nursing care (Roelen et al., 2013). It is also suggested that
+
+MA
+NU
+
+health promotion interventions for nurses should be ones with a holistic wellness approach, fostered
+in the workplace (McElligott et al., 2009). However, the results of this study also indicated that the
+opportunity to consult other RNs who receive clients and that supervision were elements required
+for the success of the HPP due to the increasing complexity of clients in primary health care. As
+nurses’ work well-being seemed to be a significant element for the success of HPP, it is
+
+ED
+
+recommended that primary health care centers develop wellness programs for RNs who receive
+clients.
+
+PT
+
+Thirdly, the findings of this study indicated that clients’ approach to being healthy was a required
+element for the success of health promotion practices delivered by RNs who received clients in
+
+CE
+
+primary health care. In this study, clients’ approach to being healthy incorporated the availability of
+health-promotion activities and commitment to self-care. Clients have been considered as coproducers of the implementation of healthy lifestyle promotion in primary health care. This means
+
+AC
+
+taking into account clients’ individual approaches to being healthy and managing being healthy
+(Thomas et al., 2014). Indeed, this challenges RNs who receive clients in primary health care to
+develop, together with other health care professionals, electronic services that support clients’ selfcare online.
+Finally, this study found health policy to be an element required for the success of health promotion
+practices delivered by RNs who receive clients in primary health care. In recent years, health
+promotion has become a priority in many countries, and controlling health care costs is now
+considered a key issue in terms of economic stability and social growth. For example, the EU’s
+health strategy (European Union, 2014) emphasizes that governments’ health policy and local
+community policies play a key role in areas such as regional and environmental policy, tobacco
+taxation, and the regulation of pharmaceuticals and food produce.
+In summary, this study revealed required elements for the success of health promotion practices
+provided by RNs who receive clients in primary health care to be a health-promoting organizational
+
+ACCEPTED MANUSCRIPT
+
+11
+
+culture with sufficient resources for health promotion and primary health care leaders’ appreciation
+and also an action plan for health promotion, quality management systems for health promotion,
+and the management of health promotion. Therefore, our recommendation is that these elements are
+
+RI
+P
+
+T
+
+worth considering when developing health promotion practices in the primary health care setting.
+
+9. Limitations
+
+SC
+
+Despite their long tradition as a valid research technique and having been widely applied in health
+research there are potential limitations inherent in the Delphi technique. Firstly, Keeney et al.
+
+MA
+NU
+
+(2001) point out that the results of a Delphi study should be regarded in the same way as the results
+of any qualitative research, which is why the findings of this study should be generalized with
+caution. Secondly, the participants of this study represented diverse backgrounds and knowledge,
+improving the content validity of the Delphi study (Keeney et al., 2001). Thirdly, we conducted a
+pilot survey for the semi-structured interview themes and the questionnaire, which improved the
+
+ED
+
+feasibility and reliability of the study results (McIlrath et al., 2010). Finally, although the data were
+collected both six and four years ago, the findings of this study are still relevant in the Finnish
+
+PT
+
+context. Today, primary health care is citizens’ first point of contact with health care services, RNs
+deliver a variety of health promotion practices for diverse client groups, and the goal is to maintain
+
+CE
+
+and improve health as well as prevent illnesses in the population (National Institute for Health and
+Welfare, 2013; Government publications, 2015).
+
+AC
+
+10. Conclusions
+
+In order to strengthen public health thinking in the primary health care setting, this study is of
+significance to primary health care leaders, nursing practice, and political decision-makers because
+it clearly revealed the elements required for the success of health promotion practices delivered by
+RNs who receive clients in primary health care. In particular, those elements seemed to be related to
+a health-promoting organizational culture with strategic and respectful leadership of health
+promotion as well as nurses’ health orientation and development, including nurses’ work wellbeing, and opportunities for continuing education and training.
+
+Conflicts of interest
+None.
+
+ACCEPTED MANUSCRIPT
+
+12
+
+Acknowledgements
+
+The authors gratefully thank the participants in this study. Researcher VM would like to
+
+T
+
+acknowledge the support of the Department of Nursing Science at the University of Eastern
+
+RI
+P
+
+Finland.
+
+SC
+
+Source of funding
+
+This study received a specific grant from The Finnish Foundation for Nurse Education and The
+
+MA
+NU
+
+Finnish Nurses Association.
+
+References
+
+American Association of Nurse Practitioners (2013). Scope of practice for nurse practitioners.
+
+ED
+
+Retrieved 19 April, 2015, from: www.aanp.org
+Beaudet, N., Richard, L., Gendron, S., & Boisvert, N. (2011). Advancing population-based health
+
+PT
+
+promotion and prevention practice in community-health nursing. Advances in Nursing Science, 34,
+E1–E12.
+
+CE
+
+Brobeck, E., Odencrants S., Bergh, H., & Hildingh, C. (2013). Health promotion practice and its
+implementation in Swedish health care. International Nursing review, 60, 374–380.
+
+AC
+
+Carney, M. (2015). Regulation of advanced nurse practice: its existence and regulatory dimensions
+from international perspective. Journal of Nursing Management. Accepted for publication: 10
+November 2014, DOI: 10.1111/jonm.12278.
+Delamaire, M. & Lafortune, G. (2010). Nurses in advanced roles: a description and evaluation of
+experiences in 12 developed countries. Organization for Economic and Co-operation and
+Development, Paris, France. Retrieved 15 April, 2015, from:
+http://dx.doi.org/10.1787/5kmbrcfms5g7-en. Accessed 15 April 2015.
+Donald, F., Martin-Misener, R., Carter, N., Donald, E.E., Kaasalainen, S., & Wickson-Griffiths, A.
+(2013). A systematic review of the effectiveness of advanced practice nurses in long-term care.
+Journal of Advanced Nursing, 69, 2149–2161.
+European Union (2014). Together for Health: A Strategic Approach for the EU 2008–2013.
+Retrieved February 20, 2015, from: http://ec.europa.eu/health/index_en.htm.
+
+ACCEPTED MANUSCRIPT
+Eurostat
+
+regional
+
+yearbook
+
+(2014).
+
+Health.
+
+Retrieved
+
+June
+
+13
+5,
+
+2015,
+
+from:
+
+http://ec.europa.eu/eurostat/documents/3217494/5786213/KS-HA-14-001-02-EN.PDF/68e057e38ff3-4178-9615-d13196f6d50a?version=1.0.
+
+T
+
+Findholt, N.E., Davis, M.M., & Michael, Y.L. (2013). Perceived barriers, resources and training
+
+RI
+P
+
+needs of rural primary care providers relevant to the management of childhood obesity. The Journal
+of Rural Health, 29, 17–24.
+
+Government publications (2015). Finland, a land of solutions: Strategic Programme of Prime
+
+SC
+
+Minister Juha Sipilä’s Government. 29 May 2015. Accessed 19 August, 2015, from:
+http://valtioneuvosto.fi/documents/10184/1427398/Ratkaisujen+Suomi_EN_YHDISTETTY_netti.p
+
+MA
+NU
+
+df/8d2e1a66-e24a-4073-8303-ee3127fbfcac.
+
+Johansson, H., Stenlund H., Lundström, L., & Wainehall, L. (2010). Reorientation to more health
+promotion in health services – a study of barriers and possibilities from the perspective of health
+professionals. Journal of Multidiciplinary Healthcare, 3, 213–224.
+Keeney, S., Hasson, F., & McKenna, H.P. (2001). A critical review of the Delphi technique as a
+
+ED
+
+research methodology for nursing. International Journal of Nursing Studies, 38, 195–200.
+Keeney, S., Hasson, F., & McKenna, H.P. (2006). Consulting the oracle: ten lessons from using
+Delphi technique in nursing research. Journal of Advanced Nursing, 53(2), 205–212.
+
+PT
+
+Kemppainen, V., Tossavainen, K., & Turunen, H. (2013). Nurses’ roles in health promotion
+
+CE
+
+practice: an integrative review. Health Promotion International, 28 (4), 490–501.
+McElhinney, E. (2010). Factors which influence nurse practitioners ability to carry out physical
+examination skills in the clinical area after a degree level module – an electronic Delphi study.
+
+AC
+
+Journal of Clinical Nursing, 19, 3177–3187.
+McElligott, D., Siemers, S., & Thomas, L. (2009). Health promotion in nurses: Is there a healthy
+nurse in the house? Applied Nursing Research, 22, 211–215.
+McIlrath, C., Keeney S., McKenna H., & Mc Laughlin D. (2010). Benchmarks for effective primary
+care-based nursing services for adults with depression: a Delphi study. Journal of Advanced
+Nursing, 66 (2), 269–281.
+McIlfatrick, S., Keeney, S., McKenna, H., McCarley, N., & McIlwee, G. (2014). Exploring the
+actual and potential role of the primary care nurses in the prevention of cancer: a mixed methods
+study. European Journal of Cancer Care, 23, 288–299.
+Narcisse, M.R., Kippenbrock, T., Odell, E., & Burton, B. (2013). Advanced practice nurses
+meaningful use of electronic health records. Applied Nursing Research, 26, 127–132.
+National Institute for Health and Welfare (2013). Health care in Finland. Retrieved August 12,
+2014, from: http://www.urn.fi/URN:ISBN:978-952-00-3395-8
+
+ACCEPTED MANUSCRIPT
+
+14
+
+Novak, J.D. (2002). Meaningful learning: The essential factor for conceptual change in limited or
+appropriate propositional hierarchies (LIPHs) leading to empowerment of learners. Science
+Education, 86, 548–571.
+
+T
+
+Nursing and Midwifery Boarding of Australia (2013). Nurse practitioner standards of practice.
+
+RI
+P
+
+Retrieved 14 April, 2015, from: http://www.nursingmidwiferyboard.gov.au/Codes-GuidelinesStatements/Codes-Guidelines.aspx.
+
+Roden, J., Jarvis L., Campbell-Crofts S., & Whitehead D. (2015). Australian rural, remote and
+
+Accessed April 2, 2015, DOI: 10.1093/heapro/dav018.
+
+SC
+
+urban community nurses’ health promotion role and function. Health Promotion International.
+
+MA
+NU
+
+Roelen, C.A.M., Bultmann, U., Groothoff, J., van Rhenen, W., Magerøy, N., Moen, B.E., Pallesen,
+S., & Bjorvatn, B. (2013). Physical and mental fatigue as predictors of sickness absence among
+Norwegian nurses. Research in Nursing & Health, 36, 453–465.
+Royal College of Nursing (2012). Advanced nurse practitioners: An RCN guide to advanced nurse
+practitioners and programme accreditation. Retrieved May 8, 2015, from: https://www.rcn.org.uk/.
+
+ED
+
+The New Health Care Act 30.12.2010/1326 (2010). Retrieved April 10, 2010, from:
+www.finlex.fi/fi/laki/kaannokset/.../en20101326.
+
+PT
+
+Thomas, J.J., Hart, A.M., & Burman, M.E. (2014). Improving health promotion and disease
+prevention in NP-delivered primary care. Journal for Nurse Practitioners, 10 (4), 221–228.
+
+CE
+
+Van den Broucke, S. (2013). Editorial. Implementing health in all policies post Helsinki 2013: why,
+what, who and how. Health Promotion International, 28 (3), 281–284.
+World Health Organization (2013). Helsinki Statement on Health in All Policies. Eight Global
+
+AC
+
+Conference on Health Promotion, 10–14 June, 2013, Helsinki, Finland.
+
+ACCEPTED MANUSCRIPT
+
+15
+
+Table 1. Background information of participants in this study
+
+PT
+
+CE
+
+AC
+
+5
+10
+
+RI
+P
+
+0
+13
+
+0
+14
+
+0
+
+3
+
+2
+
+1
+
+2
+0
+
+0
+0
+
+1
+
+0
+
+1
+
+1
+1
+
+0
+0
+
+0
+0
+
+1
+0
+
+2
+2
+
+1
+0
+
+2
+1
+0
+
+2
+0
+1
+
+1
+1
+0
+
+0
+2
+
+1
+0
+
+1
+1
+
+1
+
+0
+1
+
+1
+
+1
+0
+
+1
+0
+
+0
+1
+
+5
+23
+13
+9
+2
+1
+
+0
+13
+8
+2
+2
+1
+
+1
+
+1
+
+2
+1
+2
+
+SC
+
+2
+
+ED
+
+Participants interviewed (n=42)
+Male
+Female
+RNs who receive clients
+Educational background
+RN and PHN
+RN and additional education in
+cardiovascular preventive care
+RN and additional education in
+diabetes preventive care
+RN and 1 year of studies for PHN
+RN, PHN and additional education
+in diabetes preventive care
+RN, PHN and additional education in
+diabetes and cardiovascular preventive care
+RN and additional education in wound care
+Directors of nursing
+Matrons
+Educational background
+RN and MNSc
+RN and Postgraduate academic degree (PhD)
+Head nurses
+Educational background
+RN and MNSc
+RN and MNSc student
+RN, PHN and Master’s degree
+in health sciences
+Senior physicians
+Educational background
+Doctor of Medicine
+Licentiate of medicine
+Health promotion officers
+Educational background
+MNSc
+Postgraduate academic degree (PhD)
+Local councilors
+Educational background
+RN
+MNSc and senior lecturer of nursing
+
+T
+
+Provinces in eastern Finland
+___________________________________________________
+Northern Karelia
+Northern Savo
+Kainuu
+(n)
+(n)
+(n)
+
+MA
+NU
+
+Characteristics
+
+Participants (n=56) who completed the questionnaire
+Male
+1
+Female
+14
+RNs who receive clients
+10
+Directors of nursing
+3
+Senior physicians
+1
+Health promotion
+1
+officers
+Local councilors
+1
+
+RN = registered nurse: Bachelor degree programme 3.5 years, 210 (ECTS), training is offered at Universities of
+Applied Sciences. PHN = public health nurse: Bachelor degree programme 4 years, based on RN 210 (ECTS) and
+additional public health nursing studies 30 (ECTS), training is offered at Universities of Applied Sciences.
+MNSc = Master of Nursing Science: Master’s degree, 300 (ECTS), training is offered at Universities.
+
+ACCEPTED MANUSCRIPT
+
+16
+
+Table 2. Results of consensus levels on elements required for the success of health promotion
+practices delivered by primary health care RNs who receive clients in primary health care
+Elements required for success
+Level of consensus*)
+(n)
+(%)
+
+PT
+
+ED
+
+RI
+P
+
+MA
+NU
+
+Nurse’s health orientation and development
+Nurse’s professional growth
+Systematic documentation of health promotion practices
+in the client’s electronic health records
+An opportunity for continuing education in health promotion
+(Such as theoretical studies and training of health promotion
+methods)
+Contacts with public health researchers
+Nurse’s work well-being
+Opportunity to consult a colleague
+(another RN who receives clients)
+Own health behaviour
+Opportunity to receive supervising on challenging
+client cases
+
+50
+47
+
+SC
+
+Health-promoting organisational culture
+Organisations’ respectful attitude towards health
+Sufficient resources for health promotion practices
+Primary health care leaders’ appreciation
+towards health promotion
+Organisations’ action plans for health promotion
+Health promotion practices as part of quality management
+systems
+Management of health promotion
+Development projects of health promotion
+
+CE
+
+Client’s approach to being healthy
+Availability of health promotion practices
+(e.g. short distance to preventive services)
+Commitment to self-care
+
+AC
+
+Health policy
+Municipality’s decision-making on public health promotion
+(e.g. to build sports centres and offer cheaper choices
+for exercise)
+National legislation on public health promotion
+(e.g. tighter tobacco and alcohol laws)
+
+T
+
+___________________________________________________________________________________________________________
+
+89.3%
+83.9%
+
+45
+40
+
+80.4%
+71.4%
+
+36
+34
+27
+
+64.3%
+60.7%
+48.2%
+
+40
+40
+
+71.4%
+71.4%
+
+16
+
+28.6%
+
+46
+36
+
+82.1%
+64.3%
+
+32
+
+57.1%
+
+42
+
+75.0%
+
+39
+
+69.6%
+
+39
+
+69.6%
+
+32
+
+57.1%
+
+_______________________________________________________________________________________________
+*) Completely agree responses. Scale included 1 (completely agree), 2 (partially agree), 3 (partially disagree), and 4
+(strongly disagree)
+
+
+
